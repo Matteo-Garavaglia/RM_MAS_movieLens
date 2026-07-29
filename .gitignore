@@ -1,0 +1,8 @@
+.env
+
+# Datasets
+datasets/raw/
+datasets/processed/
+
+# System files
+.DS_Store
