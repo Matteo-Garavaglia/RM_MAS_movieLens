@@ -1,0 +1,778 @@
+query_id,query,category,experiment,system,stage,candidate_pool_size,rank,movieId,canonical_title,score,dense_rank,dense_score,reranker_score
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant,final,10,1,4226,Memento (2000),0.5317112,,0.5317112,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant,final,10,2,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.5306139,,0.5306139,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant,final,10,3,2959,Fight Club (1999),0.51589626,,0.51589626,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant,final,10,4,1270,Back to the Future (1985),0.5097041,,0.5097041,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant,final,10,5,2571,"Matrix, The (1999)",0.5063489,,0.5063489,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant,final,10,6,2762,"Sixth Sense, The (1999)",0.4896775,,0.4896775,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant,final,10,7,589,Terminator 2: Judgment Day (1991),0.48363513,,0.48363513,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant,final,10,8,780,Independence Day (a.k.a. ID4) (1996),0.48334447,,0.48334447,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant,final,10,9,590,Dances with Wolves (1990),0.48176855,,0.48176855,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant,final,10,10,2858,American Beauty (1999),0.47425067,,0.47425067,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@10,candidate,10,1,4226,Memento (2000),0.5317112,,0.5317112,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@10,candidate,10,2,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.5306139,,0.5306139,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@10,candidate,10,3,2959,Fight Club (1999),0.51589626,,0.51589626,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@10,candidate,10,4,1270,Back to the Future (1985),0.5097041,,0.5097041,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@10,candidate,10,5,2571,"Matrix, The (1999)",0.5063489,,0.5063489,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@10,candidate,10,6,2762,"Sixth Sense, The (1999)",0.4896775,,0.4896775,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@10,candidate,10,7,589,Terminator 2: Judgment Day (1991),0.48363513,,0.48363513,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@10,candidate,10,8,780,Independence Day (a.k.a. ID4) (1996),0.48334447,,0.48334447,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@10,candidate,10,9,590,Dances with Wolves (1990),0.48176855,,0.48176855,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@10,candidate,10,10,2858,American Beauty (1999),0.47425067,,0.47425067,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@10,final,10,1,2959,Fight Club (1999),0.021774512544528193,3.0,0.51589626,0.021774512544528193
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@10,final,10,2,2571,"Matrix, The (1999)",0.010551459765583313,5.0,0.5063489,0.010551459765583313
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@10,final,10,3,4226,Memento (2000),0.009557214478426699,1.0,0.5317112,0.009557214478426699
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@10,final,10,4,1270,Back to the Future (1985),0.008931528409091517,4.0,0.5097041,0.008931528409091517
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@10,final,10,5,590,Dances with Wolves (1990),0.005866311583515192,9.0,0.48176855,0.005866311583515192
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@10,final,10,6,2858,American Beauty (1999),0.005452397472612343,10.0,0.47425067,0.005452397472612343
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@10,final,10,7,780,Independence Day (a.k.a. ID4) (1996),0.0050027734677143615,8.0,0.48334447,0.0050027734677143615
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@10,final,10,8,589,Terminator 2: Judgment Day (1991),0.003563440046801748,7.0,0.48363513,0.003563440046801748
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@10,final,10,9,2762,"Sixth Sense, The (1999)",0.002989838163604711,6.0,0.4896775,0.002989838163604711
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@10,final,10,10,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.0014188361286529693,2.0,0.5306139,0.0014188361286529693
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,1,4226,Memento (2000),0.5317112,,0.5317112,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,2,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.5306139,,0.5306139,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,3,2959,Fight Club (1999),0.51589626,,0.51589626,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,4,1270,Back to the Future (1985),0.5097041,,0.5097041,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,5,2571,"Matrix, The (1999)",0.5063489,,0.5063489,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,6,2762,"Sixth Sense, The (1999)",0.4896775,,0.4896775,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,7,589,Terminator 2: Judgment Day (1991),0.48363513,,0.48363513,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,8,780,Independence Day (a.k.a. ID4) (1996),0.48334447,,0.48334447,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,9,590,Dances with Wolves (1990),0.48176855,,0.48176855,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,10,2858,American Beauty (1999),0.47425067,,0.47425067,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,11,296,Pulp Fiction (1994),0.47313777,,0.47313777,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,12,150,Apollo 13 (1995),0.47154564,,0.47154564,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,13,367,"Mask, The (1994)",0.4713638,,0.4713638,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,14,356,Forrest Gump (1994),0.47062188,,0.47062188,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,15,593,"Silence of the Lambs, The (1991)",0.4703297,,0.4703297,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,16,47,Seven (a.k.a. Se7en) (1995),0.47021258,,0.47021258,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,17,2028,Saving Private Ryan (1998),0.4691452,,0.4691452,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,18,110,Braveheart (1995),0.4647274,,0.4647274,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,19,1580,Men in Black (a.k.a. MIB) (1997),0.46046582,,0.46046582,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@20,candidate,20,20,1036,Die Hard (1988),0.45680702,,0.45680702,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@20,final,20,1,2959,Fight Club (1999),0.021774507466121685,3.0,0.51589626,0.021774507466121685
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@20,final,20,2,150,Apollo 13 (1995),0.020381702256225518,12.0,0.47154564,0.020381702256225518
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@20,final,20,3,110,Braveheart (1995),0.019398679166549734,18.0,0.4647274,0.019398679166549734
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@20,final,20,4,2028,Saving Private Ryan (1998),0.010773025989065474,17.0,0.4691452,0.010773025989065474
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@20,final,20,5,2571,"Matrix, The (1999)",0.010551459765583313,5.0,0.5063489,0.010551459765583313
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@20,final,20,6,4226,Memento (2000),0.009557214478426699,1.0,0.5317112,0.009557214478426699
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@20,final,20,7,1270,Back to the Future (1985),0.008931528409091517,4.0,0.5097041,0.008931528409091517
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@20,final,20,8,1580,Men in Black (a.k.a. MIB) (1997),0.007401647693311685,19.0,0.46046582,0.007401647693311685
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@20,final,20,9,590,Dances with Wolves (1990),0.005866311583515192,9.0,0.48176855,0.005866311583515192
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@20,final,20,10,2858,American Beauty (1999),0.005452397472612343,10.0,0.47425067,0.005452397472612343
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,1,4226,Memento (2000),0.5317112,,0.5317112,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,2,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.5306139,,0.5306139,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,3,2959,Fight Club (1999),0.51589626,,0.51589626,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,4,1270,Back to the Future (1985),0.5097041,,0.5097041,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,5,2571,"Matrix, The (1999)",0.5063489,,0.5063489,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,6,2762,"Sixth Sense, The (1999)",0.4896775,,0.4896775,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,7,589,Terminator 2: Judgment Day (1991),0.48363513,,0.48363513,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,8,780,Independence Day (a.k.a. ID4) (1996),0.48334447,,0.48334447,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,9,590,Dances with Wolves (1990),0.48176855,,0.48176855,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,10,2858,American Beauty (1999),0.47425067,,0.47425067,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,11,296,Pulp Fiction (1994),0.47313777,,0.47313777,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,12,150,Apollo 13 (1995),0.47154564,,0.47154564,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,13,367,"Mask, The (1994)",0.4713638,,0.4713638,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,14,356,Forrest Gump (1994),0.47062188,,0.47062188,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,15,593,"Silence of the Lambs, The (1991)",0.4703297,,0.4703297,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,16,47,Seven (a.k.a. Se7en) (1995),0.47021258,,0.47021258,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,17,2028,Saving Private Ryan (1998),0.4691452,,0.4691452,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,18,110,Braveheart (1995),0.4647274,,0.4647274,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,19,1580,Men in Black (a.k.a. MIB) (1997),0.46046582,,0.46046582,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,20,1036,Die Hard (1988),0.45680702,,0.45680702,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,21,608,Fargo (1996),0.45278168,,0.45278168,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,22,480,Jurassic Park (1993),0.44680053,,0.44680053,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,23,380,True Lies (1994),0.44648376,,0.44648376,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,24,527,Schindler's List (1993),0.44492778,,0.44492778,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,25,457,"Fugitive, The (1993)",0.44491154,,0.44491154,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,26,500,Mrs. Doubtfire (1993),0.4442836,,0.4442836,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,27,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.442882,,0.442882,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,28,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.4401222,,0.4401222,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,29,1,Toy Story (1995),0.43867546,,0.43867546,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_candidates@30,candidate,30,30,364,"Lion King, The (1994)",0.4315998,,0.4315998,
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@30,final,30,1,2959,Fight Club (1999),0.021774507466121685,3.0,0.51589626,0.021774507466121685
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@30,final,30,2,150,Apollo 13 (1995),0.020381702256225518,12.0,0.47154564,0.020381702256225518
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@30,final,30,3,110,Braveheart (1995),0.019398674631263726,18.0,0.4647274,0.019398674631263726
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@30,final,30,4,480,Jurassic Park (1993),0.01190501105209781,22.0,0.44680053,0.01190501105209781
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@30,final,30,5,2028,Saving Private Ryan (1998),0.010773025989065474,17.0,0.4691452,0.010773025989065474
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@30,final,30,6,2571,"Matrix, The (1999)",0.010551459765583313,5.0,0.5063489,0.010551459765583313
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@30,final,30,7,4226,Memento (2000),0.009557214478426699,1.0,0.5317112,0.009557214478426699
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@30,final,30,8,1270,Back to the Future (1985),0.008931528409091517,4.0,0.5097041,0.008931528409091517
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@30,final,30,9,364,"Lion King, The (1994)",0.008705814940630717,30.0,0.4315998,0.008705814940630717
+Q01,"un film malinconico sul rapporto tra memoria, identità e tempo",semantic_theme_it,D_full_enriched,dense_qdrant+reranker@30,final,30,10,1580,Men in Black (a.k.a. MIB) (1997),0.007401647693311685,19.0,0.46046582,0.007401647693311685
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant,final,10,1,4226,Memento (2000),0.58153075,,0.58153075,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant,final,10,2,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.54778254,,0.54778254,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant,final,10,3,2762,"Sixth Sense, The (1999)",0.52433115,,0.52433115,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant,final,10,4,1270,Back to the Future (1985),0.52129215,,0.52129215,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant,final,10,5,2959,Fight Club (1999),0.51976943,,0.51976943,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant,final,10,6,2028,Saving Private Ryan (1998),0.5128918,,0.5128918,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant,final,10,7,780,Independence Day (a.k.a. ID4) (1996),0.51048684,,0.51048684,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant,final,10,8,356,Forrest Gump (1994),0.5062443,,0.5062443,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant,final,10,9,47,Seven (a.k.a. Se7en) (1995),0.5058943,,0.5058943,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant,final,10,10,2571,"Matrix, The (1999)",0.50532556,,0.50532556,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@10,candidate,10,1,4226,Memento (2000),0.58153075,,0.58153075,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@10,candidate,10,2,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.54778254,,0.54778254,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@10,candidate,10,3,2762,"Sixth Sense, The (1999)",0.52433115,,0.52433115,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@10,candidate,10,4,1270,Back to the Future (1985),0.52129215,,0.52129215,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@10,candidate,10,5,2959,Fight Club (1999),0.51976943,,0.51976943,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@10,candidate,10,6,2028,Saving Private Ryan (1998),0.5128918,,0.5128918,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@10,candidate,10,7,780,Independence Day (a.k.a. ID4) (1996),0.51048684,,0.51048684,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@10,candidate,10,8,356,Forrest Gump (1994),0.5062443,,0.5062443,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@10,candidate,10,9,47,Seven (a.k.a. Se7en) (1995),0.5058943,,0.5058943,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@10,candidate,10,10,2571,"Matrix, The (1999)",0.50532556,,0.50532556,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@10,final,10,1,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.15805657644663587,2.0,0.54778254,0.15805657644663587
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@10,final,10,2,1270,Back to the Future (1985),0.126271879752369,4.0,0.52129215,0.126271879752369
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@10,final,10,3,2028,Saving Private Ryan (1998),0.09859263479612985,6.0,0.5128918,0.09859263479612985
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@10,final,10,4,4226,Memento (2000),0.08831804319580594,1.0,0.58153075,0.08831804319580594
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@10,final,10,5,356,Forrest Gump (1994),0.08777597017101274,8.0,0.5062443,0.08777597017101274
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@10,final,10,6,2959,Fight Club (1999),0.05556960630068609,5.0,0.51976943,0.05556960630068609
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@10,final,10,7,2762,"Sixth Sense, The (1999)",0.05223070367062111,3.0,0.52433115,0.05223070367062111
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@10,final,10,8,780,Independence Day (a.k.a. ID4) (1996),0.04333073936821233,7.0,0.51048684,0.04333073936821233
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@10,final,10,9,47,Seven (a.k.a. Se7en) (1995),0.03929462000258043,9.0,0.5058943,0.03929462000258043
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@10,final,10,10,2571,"Matrix, The (1999)",0.03595483332023613,10.0,0.50532556,0.03595483332023613
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,1,4226,Memento (2000),0.58153075,,0.58153075,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,2,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.54778254,,0.54778254,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,3,2762,"Sixth Sense, The (1999)",0.52433115,,0.52433115,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,4,1270,Back to the Future (1985),0.52129215,,0.52129215,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,5,2959,Fight Club (1999),0.51976943,,0.51976943,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,6,2028,Saving Private Ryan (1998),0.5128918,,0.5128918,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,7,780,Independence Day (a.k.a. ID4) (1996),0.51048684,,0.51048684,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,8,356,Forrest Gump (1994),0.5062443,,0.5062443,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,9,47,Seven (a.k.a. Se7en) (1995),0.5058943,,0.5058943,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,10,2571,"Matrix, The (1999)",0.50532556,,0.50532556,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,11,590,Dances with Wolves (1990),0.50467783,,0.50467783,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,12,2858,American Beauty (1999),0.5036496,,0.5036496,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,13,593,"Silence of the Lambs, The (1991)",0.5017064,,0.5017064,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,14,1036,Die Hard (1988),0.49932778,,0.49932778,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,15,150,Apollo 13 (1995),0.49551445,,0.49551445,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,16,296,Pulp Fiction (1994),0.4842728,,0.4842728,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,17,589,Terminator 2: Judgment Day (1991),0.48394936,,0.48394936,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,18,110,Braveheart (1995),0.481596,,0.481596,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,19,457,"Fugitive, The (1993)",0.47569042,,0.47569042,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@20,candidate,20,20,1580,Men in Black (a.k.a. MIB) (1997),0.47543618,,0.47543618,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@20,final,20,1,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.15805657644663587,2.0,0.54778254,0.15805657644663587
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@20,final,20,2,1270,Back to the Future (1985),0.12627190605644759,4.0,0.52129215,0.12627190605644759
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@20,final,20,3,150,Apollo 13 (1995),0.104866950547298,15.0,0.49551445,0.104866950547298
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@20,final,20,4,2028,Saving Private Ryan (1998),0.0985926136073656,6.0,0.5128918,0.0985926136073656
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@20,final,20,5,4226,Memento (2000),0.08831804319580594,1.0,0.58153075,0.08831804319580594
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@20,final,20,6,356,Forrest Gump (1994),0.08777597017101274,8.0,0.5062443,0.08777597017101274
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@20,final,20,7,110,Braveheart (1995),0.07628464829132027,18.0,0.481596,0.07628464829132027
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@20,final,20,8,590,Dances with Wolves (1990),0.065192319669159,11.0,0.50467783,0.065192319669159
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@20,final,20,9,1580,Men in Black (a.k.a. MIB) (1997),0.055873113243088274,20.0,0.47543618,0.055873113243088274
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@20,final,20,10,2959,Fight Club (1999),0.05556961881328191,5.0,0.51976943,0.05556961881328191
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,1,4226,Memento (2000),0.58153075,,0.58153075,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,2,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.54778254,,0.54778254,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,3,2762,"Sixth Sense, The (1999)",0.52433115,,0.52433115,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,4,1270,Back to the Future (1985),0.52129215,,0.52129215,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,5,2959,Fight Club (1999),0.51976943,,0.51976943,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,6,2028,Saving Private Ryan (1998),0.5128918,,0.5128918,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,7,780,Independence Day (a.k.a. ID4) (1996),0.51048684,,0.51048684,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,8,356,Forrest Gump (1994),0.5062443,,0.5062443,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,9,47,Seven (a.k.a. Se7en) (1995),0.5058943,,0.5058943,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,10,2571,"Matrix, The (1999)",0.50532556,,0.50532556,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,11,590,Dances with Wolves (1990),0.50467783,,0.50467783,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,12,2858,American Beauty (1999),0.5036496,,0.5036496,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,13,593,"Silence of the Lambs, The (1991)",0.5017064,,0.5017064,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,14,1036,Die Hard (1988),0.49932778,,0.49932778,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,15,150,Apollo 13 (1995),0.49551445,,0.49551445,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,16,296,Pulp Fiction (1994),0.4842728,,0.4842728,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,17,589,Terminator 2: Judgment Day (1991),0.48394936,,0.48394936,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,18,110,Braveheart (1995),0.481596,,0.481596,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,19,457,"Fugitive, The (1993)",0.47569042,,0.47569042,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,20,1580,Men in Black (a.k.a. MIB) (1997),0.47543618,,0.47543618,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,21,367,"Mask, The (1994)",0.47464094,,0.47464094,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,22,380,True Lies (1994),0.472553,,0.472553,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,23,1214,Alien (1979),0.47245306,,0.47245306,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,24,608,Fargo (1996),0.4662599,,0.4662599,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,25,527,Schindler's List (1993),0.46370852,,0.46370852,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,26,318,"Shawshank Redemption, The (1994)",0.46301538,,0.46301538,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,27,480,Jurassic Park (1993),0.46263704,,0.46263704,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,28,1,Toy Story (1995),0.44921306,,0.44921306,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,29,592,Batman (1989),0.44840312,,0.44840312,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_candidates@30,candidate,30,30,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.44691426,,0.44691426,
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@30,final,30,1,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.15805657644663587,2.0,0.54778254,0.15805657644663587
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@30,final,30,2,1270,Back to the Future (1985),0.12627190605644759,4.0,0.52129215,0.12627190605644759
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@30,final,30,3,592,Batman (1989),0.11094012954210998,29.0,0.44840312,0.11094012954210998
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@30,final,30,4,150,Apollo 13 (1995),0.104866950547298,15.0,0.49551445,0.104866950547298
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@30,final,30,5,2028,Saving Private Ryan (1998),0.09859263479612985,6.0,0.5128918,0.09859263479612985
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@30,final,30,6,4226,Memento (2000),0.08831804319580594,1.0,0.58153075,0.08831804319580594
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@30,final,30,7,356,Forrest Gump (1994),0.08777597017101274,8.0,0.5062443,0.08777597017101274
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@30,final,30,8,480,Jurassic Park (1993),0.0832185703959312,27.0,0.46263704,0.0832185703959312
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@30,final,30,9,1214,Alien (1979),0.07823638937612865,23.0,0.47245306,0.07823638937612865
+Q02,"a melancholic film about memory, identity and time",semantic_theme_en,D_full_enriched,dense_qdrant+reranker@30,final,30,10,110,Braveheart (1995),0.07628464829132027,18.0,0.481596,0.07628464829132027
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant,final,10,1,356,Forrest Gump (1994),0.46288824,,0.46288824,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant,final,10,2,110,Braveheart (1995),0.46198687,,0.46198687,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant,final,10,3,296,Pulp Fiction (1994),0.4619723,,0.4619723,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant,final,10,4,2762,"Sixth Sense, The (1999)",0.46076286,,0.46076286,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant,final,10,5,780,Independence Day (a.k.a. ID4) (1996),0.4563431,,0.4563431,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant,final,10,6,1,Toy Story (1995),0.4467896,,0.4467896,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant,final,10,7,260,Star Wars: Episode IV - A New Hope (1977),0.44607383,,0.44607383,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant,final,10,8,367,"Mask, The (1994)",0.43741196,,0.43741196,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant,final,10,9,1036,Die Hard (1988),0.43740177,,0.43740177,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant,final,10,10,318,"Shawshank Redemption, The (1994)",0.43181723,,0.43181723,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@10,candidate,10,1,356,Forrest Gump (1994),0.46288824,,0.46288824,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@10,candidate,10,2,110,Braveheart (1995),0.46198687,,0.46198687,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@10,candidate,10,3,296,Pulp Fiction (1994),0.4619723,,0.4619723,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@10,candidate,10,4,2762,"Sixth Sense, The (1999)",0.46076286,,0.46076286,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@10,candidate,10,5,780,Independence Day (a.k.a. ID4) (1996),0.4563431,,0.4563431,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@10,candidate,10,6,1,Toy Story (1995),0.4467896,,0.4467896,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@10,candidate,10,7,260,Star Wars: Episode IV - A New Hope (1977),0.44607383,,0.44607383,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@10,candidate,10,8,367,"Mask, The (1994)",0.43741196,,0.43741196,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@10,candidate,10,9,1036,Die Hard (1988),0.43740177,,0.43740177,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@10,candidate,10,10,318,"Shawshank Redemption, The (1994)",0.43181723,,0.43181723,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@10,final,10,1,356,Forrest Gump (1994),0.033472513300304346,1.0,0.46288824,0.033472513300304346
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@10,final,10,2,110,Braveheart (1995),0.018609327011658607,2.0,0.46198687,0.018609327011658607
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@10,final,10,3,318,"Shawshank Redemption, The (1994)",0.01191947455583269,10.0,0.43181723,0.01191947455583269
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@10,final,10,4,260,Star Wars: Episode IV - A New Hope (1977),0.0077805031212420375,7.0,0.44607383,0.0077805031212420375
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@10,final,10,5,296,Pulp Fiction (1994),0.006661461613819077,3.0,0.4619723,0.006661461613819077
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@10,final,10,6,780,Independence Day (a.k.a. ID4) (1996),0.005174339440139403,5.0,0.4563431,0.005174339440139403
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@10,final,10,7,2762,"Sixth Sense, The (1999)",0.004960837381389808,4.0,0.46076286,0.004960837381389808
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@10,final,10,8,1036,Die Hard (1988),0.004219216547272152,9.0,0.43740177,0.004219216547272152
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@10,final,10,9,367,"Mask, The (1994)",0.0031931144002232035,8.0,0.43741196,0.0031931144002232035
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@10,final,10,10,1,Toy Story (1995),0.00070928737047426,6.0,0.4467896,0.00070928737047426
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,1,356,Forrest Gump (1994),0.46288824,,0.46288824,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,2,110,Braveheart (1995),0.46198687,,0.46198687,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,3,296,Pulp Fiction (1994),0.4619723,,0.4619723,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,4,2762,"Sixth Sense, The (1999)",0.46076286,,0.46076286,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,5,780,Independence Day (a.k.a. ID4) (1996),0.4563431,,0.4563431,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,6,1,Toy Story (1995),0.4467896,,0.4467896,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,7,260,Star Wars: Episode IV - A New Hope (1977),0.44607383,,0.44607383,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,8,367,"Mask, The (1994)",0.43741196,,0.43741196,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,9,1036,Die Hard (1988),0.43740177,,0.43740177,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,10,318,"Shawshank Redemption, The (1994)",0.43181723,,0.43181723,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,11,7153,"Lord of the Rings: The Return of the King, The (2003)",0.42946324,,0.42946324,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,12,595,Beauty and the Beast (1991),0.42654577,,0.42654577,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,13,590,Dances with Wolves (1990),0.4249493,,0.4249493,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,14,4226,Memento (2000),0.4248153,,0.4248153,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,15,2858,American Beauty (1999),0.42437702,,0.42437702,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,16,1270,Back to the Future (1985),0.4219436,,0.4219436,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,17,150,Apollo 13 (1995),0.42104787,,0.42104787,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,18,527,Schindler's List (1993),0.42035255,,0.42035255,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,19,2028,Saving Private Ryan (1998),0.42004502,,0.42004502,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@20,candidate,20,20,608,Fargo (1996),0.4189885,,0.4189885,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@20,final,20,1,356,Forrest Gump (1994),0.0334725055869625,1.0,0.46288824,0.0334725055869625
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@20,final,20,2,2028,Saving Private Ryan (1998),0.020367316739565277,19.0,0.42004502,0.020367316739565277
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@20,final,20,3,110,Braveheart (1995),0.018609327011658607,2.0,0.46198687,0.018609327011658607
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@20,final,20,4,595,Beauty and the Beast (1991),0.018456027387876762,12.0,0.42654577,0.018456027387876762
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@20,final,20,5,590,Dances with Wolves (1990),0.0168644306852205,13.0,0.4249493,0.0168644306852205
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@20,final,20,6,2858,American Beauty (1999),0.015585227420106644,15.0,0.42437702,0.015585227420106644
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@20,final,20,7,150,Apollo 13 (1995),0.015336893000050273,17.0,0.42104787,0.015336893000050273
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@20,final,20,8,527,Schindler's List (1993),0.014280161829299231,18.0,0.42035255,0.014280161829299231
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@20,final,20,9,318,"Shawshank Redemption, The (1994)",0.011919468939931725,10.0,0.43181723,0.011919468939931725
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@20,final,20,10,1270,Back to the Future (1985),0.01147913780874763,16.0,0.4219436,0.01147913780874763
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,1,356,Forrest Gump (1994),0.46288824,,0.46288824,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,2,110,Braveheart (1995),0.46198687,,0.46198687,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,3,296,Pulp Fiction (1994),0.4619723,,0.4619723,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,4,2762,"Sixth Sense, The (1999)",0.46076286,,0.46076286,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,5,780,Independence Day (a.k.a. ID4) (1996),0.4563431,,0.4563431,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,6,1,Toy Story (1995),0.4467896,,0.4467896,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,7,260,Star Wars: Episode IV - A New Hope (1977),0.44607383,,0.44607383,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,8,367,"Mask, The (1994)",0.43741196,,0.43741196,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,9,1036,Die Hard (1988),0.43740177,,0.43740177,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,10,318,"Shawshank Redemption, The (1994)",0.43181723,,0.43181723,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,11,7153,"Lord of the Rings: The Return of the King, The (2003)",0.42946324,,0.42946324,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,12,595,Beauty and the Beast (1991),0.42654577,,0.42654577,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,13,590,Dances with Wolves (1990),0.4249493,,0.4249493,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,14,4226,Memento (2000),0.4248153,,0.4248153,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,15,2858,American Beauty (1999),0.42437702,,0.42437702,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,16,1270,Back to the Future (1985),0.4219436,,0.4219436,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,17,150,Apollo 13 (1995),0.42104787,,0.42104787,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,18,527,Schindler's List (1993),0.42035255,,0.42035255,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,19,2028,Saving Private Ryan (1998),0.42004502,,0.42004502,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,20,608,Fargo (1996),0.4189885,,0.4189885,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,21,2571,"Matrix, The (1999)",0.41818276,,0.41818276,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,22,4306,Shrek (2001),0.41770095,,0.41770095,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,23,589,Terminator 2: Judgment Day (1991),0.4171968,,0.4171968,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,24,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.41297507,,0.41297507,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,25,588,Aladdin (1992),0.412493,,0.412493,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,26,364,"Lion King, The (1994)",0.4120152,,0.4120152,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,27,2959,Fight Club (1999),0.41178948,,0.41178948,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,28,165,Die Hard: With a Vengeance (1995),0.41084975,,0.41084975,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,29,50,"Usual Suspects, The (1995)",0.40961522,,0.40961522,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_candidates@30,candidate,30,30,380,True Lies (1994),0.40869284,,0.40869284,
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@30,final,30,1,356,Forrest Gump (1994),0.0334725055869625,1.0,0.46288824,0.0334725055869625
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@30,final,30,2,2028,Saving Private Ryan (1998),0.02036731198252171,19.0,0.42004502,0.02036731198252171
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@30,final,30,3,588,Aladdin (1992),0.018691433629391806,25.0,0.412493,0.018691433629391806
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@30,final,30,4,110,Braveheart (1995),0.018609327011658607,2.0,0.46198687,0.018609327011658607
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@30,final,30,5,595,Beauty and the Beast (1991),0.018456027387876762,12.0,0.42654577,0.018456027387876762
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@30,final,30,6,590,Dances with Wolves (1990),0.0168644306852205,13.0,0.4249493,0.0168644306852205
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@30,final,30,7,2858,American Beauty (1999),0.015585227420106644,15.0,0.42437702,0.015585227420106644
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@30,final,30,8,150,Apollo 13 (1995),0.015336893000050273,17.0,0.42104787,0.015336893000050273
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@30,final,30,9,527,Schindler's List (1993),0.014280161829299231,18.0,0.42035255,0.014280161829299231
+Q03,"qualcosa di emozionante, ottimista e commovente",mood,D_full_enriched,dense_qdrant+reranker@30,final,30,10,380,True Lies (1994),0.01273216305873276,30.0,0.40869284,0.01273216305873276
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant,final,10,1,150,Apollo 13 (1995),0.5679918,,0.5679918,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant,final,10,2,2028,Saving Private Ryan (1998),0.562456,,0.562456,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant,final,10,3,356,Forrest Gump (1994),0.5523011,,0.5523011,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant,final,10,4,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.5220976,,0.5220976,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant,final,10,5,296,Pulp Fiction (1994),0.5168426,,0.5168426,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant,final,10,6,1,Toy Story (1995),0.51602733,,0.51602733,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant,final,10,7,1036,Die Hard (1988),0.5146579,,0.5146579,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant,final,10,8,2959,Fight Club (1999),0.51072884,,0.51072884,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant,final,10,9,165,Die Hard: With a Vengeance (1995),0.50874287,,0.50874287,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant,final,10,10,590,Dances with Wolves (1990),0.5086038,,0.5086038,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@10,candidate,10,1,150,Apollo 13 (1995),0.5679918,,0.5679918,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@10,candidate,10,2,2028,Saving Private Ryan (1998),0.562456,,0.562456,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@10,candidate,10,3,356,Forrest Gump (1994),0.5523011,,0.5523011,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@10,candidate,10,4,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.5220976,,0.5220976,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@10,candidate,10,5,296,Pulp Fiction (1994),0.5168426,,0.5168426,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@10,candidate,10,6,1,Toy Story (1995),0.51602733,,0.51602733,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@10,candidate,10,7,1036,Die Hard (1988),0.5146579,,0.5146579,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@10,candidate,10,8,2959,Fight Club (1999),0.51072884,,0.51072884,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@10,candidate,10,9,165,Die Hard: With a Vengeance (1995),0.50874287,,0.50874287,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@10,candidate,10,10,590,Dances with Wolves (1990),0.5086038,,0.5086038,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@10,final,10,1,1,Toy Story (1995),0.3106347731877417,6.0,0.51602733,0.3106347731877417
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@10,final,10,2,150,Apollo 13 (1995),0.29606829409929913,1.0,0.5679918,0.29606829409929913
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@10,final,10,3,2028,Saving Private Ryan (1998),0.23489437988969855,2.0,0.562456,0.23489437988969855
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@10,final,10,4,356,Forrest Gump (1994),0.14981765994332724,3.0,0.5523011,0.14981765994332724
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@10,final,10,5,2959,Fight Club (1999),0.07971062657678116,8.0,0.51072884,0.07971062657678116
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@10,final,10,6,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.06775731744000217,4.0,0.5220976,0.06775731744000217
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@10,final,10,7,296,Pulp Fiction (1994),0.058272960660044934,5.0,0.5168426,0.058272960660044934
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@10,final,10,8,1036,Die Hard (1988),0.05171564503983375,7.0,0.5146579,0.05171564503983375
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@10,final,10,9,165,Die Hard: With a Vengeance (1995),0.04129741011273184,9.0,0.50874287,0.04129741011273184
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@10,final,10,10,590,Dances with Wolves (1990),0.03990259089622836,10.0,0.5086038,0.03990259089622836
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,1,150,Apollo 13 (1995),0.5679918,,0.5679918,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,2,2028,Saving Private Ryan (1998),0.562456,,0.562456,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,3,356,Forrest Gump (1994),0.5523011,,0.5523011,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,4,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.5220976,,0.5220976,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,5,296,Pulp Fiction (1994),0.5168426,,0.5168426,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,6,1,Toy Story (1995),0.51602733,,0.51602733,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,7,1036,Die Hard (1988),0.5146579,,0.5146579,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,8,2959,Fight Club (1999),0.51072884,,0.51072884,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,9,165,Die Hard: With a Vengeance (1995),0.50874287,,0.50874287,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,10,590,Dances with Wolves (1990),0.5086038,,0.5086038,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,11,2858,American Beauty (1999),0.5073813,,0.5073813,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,12,367,"Mask, The (1994)",0.48911667,,0.48911667,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,13,589,Terminator 2: Judgment Day (1991),0.4890934,,0.4890934,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,14,2571,"Matrix, The (1999)",0.48809442,,0.48809442,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,15,318,"Shawshank Redemption, The (1994)",0.48147723,,0.48147723,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,16,2762,"Sixth Sense, The (1999)",0.48114043,,0.48114043,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,17,380,True Lies (1994),0.48010606,,0.48010606,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,18,527,Schindler's List (1993),0.4797964,,0.4797964,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,19,648,Mission: Impossible (1996),0.4793918,,0.4793918,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@20,candidate,20,20,7153,"Lord of the Rings: The Return of the King, The (2003)",0.4793249,,0.4793249,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@20,final,20,1,1,Toy Story (1995),0.3106347987153162,6.0,0.51602733,0.3106347987153162
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@20,final,20,2,150,Apollo 13 (1995),0.29606829409929913,1.0,0.5679918,0.29606829409929913
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@20,final,20,3,2028,Saving Private Ryan (1998),0.23489437988969855,2.0,0.562456,0.23489437988969855
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@20,final,20,4,356,Forrest Gump (1994),0.14981761439143848,3.0,0.5523011,0.14981761439143848
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@20,final,20,5,2858,American Beauty (1999),0.11220509973311044,11.0,0.5073813,0.11220509973311044
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@20,final,20,6,2959,Fight Club (1999),0.07971064406641709,8.0,0.51072884,0.07971064406641709
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@20,final,20,7,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.06775731744000217,4.0,0.5220976,0.06775731744000217
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@20,final,20,8,296,Pulp Fiction (1994),0.05827297374379578,5.0,0.5168426,0.05827297374379578
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@20,final,20,9,1036,Die Hard (1988),0.05171564503983375,7.0,0.5146579,0.05171564503983375
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@20,final,20,10,7153,"Lord of the Rings: The Return of the King, The (2003)",0.05056985435710687,20.0,0.4793249,0.05056985435710687
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,1,150,Apollo 13 (1995),0.5679918,,0.5679918,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,2,2028,Saving Private Ryan (1998),0.562456,,0.562456,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,3,356,Forrest Gump (1994),0.5523011,,0.5523011,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,4,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.5220976,,0.5220976,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,5,296,Pulp Fiction (1994),0.5168426,,0.5168426,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,6,1,Toy Story (1995),0.51602733,,0.51602733,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,7,1036,Die Hard (1988),0.5146579,,0.5146579,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,8,2959,Fight Club (1999),0.51072884,,0.51072884,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,9,165,Die Hard: With a Vengeance (1995),0.50874287,,0.50874287,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,10,590,Dances with Wolves (1990),0.5086038,,0.5086038,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,11,2858,American Beauty (1999),0.5073813,,0.5073813,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,12,367,"Mask, The (1994)",0.48911667,,0.48911667,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,13,589,Terminator 2: Judgment Day (1991),0.4890934,,0.4890934,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,14,2571,"Matrix, The (1999)",0.48809442,,0.48809442,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,15,318,"Shawshank Redemption, The (1994)",0.48147723,,0.48147723,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,16,2762,"Sixth Sense, The (1999)",0.48114043,,0.48114043,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,17,380,True Lies (1994),0.48010606,,0.48010606,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,18,527,Schindler's List (1993),0.4797964,,0.4797964,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,19,648,Mission: Impossible (1996),0.4793918,,0.4793918,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,20,7153,"Lord of the Rings: The Return of the King, The (2003)",0.4793249,,0.4793249,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,21,377,Speed (1994),0.47902036,,0.47902036,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,22,1210,Star Wars: Episode VI - Return of the Jedi (1983),0.47616887,,0.47616887,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,23,1580,Men in Black (a.k.a. MIB) (1997),0.47419715,,0.47419715,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,24,593,"Silence of the Lambs, The (1991)",0.47388953,,0.47388953,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,25,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.47165,,0.47165,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,26,260,Star Wars: Episode IV - A New Hope (1977),0.4714983,,0.4714983,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,27,480,Jurassic Park (1993),0.47016436,,0.47016436,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,28,1270,Back to the Future (1985),0.46992475,,0.46992475,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,29,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.46833584,,0.46833584,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_candidates@30,candidate,30,30,4306,Shrek (2001),0.46813786,,0.46813786,
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@30,final,30,1,1,Toy Story (1995),0.3106347987153162,6.0,0.51602733,0.3106347987153162
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@30,final,30,2,150,Apollo 13 (1995),0.29606829409929913,1.0,0.5679918,0.29606829409929913
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@30,final,30,3,2028,Saving Private Ryan (1998),0.23489437988969855,2.0,0.562456,0.23489437988969855
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@30,final,30,4,356,Forrest Gump (1994),0.14981761439143848,3.0,0.5523011,0.14981761439143848
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@30,final,30,5,2858,American Beauty (1999),0.11220509973311044,11.0,0.5073813,0.11220509973311044
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@30,final,30,6,377,Speed (1994),0.102002348666745,21.0,0.47902036,0.102002348666745
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@30,final,30,7,2959,Fight Club (1999),0.07971064406641709,8.0,0.51072884,0.07971064406641709
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@30,final,30,8,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.06775731744000217,4.0,0.5220976,0.06775731744000217
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@30,final,30,9,480,Jurassic Park (1993),0.06693345869630957,27.0,0.47016436,0.06693345869630957
+Q04,un film con Tom Hanks,named_entity_cast,D_full_enriched,dense_qdrant+reranker@30,final,30,10,296,Pulp Fiction (1994),0.05827297374379578,5.0,0.5168426,0.05827297374379578
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant,final,10,1,58559,"Dark Knight, The (2008)",0.51596993,,0.51596993,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant,final,10,2,4226,Memento (2000),0.51134837,,0.51134837,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant,final,10,3,527,Schindler's List (1993),0.5105472,,0.5105472,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant,final,10,4,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.5006065,,0.5006065,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant,final,10,5,1036,Die Hard (1988),0.49925768,,0.49925768,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant,final,10,6,47,Seven (a.k.a. Se7en) (1995),0.49132818,,0.49132818,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant,final,10,7,165,Die Hard: With a Vengeance (1995),0.4893536,,0.4893536,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant,final,10,8,2028,Saving Private Ryan (1998),0.48934063,,0.48934063,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant,final,10,9,590,Dances with Wolves (1990),0.48483878,,0.48483878,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant,final,10,10,592,Batman (1989),0.4835349,,0.4835349,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@10,candidate,10,1,58559,"Dark Knight, The (2008)",0.51596993,,0.51596993,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@10,candidate,10,2,4226,Memento (2000),0.51134837,,0.51134837,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@10,candidate,10,3,527,Schindler's List (1993),0.5105472,,0.5105472,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@10,candidate,10,4,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.5006065,,0.5006065,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@10,candidate,10,5,1036,Die Hard (1988),0.49925768,,0.49925768,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@10,candidate,10,6,47,Seven (a.k.a. Se7en) (1995),0.49132818,,0.49132818,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@10,candidate,10,7,165,Die Hard: With a Vengeance (1995),0.4893536,,0.4893536,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@10,candidate,10,8,2028,Saving Private Ryan (1998),0.48934063,,0.48934063,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@10,candidate,10,9,590,Dances with Wolves (1990),0.48483878,,0.48483878,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@10,candidate,10,10,592,Batman (1989),0.4835349,,0.4835349,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@10,final,10,1,58559,"Dark Knight, The (2008)",0.868818828280884,1.0,0.51596993,0.868818828280884
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@10,final,10,2,4226,Memento (2000),0.831361266363213,2.0,0.51134837,0.831361266363213
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@10,final,10,3,2028,Saving Private Ryan (1998),0.19950651075209228,8.0,0.48934063,0.19950651075209228
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@10,final,10,4,1036,Die Hard (1988),0.18273224492400453,5.0,0.49925768,0.18273224492400453
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@10,final,10,5,592,Batman (1989),0.1590622120112196,10.0,0.4835349,0.1590622120112196
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@10,final,10,6,165,Die Hard: With a Vengeance (1995),0.1335489913274733,7.0,0.4893536,0.1335489913274733
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@10,final,10,7,527,Schindler's List (1993),0.12258571871813566,3.0,0.5105472,0.12258571871813566
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@10,final,10,8,590,Dances with Wolves (1990),0.09743750172510103,9.0,0.48483878,0.09743750172510103
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@10,final,10,9,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.09240385763526758,4.0,0.5006065,0.09240385763526758
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@10,final,10,10,47,Seven (a.k.a. Se7en) (1995),0.06707934982081788,6.0,0.49132818,0.06707934982081788
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,1,58559,"Dark Knight, The (2008)",0.51596993,,0.51596993,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,2,4226,Memento (2000),0.51134837,,0.51134837,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,3,527,Schindler's List (1993),0.5105472,,0.5105472,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,4,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.5006065,,0.5006065,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,5,1036,Die Hard (1988),0.49925768,,0.49925768,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,6,47,Seven (a.k.a. Se7en) (1995),0.49132818,,0.49132818,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,7,165,Die Hard: With a Vengeance (1995),0.4893536,,0.4893536,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,8,2028,Saving Private Ryan (1998),0.48934063,,0.48934063,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,9,590,Dances with Wolves (1990),0.48483878,,0.48483878,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,10,592,Batman (1989),0.4835349,,0.4835349,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,11,2762,"Sixth Sense, The (1999)",0.4721759,,0.4721759,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,12,150,Apollo 13 (1995),0.47211874,,0.47211874,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,13,7153,"Lord of the Rings: The Return of the King, The (2003)",0.47204655,,0.47204655,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,14,480,Jurassic Park (1993),0.4712997,,0.4712997,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,15,593,"Silence of the Lambs, The (1991)",0.47037125,,0.47037125,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,16,380,True Lies (1994),0.46709517,,0.46709517,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,17,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.4660406,,0.4660406,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,18,2959,Fight Club (1999),0.4644221,,0.4644221,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,19,110,Braveheart (1995),0.46387297,,0.46387297,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@20,candidate,20,20,1214,Alien (1979),0.46162564,,0.46162564,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@20,final,20,1,58559,"Dark Knight, The (2008)",0.8688188146942821,1.0,0.51596993,0.8688188146942821
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@20,final,20,2,4226,Memento (2000),0.8313612496501043,2.0,0.51134837,0.8313612496501043
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@20,final,20,3,150,Apollo 13 (1995),0.33970107748410144,12.0,0.47211874,0.33970107748410144
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@20,final,20,4,110,Braveheart (1995),0.27111556177796836,19.0,0.46387297,0.27111556177796836
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@20,final,20,5,7153,"Lord of the Rings: The Return of the King, The (2003)",0.20917306288114254,13.0,0.47204655,0.20917306288114254
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@20,final,20,6,2028,Saving Private Ryan (1998),0.19950649171393278,8.0,0.48934063,0.19950649171393278
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@20,final,20,7,480,Jurassic Park (1993),0.19640681943656668,14.0,0.4712997,0.19640681943656668
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@20,final,20,8,1036,Die Hard (1988),0.18273224492400453,5.0,0.49925768,0.18273224492400453
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@20,final,20,9,592,Batman (1989),0.15906219606561584,10.0,0.4835349,0.15906219606561584
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@20,final,20,10,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.1543725190282576,17.0,0.4660406,0.1543725190282576
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,1,58559,"Dark Knight, The (2008)",0.51596993,,0.51596993,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,2,4226,Memento (2000),0.51134837,,0.51134837,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,3,527,Schindler's List (1993),0.5105472,,0.5105472,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,4,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.5006065,,0.5006065,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,5,1036,Die Hard (1988),0.49925768,,0.49925768,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,6,47,Seven (a.k.a. Se7en) (1995),0.49132818,,0.49132818,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,7,165,Die Hard: With a Vengeance (1995),0.4893536,,0.4893536,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,8,2028,Saving Private Ryan (1998),0.48934063,,0.48934063,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,9,590,Dances with Wolves (1990),0.48483878,,0.48483878,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,10,592,Batman (1989),0.4835349,,0.4835349,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,11,2762,"Sixth Sense, The (1999)",0.4721759,,0.4721759,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,12,150,Apollo 13 (1995),0.47211874,,0.47211874,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,13,7153,"Lord of the Rings: The Return of the King, The (2003)",0.47204655,,0.47204655,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,14,480,Jurassic Park (1993),0.4712997,,0.4712997,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,15,593,"Silence of the Lambs, The (1991)",0.47037125,,0.47037125,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,16,380,True Lies (1994),0.46709517,,0.46709517,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,17,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.4660406,,0.4660406,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,18,2959,Fight Club (1999),0.4644221,,0.4644221,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,19,110,Braveheart (1995),0.46387297,,0.46387297,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,20,1214,Alien (1979),0.46162564,,0.46162564,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,21,296,Pulp Fiction (1994),0.45884374,,0.45884374,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,22,858,"Godfather, The (1972)",0.4578206,,0.4578206,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,23,648,Mission: Impossible (1996),0.45765927,,0.45765927,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,24,780,Independence Day (a.k.a. ID4) (1996),0.45473838,,0.45473838,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,25,356,Forrest Gump (1994),0.4533461,,0.4533461,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,26,367,"Mask, The (1994)",0.45127618,,0.45127618,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,27,1580,Men in Black (a.k.a. MIB) (1997),0.45092726,,0.45092726,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,28,260,Star Wars: Episode IV - A New Hope (1977),0.44921088,,0.44921088,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,29,608,Fargo (1996),0.44917357,,0.44917357,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_candidates@30,candidate,30,30,377,Speed (1994),0.44709978,,0.44709978,
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@30,final,30,1,58559,"Dark Knight, The (2008)",0.8688188146942821,1.0,0.51596993,0.8688188146942821
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@30,final,30,2,4226,Memento (2000),0.8313612496501043,2.0,0.51134837,0.8313612496501043
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@30,final,30,3,150,Apollo 13 (1995),0.33970107748410144,12.0,0.47211874,0.33970107748410144
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@30,final,30,4,110,Braveheart (1995),0.27111558533514485,19.0,0.46387297,0.27111558533514485
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@30,final,30,5,7153,"Lord of the Rings: The Return of the King, The (2003)",0.20917306288114254,13.0,0.47204655,0.20917306288114254
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@30,final,30,6,2028,Saving Private Ryan (1998),0.19950651075209228,8.0,0.48934063,0.19950651075209228
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@30,final,30,7,480,Jurassic Park (1993),0.19640681943656668,14.0,0.4712997,0.19640681943656668
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@30,final,30,8,1036,Die Hard (1988),0.18273224492400453,5.0,0.49925768,0.18273224492400453
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@30,final,30,9,260,Star Wars: Episode IV - A New Hope (1977),0.16532116898640825,28.0,0.44921088,0.16532116898640825
+Q05,un film diretto da Christopher Nolan,named_entity_director,D_full_enriched,dense_qdrant+reranker@30,final,30,10,648,Mission: Impossible (1996),0.1644194514679414,23.0,0.45765927,0.1644194514679414
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant,final,10,1,527,Schindler's List (1993),0.50077295,,0.50077295,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant,final,10,2,47,Seven (a.k.a. Se7en) (1995),0.48961335,,0.48961335,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant,final,10,3,7153,"Lord of the Rings: The Return of the King, The (2003)",0.48635685,,0.48635685,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant,final,10,4,1036,Die Hard (1988),0.4860406,,0.4860406,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant,final,10,5,595,Beauty and the Beast (1991),0.4850582,,0.4850582,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant,final,10,6,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.4824156,,0.4824156,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant,final,10,7,480,Jurassic Park (1993),0.47995883,,0.47995883,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant,final,10,8,3578,Gladiator (2000),0.47992423,,0.47992423,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant,final,10,9,4306,Shrek (2001),0.47985065,,0.47985065,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant,final,10,10,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.4775494,,0.4775494,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@10,candidate,10,1,527,Schindler's List (1993),0.50077295,,0.50077295,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@10,candidate,10,2,47,Seven (a.k.a. Se7en) (1995),0.48961335,,0.48961335,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@10,candidate,10,3,7153,"Lord of the Rings: The Return of the King, The (2003)",0.48635685,,0.48635685,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@10,candidate,10,4,1036,Die Hard (1988),0.4860406,,0.4860406,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@10,candidate,10,5,595,Beauty and the Beast (1991),0.4850582,,0.4850582,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@10,candidate,10,6,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.4824156,,0.4824156,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@10,candidate,10,7,480,Jurassic Park (1993),0.47995883,,0.47995883,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@10,candidate,10,8,3578,Gladiator (2000),0.47992423,,0.47992423,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@10,candidate,10,9,4306,Shrek (2001),0.47985065,,0.47985065,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@10,candidate,10,10,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.4775494,,0.4775494,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@10,final,10,1,3578,Gladiator (2000),0.18105514197533826,8.0,0.47992423,0.18105514197533826
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@10,final,10,2,595,Beauty and the Beast (1991),0.16385721095042746,5.0,0.4850582,0.16385721095042746
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@10,final,10,3,7153,"Lord of the Rings: The Return of the King, The (2003)",0.16003219522865647,3.0,0.48635685,0.16003219522865647
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@10,final,10,4,4306,Shrek (2001),0.14621756387860327,9.0,0.47985065,0.14621756387860327
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@10,final,10,5,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.12373145085926128,6.0,0.4824156,0.12373145085926128
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@10,final,10,6,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.11641536366427575,10.0,0.4775494,0.11641536366427575
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@10,final,10,7,480,Jurassic Park (1993),0.059721338594853554,7.0,0.47995883,0.059721338594853554
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@10,final,10,8,1036,Die Hard (1988),0.029912847553550746,4.0,0.4860406,0.029912847553550746
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@10,final,10,9,47,Seven (a.k.a. Se7en) (1995),0.010729608853364572,2.0,0.48961335,0.010729608853364572
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@10,final,10,10,527,Schindler's List (1993),0.010499856122273919,1.0,0.50077295,0.010499856122273919
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,1,527,Schindler's List (1993),0.50077295,,0.50077295,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,2,47,Seven (a.k.a. Se7en) (1995),0.48961335,,0.48961335,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,3,7153,"Lord of the Rings: The Return of the King, The (2003)",0.48635685,,0.48635685,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,4,1036,Die Hard (1988),0.4860406,,0.4860406,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,5,595,Beauty and the Beast (1991),0.4850582,,0.4850582,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,6,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.4824156,,0.4824156,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,7,480,Jurassic Park (1993),0.47995883,,0.47995883,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,8,3578,Gladiator (2000),0.47992423,,0.47992423,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,9,4306,Shrek (2001),0.47985065,,0.47985065,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,10,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.4775494,,0.4775494,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,11,165,Die Hard: With a Vengeance (1995),0.47736615,,0.47736615,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,12,858,"Godfather, The (1972)",0.4748057,,0.4748057,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,13,296,Pulp Fiction (1994),0.46902838,,0.46902838,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,14,592,Batman (1989),0.46718267,,0.46718267,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,15,58559,"Dark Knight, The (2008)",0.46614772,,0.46614772,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,16,2028,Saving Private Ryan (1998),0.46308398,,0.46308398,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,17,260,Star Wars: Episode IV - A New Hope (1977),0.46122655,,0.46122655,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,18,364,"Lion King, The (1994)",0.46101457,,0.46101457,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,19,110,Braveheart (1995),0.45893413,,0.45893413,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@20,candidate,20,20,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.45862907,,0.45862907,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@20,final,20,1,3578,Gladiator (2000),0.18105512429967954,8.0,0.47992423,0.18105512429967954
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@20,final,20,2,595,Beauty and the Beast (1991),0.16385721095042746,5.0,0.4850582,0.16385721095042746
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@20,final,20,3,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.16078529460686372,20.0,0.45862907,0.16078529460686372
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@20,final,20,4,7153,"Lord of the Rings: The Return of the King, The (2003)",0.16003219522865647,3.0,0.48635685,0.16003219522865647
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@20,final,20,5,4306,Shrek (2001),0.14621754899675604,9.0,0.47985065,0.14621754899675604
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@20,final,20,6,110,Braveheart (1995),0.14121128699776495,19.0,0.45893413,0.14121128699776495
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@20,final,20,7,260,Star Wars: Episode IV - A New Hope (1977),0.12766882150414124,17.0,0.46122655,0.12766882150414124
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@20,final,20,8,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.12373146378416895,6.0,0.4824156,0.12373146378416895
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@20,final,20,9,58559,"Dark Knight, The (2008)",0.11745740857647005,15.0,0.46614772,0.11745740857647005
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@20,final,20,10,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.11641531461546673,10.0,0.4775494,0.11641531461546673
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,1,527,Schindler's List (1993),0.50077295,,0.50077295,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,2,47,Seven (a.k.a. Se7en) (1995),0.48961335,,0.48961335,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,3,7153,"Lord of the Rings: The Return of the King, The (2003)",0.48635685,,0.48635685,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,4,1036,Die Hard (1988),0.4860406,,0.4860406,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,5,595,Beauty and the Beast (1991),0.4850582,,0.4850582,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,6,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.4824156,,0.4824156,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,7,480,Jurassic Park (1993),0.47995883,,0.47995883,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,8,3578,Gladiator (2000),0.47992423,,0.47992423,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,9,4306,Shrek (2001),0.47985065,,0.47985065,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,10,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),0.4775494,,0.4775494,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,11,165,Die Hard: With a Vengeance (1995),0.47736615,,0.47736615,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,12,858,"Godfather, The (1972)",0.4748057,,0.4748057,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,13,296,Pulp Fiction (1994),0.46902838,,0.46902838,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,14,592,Batman (1989),0.46718267,,0.46718267,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,15,58559,"Dark Knight, The (2008)",0.46614772,,0.46614772,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,16,2028,Saving Private Ryan (1998),0.46308398,,0.46308398,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,17,260,Star Wars: Episode IV - A New Hope (1977),0.46122655,,0.46122655,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,18,364,"Lion King, The (1994)",0.46101457,,0.46101457,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,19,110,Braveheart (1995),0.45893413,,0.45893413,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,20,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.45862907,,0.45862907,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,21,2571,"Matrix, The (1999)",0.4573986,,0.4573986,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,22,5952,"Lord of the Rings: The Two Towers, The (2002)",0.4555897,,0.4555897,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,23,1580,Men in Black (a.k.a. MIB) (1997),0.45382008,,0.45382008,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,24,593,"Silence of the Lambs, The (1991)",0.45176286,,0.45176286,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,25,50,"Usual Suspects, The (1995)",0.44913465,,0.44913465,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,26,380,True Lies (1994),0.4481476,,0.4481476,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,27,608,Fargo (1996),0.44715327,,0.44715327,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,28,150,Apollo 13 (1995),0.44067127,,0.44067127,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,29,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.43807498,,0.43807498,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_candidates@30,candidate,30,30,588,Aladdin (1992),0.4359787,,0.4359787,
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@30,final,30,1,1196,Star Wars: Episode V - The Empire Strikes Back (1980),0.18799463544012515,29.0,0.43807498,0.18799463544012515
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@30,final,30,2,3578,Gladiator (2000),0.18105512429967954,8.0,0.47992423,0.18105512429967954
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@30,final,30,3,595,Beauty and the Beast (1991),0.16385721095042746,5.0,0.4850582,0.16385721095042746
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@30,final,30,4,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.16078529460686372,20.0,0.45862907,0.16078529460686372
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@30,final,30,5,7153,"Lord of the Rings: The Return of the King, The (2003)",0.16003219522865647,3.0,0.48635685,0.16003219522865647
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@30,final,30,6,4306,Shrek (2001),0.14621754899675604,9.0,0.47985065,0.14621754899675604
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@30,final,30,7,110,Braveheart (1995),0.14121128699776495,19.0,0.45893413,0.14121128699776495
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@30,final,30,8,5952,"Lord of the Rings: The Two Towers, The (2002)",0.13618477227146403,22.0,0.4555897,0.13618477227146403
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@30,final,30,9,260,Star Wars: Episode IV - A New Hope (1977),0.12766882150414124,17.0,0.46122655,0.12766882150414124
+Q06,un film appartenente a una saga o collection famosa,collection,D_full_enriched,dense_qdrant+reranker@30,final,30,10,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.12373146378416895,6.0,0.4824156,0.12373146378416895
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_qdrant,final,10,1,1214,Alien (1979),0.47063825,,0.47063825,
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_qdrant,final,10,2,1270,Back to the Future (1985),0.4628176,,0.4628176,
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_qdrant,final,10,3,1580,Men in Black (a.k.a. MIB) (1997),0.44151458,,0.44151458,
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_candidates@10,candidate,10,1,1214,Alien (1979),0.47063825,,0.47063825,
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_candidates@10,candidate,10,2,1270,Back to the Future (1985),0.4628176,,0.4628176,
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_candidates@10,candidate,10,3,1580,Men in Black (a.k.a. MIB) (1997),0.44151458,,0.44151458,
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_qdrant+reranker@10,final,10,1,1580,Men in Black (a.k.a. MIB) (1997),0.010610670422466505,3.0,0.44151458,0.010610670422466505
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_qdrant+reranker@10,final,10,2,1270,Back to the Future (1985),0.008704555805402392,2.0,0.4628176,0.008704555805402392
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_qdrant+reranker@10,final,10,3,1214,Alien (1979),0.005202283200204999,1.0,0.47063825,0.005202283200204999
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_candidates@20,candidate,20,1,1214,Alien (1979),0.47063825,,0.47063825,
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_candidates@20,candidate,20,2,1270,Back to the Future (1985),0.4628176,,0.4628176,
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_candidates@20,candidate,20,3,1580,Men in Black (a.k.a. MIB) (1997),0.44151458,,0.44151458,
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_qdrant+reranker@20,final,20,1,1580,Men in Black (a.k.a. MIB) (1997),0.010610670422466505,3.0,0.44151458,0.010610670422466505
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_qdrant+reranker@20,final,20,2,1270,Back to the Future (1985),0.008704555805402392,2.0,0.4628176,0.008704555805402392
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_qdrant+reranker@20,final,20,3,1214,Alien (1979),0.005202283200204999,1.0,0.47063825,0.005202283200204999
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_candidates@30,candidate,30,1,1214,Alien (1979),0.47063825,,0.47063825,
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_candidates@30,candidate,30,2,1270,Back to the Future (1985),0.4628176,,0.4628176,
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_candidates@30,candidate,30,3,1580,Men in Black (a.k.a. MIB) (1997),0.44151458,,0.44151458,
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_qdrant+reranker@30,final,30,1,1580,Men in Black (a.k.a. MIB) (1997),0.010610670422466505,3.0,0.44151458,0.010610670422466505
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_qdrant+reranker@30,final,30,2,1270,Back to the Future (1985),0.008704555805402392,2.0,0.4628176,0.008704555805402392
+Q07,un film di fantascienza riflessivo sotto le due ore,mixed_constraints,D_full_enriched,dense_qdrant+reranker@30,final,30,3,1214,Alien (1979),0.005202283200204999,1.0,0.47063825,0.005202283200204999
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant,final,10,1,1036,Die Hard (1988),0.48040128,,0.48040128,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant,final,10,2,296,Pulp Fiction (1994),0.46342915,,0.46342915,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant,final,10,3,608,Fargo (1996),0.45398104,,0.45398104,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant,final,10,4,47,Seven (a.k.a. Se7en) (1995),0.44017765,,0.44017765,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant,final,10,5,2858,American Beauty (1999),0.44014496,,0.44014496,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant,final,10,6,4226,Memento (2000),0.43988615,,0.43988615,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant,final,10,7,4306,Shrek (2001),0.43702164,,0.43702164,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant,final,10,8,2571,"Matrix, The (1999)",0.43700883,,0.43700883,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant,final,10,9,2028,Saving Private Ryan (1998),0.43575293,,0.43575293,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant,final,10,10,377,Speed (1994),0.43470857,,0.43470857,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@10,candidate,10,1,1036,Die Hard (1988),0.48040128,,0.48040128,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@10,candidate,10,2,296,Pulp Fiction (1994),0.46342915,,0.46342915,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@10,candidate,10,3,608,Fargo (1996),0.45398104,,0.45398104,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@10,candidate,10,4,47,Seven (a.k.a. Se7en) (1995),0.44017765,,0.44017765,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@10,candidate,10,5,2858,American Beauty (1999),0.44014496,,0.44014496,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@10,candidate,10,6,4226,Memento (2000),0.43988615,,0.43988615,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@10,candidate,10,7,4306,Shrek (2001),0.43702164,,0.43702164,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@10,candidate,10,8,2571,"Matrix, The (1999)",0.43700883,,0.43700883,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@10,candidate,10,9,2028,Saving Private Ryan (1998),0.43575293,,0.43575293,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@10,candidate,10,10,377,Speed (1994),0.43470857,,0.43470857,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@10,final,10,1,377,Speed (1994),0.0032080090519332307,10.0,0.43470857,0.0032080090519332307
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@10,final,10,2,47,Seven (a.k.a. Se7en) (1995),0.002912325053433574,4.0,0.44017765,0.002912325053433574
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@10,final,10,3,4226,Memento (2000),0.002886900448100025,6.0,0.43988615,0.002886900448100025
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@10,final,10,4,4306,Shrek (2001),0.0028177906014786166,7.0,0.43702164,0.0028177906014786166
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@10,final,10,5,296,Pulp Fiction (1994),0.002672945016765554,2.0,0.46342915,0.002672945016765554
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@10,final,10,6,2571,"Matrix, The (1999)",0.0026408778200145725,8.0,0.43700883,0.0026408778200145725
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@10,final,10,7,2028,Saving Private Ryan (1998),0.002358192883009873,9.0,0.43575293,0.002358192883009873
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@10,final,10,8,608,Fargo (1996),0.001962790493136666,3.0,0.45398104,0.001962790493136666
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@10,final,10,9,1036,Die Hard (1988),0.0019098786952305518,1.0,0.48040128,0.0019098786952305518
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@10,final,10,10,2858,American Beauty (1999),0.001357725256248673,5.0,0.44014496,0.001357725256248673
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,1,1036,Die Hard (1988),0.48040128,,0.48040128,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,2,296,Pulp Fiction (1994),0.46342915,,0.46342915,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,3,608,Fargo (1996),0.45398104,,0.45398104,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,4,47,Seven (a.k.a. Se7en) (1995),0.44017765,,0.44017765,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,5,2858,American Beauty (1999),0.44014496,,0.44014496,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,6,4226,Memento (2000),0.43988615,,0.43988615,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,7,4306,Shrek (2001),0.43702164,,0.43702164,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,8,2571,"Matrix, The (1999)",0.43700883,,0.43700883,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,9,2028,Saving Private Ryan (1998),0.43575293,,0.43575293,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,10,377,Speed (1994),0.43470857,,0.43470857,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,11,2959,Fight Club (1999),0.4339493,,0.4339493,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,12,58559,"Dark Knight, The (2008)",0.4325542,,0.4325542,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,13,527,Schindler's List (1993),0.4324695,,0.4324695,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,14,590,Dances with Wolves (1990),0.42720252,,0.42720252,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,15,480,Jurassic Park (1993),0.42665172,,0.42665172,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,16,380,True Lies (1994),0.42530754,,0.42530754,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,17,367,"Mask, The (1994)",0.42249215,,0.42249215,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,18,1580,Men in Black (a.k.a. MIB) (1997),0.42223287,,0.42223287,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,19,1,Toy Story (1995),0.4216239,,0.4216239,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@20,candidate,20,20,50,"Usual Suspects, The (1995)",0.4198609,,0.4198609,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@20,final,20,1,480,Jurassic Park (1993),0.004117769029366774,15.0,0.42665172,0.004117769029366774
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@20,final,20,2,1580,Men in Black (a.k.a. MIB) (1997),0.004033774568185903,18.0,0.42223287,0.004033774568185903
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@20,final,20,3,380,True Lies (1994),0.003984248817492583,16.0,0.42530754,0.003984248817492583
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@20,final,20,4,58559,"Dark Knight, The (2008)",0.0033026921977620397,12.0,0.4325542,0.0033026921977620397
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@20,final,20,5,2959,Fight Club (1999),0.0032337369724866967,11.0,0.4339493,0.0032337369724866967
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@20,final,20,6,377,Speed (1994),0.0032080090519332307,10.0,0.43470857,0.0032080090519332307
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@20,final,20,7,47,Seven (a.k.a. Se7en) (1995),0.002912327822755771,4.0,0.44017765,0.002912327822755771
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@20,final,20,8,4226,Memento (2000),0.002886900448100025,6.0,0.43988615,0.002886900448100025
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@20,final,20,9,4306,Shrek (2001),0.0028177906014786166,7.0,0.43702164,0.0028177906014786166
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@20,final,20,10,296,Pulp Fiction (1994),0.002672945016765554,2.0,0.46342915,0.002672945016765554
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,1,1036,Die Hard (1988),0.48040128,,0.48040128,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,2,296,Pulp Fiction (1994),0.46342915,,0.46342915,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,3,608,Fargo (1996),0.45398104,,0.45398104,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,4,47,Seven (a.k.a. Se7en) (1995),0.44017765,,0.44017765,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,5,2858,American Beauty (1999),0.44014496,,0.44014496,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,6,4226,Memento (2000),0.43988615,,0.43988615,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,7,4306,Shrek (2001),0.43702164,,0.43702164,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,8,2571,"Matrix, The (1999)",0.43700883,,0.43700883,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,9,2028,Saving Private Ryan (1998),0.43575293,,0.43575293,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,10,377,Speed (1994),0.43470857,,0.43470857,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,11,2959,Fight Club (1999),0.4339493,,0.4339493,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,12,58559,"Dark Knight, The (2008)",0.4325542,,0.4325542,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,13,527,Schindler's List (1993),0.4324695,,0.4324695,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,14,590,Dances with Wolves (1990),0.42720252,,0.42720252,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,15,480,Jurassic Park (1993),0.42665172,,0.42665172,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,16,380,True Lies (1994),0.42530754,,0.42530754,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,17,367,"Mask, The (1994)",0.42249215,,0.42249215,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,18,1580,Men in Black (a.k.a. MIB) (1997),0.42223287,,0.42223287,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,19,1,Toy Story (1995),0.4216239,,0.4216239,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,20,50,"Usual Suspects, The (1995)",0.4198609,,0.4198609,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,21,356,Forrest Gump (1994),0.4186264,,0.4186264,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,22,318,"Shawshank Redemption, The (1994)",0.4127996,,0.4127996,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,23,165,Die Hard: With a Vengeance (1995),0.411216,,0.411216,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,24,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),0.41049933,,0.41049933,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,25,110,Braveheart (1995),0.41045994,,0.41045994,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,26,592,Batman (1989),0.40668172,,0.40668172,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,27,595,Beauty and the Beast (1991),0.40466097,,0.40466097,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,28,589,Terminator 2: Judgment Day (1991),0.4016005,,0.4016005,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,29,150,Apollo 13 (1995),0.40158612,,0.40158612,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_candidates@30,candidate,30,30,1270,Back to the Future (1985),0.39914697,,0.39914697,
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@30,final,30,1,592,Batman (1989),0.005669593483665272,26.0,0.40668172,0.005669593483665272
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@30,final,30,2,110,Braveheart (1995),0.004790729540718207,25.0,0.41045994,0.004790729540718207
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@30,final,30,3,150,Apollo 13 (1995),0.004443189974996722,29.0,0.40158612,0.004443189974996722
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@30,final,30,4,480,Jurassic Park (1993),0.004117769029366774,15.0,0.42665172,0.004117769029366774
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@30,final,30,5,1580,Men in Black (a.k.a. MIB) (1997),0.004033772652491533,18.0,0.42223287,0.004033772652491533
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@30,final,30,6,380,True Lies (1994),0.003984248817492583,16.0,0.42530754,0.003984248817492583
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@30,final,30,7,356,Forrest Gump (1994),0.0036550922980666646,21.0,0.4186264,0.0036550922980666646
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@30,final,30,8,1270,Back to the Future (1985),0.0035635162382697326,30.0,0.39914697,0.0035635162382697326
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@30,final,30,9,58559,"Dark Knight, The (2008)",0.0033026921977620397,12.0,0.4325542,0.0033026921977620397
+Q08,un film teso ma non horror,exclusion,D_full_enriched,dense_qdrant+reranker@30,final,30,10,2959,Fight Club (1999),0.0032337369724866967,11.0,0.4339493,0.0032337369724866967
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant,final,10,1,4226,Memento (2000),0.41572797,,0.41572797,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant,final,10,2,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.40168568,,0.40168568,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant,final,10,3,3578,Gladiator (2000),0.39702767,,0.39702767,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant,final,10,4,58559,"Dark Knight, The (2008)",0.39341658,,0.39341658,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant,final,10,5,4306,Shrek (2001),0.3790214,,0.3790214,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant,final,10,6,7153,"Lord of the Rings: The Return of the King, The (2003)",0.35320407,,0.35320407,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant,final,10,7,5952,"Lord of the Rings: The Two Towers, The (2002)",0.3441294,,0.3441294,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant,final,10,8,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.33670026,,0.33670026,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@10,candidate,10,1,4226,Memento (2000),0.41572797,,0.41572797,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@10,candidate,10,2,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.40168568,,0.40168568,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@10,candidate,10,3,3578,Gladiator (2000),0.39702767,,0.39702767,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@10,candidate,10,4,58559,"Dark Knight, The (2008)",0.39341658,,0.39341658,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@10,candidate,10,5,4306,Shrek (2001),0.3790214,,0.3790214,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@10,candidate,10,6,7153,"Lord of the Rings: The Return of the King, The (2003)",0.35320407,,0.35320407,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@10,candidate,10,7,5952,"Lord of the Rings: The Two Towers, The (2002)",0.3441294,,0.3441294,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@10,candidate,10,8,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.33670026,,0.33670026,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@10,final,10,1,3578,Gladiator (2000),0.05921920274453452,3.0,0.39702767,0.05921920274453452
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@10,final,10,2,7153,"Lord of the Rings: The Return of the King, The (2003)",0.02375363106252732,6.0,0.35320407,0.02375363106252732
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@10,final,10,3,58559,"Dark Knight, The (2008)",0.020933346112470958,4.0,0.39341658,0.020933346112470958
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@10,final,10,4,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.01871131531010205,8.0,0.33670026,0.01871131531010205
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@10,final,10,5,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.0184990726930925,2.0,0.40168568,0.0184990726930925
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@10,final,10,6,5952,"Lord of the Rings: The Two Towers, The (2002)",0.014603334453630898,7.0,0.3441294,0.014603334453630898
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@10,final,10,7,4306,Shrek (2001),0.014585826821149318,5.0,0.3790214,0.014585826821149318
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@10,final,10,8,4226,Memento (2000),0.013082655697929015,1.0,0.41572797,0.013082655697929015
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@20,candidate,20,1,4226,Memento (2000),0.41572797,,0.41572797,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@20,candidate,20,2,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.40168568,,0.40168568,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@20,candidate,20,3,3578,Gladiator (2000),0.39702767,,0.39702767,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@20,candidate,20,4,58559,"Dark Knight, The (2008)",0.39341658,,0.39341658,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@20,candidate,20,5,4306,Shrek (2001),0.3790214,,0.3790214,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@20,candidate,20,6,7153,"Lord of the Rings: The Return of the King, The (2003)",0.35320407,,0.35320407,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@20,candidate,20,7,5952,"Lord of the Rings: The Two Towers, The (2002)",0.3441294,,0.3441294,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@20,candidate,20,8,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.33670026,,0.33670026,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@20,final,20,1,3578,Gladiator (2000),0.05921920274453452,3.0,0.39702767,0.05921920274453452
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@20,final,20,2,7153,"Lord of the Rings: The Return of the King, The (2003)",0.02375363106252732,6.0,0.35320407,0.02375363106252732
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@20,final,20,3,58559,"Dark Knight, The (2008)",0.020933346112470958,4.0,0.39341658,0.020933346112470958
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@20,final,20,4,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.01871131531010205,8.0,0.33670026,0.01871131531010205
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@20,final,20,5,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.0184990726930925,2.0,0.40168568,0.0184990726930925
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@20,final,20,6,5952,"Lord of the Rings: The Two Towers, The (2002)",0.014603334453630898,7.0,0.3441294,0.014603334453630898
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@20,final,20,7,4306,Shrek (2001),0.014585826821149318,5.0,0.3790214,0.014585826821149318
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@20,final,20,8,4226,Memento (2000),0.013082655697929015,1.0,0.41572797,0.013082655697929015
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@30,candidate,30,1,4226,Memento (2000),0.41572797,,0.41572797,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@30,candidate,30,2,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.40168568,,0.40168568,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@30,candidate,30,3,3578,Gladiator (2000),0.39702767,,0.39702767,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@30,candidate,30,4,58559,"Dark Knight, The (2008)",0.39341658,,0.39341658,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@30,candidate,30,5,4306,Shrek (2001),0.3790214,,0.3790214,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@30,candidate,30,6,7153,"Lord of the Rings: The Return of the King, The (2003)",0.35320407,,0.35320407,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@30,candidate,30,7,5952,"Lord of the Rings: The Two Towers, The (2002)",0.3441294,,0.3441294,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_candidates@30,candidate,30,8,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.33670026,,0.33670026,
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@30,final,30,1,3578,Gladiator (2000),0.05921920274453452,3.0,0.39702767,0.05921920274453452
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@30,final,30,2,7153,"Lord of the Rings: The Return of the King, The (2003)",0.02375363106252732,6.0,0.35320407,0.02375363106252732
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@30,final,30,3,58559,"Dark Knight, The (2008)",0.020933346112470958,4.0,0.39341658,0.020933346112470958
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@30,final,30,4,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),0.01871131531010205,8.0,0.33670026,0.01871131531010205
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@30,final,30,5,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",0.0184990726930925,2.0,0.40168568,0.0184990726930925
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@30,final,30,6,5952,"Lord of the Rings: The Two Towers, The (2002)",0.014603334453630898,7.0,0.3441294,0.014603334453630898
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@30,final,30,7,4306,Shrek (2001),0.014585826821149318,5.0,0.3790214,0.014585826821149318
+Q09,un dramma moderno sulle relazioni familiari,year_constraint,D_full_enriched,dense_qdrant+reranker@30,final,30,8,4226,Memento (2000),0.013082655697929015,1.0,0.41572797,0.013082655697929015

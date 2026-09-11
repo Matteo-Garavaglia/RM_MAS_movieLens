@@ -1,0 +1,16 @@
+{
+  "pipeline_candidate": "D_full_enriched_dense_bge_reranker_v1",
+  "collection": "movies_d_full_enriched_dense_v1",
+  "qdrant_points": 50,
+  "integrity_checks_passed": true,
+  "all_queries_judged": true,
+  "missing_query_judgments": [],
+  "unjudged_query_movie_pairs": 0,
+  "evaluation_ready": true,
+  "queries_without_results": [],
+  "recommended_candidate_pool_size": 10,
+  "mean_ndcg_dense": 0.7873007445838425,
+  "mean_ndcg_reranked": 0.7549717105380922,
+  "delta_mean_ndcg": -0.03232903404575027,
+  "recommendation": "keep_dense_as_default"
+}
