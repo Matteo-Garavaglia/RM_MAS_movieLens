@@ -10,3 +10,9 @@ datasets/processed/
 # Qdrant
 qdrant/
 .cache/embeddings/
+
+# metadati 
+*.egg-info/
+
+# vecchie versioni src
+src/old/
