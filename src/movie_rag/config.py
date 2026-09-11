@@ -1,4 +1,4 @@
-"""Frozen configuration for the first Qdrant dense-retrieval baseline."""
+"""Versioned configuration for dense retrieval and runtime reranking."""
 
 from __future__ import annotations
 
@@ -99,3 +99,28 @@ class DenseBaselineConfig:
 
 BASELINE = DenseBaselineConfig()
 
+
+@dataclass(frozen=True)
+class RerankerConfig:
+    """Runtime cross-encoder choices for the first reranking experiment.
+
+    The dense baseline remains unchanged.  This configuration describes a
+    second-stage model that scores only the candidates returned by Qdrant.
+    """
+
+    name: str = "D_full_enriched_dense_bge_reranker"
+    version: str = "v1"
+    model_name: str = "BAAI/bge-reranker-v2-m3"
+    document_payload_field: str = "document"
+    candidate_pool_size: int = 20
+    top_k: int = 10
+    batch_size: int = 16
+    max_length: int = 1024
+    normalize_scores: bool = True
+
+    @property
+    def pipeline_name(self) -> str:
+        return f"{self.name}_{self.version}"
+
+
+RERANKER = RerankerConfig()
