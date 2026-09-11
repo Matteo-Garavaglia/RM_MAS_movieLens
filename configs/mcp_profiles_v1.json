@@ -1,0 +1,47 @@
+{
+  "contract_version": "movie-search/v1",
+  "default_profile": "dense_v1",
+  "profiles": {
+    "dense_v1": {
+      "pipeline": "dense",
+      "encoder_provider": "bge_m3",
+      "embedding_model": "BAAI/bge-m3",
+      "embedding_dimension": 1024,
+      "collection_name": "movies_d_full_enriched_dense_v1",
+      "vector_name": "dense",
+      "experiment_name": "D_full_enriched",
+      "version": "v1",
+      "query_max_length": 512,
+      "normalize_embeddings": true,
+      "default_limit": 10,
+      "max_limit": 20,
+      "exact": true,
+      "score_threshold": null
+    },
+    "dense_rerank_v1": {
+      "pipeline": "dense_rerank",
+      "encoder_provider": "bge_m3",
+      "embedding_model": "BAAI/bge-m3",
+      "embedding_dimension": 1024,
+      "collection_name": "movies_d_full_enriched_dense_v1",
+      "vector_name": "dense",
+      "experiment_name": "D_full_enriched",
+      "version": "v1",
+      "query_max_length": 512,
+      "normalize_embeddings": true,
+      "default_limit": 10,
+      "max_limit": 20,
+      "exact": true,
+      "score_threshold": null,
+      "reranker": {
+        "provider": "flag_embedding",
+        "model_name": "BAAI/bge-reranker-v2-m3",
+        "candidate_pool_size": 20,
+        "batch_size": 16,
+        "max_length": 1024,
+        "normalize_scores": true,
+        "version": "v1"
+      }
+    }
+  }
+}

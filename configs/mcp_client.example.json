@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "movie-rag": {
+      "command": "/ABSOLUTE/PATH/TO/.venv/bin/movie-rag-mcp",
+      "cwd": "/ABSOLUTE/PATH/TO/movie_rag_qdrant",
+      "env": {
+        "QDRANT_URL": "http://localhost:6333",
+        "MOVIE_RAG_PROFILE": "dense_v1",
+        "MOVIE_RAG_PROFILES_PATH": "configs/mcp_profiles_v1.json",
+        "MOVIE_RAG_ENABLE_EXPERIMENTAL_TOOLS": "false"
+      }
+    }
+  }
+}

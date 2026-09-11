@@ -75,6 +75,58 @@ def _validate_existing_collection(
         raise ValueError(f"Collection distance is {params.distance}; expected Cosine")
 
 
+def validate_dense_collection(
+    client: Any,
+    collection_name: str = BASELINE.collection_name,
+    config: DenseBaselineConfig = BASELINE,
+) -> None:
+    """Validate an existing collection without creating, deleting or updating it."""
+
+    if not client.collection_exists(collection_name):
+        raise RuntimeError(
+            f"Qdrant collection {collection_name!r} does not exist. "
+            "Run the indexing notebook before starting the retrieval service."
+        )
+    _validate_existing_collection(client, collection_name, config)
+
+    models = _models()
+    expected_provenance = models.Filter(
+        must=[
+            models.FieldCondition(
+                key="embedding_model",
+                match=models.MatchValue(value=config.embedding_model),
+            ),
+            models.FieldCondition(
+                key="representation_version",
+                match=models.MatchValue(value=config.representation_version),
+            ),
+            models.FieldCondition(
+                key="payload_schema_version",
+                match=models.MatchValue(value=config.payload_schema_version),
+            ),
+        ]
+    )
+    collection_points = int(
+        client.count(collection_name=collection_name, exact=True).count
+    )
+    if collection_points == 0:
+        raise RuntimeError(f"Qdrant collection {collection_name!r} is empty")
+    matching_points = int(
+        client.count(
+            collection_name=collection_name,
+            count_filter=expected_provenance,
+            exact=True,
+        ).count
+    )
+    if matching_points != collection_points:
+        raise ValueError(
+            f"Collection {collection_name!r} contains {collection_points} points, but "
+            f"only {matching_points} match embedding model {config.embedding_model!r}, "
+            f"representation {config.representation_version!r} and payload schema "
+            f"{config.payload_schema_version!r}"
+        )
+
+
 def ensure_dense_collection(
     client: Any,
     collection_name: str = BASELINE.collection_name,

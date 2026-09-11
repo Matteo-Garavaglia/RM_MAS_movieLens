@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "movie-rag"
+version = "0.3.0"
+description = "Versioned BGE-M3/Qdrant retrieval with optional reranking and an MCP server"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=2.0,<3",
+    "pandas>=2.2,<4",
+    "pydantic>=2.12,<3",
+    "qdrant-client==1.19.0",
+]
+
+[project.optional-dependencies]
+bge = ["FlagEmbedding==1.4.2"]
+mcp = ["mcp>=2,<3"]
+test = ["pytest>=8,<10", "anyio>=4.9,<5"]
+
+[project.scripts]
+movie-rag-mcp = "movie_rag.mcp_server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

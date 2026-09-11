@@ -1,0 +1,2 @@
+# Runtime dependencies for the local MCP server, including BGE models.
+-e .[bge,mcp]

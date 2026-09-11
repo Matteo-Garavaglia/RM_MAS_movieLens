@@ -1,0 +1,45 @@
+{
+  "pipeline_id": "D_full_enriched_dense_bge_reranker_v1",
+  "status": "experimental_candidate_before_mcp",
+  "candidate_retrieval": {
+    "baseline_id": "D_full_enriched_dense_v1",
+    "source": "Qdrant",
+    "collection": "movies_d_full_enriched_dense_v1",
+    "named_vector": "dense",
+    "filters_applied_before_retrieval": true,
+    "candidate_pool_default": 20,
+    "candidate_pool_values_to_evaluate": [10, 20, 30]
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "library": "FlagEmbedding==1.4.2",
+    "input": "pairs of raw user query and D_full_enriched payload document",
+    "batch_size": 16,
+    "max_length": 1024,
+    "normalize_scores": true,
+    "final_top_k": 10,
+    "stored_in_qdrant": false
+  },
+  "score_contract": {
+    "rank": "final rank after reranking",
+    "score": "alias of reranker_score for the final pipeline",
+    "reranker_score": "query-document cross-encoder score after sigmoid",
+    "dense_rank": "rank in the Qdrant candidate list",
+    "dense_score": "Qdrant cosine score"
+  },
+  "acceptance_checks": [
+    "Every final movie is a member of the corresponding dense candidate pool.",
+    "Ranks are contiguous and deterministic; reranker ties preserve dense order.",
+    "Structured filters are applied before candidate retrieval and cannot be undone by reranking.",
+    "NDCG@10 is compared with the frozen dense baseline using the same relevance judgments.",
+    "Expected query/system runs with zero retrieved items are scored as empty runs instead of being omitted.",
+    "New query-document pairs from the maximum candidate pool are manually judged before definitive metrics are computed.",
+    "Candidate Recall@N and latency are reported for every evaluated pool size.",
+    "A single candidate pool size is selected before the MCP interface is frozen."
+  ],
+  "open_evaluation_items": [
+    "Complete relevance judgments for every test query; the previous metric output covered 9 of 10 queries.",
+    "Run the real model and decide whether its quality gain justifies added latency.",
+    "Select one candidate_pool_size using quality, per-query deltas and latency."
+  ]
+}
