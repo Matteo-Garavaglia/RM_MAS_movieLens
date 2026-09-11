@@ -1,0 +1,62 @@
+{
+  "baseline_id": "D_full_enriched_dense_v1",
+  "status": "provisional_baseline_for_qdrant_migration",
+  "source_notebook": "04_retrieval_ablation_50_movies.ipynb",
+  "selected_configuration": {
+    "experiment": "D_full_enriched",
+    "retrieval_system": "dense",
+    "embedding_model": "BAAI/bge-m3",
+    "vector_dimension": 1024,
+    "document_max_length": 1024,
+    "query_max_length": 512,
+    "normalized_vectors": true,
+    "distance": "Cosine",
+    "document_fields_in_order": [
+      ["Title", "canonical_title"],
+      ["genres", "tmdb_genres"],
+      ["Overview", "overview"],
+      ["Tagline", "tagline"],
+      ["keywords", "tmdb_keyword_text"],
+      ["user tags", "ml_tags"],
+      ["Directors", "directors"],
+      ["Writers", "writers"],
+      ["Composers", "composers"],
+      ["Main cast", "cast_top"],
+      ["Main characters", "cast_characters_top"],
+      ["Collection", "collection_name"],
+      ["Production companies", "production_companies"]
+    ]
+  },
+  "observed_mean_metrics_at_10": {
+    "ndcg": 0.806716,
+    "recall": 0.793732,
+    "precision": 0.5
+  },
+  "evaluation_scope": {
+    "catalog_movies": 50,
+    "defined_queries": 10,
+    "queries_present_in_metric_output": 9,
+    "relevance_scale": [0, 1, 2],
+    "ground_truth": "manual_pooling"
+  },
+  "recorded_environment": {
+    "pandas": "3.0.5",
+    "numpy": "2.5.1",
+    "scikit-learn": "1.9.0",
+    "rank-bm25": "0.2.2",
+    "FlagEmbedding": "1.4.2",
+    "torch": "2.13.0"
+  },
+  "qdrant_target": {
+    "server": "1.19.1",
+    "python_client": "1.19.0",
+    "collection": "movies_d_full_enriched_dense_v1",
+    "named_vector": "dense"
+  },
+  "limitations": [
+    "This is a provisional engineering baseline, not the final scientific conclusion.",
+    "The catalog contains only 50 movies.",
+    "One defined query did not appear in the saved metric output.",
+    "Qdrant equivalence must be checked before adding sparse retrieval, reranking, MCP or an LLM."
+  ]
+}
