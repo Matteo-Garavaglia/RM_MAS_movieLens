@@ -1,0 +1,20 @@
+{
+  "servers": {
+    "movieRag": {
+      "type": "stdio",
+      "command": "${workspaceFolder}/.venv/bin/python3",
+      "args": [
+        "-m",
+        "movie_rag.mcp_server"
+      ],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}/src",
+        "QDRANT_URL": "http://localhost:6333",
+        "MOVIE_RAG_PROFILE": "dense_v1",
+        "MOVIE_RAG_PROFILES_PATH": "${workspaceFolder}/configs/mcp_profiles_v1.json",
+        "MOVIE_RAG_ENABLE_EXPERIMENTAL_TOOLS": "false"
+      }
+    }
+  }
+}
