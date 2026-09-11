@@ -6,3 +6,7 @@ datasets/processed/
 
 # System files
 .DS_Store
+
+# Qdrant
+qdrant/
+.cache/embeddings/
