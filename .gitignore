@@ -7,6 +7,12 @@ datasets/processed/
 # System files
 .DS_Store
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
 # Qdrant
 qdrant/
 .cache/embeddings/
