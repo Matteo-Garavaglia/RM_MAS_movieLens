@@ -1,0 +1,56 @@
+{
+  "contract_version": "movie-llm/v1",
+  "turn_id": "54e5aa66-554d-40dd-a791-204afdaef642",
+  "workflow_id": "grounded_v1",
+  "original_query": "Non so bene che film cercare",
+  "catalog_language": "en",
+  "query_rewrite_strategy": "none",
+  "status": "clarification_required",
+  "plan": {
+    "action": "clarify",
+    "detected_language": "it",
+    "semantic_query": null,
+    "semantic_query_language": null,
+    "rewrite_strategy": "none",
+    "filters": {
+      "min_runtime": null,
+      "max_runtime": null,
+      "min_year": null,
+      "max_year": null,
+      "languages": [],
+      "countries": [],
+      "include_genres": [],
+      "exclude_genres": [],
+      "adult": null
+    },
+    "ambiguities": [
+      "The user's request is extremely broad ('I don't really know what movie to look for') without any specific themes, genres, moods, or constraints."
+    ],
+    "clarification_question": "Che genere di film hai voglia di vedere stasera? Ti piacciono le commedie, i thriller, i film d'azione o qualcos'altro?",
+    "reason": "The user request lacks any specific semantic content or constraints to perform a meaningful search, requiring clarification to understand their preferences."
+  },
+  "search_history": [],
+  "details_response": null,
+  "critique": null,
+  "final_answer": null,
+  "retry_count": 0,
+  "llm_traces": [
+    {
+      "agent": "planner",
+      "provider": "gemini",
+      "profile_id": "gemini_free",
+      "model": "gemini-3.5-flash-lite",
+      "prompt_version": "planner_v1",
+      "started_at": "2026-09-16T14:33:51.535095Z",
+      "duration_ms": 2137.047917000018,
+      "usage": {
+        "input_tokens": 431,
+        "output_tokens": 178,
+        "total_tokens": 609
+      },
+      "request_id": "0KiqatrtH-60vdIPnpnYmQ0"
+    }
+  ],
+  "tool_traces": [],
+  "error": null
+}

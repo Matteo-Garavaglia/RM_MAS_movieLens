@@ -1,0 +1,4 @@
+# Local MCP server, BGE retrieval and both supported LLM providers.
+# For Gemini only, replace `llm` with `llm-gemini`; for OpenAI only use
+# `llm-openai`.
+-e .[bge,mcp,llm,test]

@@ -20,7 +20,7 @@ from .mcp_contract import (
 from .mcp_service import MovieSearchServiceRegistry
 
 
-SERVER_VERSION = "0.3.0"
+SERVER_VERSION = "0.4.0"
 EXPERIMENTAL_TOOLS_ENV_VAR = "MOVIE_RAG_ENABLE_EXPERIMENTAL_TOOLS"
 TRANSPORT_ENV_VAR = "MOVIE_RAG_MCP_TRANSPORT"
 
@@ -204,4 +204,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

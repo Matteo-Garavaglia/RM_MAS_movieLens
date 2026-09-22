@@ -1,0 +1,387 @@
+prompt: utilizzando il tool appena avviato dei film riesci a trovare un film appassionante sull'amore che duri più di 1 ora?
+
+query MCP: {
+  "query": "un film appassionante sull'amore, con una storia romantica coinvolgente e intensa",
+  "filters": {
+    "min_runtime": 61
+  },
+  "limit": 10
+}
+
+output:
+{
+  "contract_version": "movie-search/v1",
+  "status": "ok",
+  "query": "un film appassionante sull'amore, con una storia romantica coinvolgente e intensa",
+  "applied_filters": {
+    "min_runtime": 61.0,
+    "max_runtime": null,
+    "min_year": null,
+    "max_year": null,
+    "languages": [],
+    "countries": [],
+    "include_genres": [],
+    "exclude_genres": [],
+    "adult": null
+  },
+  "requested_limit": 10,
+  "returned_count": 10,
+  "pipeline": {
+    "profile_id": "dense_v1",
+    "pipeline": "dense",
+    "vector_store": "qdrant",
+    "collection_name": "movies_d_full_enriched_dense_v1",
+    "representation_version": "D_full_enriched_v1",
+    "encoder_model": "BAAI/bge-m3",
+    "reranker_enabled": false,
+    "reranker_model": null,
+    "candidate_pool_size": null,
+    "exact": true,
+    "score_threshold": null
+  },
+  "results": [
+    {
+      "rank": 1,
+      "dense_rank": 1,
+      "movie_id": 110,
+      "title": "Braveheart (1995)",
+      "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+      "year": 1995,
+      "runtime_minutes": 178,
+      "genres": [
+        "Action",
+        "Drama",
+        "War",
+        "History"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Mel Gibson"
+      ],
+      "main_cast": [
+        "Mel Gibson",
+        "Catherine McCormack",
+        "Sophie Marceau",
+        "Patrick McGoohan",
+        "Angus Macfadyen"
+      ],
+      "scores": {
+        "final": 0.51839864,
+        "dense": 0.51839864,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 2,
+      "dense_rank": 2,
+      "movie_id": 595,
+      "title": "Beauty and the Beast (1991)",
+      "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+      "year": 1991,
+      "runtime_minutes": 84,
+      "genres": [
+        "Animation",
+        "Children",
+        "Fantasy",
+        "Musical",
+        "Romance",
+        "IMAX",
+        "Family"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Gary Trousdale",
+        "Kirk Wise"
+      ],
+      "main_cast": [
+        "Paige O'Hara",
+        "Robby Benson",
+        "Richard White",
+        "Jerry Orbach",
+        "David Ogden Stiers"
+      ],
+      "scores": {
+        "final": 0.49824142,
+        "dense": 0.49824142,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 3,
+      "dense_rank": 3,
+      "movie_id": 150,
+      "title": "Apollo 13 (1995)",
+      "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+      "year": 1995,
+      "runtime_minutes": 140,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "IMAX",
+        "History"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Ron Howard"
+      ],
+      "main_cast": [
+        "Tom Hanks",
+        "Bill Paxton",
+        "Kevin Bacon",
+        "Gary Sinise",
+        "Ed Harris"
+      ],
+      "scores": {
+        "final": 0.49487695,
+        "dense": 0.49487695,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 4,
+      "dense_rank": 4,
+      "movie_id": 2858,
+      "title": "American Beauty (1999)",
+      "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+      "year": 1999,
+      "runtime_minutes": 122,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Sam Mendes"
+      ],
+      "main_cast": [
+        "Kevin Spacey",
+        "Annette Bening",
+        "Thora Birch",
+        "Wes Bentley",
+        "Mena Suvari"
+      ],
+      "scores": {
+        "final": 0.48599887,
+        "dense": 0.48599887,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 5,
+      "dense_rank": 5,
+      "movie_id": 1036,
+      "title": "Die Hard (1988)",
+      "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+      "year": 1988,
+      "runtime_minutes": 132,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "John McTiernan"
+      ],
+      "main_cast": [
+        "Bruce Willis",
+        "Alan Rickman",
+        "Alexander Godunov",
+        "Bonnie Bedelia",
+        "Reginald VelJohnson"
+      ],
+      "scores": {
+        "final": 0.47530544,
+        "dense": 0.47530544,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 6,
+      "dense_rank": 6,
+      "movie_id": 296,
+      "title": "Pulp Fiction (1994)",
+      "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "year": 1994,
+      "runtime_minutes": 154,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "main_cast": [
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Uma Thurman",
+        "Bruce Willis",
+        "Ving Rhames"
+      ],
+      "scores": {
+        "final": 0.46622646,
+        "dense": 0.46622646,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 7,
+      "dense_rank": 7,
+      "movie_id": 527,
+      "title": "Schindler's List (1993)",
+      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "year": 1993,
+      "runtime_minutes": 195,
+      "genres": [
+        "Drama",
+        "War",
+        "History"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "main_cast": [
+        "Liam Neeson",
+        "Ben Kingsley",
+        "Ralph Fiennes",
+        "Caroline Goodall",
+        "Jonathan Sagall"
+      ],
+      "scores": {
+        "final": 0.46388406,
+        "dense": 0.46388406,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 8,
+      "dense_rank": 8,
+      "movie_id": 380,
+      "title": "True Lies (1994)",
+      "overview": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
+      "year": 1994,
+      "runtime_minutes": 141,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Thriller"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "James Cameron"
+      ],
+      "main_cast": [
+        "Arnold Schwarzenegger",
+        "Jamie Lee Curtis",
+        "Tom Arnold",
+        "Bill Paxton",
+        "Tia Carrere"
+      ],
+      "scores": {
+        "final": 0.4609636,
+        "dense": 0.4609636,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 9,
+      "dense_rank": 9,
+      "movie_id": 2028,
+      "title": "Saving Private Ryan (1998)",
+      "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+      "year": 1998,
+      "runtime_minutes": 169,
+      "genres": [
+        "Action",
+        "Drama",
+        "War",
+        "History"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "main_cast": [
+        "Tom Hanks",
+        "Tom Sizemore",
+        "Edward Burns",
+        "Barry Pepper",
+        "Adam Goldberg"
+      ],
+      "scores": {
+        "final": 0.45787174,
+        "dense": 0.45787174,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 10,
+      "dense_rank": 10,
+      "movie_id": 2959,
+      "title": "Fight Club (1999)",
+      "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+      "year": 1999,
+      "runtime_minutes": 139,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US",
+        "DE"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "main_cast": [
+        "Edward Norton",
+        "Brad Pitt",
+        "Helena Bonham Carter",
+        "Meat Loaf",
+        "Jared Leto"
+      ],
+      "scores": {
+        "final": 0.4516284,
+        "dense": 0.4516284,
+        "reranker": null
+      }
+    }
+  ],
+  "message": null
+}

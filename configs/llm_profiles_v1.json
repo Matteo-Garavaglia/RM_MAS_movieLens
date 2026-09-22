@@ -1,0 +1,64 @@
+{
+  "contract_version": "movie-llm/v1",
+  "default_workflow": "grounded_v1",
+  "llm_profiles": {
+    "gemini_free": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite",
+      "api_key_env": "GEMINI_API_KEY",
+      "temperature": 0.0,
+      "max_output_tokens": 2048,
+      "timeout_seconds": 60.0
+    },
+    "gemini_free_pro": {
+      "provider": "gemini",
+      "model": "gemini-3.6-flash",
+      "api_key_env": "GEMINI_API_KEY",
+      "temperature": 0.0,
+      "max_output_tokens": 2048,
+      "timeout_seconds": 60.0
+    },
+    "openai_default": {
+      "provider": "openai",
+      "model": "gpt-4.1-mini",
+      "api_key_env": "OPENAI_API_KEY",
+      "base_url_env": "OPENAI_BASE_URL",
+      "temperature": 0.0,
+      "max_output_tokens": 2048,
+      "timeout_seconds": 60.0
+    }
+  },
+  "agents": {
+    "planner": {
+      "llm_profile": "gemini_free",
+      "prompt_resource": "prompts/planner_v1.txt",
+      "prompt_version": "planner_v1",
+      "enabled": true
+    },
+    "critic": {
+      "llm_profile": "gemini_free",
+      "prompt_resource": "prompts/critic_v1.txt",
+      "prompt_version": "critic_v1",
+      "enabled": true
+    },
+    "answer": {
+      "llm_profile": "gemini_free",
+      "prompt_resource": "prompts/answer_v1.txt",
+      "prompt_version": "answer_v1",
+      "enabled": true
+    }
+  },
+  "workflows": {
+    "grounded_v1": {
+      "planner_agent": "planner",
+      "critic_agent": "critic",
+      "answer_agent": "answer",
+      "enable_critic": false,
+      "max_retries": 1,
+      "search_limit": 10,
+      "details_limit": 5,
+      "catalog_language": "en",
+      "query_rewrite_strategy": "none"
+    }
+  }
+}

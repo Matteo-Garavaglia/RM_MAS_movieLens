@@ -1,0 +1,387 @@
+prompt: usa il mcp di ricerca film per trovare una film controverso che parli di lotta contro la società moderna
+
+query MCP: 
+{
+  "query": "controversial film about rebellion against modern society, alienation, conformity, consumerism, or rejecting mainstream social norms",
+  "limit": 10
+}
+
+output:
+{
+  "contract_version": "movie-search/v1",
+  "status": "ok",
+  "query": "controversial film about rebellion against modern society, alienation, conformity, consumerism, or rejecting mainstream social norms",
+  "applied_filters": {
+    "min_runtime": null,
+    "max_runtime": null,
+    "min_year": null,
+    "max_year": null,
+    "languages": [],
+    "countries": [],
+    "include_genres": [],
+    "exclude_genres": [],
+    "adult": null
+  },
+  "requested_limit": 10,
+  "returned_count": 10,
+  "pipeline": {
+    "profile_id": "dense_v1",
+    "pipeline": "dense",
+    "vector_store": "qdrant",
+    "collection_name": "movies_d_full_enriched_dense_v1",
+    "representation_version": "D_full_enriched_v1",
+    "encoder_model": "BAAI/bge-m3",
+    "reranker_enabled": false,
+    "reranker_model": null,
+    "candidate_pool_size": null,
+    "exact": true,
+    "score_threshold": null
+  },
+  "results": [
+    {
+      "rank": 1,
+      "dense_rank": 1,
+      "movie_id": 2571,
+      "title": "Matrix, The (1999)",
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "year": 1999,
+      "runtime_minutes": 136,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "main_cast": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving",
+        "Gloria Foster"
+      ],
+      "scores": {
+        "final": 0.53304756,
+        "dense": 0.53304756,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 2,
+      "dense_rank": 2,
+      "movie_id": 296,
+      "title": "Pulp Fiction (1994)",
+      "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "year": 1994,
+      "runtime_minutes": 154,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "main_cast": [
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Uma Thurman",
+        "Bruce Willis",
+        "Ving Rhames"
+      ],
+      "scores": {
+        "final": 0.53130066,
+        "dense": 0.53130066,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 3,
+      "dense_rank": 3,
+      "movie_id": 2959,
+      "title": "Fight Club (1999)",
+      "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+      "year": 1999,
+      "runtime_minutes": 139,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US",
+        "DE"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "main_cast": [
+        "Edward Norton",
+        "Brad Pitt",
+        "Helena Bonham Carter",
+        "Meat Loaf",
+        "Jared Leto"
+      ],
+      "scores": {
+        "final": 0.5273817,
+        "dense": 0.5273817,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 4,
+      "dense_rank": 4,
+      "movie_id": 589,
+      "title": "Terminator 2: Judgment Day (1991)",
+      "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+      "year": 1991,
+      "runtime_minutes": 137,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "original_language": "en",
+      "countries": [
+        "FR",
+        "US"
+      ],
+      "directors": [
+        "James Cameron"
+      ],
+      "main_cast": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong",
+        "Robert Patrick",
+        "Earl Boen"
+      ],
+      "scores": {
+        "final": 0.52375776,
+        "dense": 0.52375776,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 5,
+      "dense_rank": 5,
+      "movie_id": 592,
+      "title": "Batman (1989)",
+      "overview": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+      "year": 1989,
+      "runtime_minutes": 126,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
+        "Fantasy"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Tim Burton"
+      ],
+      "main_cast": [
+        "Michael Keaton",
+        "Jack Nicholson",
+        "Kim Basinger",
+        "Robert Wuhl",
+        "Pat Hingle"
+      ],
+      "scores": {
+        "final": 0.52290964,
+        "dense": 0.52290964,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 6,
+      "dense_rank": 6,
+      "movie_id": 1270,
+      "title": "Back to the Future (1985)",
+      "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+      "year": 1985,
+      "runtime_minutes": 116,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi",
+        "Science Fiction"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "main_cast": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Crispin Glover",
+        "Lea Thompson",
+        "Claudia Wells"
+      ],
+      "scores": {
+        "final": 0.51046073,
+        "dense": 0.51046073,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 7,
+      "dense_rank": 7,
+      "movie_id": 58559,
+      "title": "Dark Knight, The (2008)",
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "year": 2008,
+      "runtime_minutes": 152,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "IMAX",
+        "Thriller"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US",
+        "GB"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "main_cast": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart",
+        "Michael Caine",
+        "Maggie Gyllenhaal"
+      ],
+      "scores": {
+        "final": 0.50300276,
+        "dense": 0.50300276,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 8,
+      "dense_rank": 8,
+      "movie_id": 32,
+      "title": "Twelve Monkeys (a.k.a. 12 Monkeys) (1995)",
+      "overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+      "year": 1995,
+      "runtime_minutes": 129,
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "main_cast": [
+        "Bruce Willis",
+        "Madeleine Stowe",
+        "Brad Pitt",
+        "Christopher Plummer",
+        "David Morse"
+      ],
+      "scores": {
+        "final": 0.49978277,
+        "dense": 0.49978277,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 9,
+      "dense_rank": 9,
+      "movie_id": 110,
+      "title": "Braveheart (1995)",
+      "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+      "year": 1995,
+      "runtime_minutes": 178,
+      "genres": [
+        "Action",
+        "Drama",
+        "War",
+        "History"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "Mel Gibson"
+      ],
+      "main_cast": [
+        "Mel Gibson",
+        "Catherine McCormack",
+        "Sophie Marceau",
+        "Patrick McGoohan",
+        "Angus Macfadyen"
+      ],
+      "scores": {
+        "final": 0.49897256,
+        "dense": 0.49897256,
+        "reranker": null
+      }
+    },
+    {
+      "rank": 10,
+      "dense_rank": 10,
+      "movie_id": 47,
+      "title": "Seven (a.k.a. Se7en) (1995)",
+      "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+      "year": 1995,
+      "runtime_minutes": 127,
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Crime"
+      ],
+      "original_language": "en",
+      "countries": [
+        "US"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "main_cast": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Gwyneth Paltrow",
+        "John Cassini",
+        "Peter Crombie"
+      ],
+      "scores": {
+        "final": 0.49856368,
+        "dense": 0.49856368,
+        "reranker": null
+      }
+    }
+  ],
+  "message": null
+}
