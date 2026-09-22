@@ -1,0 +1,5 @@
+numpy>=2.0,<3
+pandas>=2.2,<4
+qdrant-client==1.19.0
+FlagEmbedding==1.4.2
+
