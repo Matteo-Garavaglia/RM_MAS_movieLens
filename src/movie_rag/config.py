@@ -10,6 +10,23 @@ DocumentField = tuple[str, str]
 
 # Exact field order and labels used by the winning notebook configuration.
 D_FULL_ENRICHED_FIELDS: tuple[DocumentField, ...] = (
+    ("Title", "tmdb_title"),
+    ("genres", "tmdb_genres"),
+    ("Overview", "overview"),
+    ("Tagline", "tagline"),
+    ("keywords", "tmdb_keyword_text"),
+    ("user tags", "ml_tags"),
+    ("Directors", "directors"),
+    ("Writers", "writers"),
+    ("Composers", "composers"),
+    ("Main cast", "cast_top"),
+    ("Main characters", "cast_characters_top"),
+    ("Collection", "collection_name"),
+    ("Production companies", "production_companies"),
+)
+
+# Exact field order and labels used by the winning notebook configuration.
+OLD_D_FULL_ENRICHED_FIELDS: tuple[DocumentField, ...] = (
     ("Title", "canonical_title"),
     ("genres", "tmdb_genres"),
     ("Overview", "overview"),
@@ -75,12 +92,41 @@ class DenseBaselineConfig:
     """Versioned choices carried from the ablation notebook to Qdrant."""
 
     name: str = "D_full_enriched_dense"
+    version: str = "v2"
+    experiment_name: str = "D_full_enriched"
+    document_column: str = "document__D_full_enriched"
+    id_column: str = "movieId"
+    title_column: str = "tmdb_title"
+    document_fields: tuple[DocumentField, ...] = D_FULL_ENRICHED_FIELDS
+    embedding_model: str = "BAAI/bge-m3"
+    embedding_dimension: int = 1024
+    document_max_length: int = 1024
+    query_max_length: int = 512
+    embedding_batch_size: int = 16
+    normalize_embeddings: bool = True
+    vector_name: str = "dense"
+    distance: str = "Cosine"
+    collection_name: str = "movies_d_full_enriched_dense_v2"
+    payload_schema_version: str = "movie_payload_v2"
+
+    @property
+    def representation_version(self) -> str:
+        return f"{self.experiment_name}_{self.version}"
+
+
+BASELINE = DenseBaselineConfig()
+
+@dataclass(frozen=True)
+class Old_DenseBaselineConfig:
+    """Versioned choices carried from the ablation notebook to Qdrant."""
+
+    name: str = "D_full_enriched_dense"
     version: str = "v1"
     experiment_name: str = "D_full_enriched"
     document_column: str = "document__D_full_enriched"
     id_column: str = "movieId"
     title_column: str = "canonical_title"
-    document_fields: tuple[DocumentField, ...] = D_FULL_ENRICHED_FIELDS
+    document_fields: tuple[DocumentField, ...] = OLD_D_FULL_ENRICHED_FIELDS
     embedding_model: str = "BAAI/bge-m3"
     embedding_dimension: int = 1024
     document_max_length: int = 1024
@@ -97,8 +143,7 @@ class DenseBaselineConfig:
         return f"{self.experiment_name}_{self.version}"
 
 
-BASELINE = DenseBaselineConfig()
-
+OLD_BASELINE = Old_DenseBaselineConfig()
 
 @dataclass(frozen=True)
 class RerankerConfig:

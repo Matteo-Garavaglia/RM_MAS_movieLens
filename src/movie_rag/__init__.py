@@ -3,8 +3,10 @@
 from .config import (
     BASELINE,
     D_FULL_ENRICHED_FIELDS,
+    OLD_D_FULL_ENRICHED_FIELDS,
     RERANKER,
     DenseBaselineConfig,
+    Old_DenseBaselineConfig,
     RerankerConfig,
 )
 from .documents import catalog_fingerprint, prepare_catalog
@@ -100,8 +102,10 @@ from .validation import validate_query_set
 __all__ = [
     "BASELINE",
     "D_FULL_ENRICHED_FIELDS",
+    "OLD_D_FULL_ENRICHED_FIELDS",
     "RERANKER",
     "DenseBaselineConfig",
+    "Old_DenseBaselineConfig",
     "RerankerConfig",
     "prepare_catalog",
     "catalog_fingerprint",
