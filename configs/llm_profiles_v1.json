@@ -20,10 +20,9 @@
     },
     "openai_default": {
       "provider": "openai",
-      "model": "gpt-4.1-mini",
+      "model": "gpt-5.6-luna",
       "api_key_env": "OPENAI_API_KEY",
       "base_url_env": "OPENAI_BASE_URL",
-      "temperature": 0.0,
       "max_output_tokens": 2048,
       "timeout_seconds": 60.0
     }

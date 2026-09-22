@@ -91,7 +91,7 @@ ricalcola gli embedding dei documenti e non esegue un nuovo upsert.
 Per il notebook 08 con Gemini:
 
 ```bash
-python -m pip install -e ".[bge,mcp,llm-gemini,test]"
+python -m pip install -e ".[bge,mcp,llm-gemini,llm-openai,test]"
 ```
 
 Creare un `.env` locale non versionato:

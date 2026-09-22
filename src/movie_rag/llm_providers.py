@@ -138,7 +138,7 @@ class _BaseProvider:
         self.profile = profile
 
     def _temperature(self, override: float | None) -> float | None:
-        return self.profile.temperature if override is None else override
+        return override
 
     def _max_tokens(self, override: int | None) -> int:
         return self.profile.max_output_tokens if override is None else override
