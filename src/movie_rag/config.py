@@ -10,7 +10,7 @@ DocumentField = tuple[str, str]
 
 # Exact field order and labels used by the winning notebook configuration.
 D_FULL_ENRICHED_FIELDS: tuple[DocumentField, ...] = (
-    ("Title", "tmdb_title"),
+    ("Title", "canonical_title"),
     ("genres", "tmdb_genres"),
     ("Overview", "overview"),
     ("Tagline", "tagline"),
@@ -25,9 +25,13 @@ D_FULL_ENRICHED_FIELDS: tuple[DocumentField, ...] = (
     ("Production companies", "production_companies"),
 )
 
-# Exact field order and labels used by the winning notebook configuration.
-OLD_D_FULL_ENRICHED_FIELDS: tuple[DocumentField, ...] = (
-    ("Title", "canonical_title"),
+
+# Experimental v2 representation used by the 2k-film ablation study.
+# It intentionally does not replace BASELINE yet: notebooks 05-08 and the
+# current Qdrant/MCP pipeline remain pinned to v1 until the new retrieval
+# comparison is complete.
+D_FULL_ENRICHED_FIELDS_V2: tuple[DocumentField, ...] = (
+    ("Title", "tmdb_title"),
     ("genres", "tmdb_genres"),
     ("Overview", "overview"),
     ("Tagline", "tagline"),
@@ -92,41 +96,12 @@ class DenseBaselineConfig:
     """Versioned choices carried from the ablation notebook to Qdrant."""
 
     name: str = "D_full_enriched_dense"
-    version: str = "v2"
-    experiment_name: str = "D_full_enriched"
-    document_column: str = "document__D_full_enriched"
-    id_column: str = "movieId"
-    title_column: str = "tmdb_title"
-    document_fields: tuple[DocumentField, ...] = D_FULL_ENRICHED_FIELDS
-    embedding_model: str = "BAAI/bge-m3"
-    embedding_dimension: int = 1024
-    document_max_length: int = 1024
-    query_max_length: int = 512
-    embedding_batch_size: int = 16
-    normalize_embeddings: bool = True
-    vector_name: str = "dense"
-    distance: str = "Cosine"
-    collection_name: str = "movies_d_full_enriched_dense_v2"
-    payload_schema_version: str = "movie_payload_v2"
-
-    @property
-    def representation_version(self) -> str:
-        return f"{self.experiment_name}_{self.version}"
-
-
-BASELINE = DenseBaselineConfig()
-
-@dataclass(frozen=True)
-class Old_DenseBaselineConfig:
-    """Versioned choices carried from the ablation notebook to Qdrant."""
-
-    name: str = "D_full_enriched_dense"
     version: str = "v1"
     experiment_name: str = "D_full_enriched"
     document_column: str = "document__D_full_enriched"
     id_column: str = "movieId"
     title_column: str = "canonical_title"
-    document_fields: tuple[DocumentField, ...] = OLD_D_FULL_ENRICHED_FIELDS
+    document_fields: tuple[DocumentField, ...] = D_FULL_ENRICHED_FIELDS
     embedding_model: str = "BAAI/bge-m3"
     embedding_dimension: int = 1024
     document_max_length: int = 1024
@@ -143,7 +118,23 @@ class Old_DenseBaselineConfig:
         return f"{self.experiment_name}_{self.version}"
 
 
-OLD_BASELINE = Old_DenseBaselineConfig()
+BASELINE = DenseBaselineConfig()
+
+@dataclass(frozen=True)
+class DenseBaselineV2Config(DenseBaselineConfig):
+    """Experimental tmdb_title variant; not the runtime default yet."""
+
+    name: str = "D_full_enriched_dense_v2"
+    version: str = "v2"
+    document_column: str = "document__D_full_enriched_v2"
+    title_column: str = "tmdb_title"
+    document_fields: tuple[DocumentField, ...] = D_FULL_ENRICHED_FIELDS_V2
+    collection_name: str = "movies_d_full_enriched_dense_v2"
+    payload_schema_version: str = "movie_payload_v2"
+
+
+BASELINE_V2 = DenseBaselineV2Config()
+
 
 @dataclass(frozen=True)
 class RerankerConfig:

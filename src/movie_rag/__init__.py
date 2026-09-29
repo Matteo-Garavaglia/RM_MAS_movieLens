@@ -2,11 +2,12 @@
 
 from .config import (
     BASELINE,
+    BASELINE_V2,
     D_FULL_ENRICHED_FIELDS,
-    OLD_D_FULL_ENRICHED_FIELDS,
+    D_FULL_ENRICHED_FIELDS_V2,
     RERANKER,
     DenseBaselineConfig,
-    Old_DenseBaselineConfig,
+    DenseBaselineV2Config,
     RerankerConfig,
 )
 from .documents import catalog_fingerprint, prepare_catalog
@@ -101,11 +102,12 @@ from .validation import validate_query_set
 
 __all__ = [
     "BASELINE",
+    "BASELINE_V2",
     "D_FULL_ENRICHED_FIELDS",
-    "OLD_D_FULL_ENRICHED_FIELDS",
+    "D_FULL_ENRICHED_FIELDS_V2",
     "RERANKER",
     "DenseBaselineConfig",
-    "Old_DenseBaselineConfig",
+    "DenseBaselineV2Config",
     "RerankerConfig",
     "prepare_catalog",
     "catalog_fingerprint",

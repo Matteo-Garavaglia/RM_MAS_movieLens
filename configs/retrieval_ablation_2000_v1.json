@@ -1,0 +1,44 @@
+{
+  "experiment_id": "retrieval_ablation_2000_v1",
+  "status": "experimental",
+  "corpus_target": 2000,
+  "document_representation": "D_full_enriched_v2",
+  "title_field": "tmdb_title",
+  "main_query_language": "en",
+  "benchmark_queries": 20,
+  "language_control_pairs": 5,
+  "cutoffs": {
+    "display_k": 10,
+    "screen_pool_depth": 10,
+    "deep_pool_depth": 30,
+    "retrieval_depth": 30,
+    "reranker_candidate_pools": [
+      10,
+      20,
+      30
+    ]
+  },
+  "rrf": {
+    "k": 60,
+    "weights": "equal; no tuning in first pass"
+  },
+  "first_stage_systems": [
+    "bm25",
+    "bge_m3_dense",
+    "bge_m3_sparse",
+    "bm25+bge_m3_dense_rrf",
+    "bge_m3_dense+sparse_rrf",
+    "bm25+bge_m3_dense+sparse_rrf",
+    "qwen3_0.6b_dense",
+    "gte_multilingual_base_dense",
+    "qwen3_dense+bge_m3_sparse_rrf",
+    "gte_dense+bge_m3_sparse_rrf"
+  ],
+  "rerankers": [
+    "BAAI/bge-reranker-v2-m3",
+    "Qwen/Qwen3-Reranker-0.6B",
+    "Alibaba-NLP/gte-multilingual-reranker-base"
+  ],
+  "promotion_policy": "BASELINE v1 remains runtime default until the experiment is complete",
+  "pooling_protocol": "top-10 all systems for screening; top-30 finalists for candidate recall and reranking"
+}

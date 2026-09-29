@@ -16,6 +16,7 @@ dependencies = [
 
 [project.optional-dependencies]
 bge = ["FlagEmbedding==1.4.2"]
+experiments = ["FlagEmbedding==1.4.2", "rank-bm25>=0.2.2,<1", "sentence-transformers>=5.4,<6", "transformers>=4.51,<5"]
 mcp = ["mcp>=2,<3"]
 llm-gemini = ["google-genai>=1.75,<2", "python-dotenv>=1,<2"]
 llm-openai = ["openai>=2.54,<3", "python-dotenv>=1,<2"]

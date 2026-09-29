@@ -1,0 +1,1350 @@
+query_id,query,movieId,reranker,reranker_score
+Q01,"a melancholic film about memory, identity and time",307,qwen3_reranker_0.6b,-4.125
+Q01,"a melancholic film about memory, identity and time",805,qwen3_reranker_0.6b,-4.625
+Q01,"a melancholic film about memory, identity and time",922,qwen3_reranker_0.6b,-4.5859375
+Q01,"a melancholic film about memory, identity and time",1047,qwen3_reranker_0.6b,-0.90625
+Q01,"a melancholic film about memory, identity and time",1183,qwen3_reranker_0.6b,-4.734375
+Q01,"a melancholic film about memory, identity and time",1227,qwen3_reranker_0.6b,-2.1328125
+Q01,"a melancholic film about memory, identity and time",1251,qwen3_reranker_0.6b,-3.6015625
+Q01,"a melancholic film about memory, identity and time",1270,qwen3_reranker_0.6b,-5.4140625
+Q01,"a melancholic film about memory, identity and time",1298,qwen3_reranker_0.6b,-2.6875
+Q01,"a melancholic film about memory, identity and time",1562,qwen3_reranker_0.6b,-7.484375
+Q01,"a melancholic film about memory, identity and time",1748,qwen3_reranker_0.6b,-0.34375
+Q01,"a melancholic film about memory, identity and time",1956,qwen3_reranker_0.6b,-3.984375
+Q01,"a melancholic film about memory, identity and time",1959,qwen3_reranker_0.6b,-5.46875
+Q01,"a melancholic film about memory, identity and time",2324,qwen3_reranker_0.6b,-7.03125
+Q01,"a melancholic film about memory, identity and time",2369,qwen3_reranker_0.6b,-2.703125
+Q01,"a melancholic film about memory, identity and time",2376,qwen3_reranker_0.6b,-7.50390625
+Q01,"a melancholic film about memory, identity and time",2496,qwen3_reranker_0.6b,-4.8671875
+Q01,"a melancholic film about memory, identity and time",2657,qwen3_reranker_0.6b,-6.2421875
+Q01,"a melancholic film about memory, identity and time",2841,qwen3_reranker_0.6b,-3.109375
+Q01,"a melancholic film about memory, identity and time",2908,qwen3_reranker_0.6b,-4.546875
+Q01,"a melancholic film about memory, identity and time",2916,qwen3_reranker_0.6b,-4.4453125
+Q01,"a melancholic film about memory, identity and time",2950,qwen3_reranker_0.6b,-3.5078125
+Q01,"a melancholic film about memory, identity and time",2973,qwen3_reranker_0.6b,-6.4140625
+Q01,"a melancholic film about memory, identity and time",2997,qwen3_reranker_0.6b,-5.625
+Q01,"a melancholic film about memory, identity and time",3044,qwen3_reranker_0.6b,-2.4140625
+Q01,"a melancholic film about memory, identity and time",3083,qwen3_reranker_0.6b,-4.9140625
+Q01,"a melancholic film about memory, identity and time",3186,qwen3_reranker_0.6b,-5.2421875
+Q01,"a melancholic film about memory, identity and time",3269,qwen3_reranker_0.6b,-8.046875
+Q01,"a melancholic film about memory, identity and time",3503,qwen3_reranker_0.6b,-6.296875
+Q01,"a melancholic film about memory, identity and time",3826,qwen3_reranker_0.6b,-5.8203125
+Q01,"a melancholic film about memory, identity and time",4017,qwen3_reranker_0.6b,-7.2734375
+Q01,"a melancholic film about memory, identity and time",4144,qwen3_reranker_0.6b,-3.3671875
+Q01,"a melancholic film about memory, identity and time",4226,qwen3_reranker_0.6b,2.421875
+Q01,"a melancholic film about memory, identity and time",4848,qwen3_reranker_0.6b,0.9609375
+Q01,"a melancholic film about memory, identity and time",4878,qwen3_reranker_0.6b,-0.5390625
+Q01,"a melancholic film about memory, identity and time",4975,qwen3_reranker_0.6b,-2.4453125
+Q01,"a melancholic film about memory, identity and time",4992,qwen3_reranker_0.6b,-4.7421875
+Q01,"a melancholic film about memory, identity and time",5418,qwen3_reranker_0.6b,-4.6328125
+Q01,"a melancholic film about memory, identity and time",5459,qwen3_reranker_0.6b,-5.9453125
+Q01,"a melancholic film about memory, identity and time",5528,qwen3_reranker_0.6b,-5.859375
+Q01,"a melancholic film about memory, identity and time",5954,qwen3_reranker_0.6b,-3.8828125
+Q01,"a melancholic film about memory, identity and time",5992,qwen3_reranker_0.6b,-2.0078125
+Q01,"a melancholic film about memory, identity and time",6323,qwen3_reranker_0.6b,-5.7421875
+Q01,"a melancholic film about memory, identity and time",7151,qwen3_reranker_0.6b,-6.9140625
+Q01,"a melancholic film about memory, identity and time",7163,qwen3_reranker_0.6b,-4.84375
+Q01,"a melancholic film about memory, identity and time",7254,qwen3_reranker_0.6b,-1.4765625
+Q01,"a melancholic film about memory, identity and time",7293,qwen3_reranker_0.6b,-3.6328125
+Q01,"a melancholic film about memory, identity and time",7361,qwen3_reranker_0.6b,3.1796875
+Q01,"a melancholic film about memory, identity and time",8533,qwen3_reranker_0.6b,-1.6953125
+Q01,"a melancholic film about memory, identity and time",8781,qwen3_reranker_0.6b,-2.5390625
+Q01,"a melancholic film about memory, identity and time",8784,qwen3_reranker_0.6b,-4.6953125
+Q01,"a melancholic film about memory, identity and time",8914,qwen3_reranker_0.6b,-6.328125
+Q01,"a melancholic film about memory, identity and time",34319,qwen3_reranker_0.6b,-4.65625
+Q01,"a melancholic film about memory, identity and time",41571,qwen3_reranker_0.6b,-4.5
+Q01,"a melancholic film about memory, identity and time",45672,qwen3_reranker_0.6b,-6.2109375
+Q01,"a melancholic film about memory, identity and time",46723,qwen3_reranker_0.6b,-4.4375
+Q01,"a melancholic film about memory, identity and time",49278,qwen3_reranker_0.6b,-5.6171875
+Q01,"a melancholic film about memory, identity and time",64957,qwen3_reranker_0.6b,-4.125
+Q01,"a melancholic film about memory, identity and time",65230,qwen3_reranker_0.6b,-1.625
+Q01,"a melancholic film about memory, identity and time",68237,qwen3_reranker_0.6b,-5.34375
+Q01,"a melancholic film about memory, identity and time",81562,qwen3_reranker_0.6b,-7.5390625
+Q01,"a melancholic film about memory, identity and time",86882,qwen3_reranker_0.6b,-4.375
+Q01,"a melancholic film about memory, identity and time",90405,qwen3_reranker_0.6b,-7.15625
+Q01,"a melancholic film about memory, identity and time",90866,qwen3_reranker_0.6b,-6.9765625
+Q01,"a melancholic film about memory, identity and time",97752,qwen3_reranker_0.6b,-7.1015625
+Q01,"a melancholic film about memory, identity and time",104374,qwen3_reranker_0.6b,-3.03125
+Q01,"a melancholic film about memory, identity and time",110553,qwen3_reranker_0.6b,-7.20703125
+Q01,"a melancholic film about memory, identity and time",116797,qwen3_reranker_0.6b,-6.171875
+Q02,"an emotional, optimistic and moving film",204,qwen3_reranker_0.6b,-6.6328125
+Q02,"an emotional, optimistic and moving film",207,qwen3_reranker_0.6b,-4.46875
+Q02,"an emotional, optimistic and moving film",356,qwen3_reranker_0.6b,-1.265625
+Q02,"an emotional, optimistic and moving film",610,qwen3_reranker_0.6b,-8.6015625
+Q02,"an emotional, optimistic and moving film",765,qwen3_reranker_0.6b,-5.3984375
+Q02,"an emotional, optimistic and moving film",778,qwen3_reranker_0.6b,-6.6484375
+Q02,"an emotional, optimistic and moving film",953,qwen3_reranker_0.6b,-4.140625
+Q02,"an emotional, optimistic and moving film",1015,qwen3_reranker_0.6b,-5.625
+Q02,"an emotional, optimistic and moving film",1059,qwen3_reranker_0.6b,-5.4453125
+Q02,"an emotional, optimistic and moving film",1097,qwen3_reranker_0.6b,-4.90625
+Q02,"an emotional, optimistic and moving film",1124,qwen3_reranker_0.6b,-3.90625
+Q02,"an emotional, optimistic and moving film",1136,qwen3_reranker_0.6b,-7.83203125
+Q02,"an emotional, optimistic and moving film",1178,qwen3_reranker_0.6b,-4.7109375
+Q02,"an emotional, optimistic and moving film",1276,qwen3_reranker_0.6b,-5.796875
+Q02,"an emotional, optimistic and moving film",1357,qwen3_reranker_0.6b,-5.9609375
+Q02,"an emotional, optimistic and moving film",1513,qwen3_reranker_0.6b,-4.1171875
+Q02,"an emotional, optimistic and moving film",1704,qwen3_reranker_0.6b,-5.6171875
+Q02,"an emotional, optimistic and moving film",1876,qwen3_reranker_0.6b,-3.8671875
+Q02,"an emotional, optimistic and moving film",1961,qwen3_reranker_0.6b,-5.1953125
+Q02,"an emotional, optimistic and moving film",2065,qwen3_reranker_0.6b,-4.3125
+Q02,"an emotional, optimistic and moving film",2313,qwen3_reranker_0.6b,-5.7578125
+Q02,"an emotional, optimistic and moving film",2318,qwen3_reranker_0.6b,-3.8984375
+Q02,"an emotional, optimistic and moving film",2324,qwen3_reranker_0.6b,-3.765625
+Q02,"an emotional, optimistic and moving film",2539,qwen3_reranker_0.6b,-4.75
+Q02,"an emotional, optimistic and moving film",2700,qwen3_reranker_0.6b,-6.03125
+Q02,"an emotional, optimistic and moving film",2863,qwen3_reranker_0.6b,-6.078125
+Q02,"an emotional, optimistic and moving film",2918,qwen3_reranker_0.6b,-5.875
+Q02,"an emotional, optimistic and moving film",2966,qwen3_reranker_0.6b,-5.2578125
+Q02,"an emotional, optimistic and moving film",2973,qwen3_reranker_0.6b,-4.8984375
+Q02,"an emotional, optimistic and moving film",3083,qwen3_reranker_0.6b,-4.953125
+Q02,"an emotional, optimistic and moving film",3160,qwen3_reranker_0.6b,-4.4296875
+Q02,"an emotional, optimistic and moving film",3269,qwen3_reranker_0.6b,-6.453125
+Q02,"an emotional, optimistic and moving film",3396,qwen3_reranker_0.6b,-7.19921875
+Q02,"an emotional, optimistic and moving film",3969,qwen3_reranker_0.6b,-4.6015625
+Q02,"an emotional, optimistic and moving film",4008,qwen3_reranker_0.6b,-5.359375
+Q02,"an emotional, optimistic and moving film",4022,qwen3_reranker_0.6b,-4.640625
+Q02,"an emotional, optimistic and moving film",4029,qwen3_reranker_0.6b,-5.4296875
+Q02,"an emotional, optimistic and moving film",4041,qwen3_reranker_0.6b,-5.421875
+Q02,"an emotional, optimistic and moving film",5014,qwen3_reranker_0.6b,-5.90625
+Q02,"an emotional, optimistic and moving film",5015,qwen3_reranker_0.6b,-5.7578125
+Q02,"an emotional, optimistic and moving film",5066,qwen3_reranker_0.6b,-2.3984375
+Q02,"an emotional, optimistic and moving film",5669,qwen3_reranker_0.6b,-6.3515625
+Q02,"an emotional, optimistic and moving film",5673,qwen3_reranker_0.6b,-4.625
+Q02,"an emotional, optimistic and moving film",5690,qwen3_reranker_0.6b,-4.65625
+Q02,"an emotional, optimistic and moving film",6385,qwen3_reranker_0.6b,-4.6015625
+Q02,"an emotional, optimistic and moving film",6565,qwen3_reranker_0.6b,-7.609375
+Q02,"an emotional, optimistic and moving film",7361,qwen3_reranker_0.6b,-2.484375
+Q02,"an emotional, optimistic and moving film",8784,qwen3_reranker_0.6b,-4.734375
+Q02,"an emotional, optimistic and moving film",30707,qwen3_reranker_0.6b,-4.734375
+Q02,"an emotional, optimistic and moving film",31658,qwen3_reranker_0.6b,-5.6484375
+Q02,"an emotional, optimistic and moving film",33166,qwen3_reranker_0.6b,-3.9140625
+Q02,"an emotional, optimistic and moving film",33660,qwen3_reranker_0.6b,-6.53125
+Q02,"an emotional, optimistic and moving film",34072,qwen3_reranker_0.6b,-4.953125
+Q02,"an emotional, optimistic and moving film",39183,qwen3_reranker_0.6b,-4.8828125
+Q02,"an emotional, optimistic and moving film",39292,qwen3_reranker_0.6b,-8.1171875
+Q02,"an emotional, optimistic and moving film",40278,qwen3_reranker_0.6b,-6.2578125
+Q02,"an emotional, optimistic and moving film",46578,qwen3_reranker_0.6b,-4.5859375
+Q02,"an emotional, optimistic and moving film",47099,qwen3_reranker_0.6b,-4.265625
+Q02,"an emotional, optimistic and moving film",48304,qwen3_reranker_0.6b,-4.1875
+Q02,"an emotional, optimistic and moving film",52328,qwen3_reranker_0.6b,-6.3046875
+Q02,"an emotional, optimistic and moving film",54999,qwen3_reranker_0.6b,-6.5078125
+Q02,"an emotional, optimistic and moving film",56587,qwen3_reranker_0.6b,-4.734375
+Q02,"an emotional, optimistic and moving film",56782,qwen3_reranker_0.6b,-4.640625
+Q02,"an emotional, optimistic and moving film",58047,qwen3_reranker_0.6b,-5.5234375
+Q02,"an emotional, optimistic and moving film",61132,qwen3_reranker_0.6b,-6.234375
+Q02,"an emotional, optimistic and moving film",64969,qwen3_reranker_0.6b,-5.0234375
+Q02,"an emotional, optimistic and moving film",65230,qwen3_reranker_0.6b,-2.609375
+Q02,"an emotional, optimistic and moving film",68954,qwen3_reranker_0.6b,-3.0625
+Q02,"an emotional, optimistic and moving film",72011,qwen3_reranker_0.6b,-5.859375
+Q02,"an emotional, optimistic and moving film",72641,qwen3_reranker_0.6b,-3.609375
+Q02,"an emotional, optimistic and moving film",80906,qwen3_reranker_0.6b,-6.953125
+Q02,"an emotional, optimistic and moving film",88405,qwen3_reranker_0.6b,-4.1875
+Q02,"an emotional, optimistic and moving film",88810,qwen3_reranker_0.6b,-5.4140625
+Q02,"an emotional, optimistic and moving film",89864,qwen3_reranker_0.6b,-5.40625
+Q02,"an emotional, optimistic and moving film",92259,qwen3_reranker_0.6b,-3.0546875
+Q02,"an emotional, optimistic and moving film",96821,qwen3_reranker_0.6b,-5.375
+Q02,"an emotional, optimistic and moving film",97921,qwen3_reranker_0.6b,-5.28125
+Q02,"an emotional, optimistic and moving film",106918,qwen3_reranker_0.6b,-5.578125
+Q02,"an emotional, optimistic and moving film",112552,qwen3_reranker_0.6b,-4.390625
+Q02,"an emotional, optimistic and moving film",134853,qwen3_reranker_0.6b,-1.328125
+Q03,"a dystopian film about surveillance, social control and individual freedom",1,qwen3_reranker_0.6b,-10.203125
+Q03,"a dystopian film about surveillance, social control and individual freedom",16,qwen3_reranker_0.6b,-6.359375
+Q03,"a dystopian film about surveillance, social control and individual freedom",150,qwen3_reranker_0.6b,-11.203125
+Q03,"a dystopian film about surveillance, social control and individual freedom",223,qwen3_reranker_0.6b,-8.109375
+Q03,"a dystopian film about surveillance, social control and individual freedom",231,qwen3_reranker_0.6b,-8.34375
+Q03,"a dystopian film about surveillance, social control and individual freedom",333,qwen3_reranker_0.6b,-7.015625
+Q03,"a dystopian film about surveillance, social control and individual freedom",356,qwen3_reranker_0.6b,-8.6875
+Q03,"a dystopian film about surveillance, social control and individual freedom",376,qwen3_reranker_0.6b,-9.0625
+Q03,"a dystopian film about surveillance, social control and individual freedom",383,qwen3_reranker_0.6b,-10.75
+Q03,"a dystopian film about surveillance, social control and individual freedom",455,qwen3_reranker_0.6b,-5.359375
+Q03,"a dystopian film about surveillance, social control and individual freedom",466,qwen3_reranker_0.6b,-9.6875
+Q03,"a dystopian film about surveillance, social control and individual freedom",508,qwen3_reranker_0.6b,-8.9140625
+Q03,"a dystopian film about surveillance, social control and individual freedom",553,qwen3_reranker_0.6b,-10.71875
+Q03,"a dystopian film about surveillance, social control and individual freedom",590,qwen3_reranker_0.6b,-8.828125
+Q03,"a dystopian film about surveillance, social control and individual freedom",785,qwen3_reranker_0.6b,-9.59375
+Q03,"a dystopian film about surveillance, social control and individual freedom",923,qwen3_reranker_0.6b,-6.984375
+Q03,"a dystopian film about surveillance, social control and individual freedom",1042,qwen3_reranker_0.6b,-10.4453125
+Q03,"a dystopian film about surveillance, social control and individual freedom",1120,qwen3_reranker_0.6b,-7.5625
+Q03,"a dystopian film about surveillance, social control and individual freedom",1251,qwen3_reranker_0.6b,-6.74609375
+Q03,"a dystopian film about surveillance, social control and individual freedom",1253,qwen3_reranker_0.6b,-4.71875
+Q03,"a dystopian film about surveillance, social control and individual freedom",1283,qwen3_reranker_0.6b,-9.2421875
+Q03,"a dystopian film about surveillance, social control and individual freedom",1619,qwen3_reranker_0.6b,-9.09375
+Q03,"a dystopian film about surveillance, social control and individual freedom",1704,qwen3_reranker_0.6b,-8.390625
+Q03,"a dystopian film about surveillance, social control and individual freedom",1732,qwen3_reranker_0.6b,-9.734375
+Q03,"a dystopian film about surveillance, social control and individual freedom",1747,qwen3_reranker_0.6b,-7.5234375
+Q03,"a dystopian film about surveillance, social control and individual freedom",2028,qwen3_reranker_0.6b,-9.546875
+Q03,"a dystopian film about surveillance, social control and individual freedom",2072,qwen3_reranker_0.6b,-5.8125
+Q03,"a dystopian film about surveillance, social control and individual freedom",2100,qwen3_reranker_0.6b,-10.515625
+Q03,"a dystopian film about surveillance, social control and individual freedom",2313,qwen3_reranker_0.6b,-9.625
+Q03,"a dystopian film about surveillance, social control and individual freedom",2375,qwen3_reranker_0.6b,-9.984375
+Q03,"a dystopian film about surveillance, social control and individual freedom",2398,qwen3_reranker_0.6b,-10.2890625
+Q03,"a dystopian film about surveillance, social control and individual freedom",2501,qwen3_reranker_0.6b,-9.140625
+Q03,"a dystopian film about surveillance, social control and individual freedom",2505,qwen3_reranker_0.6b,-2.84375
+Q03,"a dystopian film about surveillance, social control and individual freedom",2598,qwen3_reranker_0.6b,-10.046875
+Q03,"a dystopian film about surveillance, social control and individual freedom",2701,qwen3_reranker_0.6b,-9.5625
+Q03,"a dystopian film about surveillance, social control and individual freedom",2770,qwen3_reranker_0.6b,-10.2578125
+Q03,"a dystopian film about surveillance, social control and individual freedom",2792,qwen3_reranker_0.6b,-8.734375
+Q03,"a dystopian film about surveillance, social control and individual freedom",2797,qwen3_reranker_0.6b,-8.6484375
+Q03,"a dystopian film about surveillance, social control and individual freedom",2973,qwen3_reranker_0.6b,-10.28125
+Q03,"a dystopian film about surveillance, social control and individual freedom",3037,qwen3_reranker_0.6b,-10.171875
+Q03,"a dystopian film about surveillance, social control and individual freedom",3147,qwen3_reranker_0.6b,-8.3125
+Q03,"a dystopian film about surveillance, social control and individual freedom",3252,qwen3_reranker_0.6b,-7.5859375
+Q03,"a dystopian film about surveillance, social control and individual freedom",3255,qwen3_reranker_0.6b,-10.4921875
+Q03,"a dystopian film about surveillance, social control and individual freedom",3388,qwen3_reranker_0.6b,-11.21875
+Q03,"a dystopian film about surveillance, social control and individual freedom",3751,qwen3_reranker_0.6b,-9.5625
+Q03,"a dystopian film about surveillance, social control and individual freedom",3827,qwen3_reranker_0.6b,-11.046875
+Q03,"a dystopian film about surveillance, social control and individual freedom",3836,qwen3_reranker_0.6b,-10.6953125
+Q03,"a dystopian film about surveillance, social control and individual freedom",4002,qwen3_reranker_0.6b,-9.875
+Q03,"a dystopian film about surveillance, social control and individual freedom",4022,qwen3_reranker_0.6b,-8.6640625
+Q03,"a dystopian film about surveillance, social control and individual freedom",4677,qwen3_reranker_0.6b,-10.1640625
+Q03,"a dystopian film about surveillance, social control and individual freedom",5060,qwen3_reranker_0.6b,-9.671875
+Q03,"a dystopian film about surveillance, social control and individual freedom",5464,qwen3_reranker_0.6b,-8.578125
+Q03,"a dystopian film about surveillance, social control and individual freedom",5669,qwen3_reranker_0.6b,-8.1015625
+Q03,"a dystopian film about surveillance, social control and individual freedom",5785,qwen3_reranker_0.6b,-10.3671875
+Q03,"a dystopian film about surveillance, social control and individual freedom",5903,qwen3_reranker_0.6b,0.21875
+Q03,"a dystopian film about surveillance, social control and individual freedom",5989,qwen3_reranker_0.6b,-7.8984375
+Q03,"a dystopian film about surveillance, social control and individual freedom",6565,qwen3_reranker_0.6b,-11.453125
+Q03,"a dystopian film about surveillance, social control and individual freedom",7367,qwen3_reranker_0.6b,-8.78125
+Q03,"a dystopian film about surveillance, social control and individual freedom",8529,qwen3_reranker_0.6b,-9.046875
+Q03,"a dystopian film about surveillance, social control and individual freedom",34520,qwen3_reranker_0.6b,-10.59375
+Q03,"a dystopian film about surveillance, social control and individual freedom",44555,qwen3_reranker_0.6b,0.2578125
+Q03,"a dystopian film about surveillance, social control and individual freedom",47997,qwen3_reranker_0.6b,2.2890625
+Q03,"a dystopian film about surveillance, social control and individual freedom",48783,qwen3_reranker_0.6b,-9.734375
+Q03,"a dystopian film about surveillance, social control and individual freedom",55247,qwen3_reranker_0.6b,-8.84375
+Q03,"a dystopian film about surveillance, social control and individual freedom",56587,qwen3_reranker_0.6b,-8.484375
+Q03,"a dystopian film about surveillance, social control and individual freedom",59022,qwen3_reranker_0.6b,-9.203125
+Q03,"a dystopian film about surveillance, social control and individual freedom",60074,qwen3_reranker_0.6b,-9.515625
+Q03,"a dystopian film about surveillance, social control and individual freedom",68554,qwen3_reranker_0.6b,-10.328125
+Q03,"a dystopian film about surveillance, social control and individual freedom",97752,qwen3_reranker_0.6b,-5.3203125
+Q03,"a dystopian film about surveillance, social control and individual freedom",104211,qwen3_reranker_0.6b,-9.203125
+Q03,"a dystopian film about surveillance, social control and individual freedom",105504,qwen3_reranker_0.6b,-10.5234375
+Q03,"a dystopian film about surveillance, social control and individual freedom",106100,qwen3_reranker_0.6b,-10.21875
+Q03,"a dystopian film about surveillance, social control and individual freedom",107406,qwen3_reranker_0.6b,-3.609375
+Q03,"a dystopian film about surveillance, social control and individual freedom",111743,qwen3_reranker_0.6b,-9.265625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",198,qwen3_reranker_0.6b,-7.46875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",215,qwen3_reranker_0.6b,-8.5390625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",533,qwen3_reranker_0.6b,-6.9765625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",541,qwen3_reranker_0.6b,-7.45703125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",924,qwen3_reranker_0.6b,-7.8046875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",926,qwen3_reranker_0.6b,-6.625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",930,qwen3_reranker_0.6b,-7.53125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",953,qwen3_reranker_0.6b,-3.515625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1015,qwen3_reranker_0.6b,-4.7421875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1100,qwen3_reranker_0.6b,1.6015625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1127,qwen3_reranker_0.6b,-8.546875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1248,qwen3_reranker_0.6b,-7.765625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1251,qwen3_reranker_0.6b,-3.7890625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1584,qwen3_reranker_0.6b,-7.359375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1587,qwen3_reranker_0.6b,-6.34375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1590,qwen3_reranker_0.6b,-8.453125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1722,qwen3_reranker_0.6b,-7.671875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1726,qwen3_reranker_0.6b,-5.7421875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1912,qwen3_reranker_0.6b,-6.625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1917,qwen3_reranker_0.6b,-6.46875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2288,qwen3_reranker_0.6b,-7.921875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2311,qwen3_reranker_0.6b,-7.3203125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2369,qwen3_reranker_0.6b,-5.6796875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2454,qwen3_reranker_0.6b,-7.703125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2455,qwen3_reranker_0.6b,-7.2265625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2671,qwen3_reranker_0.6b,-6.8203125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2672,qwen3_reranker_0.6b,-7.3671875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2686,qwen3_reranker_0.6b,-7.66796875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2719,qwen3_reranker_0.6b,-8.3984375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2916,qwen3_reranker_0.6b,-6.828125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2973,qwen3_reranker_0.6b,-4.1953125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3269,qwen3_reranker_0.6b,-6.125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3503,qwen3_reranker_0.6b,-8.1796875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3751,qwen3_reranker_0.6b,-3.421875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3826,qwen3_reranker_0.6b,-3.8046875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3863,qwen3_reranker_0.6b,-8.6171875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3986,qwen3_reranker_0.6b,-6.8046875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4022,qwen3_reranker_0.6b,-3.390625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4226,qwen3_reranker_0.6b,-7.88671875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4848,qwen3_reranker_0.6b,-5.2421875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4974,qwen3_reranker_0.6b,-3.2265625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4975,qwen3_reranker_0.6b,-5.890625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4995,qwen3_reranker_0.6b,-6.2578125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5135,qwen3_reranker_0.6b,-9.203125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5378,qwen3_reranker_0.6b,-5.3828125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5388,qwen3_reranker_0.6b,-8.78125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5669,qwen3_reranker_0.6b,-8.859375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5881,qwen3_reranker_0.6b,-7.1015625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",6373,qwen3_reranker_0.6b,-8.96875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",7151,qwen3_reranker_0.6b,-8.7890625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",7361,qwen3_reranker_0.6b,-7.87109375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",8376,qwen3_reranker_0.6b,0.203125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",8528,qwen3_reranker_0.6b,3.484375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",27660,qwen3_reranker_0.6b,-7.9921875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",33794,qwen3_reranker_0.6b,-5.2578125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",34319,qwen3_reranker_0.6b,-6.9375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",45672,qwen3_reranker_0.6b,-5.8359375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",48774,qwen3_reranker_0.6b,-5.8125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",48780,qwen3_reranker_0.6b,-7.078125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",53464,qwen3_reranker_0.6b,-5.4453125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",53993,qwen3_reranker_0.6b,-8.0546875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",57368,qwen3_reranker_0.6b,-6.828125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",58559,qwen3_reranker_0.6b,-5.140625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",60040,qwen3_reranker_0.6b,-4.859375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",68554,qwen3_reranker_0.6b,-9.46875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",79132,qwen3_reranker_0.6b,-8.9453125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",85414,qwen3_reranker_0.6b,-9.1875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",86190,qwen3_reranker_0.6b,-6.203125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",86332,qwen3_reranker_0.6b,-3.890625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",91529,qwen3_reranker_0.6b,-5.6015625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",97752,qwen3_reranker_0.6b,-8.15625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",98243,qwen3_reranker_0.6b,-6.1796875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",98961,qwen3_reranker_0.6b,-7.3671875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",102125,qwen3_reranker_0.6b,-6.421875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",102445,qwen3_reranker_0.6b,-5.484375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",104841,qwen3_reranker_0.6b,-5.6328125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",104913,qwen3_reranker_0.6b,-4.765625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",106072,qwen3_reranker_0.6b,-5.6796875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",109487,qwen3_reranker_0.6b,-6.8984375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",116797,qwen3_reranker_0.6b,-5.1171875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",122886,qwen3_reranker_0.6b,-4.328125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",164179,qwen3_reranker_0.6b,-8.28125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",166528,qwen3_reranker_0.6b,-3.796875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",174055,qwen3_reranker_0.6b,-6.03125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",176371,qwen3_reranker_0.6b,-7.5
+Q05,a film belonging to a famous saga or collection,58,qwen3_reranker_0.6b,-4.9296875
+Q05,a film belonging to a famous saga or collection,110,qwen3_reranker_0.6b,-1.75
+Q05,a film belonging to a famous saga or collection,235,qwen3_reranker_0.6b,-5.015625
+Q05,a film belonging to a famous saga or collection,260,qwen3_reranker_0.6b,-4.328125
+Q05,a film belonging to a famous saga or collection,266,qwen3_reranker_0.6b,-2.8359375
+Q05,a film belonging to a famous saga or collection,307,qwen3_reranker_0.6b,-3.9453125
+Q05,a film belonging to a famous saga or collection,314,qwen3_reranker_0.6b,-5.703125
+Q05,a film belonging to a famous saga or collection,405,qwen3_reranker_0.6b,-4.375
+Q05,a film belonging to a famous saga or collection,529,qwen3_reranker_0.6b,-5.875
+Q05,a film belonging to a famous saga or collection,595,qwen3_reranker_0.6b,-3.6015625
+Q05,a film belonging to a famous saga or collection,653,qwen3_reranker_0.6b,-3.5546875
+Q05,a film belonging to a famous saga or collection,900,qwen3_reranker_0.6b,-7.140625
+Q05,a film belonging to a famous saga or collection,930,qwen3_reranker_0.6b,-6.0859375
+Q05,a film belonging to a famous saga or collection,953,qwen3_reranker_0.6b,-5.5546875
+Q05,a film belonging to a famous saga or collection,1059,qwen3_reranker_0.6b,-5.1796875
+Q05,a film belonging to a famous saga or collection,1136,qwen3_reranker_0.6b,-2.9375
+Q05,a film belonging to a famous saga or collection,1196,qwen3_reranker_0.6b,0.046875
+Q05,a film belonging to a famous saga or collection,1197,qwen3_reranker_0.6b,-3.890625
+Q05,a film belonging to a famous saga or collection,1198,qwen3_reranker_0.6b,-2.1328125
+Q05,a film belonging to a famous saga or collection,1272,qwen3_reranker_0.6b,-3.28125
+Q05,a film belonging to a famous saga or collection,1275,qwen3_reranker_0.6b,-4.2265625
+Q05,a film belonging to a famous saga or collection,1287,qwen3_reranker_0.6b,-2.6640625
+Q05,a film belonging to a famous saga or collection,1348,qwen3_reranker_0.6b,-4.6796875
+Q05,a film belonging to a famous saga or collection,1387,qwen3_reranker_0.6b,-4.4296875
+Q05,a film belonging to a famous saga or collection,1688,qwen3_reranker_0.6b,-4.6171875
+Q05,a film belonging to a famous saga or collection,1959,qwen3_reranker_0.6b,-4.984375
+Q05,a film belonging to a famous saga or collection,2115,qwen3_reranker_0.6b,-3.078125
+Q05,a film belonging to a famous saga or collection,2116,qwen3_reranker_0.6b,-4.375
+Q05,a film belonging to a famous saga or collection,2143,qwen3_reranker_0.6b,-4.2421875
+Q05,a film belonging to a famous saga or collection,2161,qwen3_reranker_0.6b,-3.3046875
+Q05,a film belonging to a famous saga or collection,2186,qwen3_reranker_0.6b,-4.9453125
+Q05,a film belonging to a famous saga or collection,2325,qwen3_reranker_0.6b,-7.46875
+Q05,a film belonging to a famous saga or collection,2628,qwen3_reranker_0.6b,-2.3984375
+Q05,a film belonging to a famous saga or collection,2671,qwen3_reranker_0.6b,-4.5078125
+Q05,a film belonging to a famous saga or collection,2826,qwen3_reranker_0.6b,-4.609375
+Q05,a film belonging to a famous saga or collection,2872,qwen3_reranker_0.6b,-5.34375
+Q05,a film belonging to a famous saga or collection,3160,qwen3_reranker_0.6b,-4.1875
+Q05,a film belonging to a famous saga or collection,3260,qwen3_reranker_0.6b,0.078125
+Q05,a film belonging to a famous saga or collection,3671,qwen3_reranker_0.6b,-3.1015625
+Q05,a film belonging to a famous saga or collection,3996,qwen3_reranker_0.6b,-3.625
+Q05,a film belonging to a famous saga or collection,3997,qwen3_reranker_0.6b,-5.5078125
+Q05,a film belonging to a famous saga or collection,4327,qwen3_reranker_0.6b,-4.171875
+Q05,a film belonging to a famous saga or collection,4993,qwen3_reranker_0.6b,-3.9296875
+Q05,a film belonging to a famous saga or collection,5013,qwen3_reranker_0.6b,-4.46875
+Q05,a film belonging to a famous saga or collection,5064,qwen3_reranker_0.6b,-5.53125
+Q05,a film belonging to a famous saga or collection,5066,qwen3_reranker_0.6b,-6.0234375
+Q05,a film belonging to a famous saga or collection,5313,qwen3_reranker_0.6b,-3.640625
+Q05,a film belonging to a famous saga or collection,5669,qwen3_reranker_0.6b,-7.8125
+Q05,a film belonging to a famous saga or collection,5816,qwen3_reranker_0.6b,-4.4609375
+Q05,a film belonging to a famous saga or collection,5952,qwen3_reranker_0.6b,-4.265625
+Q05,a film belonging to a famous saga or collection,6541,qwen3_reranker_0.6b,-5.15625
+Q05,a film belonging to a famous saga or collection,7147,qwen3_reranker_0.6b,-4.796875
+Q05,a film belonging to a famous saga or collection,7151,qwen3_reranker_0.6b,-4.7421875
+Q05,a film belonging to a famous saga or collection,7153,qwen3_reranker_0.6b,-4.171875
+Q05,a film belonging to a famous saga or collection,7458,qwen3_reranker_0.6b,-5.0625
+Q05,a film belonging to a famous saga or collection,8368,qwen3_reranker_0.6b,-4.9140625
+Q05,a film belonging to a famous saga or collection,8640,qwen3_reranker_0.6b,-2.7890625
+Q05,a film belonging to a famous saga or collection,33493,qwen3_reranker_0.6b,-1.9375
+Q05,a film belonging to a famous saga or collection,36401,qwen3_reranker_0.6b,-3.9140625
+Q05,a film belonging to a famous saga or collection,40278,qwen3_reranker_0.6b,-4.875
+Q05,a film belonging to a famous saga or collection,41566,qwen3_reranker_0.6b,-3.3515625
+Q05,a film belonging to a famous saga or collection,44555,qwen3_reranker_0.6b,-5.8671875
+Q05,a film belonging to a famous saga or collection,45447,qwen3_reranker_0.6b,-3.8515625
+Q05,a film belonging to a famous saga or collection,49649,qwen3_reranker_0.6b,-3.921875
+Q05,a film belonging to a famous saga or collection,51662,qwen3_reranker_0.6b,-4.234375
+Q05,a film belonging to a famous saga or collection,58293,qwen3_reranker_0.6b,-4.8671875
+Q05,a film belonging to a famous saga or collection,59501,qwen3_reranker_0.6b,-4.3046875
+Q05,a film belonging to a famous saga or collection,63113,qwen3_reranker_0.6b,-5.390625
+Q05,a film belonging to a famous saga or collection,64614,qwen3_reranker_0.6b,-6.046875
+Q05,a film belonging to a famous saga or collection,65230,qwen3_reranker_0.6b,-3.6015625
+Q05,a film belonging to a famous saga or collection,67255,qwen3_reranker_0.6b,-5.6796875
+Q05,a film belonging to a famous saga or collection,76175,qwen3_reranker_0.6b,-4.765625
+Q05,a film belonging to a famous saga or collection,78105,qwen3_reranker_0.6b,-4.7421875
+Q05,a film belonging to a famous saga or collection,86332,qwen3_reranker_0.6b,-4.8046875
+Q05,a film belonging to a famous saga or collection,96079,qwen3_reranker_0.6b,-4.5078125
+Q05,a film belonging to a famous saga or collection,98809,qwen3_reranker_0.6b,-2.90625
+Q05,a film belonging to a famous saga or collection,106489,qwen3_reranker_0.6b,-3.6015625
+Q05,a film belonging to a famous saga or collection,109374,qwen3_reranker_0.6b,-3.7109375
+Q05,a film belonging to a famous saga or collection,111659,qwen3_reranker_0.6b,-3.9453125
+Q05,a film belonging to a famous saga or collection,115713,qwen3_reranker_0.6b,-5.3046875
+Q05,a film belonging to a famous saga or collection,118696,qwen3_reranker_0.6b,-3.40625
+Q05,a film belonging to a famous saga or collection,122886,qwen3_reranker_0.6b,-4.6640625
+Q05,a film belonging to a famous saga or collection,135143,qwen3_reranker_0.6b,-5.7265625
+Q06,a reflective science fiction film under two hours,76,qwen3_reranker_0.6b,-5.0
+Q06,a reflective science fiction film under two hours,172,qwen3_reranker_0.6b,-4.875
+Q06,a reflective science fiction film under two hours,327,qwen3_reranker_0.6b,-5.5625
+Q06,a reflective science fiction film under two hours,379,qwen3_reranker_0.6b,-4.546875
+Q06,a reflective science fiction film under two hours,541,qwen3_reranker_0.6b,-3.7109375
+Q06,a reflective science fiction film under two hours,610,qwen3_reranker_0.6b,-5.7578125
+Q06,a reflective science fiction film under two hours,671,qwen3_reranker_0.6b,-3.1796875
+Q06,a reflective science fiction film under two hours,836,qwen3_reranker_0.6b,-5.09375
+Q06,a reflective science fiction film under two hours,1037,qwen3_reranker_0.6b,-3.9921875
+Q06,a reflective science fiction film under two hours,1129,qwen3_reranker_0.6b,-4.4921875
+Q06,a reflective science fiction film under two hours,1214,qwen3_reranker_0.6b,-4.7578125
+Q06,a reflective science fiction film under two hours,1253,qwen3_reranker_0.6b,-1.9921875
+Q06,a reflective science fiction film under two hours,1320,qwen3_reranker_0.6b,-4.0390625
+Q06,a reflective science fiction film under two hours,1590,qwen3_reranker_0.6b,-4.1171875
+Q06,a reflective science fiction film under two hours,1653,qwen3_reranker_0.6b,-4.265625
+Q06,a reflective science fiction film under two hours,1690,qwen3_reranker_0.6b,-3.96875
+Q06,a reflective science fiction film under two hours,1748,qwen3_reranker_0.6b,-4.421875
+Q06,a reflective science fiction film under two hours,1921,qwen3_reranker_0.6b,-4.96875
+Q06,a reflective science fiction film under two hours,2011,qwen3_reranker_0.6b,-5.3828125
+Q06,a reflective science fiction film under two hours,2046,qwen3_reranker_0.6b,-3.609375
+Q06,a reflective science fiction film under two hours,2134,qwen3_reranker_0.6b,-2.6484375
+Q06,a reflective science fiction film under two hours,2454,qwen3_reranker_0.6b,-4.2890625
+Q06,a reflective science fiction film under two hours,2455,qwen3_reranker_0.6b,-4.1953125
+Q06,a reflective science fiction film under two hours,2527,qwen3_reranker_0.6b,-3.3671875
+Q06,a reflective science fiction film under two hours,2532,qwen3_reranker_0.6b,-4.4765625
+Q06,a reflective science fiction film under two hours,2657,qwen3_reranker_0.6b,-5.84375
+Q06,a reflective science fiction film under two hours,2672,qwen3_reranker_0.6b,-2.921875
+Q06,a reflective science fiction film under two hours,2808,qwen3_reranker_0.6b,-4.6640625
+Q06,a reflective science fiction film under two hours,2916,qwen3_reranker_0.6b,-3.7265625
+Q06,a reflective science fiction film under two hours,3300,qwen3_reranker_0.6b,-3.4296875
+Q06,a reflective science fiction film under two hours,3699,qwen3_reranker_0.6b,-2.2109375
+Q06,a reflective science fiction film under two hours,3826,qwen3_reranker_0.6b,-3.6875
+Q06,a reflective science fiction film under two hours,4015,qwen3_reranker_0.6b,-4.3359375
+Q06,a reflective science fiction film under two hours,4121,qwen3_reranker_0.6b,-4.1953125
+Q06,a reflective science fiction film under two hours,4446,qwen3_reranker_0.6b,-3.7421875
+Q06,a reflective science fiction film under two hours,4878,qwen3_reranker_0.6b,-3.46875
+Q06,a reflective science fiction film under two hours,5171,qwen3_reranker_0.6b,-3.953125
+Q06,a reflective science fiction film under two hours,5219,qwen3_reranker_0.6b,-4.9140625
+Q06,a reflective science fiction film under two hours,5881,qwen3_reranker_0.6b,-2.9453125
+Q06,a reflective science fiction film under two hours,6537,qwen3_reranker_0.6b,-4.2890625
+Q06,a reflective science fiction film under two hours,6659,qwen3_reranker_0.6b,-3.4140625
+Q06,a reflective science fiction film under two hours,7163,qwen3_reranker_0.6b,-4.7421875
+Q06,a reflective science fiction film under two hours,7254,qwen3_reranker_0.6b,-4.84375
+Q06,a reflective science fiction film under two hours,7361,qwen3_reranker_0.6b,-3.5625
+Q06,a reflective science fiction film under two hours,8644,qwen3_reranker_0.6b,-3.46875
+Q06,a reflective science fiction film under two hours,8861,qwen3_reranker_0.6b,-4.6875
+Q06,a reflective science fiction film under two hours,27660,qwen3_reranker_0.6b,-3.734375
+Q06,a reflective science fiction film under two hours,27904,qwen3_reranker_0.6b,-3.234375
+Q06,a reflective science fiction film under two hours,33004,qwen3_reranker_0.6b,-3.203125
+Q06,a reflective science fiction film under two hours,34048,qwen3_reranker_0.6b,-2.5859375
+Q06,a reflective science fiction film under two hours,37386,qwen3_reranker_0.6b,-4.6328125
+Q06,a reflective science fiction film under two hours,43928,qwen3_reranker_0.6b,-4.3359375
+Q06,a reflective science fiction film under two hours,47997,qwen3_reranker_0.6b,-4.4296875
+Q06,a reflective science fiction film under two hours,48774,qwen3_reranker_0.6b,-2.6796875
+Q06,a reflective science fiction film under two hours,51412,qwen3_reranker_0.6b,-3.65625
+Q06,a reflective science fiction film under two hours,52328,qwen3_reranker_0.6b,-3.5703125
+Q06,a reflective science fiction film under two hours,57368,qwen3_reranker_0.6b,-4.7890625
+Q06,a reflective science fiction film under two hours,60069,qwen3_reranker_0.6b,-1.828125
+Q06,a reflective science fiction film under two hours,68237,qwen3_reranker_0.6b,-3.5390625
+Q06,a reflective science fiction film under two hours,70286,qwen3_reranker_0.6b,-3.4765625
+Q06,a reflective science fiction film under two hours,71057,qwen3_reranker_0.6b,-3.7265625
+Q06,a reflective science fiction film under two hours,71530,qwen3_reranker_0.6b,-4.796875
+Q06,a reflective science fiction film under two hours,85414,qwen3_reranker_0.6b,-4.8203125
+Q06,a reflective science fiction film under two hours,87306,qwen3_reranker_0.6b,-4.671875
+Q06,a reflective science fiction film under two hours,90405,qwen3_reranker_0.6b,-4.2578125
+Q06,a reflective science fiction film under two hours,103253,qwen3_reranker_0.6b,-3.1953125
+Q06,a reflective science fiction film under two hours,104841,qwen3_reranker_0.6b,-0.46875
+Q06,a reflective science fiction film under two hours,111360,qwen3_reranker_0.6b,-3.8515625
+Q06,a reflective science fiction film under two hours,111759,qwen3_reranker_0.6b,-3.2265625
+Q06,a reflective science fiction film under two hours,122922,qwen3_reranker_0.6b,-8.15625
+Q06,a reflective science fiction film under two hours,164179,qwen3_reranker_0.6b,-2.390625
+Q07,a tense film that is not horror,9,qwen3_reranker_0.6b,-3.46875
+Q07,a tense film that is not horror,24,qwen3_reranker_0.6b,-4.671875
+Q07,a tense film that is not horror,79,qwen3_reranker_0.6b,-5.96875
+Q07,a tense film that is not horror,81,qwen3_reranker_0.6b,-5.6796875
+Q07,a tense film that is not horror,172,qwen3_reranker_0.6b,-6.28125
+Q07,a tense film that is not horror,198,qwen3_reranker_0.6b,-4.703125
+Q07,a tense film that is not horror,319,qwen3_reranker_0.6b,-3.4140625
+Q07,a tense film that is not horror,377,qwen3_reranker_0.6b,-3.8359375
+Q07,a tense film that is not horror,380,qwen3_reranker_0.6b,-5.5546875
+Q07,a tense film that is not horror,490,qwen3_reranker_0.6b,-4.703125
+Q07,a tense film that is not horror,493,qwen3_reranker_0.6b,-4.03125
+Q07,a tense film that is not horror,540,qwen3_reranker_0.6b,-3.8046875
+Q07,a tense film that is not horror,608,qwen3_reranker_0.6b,-4.5859375
+Q07,a tense film that is not horror,628,qwen3_reranker_0.6b,-4.0625
+Q07,a tense film that is not horror,736,qwen3_reranker_0.6b,-5.9375
+Q07,a tense film that is not horror,798,qwen3_reranker_0.6b,-5.578125
+Q07,a tense film that is not horror,903,qwen3_reranker_0.6b,-0.234375
+Q07,a tense film that is not horror,904,qwen3_reranker_0.6b,-4.5625
+Q07,a tense film that is not horror,953,qwen3_reranker_0.6b,-5.921875
+Q07,a tense film that is not horror,1036,qwen3_reranker_0.6b,-3.7109375
+Q07,a tense film that is not horror,1094,qwen3_reranker_0.6b,-5.8125
+Q07,a tense film that is not horror,1120,qwen3_reranker_0.6b,-5.5390625
+Q07,a tense film that is not horror,1248,qwen3_reranker_0.6b,-5.0859375
+Q07,a tense film that is not horror,1260,qwen3_reranker_0.6b,-3.578125
+Q07,a tense film that is not horror,1343,qwen3_reranker_0.6b,-3.71875
+Q07,a tense film that is not horror,1344,qwen3_reranker_0.6b,-4.6640625
+Q07,a tense film that is not horror,1480,qwen3_reranker_0.6b,-5.3203125
+Q07,a tense film that is not horror,1488,qwen3_reranker_0.6b,-6.515625
+Q07,a tense film that is not horror,1722,qwen3_reranker_0.6b,-4.921875
+Q07,a tense film that is not horror,1921,qwen3_reranker_0.6b,-1.0625
+Q07,a tense film that is not horror,1959,qwen3_reranker_0.6b,-6.859375
+Q07,a tense film that is not horror,2058,qwen3_reranker_0.6b,-5.9609375
+Q07,a tense film that is not horror,2109,qwen3_reranker_0.6b,-5.0859375
+Q07,a tense film that is not horror,2186,qwen3_reranker_0.6b,-4.765625
+Q07,a tense film that is not horror,2289,qwen3_reranker_0.6b,-6.1015625
+Q07,a tense film that is not horror,2318,qwen3_reranker_0.6b,-4.5859375
+Q07,a tense film that is not horror,2334,qwen3_reranker_0.6b,-5.8203125
+Q07,a tense film that is not horror,2353,qwen3_reranker_0.6b,-4.9453125
+Q07,a tense film that is not horror,2478,qwen3_reranker_0.6b,-6.2578125
+Q07,a tense film that is not horror,2707,qwen3_reranker_0.6b,-5.15625
+Q07,a tense film that is not horror,2915,qwen3_reranker_0.6b,-5.6171875
+Q07,a tense film that is not horror,3274,qwen3_reranker_0.6b,-4.65625
+Q07,a tense film that is not horror,3362,qwen3_reranker_0.6b,-4.859375
+Q07,a tense film that is not horror,3462,qwen3_reranker_0.6b,-6.2109375
+Q07,a tense film that is not horror,3893,qwen3_reranker_0.6b,-4.9140625
+Q07,a tense film that is not horror,4029,qwen3_reranker_0.6b,-4.6015625
+Q07,a tense film that is not horror,4378,qwen3_reranker_0.6b,-5.6015625
+Q07,a tense film that is not horror,4878,qwen3_reranker_0.6b,-3.1875
+Q07,a tense film that is not horror,5266,qwen3_reranker_0.6b,-4.6796875
+Q07,a tense film that is not horror,5388,qwen3_reranker_0.6b,-4.96875
+Q07,a tense film that is not horror,5528,qwen3_reranker_0.6b,-4.0
+Q07,a tense film that is not horror,5669,qwen3_reranker_0.6b,-5.515625
+Q07,a tense film that is not horror,5872,qwen3_reranker_0.6b,-5.71875
+Q07,a tense film that is not horror,5903,qwen3_reranker_0.6b,-5.625
+Q07,a tense film that is not horror,6281,qwen3_reranker_0.6b,-4.6171875
+Q07,a tense film that is not horror,6979,qwen3_reranker_0.6b,-4.453125
+Q07,a tense film that is not horror,7151,qwen3_reranker_0.6b,-6.609375
+Q07,a tense film that is not horror,7361,qwen3_reranker_0.6b,-4.8671875
+Q07,a tense film that is not horror,7371,qwen3_reranker_0.6b,-4.328125
+Q07,a tense film that is not horror,8644,qwen3_reranker_0.6b,-3.90625
+Q07,a tense film that is not horror,8783,qwen3_reranker_0.6b,-5.046875
+Q07,a tense film that is not horror,8950,qwen3_reranker_0.6b,-5.203125
+Q07,a tense film that is not horror,30749,qwen3_reranker_0.6b,-5.5625
+Q07,a tense film that is not horror,33166,qwen3_reranker_0.6b,-3.15625
+Q07,a tense film that is not horror,34405,qwen3_reranker_0.6b,-6.0390625
+Q07,a tense film that is not horror,36517,qwen3_reranker_0.6b,-3.9765625
+Q07,a tense film that is not horror,37729,qwen3_reranker_0.6b,-5.328125
+Q07,a tense film that is not horror,40278,qwen3_reranker_0.6b,-5.9453125
+Q07,a tense film that is not horror,40583,qwen3_reranker_0.6b,-3.484375
+Q07,a tense film that is not horror,44191,qwen3_reranker_0.6b,-4.53125
+Q07,a tense film that is not horror,44199,qwen3_reranker_0.6b,-4.765625
+Q07,a tense film that is not horror,51086,qwen3_reranker_0.6b,-5.0234375
+Q07,a tense film that is not horror,55820,qwen3_reranker_0.6b,-4.1015625
+Q07,a tense film that is not horror,57368,qwen3_reranker_0.6b,-2.6171875
+Q07,a tense film that is not horror,61132,qwen3_reranker_0.6b,-5.796875
+Q07,a tense film that is not horror,63113,qwen3_reranker_0.6b,-5.5703125
+Q07,a tense film that is not horror,68157,qwen3_reranker_0.6b,-5.0546875
+Q07,a tense film that is not horror,69481,qwen3_reranker_0.6b,-4.0390625
+Q07,a tense film that is not horror,70286,qwen3_reranker_0.6b,-5.6484375
+Q07,a tense film that is not horror,72378,qwen3_reranker_0.6b,-4.125
+Q07,a tense film that is not horror,80489,qwen3_reranker_0.6b,-5.5078125
+Q07,a tense film that is not horror,80906,qwen3_reranker_0.6b,-6.0078125
+Q07,a tense film that is not horror,81562,qwen3_reranker_0.6b,-6.125
+Q07,a tense film that is not horror,89470,qwen3_reranker_0.6b,-4.15625
+Q07,a tense film that is not horror,128360,qwen3_reranker_0.6b,-4.1796875
+Q07,a tense film that is not horror,158238,qwen3_reranker_0.6b,-5.6328125
+Q08,a modern drama about family relationships,3408,qwen3_reranker_0.6b,-3.0390625
+Q08,a modern drama about family relationships,3510,qwen3_reranker_0.6b,-2.5078125
+Q08,a modern drama about family relationships,3536,qwen3_reranker_0.6b,-3.6953125
+Q08,a modern drama about family relationships,3948,qwen3_reranker_0.6b,-3.8671875
+Q08,a modern drama about family relationships,3949,qwen3_reranker_0.6b,-3.6484375
+Q08,a modern drama about family relationships,3969,qwen3_reranker_0.6b,-3.359375
+Q08,a modern drama about family relationships,4023,qwen3_reranker_0.6b,-1.0546875
+Q08,a modern drama about family relationships,4054,qwen3_reranker_0.6b,-2.390625
+Q08,a modern drama about family relationships,4873,qwen3_reranker_0.6b,-4.640625
+Q08,a modern drama about family relationships,4876,qwen3_reranker_0.6b,-2.078125
+Q08,a modern drama about family relationships,4979,qwen3_reranker_0.6b,2.65625
+Q08,a modern drama about family relationships,4992,qwen3_reranker_0.6b,-2.140625
+Q08,a modern drama about family relationships,5014,qwen3_reranker_0.6b,-1.1875
+Q08,a modern drama about family relationships,5066,qwen3_reranker_0.6b,-1.3828125
+Q08,a modern drama about family relationships,5135,qwen3_reranker_0.6b,-0.953125
+Q08,a modern drama about family relationships,5267,qwen3_reranker_0.6b,-2.921875
+Q08,a modern drama about family relationships,5299,qwen3_reranker_0.6b,-0.6015625
+Q08,a modern drama about family relationships,5377,qwen3_reranker_0.6b,-2.21875
+Q08,a modern drama about family relationships,5502,qwen3_reranker_0.6b,-2.9765625
+Q08,a modern drama about family relationships,5577,qwen3_reranker_0.6b,0.453125
+Q08,a modern drama about family relationships,5943,qwen3_reranker_0.6b,-2.359375
+Q08,a modern drama about family relationships,5945,qwen3_reranker_0.6b,1.6015625
+Q08,a modern drama about family relationships,5992,qwen3_reranker_0.6b,0.234375
+Q08,a modern drama about family relationships,6385,qwen3_reranker_0.6b,1.96875
+Q08,a modern drama about family relationships,6870,qwen3_reranker_0.6b,-2.0625
+Q08,a modern drama about family relationships,6942,qwen3_reranker_0.6b,-1.46875
+Q08,a modern drama about family relationships,6953,qwen3_reranker_0.6b,-1.4296875
+Q08,a modern drama about family relationships,7143,qwen3_reranker_0.6b,-4.640625
+Q08,a modern drama about family relationships,7149,qwen3_reranker_0.6b,-0.546875
+Q08,a modern drama about family relationships,7151,qwen3_reranker_0.6b,-3.734375
+Q08,a modern drama about family relationships,8638,qwen3_reranker_0.6b,-1.578125
+Q08,a modern drama about family relationships,8784,qwen3_reranker_0.6b,-2.4921875
+Q08,a modern drama about family relationships,8961,qwen3_reranker_0.6b,-3.296875
+Q08,a modern drama about family relationships,8969,qwen3_reranker_0.6b,-3.328125
+Q08,a modern drama about family relationships,8981,qwen3_reranker_0.6b,-1.671875
+Q08,a modern drama about family relationships,30822,qwen3_reranker_0.6b,-2.5390625
+Q08,a modern drama about family relationships,30825,qwen3_reranker_0.6b,-1.6953125
+Q08,a modern drama about family relationships,34437,qwen3_reranker_0.6b,-2.625
+Q08,a modern drama about family relationships,37733,qwen3_reranker_0.6b,2.140625
+Q08,a modern drama about family relationships,40278,qwen3_reranker_0.6b,-3.53125
+Q08,a modern drama about family relationships,40629,qwen3_reranker_0.6b,1.875
+Q08,a modern drama about family relationships,41571,qwen3_reranker_0.6b,-2.8046875
+Q08,a modern drama about family relationships,45431,qwen3_reranker_0.6b,-4.140625
+Q08,a modern drama about family relationships,45720,qwen3_reranker_0.6b,-3.6015625
+Q08,a modern drama about family relationships,46578,qwen3_reranker_0.6b,2.78125
+Q08,a modern drama about family relationships,47099,qwen3_reranker_0.6b,-1.9140625
+Q08,a modern drama about family relationships,49286,qwen3_reranker_0.6b,-4.6953125
+Q08,a modern drama about family relationships,52973,qwen3_reranker_0.6b,-2.4375
+Q08,a modern drama about family relationships,55052,qwen3_reranker_0.6b,-0.171875
+Q08,a modern drama about family relationships,55269,qwen3_reranker_0.6b,-1.359375
+Q08,a modern drama about family relationships,56949,qwen3_reranker_0.6b,-2.109375
+Q08,a modern drama about family relationships,58047,qwen3_reranker_0.6b,-0.859375
+Q08,a modern drama about family relationships,59501,qwen3_reranker_0.6b,-3.671875
+Q08,a modern drama about family relationships,60397,qwen3_reranker_0.6b,-0.4375
+Q08,a modern drama about family relationships,65230,qwen3_reranker_0.6b,0.8125
+Q08,a modern drama about family relationships,80463,qwen3_reranker_0.6b,-4.40625
+Q08,a modern drama about family relationships,84374,qwen3_reranker_0.6b,-2.4765625
+Q08,a modern drama about family relationships,88163,qwen3_reranker_0.6b,-0.6953125
+Q08,a modern drama about family relationships,88810,qwen3_reranker_0.6b,-1.515625
+Q08,a modern drama about family relationships,89864,qwen3_reranker_0.6b,-1.1171875
+Q08,a modern drama about family relationships,96821,qwen3_reranker_0.6b,-0.765625
+Q08,a modern drama about family relationships,97921,qwen3_reranker_0.6b,-1.0
+Q08,a modern drama about family relationships,104374,qwen3_reranker_0.6b,-0.84375
+Q08,a modern drama about family relationships,105844,qwen3_reranker_0.6b,-4.3203125
+Q08,a modern drama about family relationships,109487,qwen3_reranker_0.6b,-3.0
+Q08,a modern drama about family relationships,111113,qwen3_reranker_0.6b,-1.6484375
+Q08,a modern drama about family relationships,112290,qwen3_reranker_0.6b,0.921875
+Q08,a modern drama about family relationships,117176,qwen3_reranker_0.6b,-3.375
+Q08,a modern drama about family relationships,134853,qwen3_reranker_0.6b,1.203125
+Q09,a chill and sweet French film,12,qwen3_reranker_0.6b,-7.57421875
+Q09,a chill and sweet French film,29,qwen3_reranker_0.6b,-5.5859375
+Q09,a chill and sweet French film,58,qwen3_reranker_0.6b,-7.734375
+Q09,a chill and sweet French film,73,qwen3_reranker_0.6b,-4.9375
+Q09,a chill and sweet French film,154,qwen3_reranker_0.6b,-5.46875
+Q09,a chill and sweet French film,218,qwen3_reranker_0.6b,-6.7109375
+Q09,a chill and sweet French film,239,qwen3_reranker_0.6b,-7.63671875
+Q09,a chill and sweet French film,293,qwen3_reranker_0.6b,-5.7578125
+Q09,a chill and sweet French film,306,qwen3_reranker_0.6b,-5.9453125
+Q09,a chill and sweet French film,307,qwen3_reranker_0.6b,-3.5234375
+Q09,a chill and sweet French film,308,qwen3_reranker_0.6b,-3.9296875
+Q09,a chill and sweet French film,455,qwen3_reranker_0.6b,-4.6484375
+Q09,a chill and sweet French film,509,qwen3_reranker_0.6b,-6.3203125
+Q09,a chill and sweet French film,546,qwen3_reranker_0.6b,-8.40625
+Q09,a chill and sweet French film,555,qwen3_reranker_0.6b,-7.65625
+Q09,a chill and sweet French film,1172,qwen3_reranker_0.6b,-6.109375
+Q09,a chill and sweet French film,1175,qwen3_reranker_0.6b,-7.296875
+Q09,a chill and sweet French film,1249,qwen3_reranker_0.6b,-7.12109375
+Q09,a chill and sweet French film,1251,qwen3_reranker_0.6b,-5.9453125
+Q09,a chill and sweet French film,1277,qwen3_reranker_0.6b,-4.171875
+Q09,a chill and sweet French film,1635,qwen3_reranker_0.6b,-6.796875
+Q09,a chill and sweet French film,2391,qwen3_reranker_0.6b,-7.6640625
+Q09,a chill and sweet French film,2731,qwen3_reranker_0.6b,-2.9453125
+Q09,a chill and sweet French film,3083,qwen3_reranker_0.6b,-5.2109375
+Q09,a chill and sweet French film,3198,qwen3_reranker_0.6b,-4.6328125
+Q09,a chill and sweet French film,3418,qwen3_reranker_0.6b,-7.70703125
+Q09,a chill and sweet French film,3910,qwen3_reranker_0.6b,-5.40625
+Q09,a chill and sweet French film,4029,qwen3_reranker_0.6b,-8.4765625
+Q09,a chill and sweet French film,4144,qwen3_reranker_0.6b,-4.984375
+Q09,a chill and sweet French film,4246,qwen3_reranker_0.6b,-9.1953125
+Q09,a chill and sweet French film,4973,qwen3_reranker_0.6b,-3.2890625
+Q09,a chill and sweet French film,5026,qwen3_reranker_0.6b,-6.0546875
+Q09,a chill and sweet French film,5135,qwen3_reranker_0.6b,-9.6015625
+Q09,a chill and sweet French film,5151,qwen3_reranker_0.6b,-8.7734375
+Q09,a chill and sweet French film,5219,qwen3_reranker_0.6b,-8.28125
+Q09,a chill and sweet French film,5377,qwen3_reranker_0.6b,-7.0
+Q09,a chill and sweet French film,5574,qwen3_reranker_0.6b,-3.8828125
+Q09,a chill and sweet French film,5782,qwen3_reranker_0.6b,-5.671875
+Q09,a chill and sweet French film,6773,qwen3_reranker_0.6b,-4.7109375
+Q09,a chill and sweet French film,6942,qwen3_reranker_0.6b,-3.828125
+Q09,a chill and sweet French film,7151,qwen3_reranker_0.6b,-6.171875
+Q09,a chill and sweet French film,7265,qwen3_reranker_0.6b,-3.578125
+Q09,a chill and sweet French film,7371,qwen3_reranker_0.6b,-6.0078125
+Q09,a chill and sweet French film,8969,qwen3_reranker_0.6b,-9.09375
+Q09,a chill and sweet French film,34072,qwen3_reranker_0.6b,-6.91015625
+Q09,a chill and sweet French film,39292,qwen3_reranker_0.6b,-9.203125
+Q09,a chill and sweet French film,45880,qwen3_reranker_0.6b,-3.640625
+Q09,a chill and sweet French film,48082,qwen3_reranker_0.6b,-3.2265625
+Q09,a chill and sweet French film,51255,qwen3_reranker_0.6b,-7.98046875
+Q09,a chill and sweet French film,58047,qwen3_reranker_0.6b,-7.71875
+Q09,a chill and sweet French film,59369,qwen3_reranker_0.6b,-4.4453125
+Q09,a chill and sweet French film,61323,qwen3_reranker_0.6b,-7.8828125
+Q09,a chill and sweet French film,86882,qwen3_reranker_0.6b,-3.609375
+Q09,a chill and sweet French film,92259,qwen3_reranker_0.6b,-8.125
+Q10,"a tense crime film about a heist, loyalty and betrayal",6,qwen3_reranker_0.6b,5.125
+Q10,"a tense crime film about a heist, loyalty and betrayal",50,qwen3_reranker_0.6b,3.9609375
+Q10,"a tense crime film about a heist, loyalty and betrayal",81,qwen3_reranker_0.6b,-1.8984375
+Q10,"a tense crime film about a heist, loyalty and betrayal",101,qwen3_reranker_0.6b,2.296875
+Q10,"a tense crime film about a heist, loyalty and betrayal",168,qwen3_reranker_0.6b,-6.2734375
+Q10,"a tense crime film about a heist, loyalty and betrayal",293,qwen3_reranker_0.6b,-1.40625
+Q10,"a tense crime film about a heist, loyalty and betrayal",319,qwen3_reranker_0.6b,-2.0703125
+Q10,"a tense crime film about a heist, loyalty and betrayal",454,qwen3_reranker_0.6b,-3.4609375
+Q10,"a tense crime film about a heist, loyalty and betrayal",555,qwen3_reranker_0.6b,-0.15625
+Q10,"a tense crime film about a heist, loyalty and betrayal",745,qwen3_reranker_0.6b,-6.71875
+Q10,"a tense crime film about a heist, loyalty and betrayal",786,qwen3_reranker_0.6b,-3.7109375
+Q10,"a tense crime film about a heist, loyalty and betrayal",832,qwen3_reranker_0.6b,-3.6171875
+Q10,"a tense crime film about a heist, loyalty and betrayal",866,qwen3_reranker_0.6b,2.578125
+Q10,"a tense crime film about a heist, loyalty and betrayal",933,qwen3_reranker_0.6b,0.078125
+Q10,"a tense crime film about a heist, loyalty and betrayal",1036,qwen3_reranker_0.6b,-0.015625
+Q10,"a tense crime film about a heist, loyalty and betrayal",1084,qwen3_reranker_0.6b,1.7890625
+Q10,"a tense crime film about a heist, loyalty and betrayal",1089,qwen3_reranker_0.6b,5.0546875
+Q10,"a tense crime film about a heist, loyalty and betrayal",1148,qwen3_reranker_0.6b,-1.3515625
+Q10,"a tense crime film about a heist, loyalty and betrayal",1179,qwen3_reranker_0.6b,5.28125
+Q10,"a tense crime film about a heist, loyalty and betrayal",1245,qwen3_reranker_0.6b,-1.453125
+Q10,"a tense crime film about a heist, loyalty and betrayal",1260,qwen3_reranker_0.6b,-5.0859375
+Q10,"a tense crime film about a heist, loyalty and betrayal",1396,qwen3_reranker_0.6b,-1.609375
+Q10,"a tense crime film about a heist, loyalty and betrayal",1488,qwen3_reranker_0.6b,-4.8359375
+Q10,"a tense crime film about a heist, loyalty and betrayal",1687,qwen3_reranker_0.6b,-2.7578125
+Q10,"a tense crime film about a heist, loyalty and betrayal",1912,qwen3_reranker_0.6b,4.1015625
+Q10,"a tense crime film about a heist, loyalty and betrayal",2058,qwen3_reranker_0.6b,-2.640625
+Q10,"a tense crime film about a heist, loyalty and betrayal",2186,qwen3_reranker_0.6b,-1.5859375
+Q10,"a tense crime film about a heist, loyalty and betrayal",2194,qwen3_reranker_0.6b,-4.890625
+Q10,"a tense crime film about a heist, loyalty and betrayal",2278,qwen3_reranker_0.6b,-0.3984375
+Q10,"a tense crime film about a heist, loyalty and betrayal",2325,qwen3_reranker_0.6b,-7.53125
+Q10,"a tense crime film about a heist, loyalty and betrayal",2391,qwen3_reranker_0.6b,2.09375
+Q10,"a tense crime film about a heist, loyalty and betrayal",2490,qwen3_reranker_0.6b,4.0859375
+Q10,"a tense crime film about a heist, loyalty and betrayal",2542,qwen3_reranker_0.6b,3.515625
+Q10,"a tense crime film about a heist, loyalty and betrayal",2605,qwen3_reranker_0.6b,2.9765625
+Q10,"a tense crime film about a heist, loyalty and betrayal",2763,qwen3_reranker_0.6b,4.75
+Q10,"a tense crime film about a heist, loyalty and betrayal",2802,qwen3_reranker_0.6b,-2.421875
+Q10,"a tense crime film about a heist, loyalty and betrayal",2912,qwen3_reranker_0.6b,-3.53125
+Q10,"a tense crime film about a heist, loyalty and betrayal",2973,qwen3_reranker_0.6b,-4.5625
+Q10,"a tense crime film about a heist, loyalty and betrayal",2990,qwen3_reranker_0.6b,-5.03125
+Q10,"a tense crime film about a heist, loyalty and betrayal",3275,qwen3_reranker_0.6b,-5.3828125
+Q10,"a tense crime film about a heist, loyalty and betrayal",3316,qwen3_reranker_0.6b,2.6953125
+Q10,"a tense crime film about a heist, loyalty and betrayal",3362,qwen3_reranker_0.6b,3.84375
+Q10,"a tense crime film about a heist, loyalty and betrayal",3717,qwen3_reranker_0.6b,4.640625
+Q10,"a tense crime film about a heist, loyalty and betrayal",3744,qwen3_reranker_0.6b,-0.625
+Q10,"a tense crime film about a heist, loyalty and betrayal",3984,qwen3_reranker_0.6b,-2.9375
+Q10,"a tense crime film about a heist, loyalty and betrayal",4344,qwen3_reranker_0.6b,-0.21875
+Q10,"a tense crime film about a heist, loyalty and betrayal",4448,qwen3_reranker_0.6b,4.8671875
+Q10,"a tense crime film about a heist, loyalty and betrayal",4963,qwen3_reranker_0.6b,2.7578125
+Q10,"a tense crime film about a heist, loyalty and betrayal",5782,qwen3_reranker_0.6b,-7.51171875
+Q10,"a tense crime film about a heist, loyalty and betrayal",6378,qwen3_reranker_0.6b,4.6171875
+Q10,"a tense crime film about a heist, loyalty and betrayal",7361,qwen3_reranker_0.6b,-10.1640625
+Q10,"a tense crime film about a heist, loyalty and betrayal",8228,qwen3_reranker_0.6b,-1.2109375
+Q10,"a tense crime film about a heist, loyalty and betrayal",8798,qwen3_reranker_0.6b,-1.84375
+Q10,"a tense crime film about a heist, loyalty and betrayal",8984,qwen3_reranker_0.6b,2.7734375
+Q10,"a tense crime film about a heist, loyalty and betrayal",27831,qwen3_reranker_0.6b,-3.5703125
+Q10,"a tense crime film about a heist, loyalty and betrayal",44199,qwen3_reranker_0.6b,2.890625
+Q10,"a tense crime film about a heist, loyalty and betrayal",44761,qwen3_reranker_0.6b,-3.5546875
+Q10,"a tense crime film about a heist, loyalty and betrayal",48516,qwen3_reranker_0.6b,-2.2578125
+Q10,"a tense crime film about a heist, loyalty and betrayal",53322,qwen3_reranker_0.6b,1.8125
+Q10,"a tense crime film about a heist, loyalty and betrayal",58295,qwen3_reranker_0.6b,4.3046875
+Q10,"a tense crime film about a heist, loyalty and betrayal",59369,qwen3_reranker_0.6b,-3.5390625
+Q10,"a tense crime film about a heist, loyalty and betrayal",63113,qwen3_reranker_0.6b,-2.8828125
+Q10,"a tense crime film about a heist, loyalty and betrayal",79132,qwen3_reranker_0.6b,-3.78125
+Q10,"a tense crime film about a heist, loyalty and betrayal",80489,qwen3_reranker_0.6b,2.28125
+Q10,"a tense crime film about a heist, loyalty and betrayal",88129,qwen3_reranker_0.6b,1.203125
+Q11,"an animated film about friendship, growing up and belonging",1,qwen3_reranker_0.6b,0.796875
+Q11,"an animated film about friendship, growing up and belonging",239,qwen3_reranker_0.6b,-1.796875
+Q11,"an animated film about friendship, growing up and belonging",364,qwen3_reranker_0.6b,-0.6171875
+Q11,"an animated film about friendship, growing up and belonging",745,qwen3_reranker_0.6b,-2.03125
+Q11,"an animated film about friendship, growing up and belonging",1029,qwen3_reranker_0.6b,-2.9375
+Q11,"an animated film about friendship, growing up and belonging",1033,qwen3_reranker_0.6b,2.984375
+Q11,"an animated film about friendship, growing up and belonging",1148,qwen3_reranker_0.6b,-4.7578125
+Q11,"an animated film about friendship, growing up and belonging",2018,qwen3_reranker_0.6b,1.90625
+Q11,"an animated film about friendship, growing up and belonging",2078,qwen3_reranker_0.6b,-0.34375
+Q11,"an animated film about friendship, growing up and belonging",2085,qwen3_reranker_0.6b,-4.1796875
+Q11,"an animated film about friendship, growing up and belonging",2087,qwen3_reranker_0.6b,-1.7265625
+Q11,"an animated film about friendship, growing up and belonging",2090,qwen3_reranker_0.6b,-5.015625
+Q11,"an animated film about friendship, growing up and belonging",2141,qwen3_reranker_0.6b,-3.0
+Q11,"an animated film about friendship, growing up and belonging",2294,qwen3_reranker_0.6b,-3.8671875
+Q11,"an animated film about friendship, growing up and belonging",2687,qwen3_reranker_0.6b,-1.03125
+Q11,"an animated film about friendship, growing up and belonging",2700,qwen3_reranker_0.6b,-5.03125
+Q11,"an animated film about friendship, growing up and belonging",2761,qwen3_reranker_0.6b,0.453125
+Q11,"an animated film about friendship, growing up and belonging",3114,qwen3_reranker_0.6b,1.96875
+Q11,"an animated film about friendship, growing up and belonging",3213,qwen3_reranker_0.6b,-6.78125
+Q11,"an animated film about friendship, growing up and belonging",3429,qwen3_reranker_0.6b,-5.6875
+Q11,"an animated film about friendship, growing up and belonging",4306,qwen3_reranker_0.6b,-4.7734375
+Q11,"an animated film about friendship, growing up and belonging",4873,qwen3_reranker_0.6b,-3.7578125
+Q11,"an animated film about friendship, growing up and belonging",5218,qwen3_reranker_0.6b,-5.3046875
+Q11,"an animated film about friendship, growing up and belonging",5444,qwen3_reranker_0.6b,0.53125
+Q11,"an animated film about friendship, growing up and belonging",5690,qwen3_reranker_0.6b,-3.25
+Q11,"an animated film about friendship, growing up and belonging",5971,qwen3_reranker_0.6b,-1.2578125
+Q11,"an animated film about friendship, growing up and belonging",6377,qwen3_reranker_0.6b,-4.96875
+Q11,"an animated film about friendship, growing up and belonging",6773,qwen3_reranker_0.6b,-5.25
+Q11,"an animated film about friendship, growing up and belonging",8360,qwen3_reranker_0.6b,-4.875
+Q11,"an animated film about friendship, growing up and belonging",27660,qwen3_reranker_0.6b,-7.0
+Q11,"an animated film about friendship, growing up and belonging",33615,qwen3_reranker_0.6b,-1.1484375
+Q11,"an animated film about friendship, growing up and belonging",38038,qwen3_reranker_0.6b,-4.7421875
+Q11,"an animated film about friendship, growing up and belonging",44022,qwen3_reranker_0.6b,-5.75
+Q11,"an animated film about friendship, growing up and belonging",45431,qwen3_reranker_0.6b,-3.8203125
+Q11,"an animated film about friendship, growing up and belonging",45517,qwen3_reranker_0.6b,-1.703125
+Q11,"an animated film about friendship, growing up and belonging",50872,qwen3_reranker_0.6b,-3.7890625
+Q11,"an animated film about friendship, growing up and belonging",52287,qwen3_reranker_0.6b,1.046875
+Q11,"an animated film about friendship, growing up and belonging",54272,qwen3_reranker_0.6b,-3.7734375
+Q11,"an animated film about friendship, growing up and belonging",56152,qwen3_reranker_0.6b,-4.75
+Q11,"an animated film about friendship, growing up and belonging",62999,qwen3_reranker_0.6b,-3.078125
+Q11,"an animated film about friendship, growing up and belonging",63859,qwen3_reranker_0.6b,-1.53125
+Q11,"an animated film about friendship, growing up and belonging",66097,qwen3_reranker_0.6b,1.6953125
+Q11,"an animated film about friendship, growing up and belonging",68954,qwen3_reranker_0.6b,-1.765625
+Q11,"an animated film about friendship, growing up and belonging",71057,qwen3_reranker_0.6b,-1.375
+Q11,"an animated film about friendship, growing up and belonging",76093,qwen3_reranker_0.6b,1.34375
+Q11,"an animated film about friendship, growing up and belonging",78499,qwen3_reranker_0.6b,-1.5390625
+Q11,"an animated film about friendship, growing up and belonging",81847,qwen3_reranker_0.6b,-1.9921875
+Q11,"an animated film about friendship, growing up and belonging",98243,qwen3_reranker_0.6b,-1.109375
+Q11,"an animated film about friendship, growing up and belonging",103141,qwen3_reranker_0.6b,2.5
+Q11,"an animated film about friendship, growing up and belonging",106696,qwen3_reranker_0.6b,-0.6484375
+Q11,"an animated film about friendship, growing up and belonging",108932,qwen3_reranker_0.6b,-1.6328125
+Q11,"an animated film about friendship, growing up and belonging",115617,qwen3_reranker_0.6b,1.609375
+Q11,"an animated film about friendship, growing up and belonging",134853,qwen3_reranker_0.6b,1.828125
+Q11,"an animated film about friendship, growing up and belonging",157296,qwen3_reranker_0.6b,-4.0703125
+Q12,"a war film about sacrifice, duty and the human cost of combat",110,qwen3_reranker_0.6b,-0.8203125
+Q12,"a war film about sacrifice, duty and the human cost of combat",466,qwen3_reranker_0.6b,-3.140625
+Q12,"a war film about sacrifice, duty and the human cost of combat",527,qwen3_reranker_0.6b,-0.09375
+Q12,"a war film about sacrifice, duty and the human cost of combat",590,qwen3_reranker_0.6b,-3.34375
+Q12,"a war film about sacrifice, duty and the human cost of combat",647,qwen3_reranker_0.6b,0.21875
+Q12,"a war film about sacrifice, duty and the human cost of combat",912,qwen3_reranker_0.6b,-2.90625
+Q12,"a war film about sacrifice, duty and the human cost of combat",969,qwen3_reranker_0.6b,-4.5
+Q12,"a war film about sacrifice, duty and the human cost of combat",1059,qwen3_reranker_0.6b,-6.9140625
+Q12,"a war film about sacrifice, duty and the human cost of combat",1090,qwen3_reranker_0.6b,4.703125
+Q12,"a war film about sacrifice, duty and the human cost of combat",1178,qwen3_reranker_0.6b,1.03125
+Q12,"a war film about sacrifice, duty and the human cost of combat",1208,qwen3_reranker_0.6b,-0.375
+Q12,"a war film about sacrifice, duty and the human cost of combat",1222,qwen3_reranker_0.6b,2.1484375
+Q12,"a war film about sacrifice, duty and the human cost of combat",1224,qwen3_reranker_0.6b,-4.21875
+Q12,"a war film about sacrifice, duty and the human cost of combat",1233,qwen3_reranker_0.6b,-1.078125
+Q12,"a war film about sacrifice, duty and the human cost of combat",1242,qwen3_reranker_0.6b,-0.7109375
+Q12,"a war film about sacrifice, duty and the human cost of combat",1250,qwen3_reranker_0.6b,-2.9609375
+Q12,"a war film about sacrifice, duty and the human cost of combat",1263,qwen3_reranker_0.6b,-1.4140625
+Q12,"a war film about sacrifice, duty and the human cost of combat",1272,qwen3_reranker_0.6b,-2.8671875
+Q12,"a war film about sacrifice, duty and the human cost of combat",1299,qwen3_reranker_0.6b,-0.7109375
+Q12,"a war film about sacrifice, duty and the human cost of combat",1348,qwen3_reranker_0.6b,-6.2265625
+Q12,"a war film about sacrifice, duty and the human cost of combat",1608,qwen3_reranker_0.6b,1.578125
+Q12,"a war film about sacrifice, duty and the human cost of combat",2028,qwen3_reranker_0.6b,5.4921875
+Q12,"a war film about sacrifice, duty and the human cost of combat",2402,qwen3_reranker_0.6b,-0.171875
+Q12,"a war film about sacrifice, duty and the human cost of combat",2403,qwen3_reranker_0.6b,2.734375
+Q12,"a war film about sacrifice, duty and the human cost of combat",2404,qwen3_reranker_0.6b,0.8125
+Q12,"a war film about sacrifice, duty and the human cost of combat",2427,qwen3_reranker_0.6b,1.625
+Q12,"a war film about sacrifice, duty and the human cost of combat",2476,qwen3_reranker_0.6b,-0.1328125
+Q12,"a war film about sacrifice, duty and the human cost of combat",2700,qwen3_reranker_0.6b,-8.8125
+Q12,"a war film about sacrifice, duty and the human cost of combat",2944,qwen3_reranker_0.6b,0.09375
+Q12,"a war film about sacrifice, duty and the human cost of combat",3441,qwen3_reranker_0.6b,-2.7265625
+Q12,"a war film about sacrifice, duty and the human cost of combat",3753,qwen3_reranker_0.6b,-0.078125
+Q12,"a war film about sacrifice, duty and the human cost of combat",3836,qwen3_reranker_0.6b,-2.375
+Q12,"a war film about sacrifice, duty and the human cost of combat",3917,qwen3_reranker_0.6b,-7.5390625
+Q12,"a war film about sacrifice, duty and the human cost of combat",4008,qwen3_reranker_0.6b,0.71875
+Q12,"a war film about sacrifice, duty and the human cost of combat",4223,qwen3_reranker_0.6b,-1.2421875
+Q12,"a war film about sacrifice, duty and the human cost of combat",4958,qwen3_reranker_0.6b,0.984375
+Q12,"a war film about sacrifice, duty and the human cost of combat",4967,qwen3_reranker_0.6b,-1.4453125
+Q12,"a war film about sacrifice, duty and the human cost of combat",5010,qwen3_reranker_0.6b,2.0234375
+Q12,"a war film about sacrifice, duty and the human cost of combat",5152,qwen3_reranker_0.6b,2.15625
+Q12,"a war film about sacrifice, duty and the human cost of combat",5669,qwen3_reranker_0.6b,-7.4921875
+Q12,"a war film about sacrifice, duty and the human cost of combat",5944,qwen3_reranker_0.6b,-5.0859375
+Q12,"a war film about sacrifice, duty and the human cost of combat",7143,qwen3_reranker_0.6b,-0.6640625
+Q12,"a war film about sacrifice, duty and the human cost of combat",7151,qwen3_reranker_0.6b,-10.0
+Q12,"a war film about sacrifice, duty and the human cost of combat",7162,qwen3_reranker_0.6b,-3.6875
+Q12,"a war film about sacrifice, duty and the human cost of combat",8781,qwen3_reranker_0.6b,-2.8671875
+Q12,"a war film about sacrifice, duty and the human cost of combat",40278,qwen3_reranker_0.6b,-0.03125
+Q12,"a war film about sacrifice, duty and the human cost of combat",44555,qwen3_reranker_0.6b,-3.8203125
+Q12,"a war film about sacrifice, duty and the human cost of combat",48304,qwen3_reranker_0.6b,-2.625
+Q12,"a war film about sacrifice, duty and the human cost of combat",48783,qwen3_reranker_0.6b,1.515625
+Q12,"a war film about sacrifice, duty and the human cost of combat",49530,qwen3_reranker_0.6b,-1.765625
+Q12,"a war film about sacrifice, duty and the human cost of combat",50068,qwen3_reranker_0.6b,0.59375
+Q12,"a war film about sacrifice, duty and the human cost of combat",61132,qwen3_reranker_0.6b,-2.46875
+Q12,"a war film about sacrifice, duty and the human cost of combat",64614,qwen3_reranker_0.6b,-2.3828125
+Q12,"a war film about sacrifice, duty and the human cost of combat",68157,qwen3_reranker_0.6b,-0.953125
+Q12,"a war film about sacrifice, duty and the human cost of combat",69481,qwen3_reranker_0.6b,0.171875
+Q12,"a war film about sacrifice, duty and the human cost of combat",80906,qwen3_reranker_0.6b,-8.1484375
+Q12,"a war film about sacrifice, duty and the human cost of combat",111759,qwen3_reranker_0.6b,-2.34375
+Q12,"a war film about sacrifice, duty and the human cost of combat",112623,qwen3_reranker_0.6b,-4.453125
+Q12,"a war film about sacrifice, duty and the human cost of combat",114662,qwen3_reranker_0.6b,0.8125
+Q12,"a war film about sacrifice, duty and the human cost of combat",115210,qwen3_reranker_0.6b,-0.6484375
+Q12,"a war film about sacrifice, duty and the human cost of combat",116797,qwen3_reranker_0.6b,-6.0703125
+Q12,"a war film about sacrifice, duty and the human cost of combat",116823,qwen3_reranker_0.6b,-1.1484375
+Q12,"a war film about sacrifice, duty and the human cost of combat",174055,qwen3_reranker_0.6b,-0.7109375
+Q13,a science fiction film about artificial intelligence and what it means to be human,45,qwen3_reranker_0.6b,-7.359375
+Q13,a science fiction film about artificial intelligence and what it means to be human,196,qwen3_reranker_0.6b,-3.609375
+Q13,a science fiction film about artificial intelligence and what it means to be human,338,qwen3_reranker_0.6b,-0.4765625
+Q13,a science fiction film about artificial intelligence and what it means to be human,541,qwen3_reranker_0.6b,3.9296875
+Q13,a science fiction film about artificial intelligence and what it means to be human,589,qwen3_reranker_0.6b,2.3828125
+Q13,a science fiction film about artificial intelligence and what it means to be human,741,qwen3_reranker_0.6b,1.578125
+Q13,a science fiction film about artificial intelligence and what it means to be human,924,qwen3_reranker_0.6b,4.6484375
+Q13,a science fiction film about artificial intelligence and what it means to be human,1037,qwen3_reranker_0.6b,-1.8828125
+Q13,a science fiction film about artificial intelligence and what it means to be human,1240,qwen3_reranker_0.6b,2.7734375
+Q13,a science fiction film about artificial intelligence and what it means to be human,1253,qwen3_reranker_0.6b,-3.1015625
+Q13,a science fiction film about artificial intelligence and what it means to be human,1371,qwen3_reranker_0.6b,3.078125
+Q13,a science fiction film about artificial intelligence and what it means to be human,1653,qwen3_reranker_0.6b,-3.3671875
+Q13,a science fiction film about artificial intelligence and what it means to be human,1921,qwen3_reranker_0.6b,-7.8046875
+Q13,a science fiction film about artificial intelligence and what it means to be human,2046,qwen3_reranker_0.6b,-0.21875
+Q13,a science fiction film about artificial intelligence and what it means to be human,2313,qwen3_reranker_0.6b,-8.7890625
+Q13,a science fiction film about artificial intelligence and what it means to be human,2533,qwen3_reranker_0.6b,-4.0859375
+Q13,a science fiction film about artificial intelligence and what it means to be human,2571,qwen3_reranker_0.6b,2.53125
+Q13,a science fiction film about artificial intelligence and what it means to be human,2672,qwen3_reranker_0.6b,2.7265625
+Q13,a science fiction film about artificial intelligence and what it means to be human,2916,qwen3_reranker_0.6b,-2.6171875
+Q13,a science fiction film about artificial intelligence and what it means to be human,3156,qwen3_reranker_0.6b,-0.3984375
+Q13,a science fiction film about artificial intelligence and what it means to be human,3503,qwen3_reranker_0.6b,-6.421875
+Q13,a science fiction film about artificial intelligence and what it means to be human,3745,qwen3_reranker_0.6b,-4.2578125
+Q13,a science fiction film about artificial intelligence and what it means to be human,3826,qwen3_reranker_0.6b,-4.453125
+Q13,a science fiction film about artificial intelligence and what it means to be human,3986,qwen3_reranker_0.6b,-3.4140625
+Q13,a science fiction film about artificial intelligence and what it means to be human,4370,qwen3_reranker_0.6b,3.9296875
+Q13,a science fiction film about artificial intelligence and what it means to be human,4446,qwen3_reranker_0.6b,-6.1640625
+Q13,a science fiction film about artificial intelligence and what it means to be human,4545,qwen3_reranker_0.6b,4.5859375
+Q13,a science fiction film about artificial intelligence and what it means to be human,5608,qwen3_reranker_0.6b,-6.203125
+Q13,a science fiction film about artificial intelligence and what it means to be human,6365,qwen3_reranker_0.6b,1.1953125
+Q13,a science fiction film about artificial intelligence and what it means to be human,6537,qwen3_reranker_0.6b,2.3125
+Q13,a science fiction film about artificial intelligence and what it means to be human,6934,qwen3_reranker_0.6b,1.765625
+Q13,a science fiction film about artificial intelligence and what it means to be human,6979,qwen3_reranker_0.6b,0.5625
+Q13,a science fiction film about artificial intelligence and what it means to be human,7151,qwen3_reranker_0.6b,-11.1328125
+Q13,a science fiction film about artificial intelligence and what it means to be human,7361,qwen3_reranker_0.6b,-6.4609375
+Q13,a science fiction film about artificial intelligence and what it means to be human,8644,qwen3_reranker_0.6b,4.046875
+Q13,a science fiction film about artificial intelligence and what it means to be human,34319,qwen3_reranker_0.6b,-4.3046875
+Q13,a science fiction film about artificial intelligence and what it means to be human,40278,qwen3_reranker_0.6b,-10.09375
+Q13,a science fiction film about artificial intelligence and what it means to be human,47997,qwen3_reranker_0.6b,-3.078125
+Q13,a science fiction film about artificial intelligence and what it means to be human,48774,qwen3_reranker_0.6b,-2.96875
+Q13,a science fiction film about artificial intelligence and what it means to be human,53322,qwen3_reranker_0.6b,-9.1875
+Q13,a science fiction film about artificial intelligence and what it means to be human,68237,qwen3_reranker_0.6b,2.203125
+Q13,a science fiction film about artificial intelligence and what it means to be human,68791,qwen3_reranker_0.6b,2.6328125
+Q13,a science fiction film about artificial intelligence and what it means to be human,71057,qwen3_reranker_0.6b,-4.609375
+Q13,a science fiction film about artificial intelligence and what it means to be human,71530,qwen3_reranker_0.6b,-3.375
+Q13,a science fiction film about artificial intelligence and what it means to be human,79132,qwen3_reranker_0.6b,-6.9921875
+Q13,a science fiction film about artificial intelligence and what it means to be human,88744,qwen3_reranker_0.6b,-3.8984375
+Q13,a science fiction film about artificial intelligence and what it means to be human,97752,qwen3_reranker_0.6b,-2.5390625
+Q13,a science fiction film about artificial intelligence and what it means to be human,106920,qwen3_reranker_0.6b,0.84375
+Q13,a science fiction film about artificial intelligence and what it means to be human,109487,qwen3_reranker_0.6b,0.546875
+Q13,a science fiction film about artificial intelligence and what it means to be human,111360,qwen3_reranker_0.6b,2.6171875
+Q13,a science fiction film about artificial intelligence and what it means to be human,115713,qwen3_reranker_0.6b,5.0390625
+Q13,a science fiction film about artificial intelligence and what it means to be human,122892,qwen3_reranker_0.6b,-0.0625
+Q13,a science fiction film about artificial intelligence and what it means to be human,164179,qwen3_reranker_0.6b,-4.296875
+Q13,a science fiction film about artificial intelligence and what it means to be human,176371,qwen3_reranker_0.6b,2.0390625
+Q14,"a courtroom drama about justice, ethics and moral conflict",36,qwen3_reranker_0.6b,-2.0390625
+Q14,"a courtroom drama about justice, ethics and moral conflict",79,qwen3_reranker_0.6b,2.3125
+Q14,"a courtroom drama about justice, ethics and moral conflict",81,qwen3_reranker_0.6b,-3.15625
+Q14,"a courtroom drama about justice, ethics and moral conflict",140,qwen3_reranker_0.6b,-6.4453125
+Q14,"a courtroom drama about justice, ethics and moral conflict",173,qwen3_reranker_0.6b,-3.6796875
+Q14,"a courtroom drama about justice, ethics and moral conflict",222,qwen3_reranker_0.6b,-4.765625
+Q14,"a courtroom drama about justice, ethics and moral conflict",230,qwen3_reranker_0.6b,-3.90625
+Q14,"a courtroom drama about justice, ethics and moral conflict",257,qwen3_reranker_0.6b,3.578125
+Q14,"a courtroom drama about justice, ethics and moral conflict",280,qwen3_reranker_0.6b,-0.171875
+Q14,"a courtroom drama about justice, ethics and moral conflict",300,qwen3_reranker_0.6b,-6.2578125
+Q14,"a courtroom drama about justice, ethics and moral conflict",306,qwen3_reranker_0.6b,-4.6328125
+Q14,"a courtroom drama about justice, ethics and moral conflict",350,qwen3_reranker_0.6b,-2.4765625
+Q14,"a courtroom drama about justice, ethics and moral conflict",372,qwen3_reranker_0.6b,-7.953125
+Q14,"a courtroom drama about justice, ethics and moral conflict",454,qwen3_reranker_0.6b,-3.375
+Q14,"a courtroom drama about justice, ethics and moral conflict",475,qwen3_reranker_0.6b,0.15625
+Q14,"a courtroom drama about justice, ethics and moral conflict",490,qwen3_reranker_0.6b,-4.5859375
+Q14,"a courtroom drama about justice, ethics and moral conflict",491,qwen3_reranker_0.6b,-3.6796875
+Q14,"a courtroom drama about justice, ethics and moral conflict",508,qwen3_reranker_0.6b,-1.3203125
+Q14,"a courtroom drama about justice, ethics and moral conflict",628,qwen3_reranker_0.6b,1.609375
+Q14,"a courtroom drama about justice, ethics and moral conflict",805,qwen3_reranker_0.6b,2.2578125
+Q14,"a courtroom drama about justice, ethics and moral conflict",1061,qwen3_reranker_0.6b,0.640625
+Q14,"a courtroom drama about justice, ethics and moral conflict",1120,qwen3_reranker_0.6b,-3.1796875
+Q14,"a courtroom drama about justice, ethics and moral conflict",1186,qwen3_reranker_0.6b,-6.46875
+Q14,"a courtroom drama about justice, ethics and moral conflict",1188,qwen3_reranker_0.6b,-8.921875
+Q14,"a courtroom drama about justice, ethics and moral conflict",1203,qwen3_reranker_0.6b,3.890625
+Q14,"a courtroom drama about justice, ethics and moral conflict",1207,qwen3_reranker_0.6b,2.78125
+Q14,"a courtroom drama about justice, ethics and moral conflict",1459,qwen3_reranker_0.6b,-3.453125
+Q14,"a courtroom drama about justice, ethics and moral conflict",1645,qwen3_reranker_0.6b,1.140625
+Q14,"a courtroom drama about justice, ethics and moral conflict",1672,qwen3_reranker_0.6b,4.234375
+Q14,"a courtroom drama about justice, ethics and moral conflict",1747,qwen3_reranker_0.6b,-3.796875
+Q14,"a courtroom drama about justice, ethics and moral conflict",1945,qwen3_reranker_0.6b,-3.5859375
+Q14,"a courtroom drama about justice, ethics and moral conflict",1955,qwen3_reranker_0.6b,-3.9453125
+Q14,"a courtroom drama about justice, ethics and moral conflict",1958,qwen3_reranker_0.6b,-6.1796875
+Q14,"a courtroom drama about justice, ethics and moral conflict",2019,qwen3_reranker_0.6b,-6.6171875
+Q14,"a courtroom drama about justice, ethics and moral conflict",2058,qwen3_reranker_0.6b,-3.28125
+Q14,"a courtroom drama about justice, ethics and moral conflict",2268,qwen3_reranker_0.6b,1.28125
+Q14,"a courtroom drama about justice, ethics and moral conflict",2302,qwen3_reranker_0.6b,2.515625
+Q14,"a courtroom drama about justice, ethics and moral conflict",2427,qwen3_reranker_0.6b,-4.515625
+Q14,"a courtroom drama about justice, ethics and moral conflict",2803,qwen3_reranker_0.6b,2.9296875
+Q14,"a courtroom drama about justice, ethics and moral conflict",2881,qwen3_reranker_0.6b,1.578125
+Q14,"a courtroom drama about justice, ethics and moral conflict",2973,qwen3_reranker_0.6b,-1.265625
+Q14,"a courtroom drama about justice, ethics and moral conflict",3034,qwen3_reranker_0.6b,-6.5
+Q14,"a courtroom drama about justice, ethics and moral conflict",3147,qwen3_reranker_0.6b,-4.109375
+Q14,"a courtroom drama about justice, ethics and moral conflict",3178,qwen3_reranker_0.6b,-1.9296875
+Q14,"a courtroom drama about justice, ethics and moral conflict",3408,qwen3_reranker_0.6b,-2.4921875
+Q14,"a courtroom drama about justice, ethics and moral conflict",3949,qwen3_reranker_0.6b,-4.9921875
+Q14,"a courtroom drama about justice, ethics and moral conflict",3969,qwen3_reranker_0.6b,-5.3125
+Q14,"a courtroom drama about justice, ethics and moral conflict",4351,qwen3_reranker_0.6b,-4.8828125
+Q14,"a courtroom drama about justice, ethics and moral conflict",5903,qwen3_reranker_0.6b,-5.7421875
+Q14,"a courtroom drama about justice, ethics and moral conflict",5957,qwen3_reranker_0.6b,-5.828125
+Q14,"a courtroom drama about justice, ethics and moral conflict",6879,qwen3_reranker_0.6b,0.390625
+Q14,"a courtroom drama about justice, ethics and moral conflict",7151,qwen3_reranker_0.6b,-8.0078125
+Q14,"a courtroom drama about justice, ethics and moral conflict",51935,qwen3_reranker_0.6b,-4.0625
+Q14,"a courtroom drama about justice, ethics and moral conflict",52604,qwen3_reranker_0.6b,1.578125
+Q14,"a courtroom drama about justice, ethics and moral conflict",55276,qwen3_reranker_0.6b,-1.875
+Q14,"a courtroom drama about justice, ethics and moral conflict",96737,qwen3_reranker_0.6b,-3.8359375
+Q14,"a courtroom drama about justice, ethics and moral conflict",96821,qwen3_reranker_0.6b,-5.734375
+Q14,"a courtroom drama about justice, ethics and moral conflict",104879,qwen3_reranker_0.6b,-0.5859375
+Q14,"a courtroom drama about justice, ethics and moral conflict",105844,qwen3_reranker_0.6b,-5.0625
+Q14,"a courtroom drama about justice, ethics and moral conflict",142488,qwen3_reranker_0.6b,-4.2421875
+Q15,a witty romantic comedy about two people gradually falling in love,39,qwen3_reranker_0.6b,-2.7109375
+Q15,a witty romantic comedy about two people gradually falling in love,122,qwen3_reranker_0.6b,-2.375
+Q15,a witty romantic comedy about two people gradually falling in love,125,qwen3_reranker_0.6b,-4.8203125
+Q15,a witty romantic comedy about two people gradually falling in love,231,qwen3_reranker_0.6b,-1.8984375
+Q15,a witty romantic comedy about two people gradually falling in love,234,qwen3_reranker_0.6b,-4.1171875
+Q15,a witty romantic comedy about two people gradually falling in love,237,qwen3_reranker_0.6b,0.4375
+Q15,a witty romantic comedy about two people gradually falling in love,252,qwen3_reranker_0.6b,-2.875
+Q15,a witty romantic comedy about two people gradually falling in love,319,qwen3_reranker_0.6b,-5.0078125
+Q15,a witty romantic comedy about two people gradually falling in love,339,qwen3_reranker_0.6b,-0.234375
+Q15,a witty romantic comedy about two people gradually falling in love,372,qwen3_reranker_0.6b,-3.109375
+Q15,a witty romantic comedy about two people gradually falling in love,575,qwen3_reranker_0.6b,-0.9140625
+Q15,a witty romantic comedy about two people gradually falling in love,597,qwen3_reranker_0.6b,1.65625
+Q15,a witty romantic comedy about two people gradually falling in love,788,qwen3_reranker_0.6b,-2.078125
+Q15,a witty romantic comedy about two people gradually falling in love,830,qwen3_reranker_0.6b,-4.15625
+Q15,a witty romantic comedy about two people gradually falling in love,905,qwen3_reranker_0.6b,3.7578125
+Q15,a witty romantic comedy about two people gradually falling in love,909,qwen3_reranker_0.6b,-2.6640625
+Q15,a witty romantic comedy about two people gradually falling in love,955,qwen3_reranker_0.6b,-1.6484375
+Q15,a witty romantic comedy about two people gradually falling in love,1057,qwen3_reranker_0.6b,-1.7109375
+Q15,a witty romantic comedy about two people gradually falling in love,1175,qwen3_reranker_0.6b,-6.03125
+Q15,a witty romantic comedy about two people gradually falling in love,1230,qwen3_reranker_0.6b,-1.1328125
+Q15,a witty romantic comedy about two people gradually falling in love,1235,qwen3_reranker_0.6b,-0.3203125
+Q15,a witty romantic comedy about two people gradually falling in love,1457,qwen3_reranker_0.6b,-2.53125
+Q15,a witty romantic comedy about two people gradually falling in love,1569,qwen3_reranker_0.6b,0.671875
+Q15,a witty romantic comedy about two people gradually falling in love,1588,qwen3_reranker_0.6b,-4.53125
+Q15,a witty romantic comedy about two people gradually falling in love,1639,qwen3_reranker_0.6b,0.09375
+Q15,a witty romantic comedy about two people gradually falling in love,1777,qwen3_reranker_0.6b,1.40625
+Q15,a witty romantic comedy about two people gradually falling in love,1784,qwen3_reranker_0.6b,-2.859375
+Q15,a witty romantic comedy about two people gradually falling in love,1885,qwen3_reranker_0.6b,-4.5078125
+Q15,a witty romantic comedy about two people gradually falling in love,1923,qwen3_reranker_0.6b,1.5546875
+Q15,a witty romantic comedy about two people gradually falling in love,2248,qwen3_reranker_0.6b,-0.625
+Q15,a witty romantic comedy about two people gradually falling in love,2375,qwen3_reranker_0.6b,-2.1015625
+Q15,a witty romantic comedy about two people gradually falling in love,2396,qwen3_reranker_0.6b,-0.125
+Q15,a witty romantic comedy about two people gradually falling in love,2424,qwen3_reranker_0.6b,2.3515625
+Q15,a witty romantic comedy about two people gradually falling in love,2581,qwen3_reranker_0.6b,-0.296875
+Q15,a witty romantic comedy about two people gradually falling in love,2671,qwen3_reranker_0.6b,1.40625
+Q15,a witty romantic comedy about two people gradually falling in love,2805,qwen3_reranker_0.6b,-1.4609375
+Q15,a witty romantic comedy about two people gradually falling in love,3361,qwen3_reranker_0.6b,-5.0234375
+Q15,a witty romantic comedy about two people gradually falling in love,3481,qwen3_reranker_0.6b,-1.3203125
+Q15,a witty romantic comedy about two people gradually falling in love,3948,qwen3_reranker_0.6b,-1.9765625
+Q15,a witty romantic comedy about two people gradually falling in love,4069,qwen3_reranker_0.6b,1.625
+Q15,a witty romantic comedy about two people gradually falling in love,4144,qwen3_reranker_0.6b,-3.09375
+Q15,a witty romantic comedy about two people gradually falling in love,4361,qwen3_reranker_0.6b,-1.484375
+Q15,a witty romantic comedy about two people gradually falling in love,4639,qwen3_reranker_0.6b,-3.4375
+Q15,a witty romantic comedy about two people gradually falling in love,4718,qwen3_reranker_0.6b,-3.3046875
+Q15,a witty romantic comedy about two people gradually falling in love,4728,qwen3_reranker_0.6b,-10.234375
+Q15,a witty romantic comedy about two people gradually falling in love,4823,qwen3_reranker_0.6b,0.828125
+Q15,a witty romantic comedy about two people gradually falling in love,4973,qwen3_reranker_0.6b,-1.3203125
+Q15,a witty romantic comedy about two people gradually falling in love,5283,qwen3_reranker_0.6b,-1.09375
+Q15,a witty romantic comedy about two people gradually falling in love,5449,qwen3_reranker_0.6b,-2.6875
+Q15,a witty romantic comedy about two people gradually falling in love,5577,qwen3_reranker_0.6b,-2.046875
+Q15,a witty romantic comedy about two people gradually falling in love,5673,qwen3_reranker_0.6b,-0.171875
+Q15,a witty romantic comedy about two people gradually falling in love,5943,qwen3_reranker_0.6b,0.484375
+Q15,a witty romantic comedy about two people gradually falling in love,5957,qwen3_reranker_0.6b,1.15625
+Q15,a witty romantic comedy about two people gradually falling in love,6155,qwen3_reranker_0.6b,0.265625
+Q15,a witty romantic comedy about two people gradually falling in love,6482,qwen3_reranker_0.6b,-3.640625
+Q15,a witty romantic comedy about two people gradually falling in love,6586,qwen3_reranker_0.6b,-3.890625
+Q15,a witty romantic comedy about two people gradually falling in love,6942,qwen3_reranker_0.6b,-0.6796875
+Q15,a witty romantic comedy about two people gradually falling in love,7173,qwen3_reranker_0.6b,1.6875
+Q15,a witty romantic comedy about two people gradually falling in love,7293,qwen3_reranker_0.6b,2.9765625
+Q15,a witty romantic comedy about two people gradually falling in love,7361,qwen3_reranker_0.6b,-5.578125
+Q15,a witty romantic comedy about two people gradually falling in love,8910,qwen3_reranker_0.6b,-3.0390625
+Q15,a witty romantic comedy about two people gradually falling in love,31685,qwen3_reranker_0.6b,0.640625
+Q15,a witty romantic comedy about two people gradually falling in love,34162,qwen3_reranker_0.6b,-0.5703125
+Q15,a witty romantic comedy about two people gradually falling in love,38061,qwen3_reranker_0.6b,-6.4765625
+Q15,a witty romantic comedy about two people gradually falling in love,49286,qwen3_reranker_0.6b,-3.2734375
+Q15,a witty romantic comedy about two people gradually falling in love,52973,qwen3_reranker_0.6b,-1.953125
+Q15,a witty romantic comedy about two people gradually falling in love,53894,qwen3_reranker_0.6b,-10.8515625
+Q15,a witty romantic comedy about two people gradually falling in love,58047,qwen3_reranker_0.6b,-1.5078125
+Q15,a witty romantic comedy about two people gradually falling in love,60950,qwen3_reranker_0.6b,-5.4921875
+Q15,a witty romantic comedy about two people gradually falling in love,64969,qwen3_reranker_0.6b,-1.0546875
+Q15,a witty romantic comedy about two people gradually falling in love,67087,qwen3_reranker_0.6b,-1.8125
+Q15,a witty romantic comedy about two people gradually falling in love,69757,qwen3_reranker_0.6b,2.71875
+Q15,a witty romantic comedy about two people gradually falling in love,70183,qwen3_reranker_0.6b,-0.1875
+Q15,a witty romantic comedy about two people gradually falling in love,88163,qwen3_reranker_0.6b,-0.46875
+Q15,a witty romantic comedy about two people gradually falling in love,94959,qwen3_reranker_0.6b,-1.953125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,198,qwen3_reranker_0.6b,-2.71875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,593,qwen3_reranker_0.6b,0.59375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,903,qwen3_reranker_0.6b,1.140625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,922,qwen3_reranker_0.6b,-4.84375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1047,qwen3_reranker_0.6b,1.296875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1104,qwen3_reranker_0.6b,-3.8671875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1206,qwen3_reranker_0.6b,-5.3359375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1219,qwen3_reranker_0.6b,2.546875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1258,qwen3_reranker_0.6b,-0.03125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1625,qwen3_reranker_0.6b,-0.7265625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1748,qwen3_reranker_0.6b,2.890625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1921,qwen3_reranker_0.6b,-2.46875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2369,qwen3_reranker_0.6b,-1.546875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2505,qwen3_reranker_0.6b,-4.0
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2672,qwen3_reranker_0.6b,-1.84375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2688,qwen3_reranker_0.6b,-2.1171875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2712,qwen3_reranker_0.6b,-6.1484375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2762,qwen3_reranker_0.6b,1.7890625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2841,qwen3_reranker_0.6b,0.2578125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2916,qwen3_reranker_0.6b,-0.0625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3044,qwen3_reranker_0.6b,4.0234375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3081,qwen3_reranker_0.6b,-5.859375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3176,qwen3_reranker_0.6b,-0.546875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3186,qwen3_reranker_0.6b,-4.734375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3476,qwen3_reranker_0.6b,-3.6796875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3499,qwen3_reranker_0.6b,-1.7734375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3503,qwen3_reranker_0.6b,0.234375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3535,qwen3_reranker_0.6b,1.7890625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3730,qwen3_reranker_0.6b,-4.9140625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3798,qwen3_reranker_0.6b,-3.0390625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3863,qwen3_reranker_0.6b,-0.828125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3893,qwen3_reranker_0.6b,-3.8828125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3949,qwen3_reranker_0.6b,-4.1640625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3986,qwen3_reranker_0.6b,0.421875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3994,qwen3_reranker_0.6b,-4.59375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4148,qwen3_reranker_0.6b,-1.640625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4226,qwen3_reranker_0.6b,6.0703125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4238,qwen3_reranker_0.6b,0.078125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4720,qwen3_reranker_0.6b,-3.421875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4848,qwen3_reranker_0.6b,4.796875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4878,qwen3_reranker_0.6b,-0.546875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4975,qwen3_reranker_0.6b,-2.796875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4995,qwen3_reranker_0.6b,-8.5859375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5266,qwen3_reranker_0.6b,-3.640625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5388,qwen3_reranker_0.6b,-4.5078125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5418,qwen3_reranker_0.6b,0.7421875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5528,qwen3_reranker_0.6b,-4.296875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5881,qwen3_reranker_0.6b,0.1875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,6323,qwen3_reranker_0.6b,-0.21875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,7163,qwen3_reranker_0.6b,0.28125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,7254,qwen3_reranker_0.6b,-1.3359375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,7347,qwen3_reranker_0.6b,-1.9609375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,7361,qwen3_reranker_0.6b,0.9609375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,8781,qwen3_reranker_0.6b,1.03125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,49278,qwen3_reranker_0.6b,-2.8515625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,51086,qwen3_reranker_0.6b,-1.09375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,74458,qwen3_reranker_0.6b,1.7265625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,79132,qwen3_reranker_0.6b,-1.5703125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,81591,qwen3_reranker_0.6b,0.203125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,85510,qwen3_reranker_0.6b,-6.234375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,87306,qwen3_reranker_0.6b,-6.0390625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,112556,qwen3_reranker_0.6b,2.5859375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,114180,qwen3_reranker_0.6b,2.5625
+Q17,"a science fiction film about space exploration, isolation and survival",76,qwen3_reranker_0.6b,-1.859375
+Q17,"a science fiction film about space exploration, isolation and survival",208,qwen3_reranker_0.6b,-1.2734375
+Q17,"a science fiction film about space exploration, isolation and survival",260,qwen3_reranker_0.6b,-0.09375
+Q17,"a science fiction film about space exploration, isolation and survival",780,qwen3_reranker_0.6b,-0.28125
+Q17,"a science fiction film about space exploration, isolation and survival",924,qwen3_reranker_0.6b,3.078125
+Q17,"a science fiction film about space exploration, isolation and survival",1097,qwen3_reranker_0.6b,3.734375
+Q17,"a science fiction film about space exploration, isolation and survival",1200,qwen3_reranker_0.6b,2.0
+Q17,"a science fiction film about space exploration, isolation and survival",1210,qwen3_reranker_0.6b,-1.359375
+Q17,"a science fiction film about space exploration, isolation and survival",1214,qwen3_reranker_0.6b,1.3125
+Q17,"a science fiction film about space exploration, isolation and survival",1253,qwen3_reranker_0.6b,1.265625
+Q17,"a science fiction film about space exploration, isolation and survival",1301,qwen3_reranker_0.6b,3.59375
+Q17,"a science fiction film about space exploration, isolation and survival",1320,qwen3_reranker_0.6b,0.96875
+Q17,"a science fiction film about space exploration, isolation and survival",1373,qwen3_reranker_0.6b,1.1328125
+Q17,"a science fiction film about space exploration, isolation and survival",1375,qwen3_reranker_0.6b,-0.1796875
+Q17,"a science fiction film about space exploration, isolation and survival",1527,qwen3_reranker_0.6b,-0.03125
+Q17,"a science fiction film about space exploration, isolation and survival",1590,qwen3_reranker_0.6b,2.0234375
+Q17,"a science fiction film about space exploration, isolation and survival",1779,qwen3_reranker_0.6b,-0.078125
+Q17,"a science fiction film about space exploration, isolation and survival",1831,qwen3_reranker_0.6b,2.875
+Q17,"a science fiction film about space exploration, isolation and survival",1876,qwen3_reranker_0.6b,-0.640625
+Q17,"a science fiction film about space exploration, isolation and survival",1909,qwen3_reranker_0.6b,-4.765625
+Q17,"a science fiction film about space exploration, isolation and survival",1917,qwen3_reranker_0.6b,-2.1328125
+Q17,"a science fiction film about space exploration, isolation and survival",2021,qwen3_reranker_0.6b,-0.3984375
+Q17,"a science fiction film about space exploration, isolation and survival",2288,qwen3_reranker_0.6b,4.5703125
+Q17,"a science fiction film about space exploration, isolation and survival",2311,qwen3_reranker_0.6b,1.234375
+Q17,"a science fiction film about space exploration, isolation and survival",2529,qwen3_reranker_0.6b,-1.6015625
+Q17,"a science fiction film about space exploration, isolation and survival",2533,qwen3_reranker_0.6b,-1.7265625
+Q17,"a science fiction film about space exploration, isolation and survival",2827,qwen3_reranker_0.6b,-1.515625
+Q17,"a science fiction film about space exploration, isolation and survival",3175,qwen3_reranker_0.6b,-2.0390625
+Q17,"a science fiction film about space exploration, isolation and survival",3300,qwen3_reranker_0.6b,2.4140625
+Q17,"a science fiction film about space exploration, isolation and survival",3354,qwen3_reranker_0.6b,3.0
+Q17,"a science fiction film about space exploration, isolation and survival",3471,qwen3_reranker_0.6b,1.8984375
+Q17,"a science fiction film about space exploration, isolation and survival",3503,qwen3_reranker_0.6b,1.0
+Q17,"a science fiction film about space exploration, isolation and survival",3593,qwen3_reranker_0.6b,-1.71875
+Q17,"a science fiction film about space exploration, isolation and survival",3745,qwen3_reranker_0.6b,3.8359375
+Q17,"a science fiction film about space exploration, isolation and survival",3826,qwen3_reranker_0.6b,0.5078125
+Q17,"a science fiction film about space exploration, isolation and survival",3827,qwen3_reranker_0.6b,-3.3359375
+Q17,"a science fiction film about space exploration, isolation and survival",3981,qwen3_reranker_0.6b,3.1953125
+Q17,"a science fiction film about space exploration, isolation and survival",4121,qwen3_reranker_0.6b,-0.90625
+Q17,"a science fiction film about space exploration, isolation and survival",4343,qwen3_reranker_0.6b,-1.765625
+Q17,"a science fiction film about space exploration, isolation and survival",4643,qwen3_reranker_0.6b,-1.828125
+Q17,"a science fiction film about space exploration, isolation and survival",5881,qwen3_reranker_0.6b,4.203125
+Q17,"a science fiction film about space exploration, isolation and survival",33004,qwen3_reranker_0.6b,3.421875
+Q17,"a science fiction film about space exploration, isolation and survival",34048,qwen3_reranker_0.6b,2.84375
+Q17,"a science fiction film about space exploration, isolation and survival",34150,qwen3_reranker_0.6b,-2.9140625
+Q17,"a science fiction film about space exploration, isolation and survival",34405,qwen3_reranker_0.6b,1.5546875
+Q17,"a science fiction film about space exploration, isolation and survival",52328,qwen3_reranker_0.6b,0.1875
+Q17,"a science fiction film about space exploration, isolation and survival",56174,qwen3_reranker_0.6b,1.3984375
+Q17,"a science fiction film about space exploration, isolation and survival",57368,qwen3_reranker_0.6b,-1.4140625
+Q17,"a science fiction film about space exploration, isolation and survival",68237,qwen3_reranker_0.6b,4.5234375
+Q17,"a science fiction film about space exploration, isolation and survival",84772,qwen3_reranker_0.6b,-0.1015625
+Q17,"a science fiction film about space exploration, isolation and survival",94864,qwen3_reranker_0.6b,-0.234375
+Q17,"a science fiction film about space exploration, isolation and survival",101864,qwen3_reranker_0.6b,0.703125
+Q17,"a science fiction film about space exploration, isolation and survival",102445,qwen3_reranker_0.6b,0.984375
+Q17,"a science fiction film about space exploration, isolation and survival",103253,qwen3_reranker_0.6b,-1.6171875
+Q17,"a science fiction film about space exploration, isolation and survival",104841,qwen3_reranker_0.6b,3.5859375
+Q17,"a science fiction film about space exploration, isolation and survival",109487,qwen3_reranker_0.6b,3.265625
+Q17,"a science fiction film about space exploration, isolation and survival",134130,qwen3_reranker_0.6b,5.5078125
+Q17,"a science fiction film about space exploration, isolation and survival",135569,qwen3_reranker_0.6b,1.796875
+Q17,"a science fiction film about space exploration, isolation and survival",164179,qwen3_reranker_0.6b,0.234375
+Q17,"a science fiction film about space exploration, isolation and survival",166528,qwen3_reranker_0.6b,0.609375
+Q18,"a coming-of-age film about school, friendship and finding your identity",39,qwen3_reranker_0.6b,-2.6640625
+Q18,"a coming-of-age film about school, friendship and finding your identity",218,qwen3_reranker_0.6b,-3.6328125
+Q18,"a coming-of-age film about school, friendship and finding your identity",239,qwen3_reranker_0.6b,-4.203125
+Q18,"a coming-of-age film about school, friendship and finding your identity",441,qwen3_reranker_0.6b,-0.875
+Q18,"a coming-of-age film about school, friendship and finding your identity",491,qwen3_reranker_0.6b,-1.4453125
+Q18,"a coming-of-age film about school, friendship and finding your identity",562,qwen3_reranker_0.6b,0.4453125
+Q18,"a coming-of-age film about school, friendship and finding your identity",724,qwen3_reranker_0.6b,-3.734375
+Q18,"a coming-of-age film about school, friendship and finding your identity",765,qwen3_reranker_0.6b,-0.4921875
+Q18,"a coming-of-age film about school, friendship and finding your identity",1103,qwen3_reranker_0.6b,-0.6484375
+Q18,"a coming-of-age film about school, friendship and finding your identity",1259,qwen3_reranker_0.6b,-0.375
+Q18,"a coming-of-age film about school, friendship and finding your identity",1285,qwen3_reranker_0.6b,2.2578125
+Q18,"a coming-of-age film about school, friendship and finding your identity",1513,qwen3_reranker_0.6b,-4.0625
+Q18,"a coming-of-age film about school, friendship and finding your identity",1614,qwen3_reranker_0.6b,-4.765625
+Q18,"a coming-of-age film about school, friendship and finding your identity",1895,qwen3_reranker_0.6b,0.375
+Q18,"a coming-of-age film about school, friendship and finding your identity",1968,qwen3_reranker_0.6b,2.78125
+Q18,"a coming-of-age film about school, friendship and finding your identity",2114,qwen3_reranker_0.6b,-3.65625
+Q18,"a coming-of-age film about school, friendship and finding your identity",2144,qwen3_reranker_0.6b,-3.609375
+Q18,"a coming-of-age film about school, friendship and finding your identity",2146,qwen3_reranker_0.6b,-3.0859375
+Q18,"a coming-of-age film about school, friendship and finding your identity",2248,qwen3_reranker_0.6b,-4.2890625
+Q18,"a coming-of-age film about school, friendship and finding your identity",2352,qwen3_reranker_0.6b,-2.4140625
+Q18,"a coming-of-age film about school, friendship and finding your identity",2395,qwen3_reranker_0.6b,2.2265625
+Q18,"a coming-of-age film about school, friendship and finding your identity",2416,qwen3_reranker_0.6b,-3.6328125
+Q18,"a coming-of-age film about school, friendship and finding your identity",2447,qwen3_reranker_0.6b,-5.21875
+Q18,"a coming-of-age film about school, friendship and finding your identity",2485,qwen3_reranker_0.6b,-2.625
+Q18,"a coming-of-age film about school, friendship and finding your identity",2565,qwen3_reranker_0.6b,-7.140625
+Q18,"a coming-of-age film about school, friendship and finding your identity",2572,qwen3_reranker_0.6b,1.703125
+Q18,"a coming-of-age film about school, friendship and finding your identity",2706,qwen3_reranker_0.6b,-1.2109375
+Q18,"a coming-of-age film about school, friendship and finding your identity",2797,qwen3_reranker_0.6b,-1.75
+Q18,"a coming-of-age film about school, friendship and finding your identity",2908,qwen3_reranker_0.6b,-1.984375
+Q18,"a coming-of-age film about school, friendship and finding your identity",2918,qwen3_reranker_0.6b,-2.1875
+Q18,"a coming-of-age film about school, friendship and finding your identity",3176,qwen3_reranker_0.6b,-3.765625
+Q18,"a coming-of-age film about school, friendship and finding your identity",3210,qwen3_reranker_0.6b,3.2734375
+Q18,"a coming-of-age film about school, friendship and finding your identity",3359,qwen3_reranker_0.6b,0.125
+Q18,"a coming-of-age film about school, friendship and finding your identity",3897,qwen3_reranker_0.6b,-2.328125
+Q18,"a coming-of-age film about school, friendship and finding your identity",3967,qwen3_reranker_0.6b,-0.7578125
+Q18,"a coming-of-age film about school, friendship and finding your identity",3998,qwen3_reranker_0.6b,-8.7421875
+Q18,"a coming-of-age film about school, friendship and finding your identity",4019,qwen3_reranker_0.6b,-1.0859375
+Q18,"a coming-of-age film about school, friendship and finding your identity",4029,qwen3_reranker_0.6b,-7.2265625
+Q18,"a coming-of-age film about school, friendship and finding your identity",4641,qwen3_reranker_0.6b,-1.7578125
+Q18,"a coming-of-age film about school, friendship and finding your identity",4878,qwen3_reranker_0.6b,-2.78125
+Q18,"a coming-of-age film about school, friendship and finding your identity",4896,qwen3_reranker_0.6b,0.453125
+Q18,"a coming-of-age film about school, friendship and finding your identity",4974,qwen3_reranker_0.6b,-3.8046875
+Q18,"a coming-of-age film about school, friendship and finding your identity",5066,qwen3_reranker_0.6b,0.6875
+Q18,"a coming-of-age film about school, friendship and finding your identity",5349,qwen3_reranker_0.6b,-4.9609375
+Q18,"a coming-of-age film about school, friendship and finding your identity",5377,qwen3_reranker_0.6b,-1.6328125
+Q18,"a coming-of-age film about school, friendship and finding your identity",5577,qwen3_reranker_0.6b,-3.2578125
+Q18,"a coming-of-age film about school, friendship and finding your identity",5669,qwen3_reranker_0.6b,-8.375
+Q18,"a coming-of-age film about school, friendship and finding your identity",6188,qwen3_reranker_0.6b,-2.0703125
+Q18,"a coming-of-age film about school, friendship and finding your identity",6863,qwen3_reranker_0.6b,-4.7421875
+Q18,"a coming-of-age film about school, friendship and finding your identity",7451,qwen3_reranker_0.6b,2.765625
+Q18,"a coming-of-age film about school, friendship and finding your identity",8366,qwen3_reranker_0.6b,1.03125
+Q18,"a coming-of-age film about school, friendship and finding your identity",8376,qwen3_reranker_0.6b,-2.3203125
+Q18,"a coming-of-age film about school, friendship and finding your identity",8970,qwen3_reranker_0.6b,-5.90625
+Q18,"a coming-of-age film about school, friendship and finding your identity",44761,qwen3_reranker_0.6b,-5.9296875
+Q18,"a coming-of-age film about school, friendship and finding your identity",47518,qwen3_reranker_0.6b,-3.5703125
+Q18,"a coming-of-age film about school, friendship and finding your identity",53519,qwen3_reranker_0.6b,-7.546875
+Q18,"a coming-of-age film about school, friendship and finding your identity",54503,qwen3_reranker_0.6b,3.8984375
+Q18,"a coming-of-age film about school, friendship and finding your identity",76251,qwen3_reranker_0.6b,-4.7890625
+Q18,"a coming-of-age film about school, friendship and finding your identity",80549,qwen3_reranker_0.6b,4.0390625
+Q18,"a coming-of-age film about school, friendship and finding your identity",93510,qwen3_reranker_0.6b,-3.8125
+Q18,"a coming-of-age film about school, friendship and finding your identity",96588,qwen3_reranker_0.6b,-3.09375
+Q18,"a coming-of-age film about school, friendship and finding your identity",96821,qwen3_reranker_0.6b,2.984375
+Q18,"a coming-of-age film about school, friendship and finding your identity",112138,qwen3_reranker_0.6b,-2.984375
+Q18,"a coming-of-age film about school, friendship and finding your identity",112290,qwen3_reranker_0.6b,2.234375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2,qwen3_reranker_0.6b,3.3515625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",405,qwen3_reranker_0.6b,1.125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",653,qwen3_reranker_0.6b,2.6640625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",919,qwen3_reranker_0.6b,4.7109375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",1387,qwen3_reranker_0.6b,-6.4765625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",1967,qwen3_reranker_0.6b,0.4375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2115,qwen3_reranker_0.6b,-4.75
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2116,qwen3_reranker_0.6b,4.6953125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2140,qwen3_reranker_0.6b,2.9921875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2143,qwen3_reranker_0.6b,4.5703125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2161,qwen3_reranker_0.6b,2.921875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2193,qwen3_reranker_0.6b,5.015625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2406,qwen3_reranker_0.6b,-3.8125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2643,qwen3_reranker_0.6b,-4.8984375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2826,qwen3_reranker_0.6b,-2.203125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2872,qwen3_reranker_0.6b,0.03125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3000,qwen3_reranker_0.6b,3.6171875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3175,qwen3_reranker_0.6b,-5.0390625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3489,qwen3_reranker_0.6b,1.1640625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3740,qwen3_reranker_0.6b,1.953125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3997,qwen3_reranker_0.6b,-2.046875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",4367,qwen3_reranker_0.6b,3.265625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",4896,qwen3_reranker_0.6b,4.8671875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",4993,qwen3_reranker_0.6b,4.609375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",5463,qwen3_reranker_0.6b,-1.3828125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",5816,qwen3_reranker_0.6b,4.3125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",5952,qwen3_reranker_0.6b,4.3359375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",6350,qwen3_reranker_0.6b,1.21875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",7153,qwen3_reranker_0.6b,4.8125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",8368,qwen3_reranker_0.6b,4.8359375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",34150,qwen3_reranker_0.6b,-0.21875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",36401,qwen3_reranker_0.6b,0.734375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",40815,qwen3_reranker_0.6b,3.34375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",41566,qwen3_reranker_0.6b,1.5
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",49649,qwen3_reranker_0.6b,4.5234375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",54001,qwen3_reranker_0.6b,0.875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",54259,qwen3_reranker_0.6b,1.28125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",55269,qwen3_reranker_0.6b,-6.8671875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",56171,qwen3_reranker_0.6b,-0.265625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",59501,qwen3_reranker_0.6b,3.078125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",69844,qwen3_reranker_0.6b,2.2578125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",76093,qwen3_reranker_0.6b,3.890625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",81834,qwen3_reranker_0.6b,5.1640625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",81847,qwen3_reranker_0.6b,2.6640625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",88125,qwen3_reranker_0.6b,3.6015625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",95167,qwen3_reranker_0.6b,1.21875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",98809,qwen3_reranker_0.6b,5.171875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",106489,qwen3_reranker_0.6b,3.984375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",106696,qwen3_reranker_0.6b,2.984375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",111659,qwen3_reranker_0.6b,4.71875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",118696,qwen3_reranker_0.6b,3.1171875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",135143,qwen3_reranker_0.6b,3.203125
+Q20,"a film about music, artistic ambition and the personal cost of success",31,qwen3_reranker_0.6b,-4.25
+Q20,"a film about music, artistic ambition and the personal cost of success",62,qwen3_reranker_0.6b,-0.234375
+Q20,"a film about music, artistic ambition and the personal cost of success",111,qwen3_reranker_0.6b,-6.484375
+Q20,"a film about music, artistic ambition and the personal cost of success",140,qwen3_reranker_0.6b,0.7734375
+Q20,"a film about music, artistic ambition and the personal cost of success",176,qwen3_reranker_0.6b,-2.4375
+Q20,"a film about music, artistic ambition and the personal cost of success",235,qwen3_reranker_0.6b,-2.6015625
+Q20,"a film about music, artistic ambition and the personal cost of success",249,qwen3_reranker_0.6b,-1.390625
+Q20,"a film about music, artistic ambition and the personal cost of success",307,qwen3_reranker_0.6b,-1.859375
+Q20,"a film about music, artistic ambition and the personal cost of success",477,qwen3_reranker_0.6b,0.484375
+Q20,"a film about music, artistic ambition and the personal cost of success",900,qwen3_reranker_0.6b,-4.1953125
+Q20,"a film about music, artistic ambition and the personal cost of success",924,qwen3_reranker_0.6b,-7.94140625
+Q20,"a film about music, artistic ambition and the personal cost of success",953,qwen3_reranker_0.6b,-6.171875
+Q20,"a film about music, artistic ambition and the personal cost of success",1035,qwen3_reranker_0.6b,-0.78125
+Q20,"a film about music, artistic ambition and the personal cost of success",1042,qwen3_reranker_0.6b,-0.359375
+Q20,"a film about music, artistic ambition and the personal cost of success",1093,qwen3_reranker_0.6b,-1.015625
+Q20,"a film about music, artistic ambition and the personal cost of success",1206,qwen3_reranker_0.6b,-5.15625
+Q20,"a film about music, artistic ambition and the personal cost of success",1225,qwen3_reranker_0.6b,-0.296875
+Q20,"a film about music, artistic ambition and the personal cost of success",1298,qwen3_reranker_0.6b,0.1875
+Q20,"a film about music, artistic ambition and the personal cost of success",1357,qwen3_reranker_0.6b,-0.5625
+Q20,"a film about music, artistic ambition and the personal cost of success",1673,qwen3_reranker_0.6b,-3.8671875
+Q20,"a film about music, artistic ambition and the personal cost of success",1784,qwen3_reranker_0.6b,-2.75
+Q20,"a film about music, artistic ambition and the personal cost of success",1883,qwen3_reranker_0.6b,-5.78125
+Q20,"a film about music, artistic ambition and the personal cost of success",1959,qwen3_reranker_0.6b,-6.609375
+Q20,"a film about music, artistic ambition and the personal cost of success",2109,qwen3_reranker_0.6b,-3.1171875
+Q20,"a film about music, artistic ambition and the personal cost of success",2318,qwen3_reranker_0.6b,-5.8984375
+Q20,"a film about music, artistic ambition and the personal cost of success",2369,qwen3_reranker_0.6b,-5.2265625
+Q20,"a film about music, artistic ambition and the personal cost of success",2474,qwen3_reranker_0.6b,-6.2734375
+Q20,"a film about music, artistic ambition and the personal cost of success",2657,qwen3_reranker_0.6b,-4.78125
+Q20,"a film about music, artistic ambition and the personal cost of success",2686,qwen3_reranker_0.6b,-3.328125
+Q20,"a film about music, artistic ambition and the personal cost of success",2700,qwen3_reranker_0.6b,-6.625
+Q20,"a film about music, artistic ambition and the personal cost of success",2770,qwen3_reranker_0.6b,1.7421875
+Q20,"a film about music, artistic ambition and the personal cost of success",2942,qwen3_reranker_0.6b,-0.6875
+Q20,"a film about music, artistic ambition and the personal cost of success",2973,qwen3_reranker_0.6b,-2.9453125
+Q20,"a film about music, artistic ambition and the personal cost of success",3006,qwen3_reranker_0.6b,-5.6796875
+Q20,"a film about music, artistic ambition and the personal cost of success",3060,qwen3_reranker_0.6b,-3.5546875
+Q20,"a film about music, artistic ambition and the personal cost of success",3087,qwen3_reranker_0.6b,-2.2421875
+Q20,"a film about music, artistic ambition and the personal cost of success",3160,qwen3_reranker_0.6b,-4.5625
+Q20,"a film about music, artistic ambition and the personal cost of success",3477,qwen3_reranker_0.6b,-3.4296875
+Q20,"a film about music, artistic ambition and the personal cost of success",3481,qwen3_reranker_0.6b,-4.1484375
+Q20,"a film about music, artistic ambition and the personal cost of success",3825,qwen3_reranker_0.6b,-0.9765625
+Q20,"a film about music, artistic ambition and the personal cost of success",3897,qwen3_reranker_0.6b,-0.296875
+Q20,"a film about music, artistic ambition and the personal cost of success",3910,qwen3_reranker_0.6b,-3.7734375
+Q20,"a film about music, artistic ambition and the personal cost of success",3949,qwen3_reranker_0.6b,-3.8515625
+Q20,"a film about music, artistic ambition and the personal cost of success",3967,qwen3_reranker_0.6b,-6.1484375
+Q20,"a film about music, artistic ambition and the personal cost of success",4017,qwen3_reranker_0.6b,-2.390625
+Q20,"a film about music, artistic ambition and the personal cost of success",4022,qwen3_reranker_0.6b,-5.1015625
+Q20,"a film about music, artistic ambition and the personal cost of success",4308,qwen3_reranker_0.6b,-2.7734375
+Q20,"a film about music, artistic ambition and the personal cost of success",4448,qwen3_reranker_0.6b,-4.6328125
+Q20,"a film about music, artistic ambition and the personal cost of success",4642,qwen3_reranker_0.6b,-3.6484375
+Q20,"a film about music, artistic ambition and the personal cost of success",4995,qwen3_reranker_0.6b,-4.109375
+Q20,"a film about music, artistic ambition and the personal cost of success",5669,qwen3_reranker_0.6b,-7.4765625
+Q20,"a film about music, artistic ambition and the personal cost of success",5810,qwen3_reranker_0.6b,0.15625
+Q20,"a film about music, artistic ambition and the personal cost of success",5995,qwen3_reranker_0.6b,-3.109375
+Q20,"a film about music, artistic ambition and the personal cost of success",6565,qwen3_reranker_0.6b,-8.890625
+Q20,"a film about music, artistic ambition and the personal cost of success",6863,qwen3_reranker_0.6b,-3.6171875
+Q20,"a film about music, artistic ambition and the personal cost of success",7151,qwen3_reranker_0.6b,-5.9921875
+Q20,"a film about music, artistic ambition and the personal cost of success",7361,qwen3_reranker_0.6b,-4.609375
+Q20,"a film about music, artistic ambition and the personal cost of success",8958,qwen3_reranker_0.6b,-2.5078125
+Q20,"a film about music, artistic ambition and the personal cost of success",30812,qwen3_reranker_0.6b,-3.375
+Q20,"a film about music, artistic ambition and the personal cost of success",40278,qwen3_reranker_0.6b,-4.421875
+Q20,"a film about music, artistic ambition and the personal cost of success",40819,qwen3_reranker_0.6b,-2.3984375
+Q20,"a film about music, artistic ambition and the personal cost of success",47099,qwen3_reranker_0.6b,-1.5390625
+Q20,"a film about music, artistic ambition and the personal cost of success",48780,qwen3_reranker_0.6b,-5.1640625
+Q20,"a film about music, artistic ambition and the personal cost of success",77455,qwen3_reranker_0.6b,-4.8828125
+Q20,"a film about music, artistic ambition and the personal cost of success",80463,qwen3_reranker_0.6b,-4.8515625
+Q20,"a film about music, artistic ambition and the personal cost of success",80906,qwen3_reranker_0.6b,-5.796875
+Q20,"a film about music, artistic ambition and the personal cost of success",96588,qwen3_reranker_0.6b,-2.90625
+Q20,"a film about music, artistic ambition and the personal cost of success",112183,qwen3_reranker_0.6b,-3.140625
+Q20,"a film about music, artistic ambition and the personal cost of success",112552,qwen3_reranker_0.6b,3.859375

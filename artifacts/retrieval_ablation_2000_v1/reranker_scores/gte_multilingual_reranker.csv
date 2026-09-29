@@ -1,0 +1,1350 @@
+query_id,query,movieId,reranker,reranker_score
+Q01,"a melancholic film about memory, identity and time",307,gte_multilingual_reranker,0.5
+Q01,"a melancholic film about memory, identity and time",805,gte_multilingual_reranker,0.364013671875
+Q01,"a melancholic film about memory, identity and time",922,gte_multilingual_reranker,0.41259765625
+Q01,"a melancholic film about memory, identity and time",1047,gte_multilingual_reranker,0.4990234375
+Q01,"a melancholic film about memory, identity and time",1183,gte_multilingual_reranker,0.492919921875
+Q01,"a melancholic film about memory, identity and time",1227,gte_multilingual_reranker,0.42236328125
+Q01,"a melancholic film about memory, identity and time",1251,gte_multilingual_reranker,0.513671875
+Q01,"a melancholic film about memory, identity and time",1270,gte_multilingual_reranker,0.54150390625
+Q01,"a melancholic film about memory, identity and time",1298,gte_multilingual_reranker,0.50146484375
+Q01,"a melancholic film about memory, identity and time",1562,gte_multilingual_reranker,0.433837890625
+Q01,"a melancholic film about memory, identity and time",1748,gte_multilingual_reranker,0.50927734375
+Q01,"a melancholic film about memory, identity and time",1956,gte_multilingual_reranker,0.451416015625
+Q01,"a melancholic film about memory, identity and time",1959,gte_multilingual_reranker,0.49462890625
+Q01,"a melancholic film about memory, identity and time",2324,gte_multilingual_reranker,0.49462890625
+Q01,"a melancholic film about memory, identity and time",2369,gte_multilingual_reranker,0.525390625
+Q01,"a melancholic film about memory, identity and time",2376,gte_multilingual_reranker,0.308349609375
+Q01,"a melancholic film about memory, identity and time",2496,gte_multilingual_reranker,0.438232421875
+Q01,"a melancholic film about memory, identity and time",2657,gte_multilingual_reranker,0.4619140625
+Q01,"a melancholic film about memory, identity and time",2841,gte_multilingual_reranker,0.439208984375
+Q01,"a melancholic film about memory, identity and time",2908,gte_multilingual_reranker,0.354248046875
+Q01,"a melancholic film about memory, identity and time",2916,gte_multilingual_reranker,0.499755859375
+Q01,"a melancholic film about memory, identity and time",2950,gte_multilingual_reranker,0.475830078125
+Q01,"a melancholic film about memory, identity and time",2973,gte_multilingual_reranker,0.346923828125
+Q01,"a melancholic film about memory, identity and time",2997,gte_multilingual_reranker,0.49072265625
+Q01,"a melancholic film about memory, identity and time",3044,gte_multilingual_reranker,0.5166015625
+Q01,"a melancholic film about memory, identity and time",3083,gte_multilingual_reranker,0.49658203125
+Q01,"a melancholic film about memory, identity and time",3186,gte_multilingual_reranker,0.4599609375
+Q01,"a melancholic film about memory, identity and time",3269,gte_multilingual_reranker,0.488037109375
+Q01,"a melancholic film about memory, identity and time",3503,gte_multilingual_reranker,0.49951171875
+Q01,"a melancholic film about memory, identity and time",3826,gte_multilingual_reranker,0.28466796875
+Q01,"a melancholic film about memory, identity and time",4017,gte_multilingual_reranker,0.44189453125
+Q01,"a melancholic film about memory, identity and time",4144,gte_multilingual_reranker,0.50830078125
+Q01,"a melancholic film about memory, identity and time",4226,gte_multilingual_reranker,0.64208984375
+Q01,"a melancholic film about memory, identity and time",4848,gte_multilingual_reranker,0.6357421875
+Q01,"a melancholic film about memory, identity and time",4878,gte_multilingual_reranker,0.54150390625
+Q01,"a melancholic film about memory, identity and time",4975,gte_multilingual_reranker,0.5947265625
+Q01,"a melancholic film about memory, identity and time",4992,gte_multilingual_reranker,0.51220703125
+Q01,"a melancholic film about memory, identity and time",5418,gte_multilingual_reranker,0.5107421875
+Q01,"a melancholic film about memory, identity and time",5459,gte_multilingual_reranker,0.494140625
+Q01,"a melancholic film about memory, identity and time",5528,gte_multilingual_reranker,0.469970703125
+Q01,"a melancholic film about memory, identity and time",5954,gte_multilingual_reranker,0.5
+Q01,"a melancholic film about memory, identity and time",5992,gte_multilingual_reranker,0.529296875
+Q01,"a melancholic film about memory, identity and time",6323,gte_multilingual_reranker,0.365478515625
+Q01,"a melancholic film about memory, identity and time",7151,gte_multilingual_reranker,0.302001953125
+Q01,"a melancholic film about memory, identity and time",7163,gte_multilingual_reranker,0.5224609375
+Q01,"a melancholic film about memory, identity and time",7254,gte_multilingual_reranker,0.482666015625
+Q01,"a melancholic film about memory, identity and time",7293,gte_multilingual_reranker,0.55810546875
+Q01,"a melancholic film about memory, identity and time",7361,gte_multilingual_reranker,0.67919921875
+Q01,"a melancholic film about memory, identity and time",8533,gte_multilingual_reranker,0.489013671875
+Q01,"a melancholic film about memory, identity and time",8781,gte_multilingual_reranker,0.56396484375
+Q01,"a melancholic film about memory, identity and time",8784,gte_multilingual_reranker,0.474853515625
+Q01,"a melancholic film about memory, identity and time",8914,gte_multilingual_reranker,0.3798828125
+Q01,"a melancholic film about memory, identity and time",34319,gte_multilingual_reranker,0.477783203125
+Q01,"a melancholic film about memory, identity and time",41571,gte_multilingual_reranker,0.48095703125
+Q01,"a melancholic film about memory, identity and time",45672,gte_multilingual_reranker,0.51708984375
+Q01,"a melancholic film about memory, identity and time",46723,gte_multilingual_reranker,0.458740234375
+Q01,"a melancholic film about memory, identity and time",49278,gte_multilingual_reranker,0.41357421875
+Q01,"a melancholic film about memory, identity and time",64957,gte_multilingual_reranker,0.560546875
+Q01,"a melancholic film about memory, identity and time",65230,gte_multilingual_reranker,0.4765625
+Q01,"a melancholic film about memory, identity and time",68237,gte_multilingual_reranker,0.461669921875
+Q01,"a melancholic film about memory, identity and time",81562,gte_multilingual_reranker,0.469970703125
+Q01,"a melancholic film about memory, identity and time",86882,gte_multilingual_reranker,0.483154296875
+Q01,"a melancholic film about memory, identity and time",90405,gte_multilingual_reranker,0.37451171875
+Q01,"a melancholic film about memory, identity and time",90866,gte_multilingual_reranker,0.41455078125
+Q01,"a melancholic film about memory, identity and time",97752,gte_multilingual_reranker,0.5537109375
+Q01,"a melancholic film about memory, identity and time",104374,gte_multilingual_reranker,0.494140625
+Q01,"a melancholic film about memory, identity and time",110553,gte_multilingual_reranker,0.3798828125
+Q01,"a melancholic film about memory, identity and time",116797,gte_multilingual_reranker,0.362060546875
+Q02,"an emotional, optimistic and moving film",204,gte_multilingual_reranker,0.348876953125
+Q02,"an emotional, optimistic and moving film",207,gte_multilingual_reranker,0.5068359375
+Q02,"an emotional, optimistic and moving film",356,gte_multilingual_reranker,0.66357421875
+Q02,"an emotional, optimistic and moving film",610,gte_multilingual_reranker,0.268310546875
+Q02,"an emotional, optimistic and moving film",765,gte_multilingual_reranker,0.50146484375
+Q02,"an emotional, optimistic and moving film",778,gte_multilingual_reranker,0.3916015625
+Q02,"an emotional, optimistic and moving film",953,gte_multilingual_reranker,0.47705078125
+Q02,"an emotional, optimistic and moving film",1015,gte_multilingual_reranker,0.492919921875
+Q02,"an emotional, optimistic and moving film",1059,gte_multilingual_reranker,0.357421875
+Q02,"an emotional, optimistic and moving film",1097,gte_multilingual_reranker,0.5
+Q02,"an emotional, optimistic and moving film",1124,gte_multilingual_reranker,0.6455078125
+Q02,"an emotional, optimistic and moving film",1136,gte_multilingual_reranker,0.344970703125
+Q02,"an emotional, optimistic and moving film",1178,gte_multilingual_reranker,0.446044921875
+Q02,"an emotional, optimistic and moving film",1276,gte_multilingual_reranker,0.379150390625
+Q02,"an emotional, optimistic and moving film",1357,gte_multilingual_reranker,0.454833984375
+Q02,"an emotional, optimistic and moving film",1513,gte_multilingual_reranker,0.6142578125
+Q02,"an emotional, optimistic and moving film",1704,gte_multilingual_reranker,0.53076171875
+Q02,"an emotional, optimistic and moving film",1876,gte_multilingual_reranker,0.442626953125
+Q02,"an emotional, optimistic and moving film",1961,gte_multilingual_reranker,0.49462890625
+Q02,"an emotional, optimistic and moving film",2065,gte_multilingual_reranker,0.48974609375
+Q02,"an emotional, optimistic and moving film",2313,gte_multilingual_reranker,0.41943359375
+Q02,"an emotional, optimistic and moving film",2318,gte_multilingual_reranker,0.442138671875
+Q02,"an emotional, optimistic and moving film",2324,gte_multilingual_reranker,0.51513671875
+Q02,"an emotional, optimistic and moving film",2539,gte_multilingual_reranker,0.451904296875
+Q02,"an emotional, optimistic and moving film",2700,gte_multilingual_reranker,0.4033203125
+Q02,"an emotional, optimistic and moving film",2863,gte_multilingual_reranker,0.4501953125
+Q02,"an emotional, optimistic and moving film",2918,gte_multilingual_reranker,0.5654296875
+Q02,"an emotional, optimistic and moving film",2966,gte_multilingual_reranker,0.45458984375
+Q02,"an emotional, optimistic and moving film",2973,gte_multilingual_reranker,0.38232421875
+Q02,"an emotional, optimistic and moving film",3083,gte_multilingual_reranker,0.423828125
+Q02,"an emotional, optimistic and moving film",3160,gte_multilingual_reranker,0.5244140625
+Q02,"an emotional, optimistic and moving film",3269,gte_multilingual_reranker,0.50634765625
+Q02,"an emotional, optimistic and moving film",3396,gte_multilingual_reranker,0.398681640625
+Q02,"an emotional, optimistic and moving film",3969,gte_multilingual_reranker,0.54248046875
+Q02,"an emotional, optimistic and moving film",4008,gte_multilingual_reranker,0.47412109375
+Q02,"an emotional, optimistic and moving film",4022,gte_multilingual_reranker,0.51220703125
+Q02,"an emotional, optimistic and moving film",4029,gte_multilingual_reranker,0.459716796875
+Q02,"an emotional, optimistic and moving film",4041,gte_multilingual_reranker,0.52294921875
+Q02,"an emotional, optimistic and moving film",5014,gte_multilingual_reranker,0.53857421875
+Q02,"an emotional, optimistic and moving film",5015,gte_multilingual_reranker,0.4365234375
+Q02,"an emotional, optimistic and moving film",5066,gte_multilingual_reranker,0.544921875
+Q02,"an emotional, optimistic and moving film",5669,gte_multilingual_reranker,0.405517578125
+Q02,"an emotional, optimistic and moving film",5673,gte_multilingual_reranker,0.501953125
+Q02,"an emotional, optimistic and moving film",5690,gte_multilingual_reranker,0.439208984375
+Q02,"an emotional, optimistic and moving film",6385,gte_multilingual_reranker,0.43359375
+Q02,"an emotional, optimistic and moving film",6565,gte_multilingual_reranker,0.428466796875
+Q02,"an emotional, optimistic and moving film",7361,gte_multilingual_reranker,0.625
+Q02,"an emotional, optimistic and moving film",8784,gte_multilingual_reranker,0.50439453125
+Q02,"an emotional, optimistic and moving film",30707,gte_multilingual_reranker,0.43115234375
+Q02,"an emotional, optimistic and moving film",31658,gte_multilingual_reranker,0.400634765625
+Q02,"an emotional, optimistic and moving film",33166,gte_multilingual_reranker,0.4521484375
+Q02,"an emotional, optimistic and moving film",33660,gte_multilingual_reranker,0.42529296875
+Q02,"an emotional, optimistic and moving film",34072,gte_multilingual_reranker,0.48046875
+Q02,"an emotional, optimistic and moving film",39183,gte_multilingual_reranker,0.4912109375
+Q02,"an emotional, optimistic and moving film",39292,gte_multilingual_reranker,0.4892578125
+Q02,"an emotional, optimistic and moving film",40278,gte_multilingual_reranker,0.419677734375
+Q02,"an emotional, optimistic and moving film",46578,gte_multilingual_reranker,0.49462890625
+Q02,"an emotional, optimistic and moving film",47099,gte_multilingual_reranker,0.51953125
+Q02,"an emotional, optimistic and moving film",48304,gte_multilingual_reranker,0.469970703125
+Q02,"an emotional, optimistic and moving film",52328,gte_multilingual_reranker,0.47802734375
+Q02,"an emotional, optimistic and moving film",54999,gte_multilingual_reranker,0.401123046875
+Q02,"an emotional, optimistic and moving film",56587,gte_multilingual_reranker,0.5478515625
+Q02,"an emotional, optimistic and moving film",56782,gte_multilingual_reranker,0.50341796875
+Q02,"an emotional, optimistic and moving film",58047,gte_multilingual_reranker,0.5322265625
+Q02,"an emotional, optimistic and moving film",61132,gte_multilingual_reranker,0.393798828125
+Q02,"an emotional, optimistic and moving film",64969,gte_multilingual_reranker,0.552734375
+Q02,"an emotional, optimistic and moving film",65230,gte_multilingual_reranker,0.517578125
+Q02,"an emotional, optimistic and moving film",68954,gte_multilingual_reranker,0.52685546875
+Q02,"an emotional, optimistic and moving film",72011,gte_multilingual_reranker,0.49560546875
+Q02,"an emotional, optimistic and moving film",72641,gte_multilingual_reranker,0.517578125
+Q02,"an emotional, optimistic and moving film",80906,gte_multilingual_reranker,0.350830078125
+Q02,"an emotional, optimistic and moving film",88405,gte_multilingual_reranker,0.1849365234375
+Q02,"an emotional, optimistic and moving film",88810,gte_multilingual_reranker,0.5732421875
+Q02,"an emotional, optimistic and moving film",89864,gte_multilingual_reranker,0.433349609375
+Q02,"an emotional, optimistic and moving film",92259,gte_multilingual_reranker,0.4775390625
+Q02,"an emotional, optimistic and moving film",96821,gte_multilingual_reranker,0.517578125
+Q02,"an emotional, optimistic and moving film",97921,gte_multilingual_reranker,0.56298828125
+Q02,"an emotional, optimistic and moving film",106918,gte_multilingual_reranker,0.53662109375
+Q02,"an emotional, optimistic and moving film",112552,gte_multilingual_reranker,0.4599609375
+Q02,"an emotional, optimistic and moving film",134853,gte_multilingual_reranker,0.583984375
+Q03,"a dystopian film about surveillance, social control and individual freedom",1,gte_multilingual_reranker,0.09637451171875
+Q03,"a dystopian film about surveillance, social control and individual freedom",16,gte_multilingual_reranker,0.4755859375
+Q03,"a dystopian film about surveillance, social control and individual freedom",150,gte_multilingual_reranker,0.13916015625
+Q03,"a dystopian film about surveillance, social control and individual freedom",223,gte_multilingual_reranker,0.3095703125
+Q03,"a dystopian film about surveillance, social control and individual freedom",231,gte_multilingual_reranker,0.34814453125
+Q03,"a dystopian film about surveillance, social control and individual freedom",333,gte_multilingual_reranker,0.275634765625
+Q03,"a dystopian film about surveillance, social control and individual freedom",356,gte_multilingual_reranker,0.1859130859375
+Q03,"a dystopian film about surveillance, social control and individual freedom",376,gte_multilingual_reranker,0.3896484375
+Q03,"a dystopian film about surveillance, social control and individual freedom",383,gte_multilingual_reranker,0.205810546875
+Q03,"a dystopian film about surveillance, social control and individual freedom",455,gte_multilingual_reranker,0.42578125
+Q03,"a dystopian film about surveillance, social control and individual freedom",466,gte_multilingual_reranker,0.37353515625
+Q03,"a dystopian film about surveillance, social control and individual freedom",508,gte_multilingual_reranker,0.289794921875
+Q03,"a dystopian film about surveillance, social control and individual freedom",553,gte_multilingual_reranker,0.2958984375
+Q03,"a dystopian film about surveillance, social control and individual freedom",590,gte_multilingual_reranker,0.273681640625
+Q03,"a dystopian film about surveillance, social control and individual freedom",785,gte_multilingual_reranker,0.28662109375
+Q03,"a dystopian film about surveillance, social control and individual freedom",923,gte_multilingual_reranker,0.380126953125
+Q03,"a dystopian film about surveillance, social control and individual freedom",1042,gte_multilingual_reranker,0.13720703125
+Q03,"a dystopian film about surveillance, social control and individual freedom",1120,gte_multilingual_reranker,0.50390625
+Q03,"a dystopian film about surveillance, social control and individual freedom",1251,gte_multilingual_reranker,0.370849609375
+Q03,"a dystopian film about surveillance, social control and individual freedom",1253,gte_multilingual_reranker,0.325927734375
+Q03,"a dystopian film about surveillance, social control and individual freedom",1283,gte_multilingual_reranker,0.309326171875
+Q03,"a dystopian film about surveillance, social control and individual freedom",1619,gte_multilingual_reranker,0.281494140625
+Q03,"a dystopian film about surveillance, social control and individual freedom",1704,gte_multilingual_reranker,0.3837890625
+Q03,"a dystopian film about surveillance, social control and individual freedom",1732,gte_multilingual_reranker,0.32421875
+Q03,"a dystopian film about surveillance, social control and individual freedom",1747,gte_multilingual_reranker,0.405029296875
+Q03,"a dystopian film about surveillance, social control and individual freedom",2028,gte_multilingual_reranker,0.336181640625
+Q03,"a dystopian film about surveillance, social control and individual freedom",2072,gte_multilingual_reranker,0.2919921875
+Q03,"a dystopian film about surveillance, social control and individual freedom",2100,gte_multilingual_reranker,0.062225341796875
+Q03,"a dystopian film about surveillance, social control and individual freedom",2313,gte_multilingual_reranker,0.341552734375
+Q03,"a dystopian film about surveillance, social control and individual freedom",2375,gte_multilingual_reranker,0.34375
+Q03,"a dystopian film about surveillance, social control and individual freedom",2398,gte_multilingual_reranker,0.1014404296875
+Q03,"a dystopian film about surveillance, social control and individual freedom",2501,gte_multilingual_reranker,0.341552734375
+Q03,"a dystopian film about surveillance, social control and individual freedom",2505,gte_multilingual_reranker,0.427490234375
+Q03,"a dystopian film about surveillance, social control and individual freedom",2598,gte_multilingual_reranker,0.317138671875
+Q03,"a dystopian film about surveillance, social control and individual freedom",2701,gte_multilingual_reranker,0.1959228515625
+Q03,"a dystopian film about surveillance, social control and individual freedom",2770,gte_multilingual_reranker,0.095703125
+Q03,"a dystopian film about surveillance, social control and individual freedom",2792,gte_multilingual_reranker,0.32568359375
+Q03,"a dystopian film about surveillance, social control and individual freedom",2797,gte_multilingual_reranker,0.178955078125
+Q03,"a dystopian film about surveillance, social control and individual freedom",2973,gte_multilingual_reranker,0.215576171875
+Q03,"a dystopian film about surveillance, social control and individual freedom",3037,gte_multilingual_reranker,0.281982421875
+Q03,"a dystopian film about surveillance, social control and individual freedom",3147,gte_multilingual_reranker,0.271484375
+Q03,"a dystopian film about surveillance, social control and individual freedom",3252,gte_multilingual_reranker,0.33837890625
+Q03,"a dystopian film about surveillance, social control and individual freedom",3255,gte_multilingual_reranker,0.1015625
+Q03,"a dystopian film about surveillance, social control and individual freedom",3388,gte_multilingual_reranker,0.1849365234375
+Q03,"a dystopian film about surveillance, social control and individual freedom",3751,gte_multilingual_reranker,0.37939453125
+Q03,"a dystopian film about surveillance, social control and individual freedom",3827,gte_multilingual_reranker,0.33740234375
+Q03,"a dystopian film about surveillance, social control and individual freedom",3836,gte_multilingual_reranker,0.185791015625
+Q03,"a dystopian film about surveillance, social control and individual freedom",4002,gte_multilingual_reranker,0.334228515625
+Q03,"a dystopian film about surveillance, social control and individual freedom",4022,gte_multilingual_reranker,0.227783203125
+Q03,"a dystopian film about surveillance, social control and individual freedom",4677,gte_multilingual_reranker,0.335693359375
+Q03,"a dystopian film about surveillance, social control and individual freedom",5060,gte_multilingual_reranker,0.390625
+Q03,"a dystopian film about surveillance, social control and individual freedom",5464,gte_multilingual_reranker,0.36083984375
+Q03,"a dystopian film about surveillance, social control and individual freedom",5669,gte_multilingual_reranker,0.355224609375
+Q03,"a dystopian film about surveillance, social control and individual freedom",5785,gte_multilingual_reranker,0.1700439453125
+Q03,"a dystopian film about surveillance, social control and individual freedom",5903,gte_multilingual_reranker,0.42724609375
+Q03,"a dystopian film about surveillance, social control and individual freedom",5989,gte_multilingual_reranker,0.380859375
+Q03,"a dystopian film about surveillance, social control and individual freedom",6565,gte_multilingual_reranker,0.1671142578125
+Q03,"a dystopian film about surveillance, social control and individual freedom",7367,gte_multilingual_reranker,0.265625
+Q03,"a dystopian film about surveillance, social control and individual freedom",8529,gte_multilingual_reranker,0.372314453125
+Q03,"a dystopian film about surveillance, social control and individual freedom",34520,gte_multilingual_reranker,0.32763671875
+Q03,"a dystopian film about surveillance, social control and individual freedom",44555,gte_multilingual_reranker,0.58837890625
+Q03,"a dystopian film about surveillance, social control and individual freedom",47997,gte_multilingual_reranker,0.57861328125
+Q03,"a dystopian film about surveillance, social control and individual freedom",48783,gte_multilingual_reranker,0.266357421875
+Q03,"a dystopian film about surveillance, social control and individual freedom",55247,gte_multilingual_reranker,0.251953125
+Q03,"a dystopian film about surveillance, social control and individual freedom",56587,gte_multilingual_reranker,0.22265625
+Q03,"a dystopian film about surveillance, social control and individual freedom",59022,gte_multilingual_reranker,0.323486328125
+Q03,"a dystopian film about surveillance, social control and individual freedom",60074,gte_multilingual_reranker,0.354248046875
+Q03,"a dystopian film about surveillance, social control and individual freedom",68554,gte_multilingual_reranker,0.3125
+Q03,"a dystopian film about surveillance, social control and individual freedom",97752,gte_multilingual_reranker,0.478759765625
+Q03,"a dystopian film about surveillance, social control and individual freedom",104211,gte_multilingual_reranker,0.3984375
+Q03,"a dystopian film about surveillance, social control and individual freedom",105504,gte_multilingual_reranker,0.37939453125
+Q03,"a dystopian film about surveillance, social control and individual freedom",106100,gte_multilingual_reranker,0.3505859375
+Q03,"a dystopian film about surveillance, social control and individual freedom",107406,gte_multilingual_reranker,0.501953125
+Q03,"a dystopian film about surveillance, social control and individual freedom",111743,gte_multilingual_reranker,0.2413330078125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",198,gte_multilingual_reranker,0.2352294921875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",215,gte_multilingual_reranker,0.2218017578125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",533,gte_multilingual_reranker,0.2137451171875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",541,gte_multilingual_reranker,0.281982421875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",924,gte_multilingual_reranker,0.1424560546875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",926,gte_multilingual_reranker,0.277587890625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",930,gte_multilingual_reranker,0.2259521484375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",953,gte_multilingual_reranker,0.357177734375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1015,gte_multilingual_reranker,0.3701171875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1100,gte_multilingual_reranker,0.473388671875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1127,gte_multilingual_reranker,0.1339111328125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1248,gte_multilingual_reranker,0.280029296875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1251,gte_multilingual_reranker,0.29541015625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1584,gte_multilingual_reranker,0.10430908203125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1587,gte_multilingual_reranker,0.248046875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1590,gte_multilingual_reranker,0.11126708984375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1722,gte_multilingual_reranker,0.254150390625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1726,gte_multilingual_reranker,0.252685546875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1912,gte_multilingual_reranker,0.3701171875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1917,gte_multilingual_reranker,0.32763671875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2288,gte_multilingual_reranker,0.1666259765625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2311,gte_multilingual_reranker,0.1478271484375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2369,gte_multilingual_reranker,0.23779296875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2454,gte_multilingual_reranker,0.2342529296875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2455,gte_multilingual_reranker,0.2489013671875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2671,gte_multilingual_reranker,0.2900390625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2672,gte_multilingual_reranker,0.249755859375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2686,gte_multilingual_reranker,0.25732421875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2719,gte_multilingual_reranker,0.1951904296875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2916,gte_multilingual_reranker,0.23974609375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2973,gte_multilingual_reranker,0.296142578125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3269,gte_multilingual_reranker,0.28857421875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3503,gte_multilingual_reranker,0.150634765625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3751,gte_multilingual_reranker,0.447509765625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3826,gte_multilingual_reranker,0.347412109375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3863,gte_multilingual_reranker,0.187744140625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3986,gte_multilingual_reranker,0.267333984375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4022,gte_multilingual_reranker,0.352783203125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4226,gte_multilingual_reranker,0.136474609375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4848,gte_multilingual_reranker,0.22021484375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4974,gte_multilingual_reranker,0.4189453125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4975,gte_multilingual_reranker,0.2496337890625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4995,gte_multilingual_reranker,0.28662109375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5135,gte_multilingual_reranker,0.12322998046875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5378,gte_multilingual_reranker,0.14599609375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5388,gte_multilingual_reranker,0.1929931640625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5669,gte_multilingual_reranker,0.32080078125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5881,gte_multilingual_reranker,0.194091796875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",6373,gte_multilingual_reranker,0.260986328125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",7151,gte_multilingual_reranker,0.1953125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",7361,gte_multilingual_reranker,0.298828125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",8376,gte_multilingual_reranker,0.448486328125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",8528,gte_multilingual_reranker,0.57470703125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",27660,gte_multilingual_reranker,0.1624755859375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",33794,gte_multilingual_reranker,0.344482421875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",34319,gte_multilingual_reranker,0.302978515625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",45672,gte_multilingual_reranker,0.386962890625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",48774,gte_multilingual_reranker,0.237548828125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",48780,gte_multilingual_reranker,0.284423828125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",53464,gte_multilingual_reranker,0.355224609375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",53993,gte_multilingual_reranker,0.32177734375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",57368,gte_multilingual_reranker,0.2880859375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",58559,gte_multilingual_reranker,0.30126953125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",60040,gte_multilingual_reranker,0.2440185546875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",68554,gte_multilingual_reranker,0.2010498046875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",79132,gte_multilingual_reranker,0.280517578125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",85414,gte_multilingual_reranker,0.2493896484375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",86190,gte_multilingual_reranker,0.27587890625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",86332,gte_multilingual_reranker,0.302734375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",91529,gte_multilingual_reranker,0.282470703125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",97752,gte_multilingual_reranker,0.3681640625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",98243,gte_multilingual_reranker,0.303466796875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",98961,gte_multilingual_reranker,0.25537109375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",102125,gte_multilingual_reranker,0.276123046875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",102445,gte_multilingual_reranker,0.38525390625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",104841,gte_multilingual_reranker,0.1806640625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",104913,gte_multilingual_reranker,0.37939453125
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",106072,gte_multilingual_reranker,0.348388671875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",109487,gte_multilingual_reranker,0.248046875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",116797,gte_multilingual_reranker,0.3154296875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",122886,gte_multilingual_reranker,0.277099609375
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",164179,gte_multilingual_reranker,0.254150390625
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",166528,gte_multilingual_reranker,0.137451171875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",174055,gte_multilingual_reranker,0.3544921875
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",176371,gte_multilingual_reranker,0.2271728515625
+Q05,a film belonging to a famous saga or collection,58,gte_multilingual_reranker,0.3564453125
+Q05,a film belonging to a famous saga or collection,110,gte_multilingual_reranker,0.517578125
+Q05,a film belonging to a famous saga or collection,235,gte_multilingual_reranker,0.264404296875
+Q05,a film belonging to a famous saga or collection,260,gte_multilingual_reranker,0.57568359375
+Q05,a film belonging to a famous saga or collection,266,gte_multilingual_reranker,0.5166015625
+Q05,a film belonging to a famous saga or collection,307,gte_multilingual_reranker,0.46923828125
+Q05,a film belonging to a famous saga or collection,314,gte_multilingual_reranker,0.419189453125
+Q05,a film belonging to a famous saga or collection,405,gte_multilingual_reranker,0.52392578125
+Q05,a film belonging to a famous saga or collection,529,gte_multilingual_reranker,0.3310546875
+Q05,a film belonging to a famous saga or collection,595,gte_multilingual_reranker,0.497802734375
+Q05,a film belonging to a famous saga or collection,653,gte_multilingual_reranker,0.55810546875
+Q05,a film belonging to a famous saga or collection,900,gte_multilingual_reranker,0.359130859375
+Q05,a film belonging to a famous saga or collection,930,gte_multilingual_reranker,0.304931640625
+Q05,a film belonging to a famous saga or collection,953,gte_multilingual_reranker,0.31787109375
+Q05,a film belonging to a famous saga or collection,1059,gte_multilingual_reranker,0.2474365234375
+Q05,a film belonging to a famous saga or collection,1136,gte_multilingual_reranker,0.342041015625
+Q05,a film belonging to a famous saga or collection,1196,gte_multilingual_reranker,0.64306640625
+Q05,a film belonging to a famous saga or collection,1197,gte_multilingual_reranker,0.3994140625
+Q05,a film belonging to a famous saga or collection,1198,gte_multilingual_reranker,0.513671875
+Q05,a film belonging to a famous saga or collection,1272,gte_multilingual_reranker,0.453369140625
+Q05,a film belonging to a famous saga or collection,1275,gte_multilingual_reranker,0.50732421875
+Q05,a film belonging to a famous saga or collection,1287,gte_multilingual_reranker,0.544921875
+Q05,a film belonging to a famous saga or collection,1348,gte_multilingual_reranker,0.39013671875
+Q05,a film belonging to a famous saga or collection,1387,gte_multilingual_reranker,0.435791015625
+Q05,a film belonging to a famous saga or collection,1688,gte_multilingual_reranker,0.47802734375
+Q05,a film belonging to a famous saga or collection,1959,gte_multilingual_reranker,0.366455078125
+Q05,a film belonging to a famous saga or collection,2115,gte_multilingual_reranker,0.477294921875
+Q05,a film belonging to a famous saga or collection,2116,gte_multilingual_reranker,0.420654296875
+Q05,a film belonging to a famous saga or collection,2143,gte_multilingual_reranker,0.42333984375
+Q05,a film belonging to a famous saga or collection,2161,gte_multilingual_reranker,0.54541015625
+Q05,a film belonging to a famous saga or collection,2186,gte_multilingual_reranker,0.326904296875
+Q05,a film belonging to a famous saga or collection,2325,gte_multilingual_reranker,0.244873046875
+Q05,a film belonging to a famous saga or collection,2628,gte_multilingual_reranker,0.583984375
+Q05,a film belonging to a famous saga or collection,2671,gte_multilingual_reranker,0.409912109375
+Q05,a film belonging to a famous saga or collection,2826,gte_multilingual_reranker,0.40771484375
+Q05,a film belonging to a famous saga or collection,2872,gte_multilingual_reranker,0.422119140625
+Q05,a film belonging to a famous saga or collection,3160,gte_multilingual_reranker,0.368408203125
+Q05,a film belonging to a famous saga or collection,3260,gte_multilingual_reranker,0.4970703125
+Q05,a film belonging to a famous saga or collection,3671,gte_multilingual_reranker,0.486572265625
+Q05,a film belonging to a famous saga or collection,3996,gte_multilingual_reranker,0.462158203125
+Q05,a film belonging to a famous saga or collection,3997,gte_multilingual_reranker,0.51318359375
+Q05,a film belonging to a famous saga or collection,4327,gte_multilingual_reranker,0.452880859375
+Q05,a film belonging to a famous saga or collection,4993,gte_multilingual_reranker,0.5419921875
+Q05,a film belonging to a famous saga or collection,5013,gte_multilingual_reranker,0.36669921875
+Q05,a film belonging to a famous saga or collection,5064,gte_multilingual_reranker,0.400634765625
+Q05,a film belonging to a famous saga or collection,5066,gte_multilingual_reranker,0.34912109375
+Q05,a film belonging to a famous saga or collection,5313,gte_multilingual_reranker,0.50634765625
+Q05,a film belonging to a famous saga or collection,5669,gte_multilingual_reranker,0.278564453125
+Q05,a film belonging to a famous saga or collection,5816,gte_multilingual_reranker,0.53173828125
+Q05,a film belonging to a famous saga or collection,5952,gte_multilingual_reranker,0.52099609375
+Q05,a film belonging to a famous saga or collection,6541,gte_multilingual_reranker,0.337646484375
+Q05,a film belonging to a famous saga or collection,7147,gte_multilingual_reranker,0.406494140625
+Q05,a film belonging to a famous saga or collection,7151,gte_multilingual_reranker,0.405029296875
+Q05,a film belonging to a famous saga or collection,7153,gte_multilingual_reranker,0.525390625
+Q05,a film belonging to a famous saga or collection,7458,gte_multilingual_reranker,0.498291015625
+Q05,a film belonging to a famous saga or collection,8368,gte_multilingual_reranker,0.51123046875
+Q05,a film belonging to a famous saga or collection,8640,gte_multilingual_reranker,0.410400390625
+Q05,a film belonging to a famous saga or collection,33493,gte_multilingual_reranker,0.57080078125
+Q05,a film belonging to a famous saga or collection,36401,gte_multilingual_reranker,0.394775390625
+Q05,a film belonging to a famous saga or collection,40278,gte_multilingual_reranker,0.434814453125
+Q05,a film belonging to a famous saga or collection,41566,gte_multilingual_reranker,0.50439453125
+Q05,a film belonging to a famous saga or collection,44555,gte_multilingual_reranker,0.328369140625
+Q05,a film belonging to a famous saga or collection,45447,gte_multilingual_reranker,0.49267578125
+Q05,a film belonging to a famous saga or collection,49649,gte_multilingual_reranker,0.427001953125
+Q05,a film belonging to a famous saga or collection,51662,gte_multilingual_reranker,0.5244140625
+Q05,a film belonging to a famous saga or collection,58293,gte_multilingual_reranker,0.376220703125
+Q05,a film belonging to a famous saga or collection,59501,gte_multilingual_reranker,0.54052734375
+Q05,a film belonging to a famous saga or collection,63113,gte_multilingual_reranker,0.419921875
+Q05,a film belonging to a famous saga or collection,64614,gte_multilingual_reranker,0.319580078125
+Q05,a film belonging to a famous saga or collection,65230,gte_multilingual_reranker,0.427001953125
+Q05,a film belonging to a famous saga or collection,67255,gte_multilingual_reranker,0.5166015625
+Q05,a film belonging to a famous saga or collection,76175,gte_multilingual_reranker,0.53369140625
+Q05,a film belonging to a famous saga or collection,78105,gte_multilingual_reranker,0.40087890625
+Q05,a film belonging to a famous saga or collection,86332,gte_multilingual_reranker,0.546875
+Q05,a film belonging to a famous saga or collection,96079,gte_multilingual_reranker,0.4599609375
+Q05,a film belonging to a famous saga or collection,98809,gte_multilingual_reranker,0.57373046875
+Q05,a film belonging to a famous saga or collection,106489,gte_multilingual_reranker,0.55908203125
+Q05,a film belonging to a famous saga or collection,109374,gte_multilingual_reranker,0.350830078125
+Q05,a film belonging to a famous saga or collection,111659,gte_multilingual_reranker,0.57080078125
+Q05,a film belonging to a famous saga or collection,115713,gte_multilingual_reranker,0.340087890625
+Q05,a film belonging to a famous saga or collection,118696,gte_multilingual_reranker,0.626953125
+Q05,a film belonging to a famous saga or collection,122886,gte_multilingual_reranker,0.55908203125
+Q05,a film belonging to a famous saga or collection,135143,gte_multilingual_reranker,0.5478515625
+Q06,a reflective science fiction film under two hours,76,gte_multilingual_reranker,0.4697265625
+Q06,a reflective science fiction film under two hours,172,gte_multilingual_reranker,0.453857421875
+Q06,a reflective science fiction film under two hours,327,gte_multilingual_reranker,0.451416015625
+Q06,a reflective science fiction film under two hours,379,gte_multilingual_reranker,0.434326171875
+Q06,a reflective science fiction film under two hours,541,gte_multilingual_reranker,0.446533203125
+Q06,a reflective science fiction film under two hours,610,gte_multilingual_reranker,0.382080078125
+Q06,a reflective science fiction film under two hours,671,gte_multilingual_reranker,0.40869140625
+Q06,a reflective science fiction film under two hours,836,gte_multilingual_reranker,0.463623046875
+Q06,a reflective science fiction film under two hours,1037,gte_multilingual_reranker,0.4716796875
+Q06,a reflective science fiction film under two hours,1129,gte_multilingual_reranker,0.52587890625
+Q06,a reflective science fiction film under two hours,1214,gte_multilingual_reranker,0.423095703125
+Q06,a reflective science fiction film under two hours,1253,gte_multilingual_reranker,0.457275390625
+Q06,a reflective science fiction film under two hours,1320,gte_multilingual_reranker,0.442626953125
+Q06,a reflective science fiction film under two hours,1590,gte_multilingual_reranker,0.486572265625
+Q06,a reflective science fiction film under two hours,1653,gte_multilingual_reranker,0.486572265625
+Q06,a reflective science fiction film under two hours,1690,gte_multilingual_reranker,0.432861328125
+Q06,a reflective science fiction film under two hours,1748,gte_multilingual_reranker,0.470703125
+Q06,a reflective science fiction film under two hours,1921,gte_multilingual_reranker,0.375244140625
+Q06,a reflective science fiction film under two hours,2011,gte_multilingual_reranker,0.442626953125
+Q06,a reflective science fiction film under two hours,2046,gte_multilingual_reranker,0.47119140625
+Q06,a reflective science fiction film under two hours,2134,gte_multilingual_reranker,0.416748046875
+Q06,a reflective science fiction film under two hours,2454,gte_multilingual_reranker,0.47119140625
+Q06,a reflective science fiction film under two hours,2455,gte_multilingual_reranker,0.4755859375
+Q06,a reflective science fiction film under two hours,2527,gte_multilingual_reranker,0.405517578125
+Q06,a reflective science fiction film under two hours,2532,gte_multilingual_reranker,0.454833984375
+Q06,a reflective science fiction film under two hours,2657,gte_multilingual_reranker,0.39501953125
+Q06,a reflective science fiction film under two hours,2672,gte_multilingual_reranker,0.470458984375
+Q06,a reflective science fiction film under two hours,2808,gte_multilingual_reranker,0.489501953125
+Q06,a reflective science fiction film under two hours,2916,gte_multilingual_reranker,0.445556640625
+Q06,a reflective science fiction film under two hours,3300,gte_multilingual_reranker,0.55126953125
+Q06,a reflective science fiction film under two hours,3699,gte_multilingual_reranker,0.57763671875
+Q06,a reflective science fiction film under two hours,3826,gte_multilingual_reranker,0.462890625
+Q06,a reflective science fiction film under two hours,4015,gte_multilingual_reranker,0.431884765625
+Q06,a reflective science fiction film under two hours,4121,gte_multilingual_reranker,0.485107421875
+Q06,a reflective science fiction film under two hours,4446,gte_multilingual_reranker,0.458740234375
+Q06,a reflective science fiction film under two hours,4878,gte_multilingual_reranker,0.5234375
+Q06,a reflective science fiction film under two hours,5171,gte_multilingual_reranker,0.435791015625
+Q06,a reflective science fiction film under two hours,5219,gte_multilingual_reranker,0.431884765625
+Q06,a reflective science fiction film under two hours,5881,gte_multilingual_reranker,0.451171875
+Q06,a reflective science fiction film under two hours,6537,gte_multilingual_reranker,0.432373046875
+Q06,a reflective science fiction film under two hours,6659,gte_multilingual_reranker,0.427490234375
+Q06,a reflective science fiction film under two hours,7163,gte_multilingual_reranker,0.4814453125
+Q06,a reflective science fiction film under two hours,7254,gte_multilingual_reranker,0.471923828125
+Q06,a reflective science fiction film under two hours,7361,gte_multilingual_reranker,0.50390625
+Q06,a reflective science fiction film under two hours,8644,gte_multilingual_reranker,0.416259765625
+Q06,a reflective science fiction film under two hours,8861,gte_multilingual_reranker,0.428466796875
+Q06,a reflective science fiction film under two hours,27660,gte_multilingual_reranker,0.383544921875
+Q06,a reflective science fiction film under two hours,27904,gte_multilingual_reranker,0.44970703125
+Q06,a reflective science fiction film under two hours,33004,gte_multilingual_reranker,0.482177734375
+Q06,a reflective science fiction film under two hours,34048,gte_multilingual_reranker,0.4443359375
+Q06,a reflective science fiction film under two hours,37386,gte_multilingual_reranker,0.45458984375
+Q06,a reflective science fiction film under two hours,43928,gte_multilingual_reranker,0.452880859375
+Q06,a reflective science fiction film under two hours,47997,gte_multilingual_reranker,0.483154296875
+Q06,a reflective science fiction film under two hours,48774,gte_multilingual_reranker,0.457763671875
+Q06,a reflective science fiction film under two hours,51412,gte_multilingual_reranker,0.50146484375
+Q06,a reflective science fiction film under two hours,52328,gte_multilingual_reranker,0.477294921875
+Q06,a reflective science fiction film under two hours,57368,gte_multilingual_reranker,0.4873046875
+Q06,a reflective science fiction film under two hours,60069,gte_multilingual_reranker,0.61572265625
+Q06,a reflective science fiction film under two hours,68237,gte_multilingual_reranker,0.4873046875
+Q06,a reflective science fiction film under two hours,70286,gte_multilingual_reranker,0.51025390625
+Q06,a reflective science fiction film under two hours,71057,gte_multilingual_reranker,0.44775390625
+Q06,a reflective science fiction film under two hours,71530,gte_multilingual_reranker,0.447021484375
+Q06,a reflective science fiction film under two hours,85414,gte_multilingual_reranker,0.5107421875
+Q06,a reflective science fiction film under two hours,87306,gte_multilingual_reranker,0.43212890625
+Q06,a reflective science fiction film under two hours,90405,gte_multilingual_reranker,0.454345703125
+Q06,a reflective science fiction film under two hours,103253,gte_multilingual_reranker,0.49609375
+Q06,a reflective science fiction film under two hours,104841,gte_multilingual_reranker,0.5537109375
+Q06,a reflective science fiction film under two hours,111360,gte_multilingual_reranker,0.43505859375
+Q06,a reflective science fiction film under two hours,111759,gte_multilingual_reranker,0.564453125
+Q06,a reflective science fiction film under two hours,122922,gte_multilingual_reranker,0.409912109375
+Q06,a reflective science fiction film under two hours,164179,gte_multilingual_reranker,0.56298828125
+Q07,a tense film that is not horror,9,gte_multilingual_reranker,0.46484375
+Q07,a tense film that is not horror,24,gte_multilingual_reranker,0.463623046875
+Q07,a tense film that is not horror,79,gte_multilingual_reranker,0.47314453125
+Q07,a tense film that is not horror,81,gte_multilingual_reranker,0.469482421875
+Q07,a tense film that is not horror,172,gte_multilingual_reranker,0.44970703125
+Q07,a tense film that is not horror,198,gte_multilingual_reranker,0.47216796875
+Q07,a tense film that is not horror,319,gte_multilingual_reranker,0.5361328125
+Q07,a tense film that is not horror,377,gte_multilingual_reranker,0.51904296875
+Q07,a tense film that is not horror,380,gte_multilingual_reranker,0.43115234375
+Q07,a tense film that is not horror,490,gte_multilingual_reranker,0.41064453125
+Q07,a tense film that is not horror,493,gte_multilingual_reranker,0.472412109375
+Q07,a tense film that is not horror,540,gte_multilingual_reranker,0.358154296875
+Q07,a tense film that is not horror,608,gte_multilingual_reranker,0.4736328125
+Q07,a tense film that is not horror,628,gte_multilingual_reranker,0.479248046875
+Q07,a tense film that is not horror,736,gte_multilingual_reranker,0.406982421875
+Q07,a tense film that is not horror,798,gte_multilingual_reranker,0.469970703125
+Q07,a tense film that is not horror,903,gte_multilingual_reranker,0.455078125
+Q07,a tense film that is not horror,904,gte_multilingual_reranker,0.480224609375
+Q07,a tense film that is not horror,953,gte_multilingual_reranker,0.39599609375
+Q07,a tense film that is not horror,1036,gte_multilingual_reranker,0.438720703125
+Q07,a tense film that is not horror,1094,gte_multilingual_reranker,0.434814453125
+Q07,a tense film that is not horror,1120,gte_multilingual_reranker,0.455078125
+Q07,a tense film that is not horror,1248,gte_multilingual_reranker,0.430419921875
+Q07,a tense film that is not horror,1260,gte_multilingual_reranker,0.51806640625
+Q07,a tense film that is not horror,1343,gte_multilingual_reranker,0.34619140625
+Q07,a tense film that is not horror,1344,gte_multilingual_reranker,0.451904296875
+Q07,a tense film that is not horror,1480,gte_multilingual_reranker,0.494384765625
+Q07,a tense film that is not horror,1488,gte_multilingual_reranker,0.5166015625
+Q07,a tense film that is not horror,1722,gte_multilingual_reranker,0.485595703125
+Q07,a tense film that is not horror,1921,gte_multilingual_reranker,0.51806640625
+Q07,a tense film that is not horror,1959,gte_multilingual_reranker,0.4111328125
+Q07,a tense film that is not horror,2058,gte_multilingual_reranker,0.5087890625
+Q07,a tense film that is not horror,2109,gte_multilingual_reranker,0.449951171875
+Q07,a tense film that is not horror,2186,gte_multilingual_reranker,0.4853515625
+Q07,a tense film that is not horror,2289,gte_multilingual_reranker,0.4169921875
+Q07,a tense film that is not horror,2318,gte_multilingual_reranker,0.40625
+Q07,a tense film that is not horror,2334,gte_multilingual_reranker,0.460693359375
+Q07,a tense film that is not horror,2353,gte_multilingual_reranker,0.498046875
+Q07,a tense film that is not horror,2478,gte_multilingual_reranker,0.453857421875
+Q07,a tense film that is not horror,2707,gte_multilingual_reranker,0.50927734375
+Q07,a tense film that is not horror,2915,gte_multilingual_reranker,0.470703125
+Q07,a tense film that is not horror,3274,gte_multilingual_reranker,0.46875
+Q07,a tense film that is not horror,3362,gte_multilingual_reranker,0.494873046875
+Q07,a tense film that is not horror,3462,gte_multilingual_reranker,0.4052734375
+Q07,a tense film that is not horror,3893,gte_multilingual_reranker,0.46484375
+Q07,a tense film that is not horror,4029,gte_multilingual_reranker,0.397705078125
+Q07,a tense film that is not horror,4378,gte_multilingual_reranker,0.50048828125
+Q07,a tense film that is not horror,4878,gte_multilingual_reranker,0.41455078125
+Q07,a tense film that is not horror,5266,gte_multilingual_reranker,0.47998046875
+Q07,a tense film that is not horror,5388,gte_multilingual_reranker,0.46533203125
+Q07,a tense film that is not horror,5528,gte_multilingual_reranker,0.53369140625
+Q07,a tense film that is not horror,5669,gte_multilingual_reranker,0.415771484375
+Q07,a tense film that is not horror,5872,gte_multilingual_reranker,0.440673828125
+Q07,a tense film that is not horror,5903,gte_multilingual_reranker,0.410400390625
+Q07,a tense film that is not horror,6281,gte_multilingual_reranker,0.51220703125
+Q07,a tense film that is not horror,6979,gte_multilingual_reranker,0.52880859375
+Q07,a tense film that is not horror,7151,gte_multilingual_reranker,0.408203125
+Q07,a tense film that is not horror,7361,gte_multilingual_reranker,0.4423828125
+Q07,a tense film that is not horror,7371,gte_multilingual_reranker,0.4208984375
+Q07,a tense film that is not horror,8644,gte_multilingual_reranker,0.451416015625
+Q07,a tense film that is not horror,8783,gte_multilingual_reranker,0.484375
+Q07,a tense film that is not horror,8950,gte_multilingual_reranker,0.477294921875
+Q07,a tense film that is not horror,30749,gte_multilingual_reranker,0.463623046875
+Q07,a tense film that is not horror,33166,gte_multilingual_reranker,0.481201171875
+Q07,a tense film that is not horror,34405,gte_multilingual_reranker,0.334716796875
+Q07,a tense film that is not horror,36517,gte_multilingual_reranker,0.56884765625
+Q07,a tense film that is not horror,37729,gte_multilingual_reranker,0.382568359375
+Q07,a tense film that is not horror,40278,gte_multilingual_reranker,0.44287109375
+Q07,a tense film that is not horror,40583,gte_multilingual_reranker,0.5830078125
+Q07,a tense film that is not horror,44191,gte_multilingual_reranker,0.4541015625
+Q07,a tense film that is not horror,44199,gte_multilingual_reranker,0.5048828125
+Q07,a tense film that is not horror,51086,gte_multilingual_reranker,0.442626953125
+Q07,a tense film that is not horror,55820,gte_multilingual_reranker,0.384033203125
+Q07,a tense film that is not horror,57368,gte_multilingual_reranker,0.4169921875
+Q07,a tense film that is not horror,61132,gte_multilingual_reranker,0.4208984375
+Q07,a tense film that is not horror,63113,gte_multilingual_reranker,0.47412109375
+Q07,a tense film that is not horror,68157,gte_multilingual_reranker,0.46337890625
+Q07,a tense film that is not horror,69481,gte_multilingual_reranker,0.489501953125
+Q07,a tense film that is not horror,70286,gte_multilingual_reranker,0.501953125
+Q07,a tense film that is not horror,72378,gte_multilingual_reranker,0.60693359375
+Q07,a tense film that is not horror,80489,gte_multilingual_reranker,0.466552734375
+Q07,a tense film that is not horror,80906,gte_multilingual_reranker,0.419677734375
+Q07,a tense film that is not horror,81562,gte_multilingual_reranker,0.46484375
+Q07,a tense film that is not horror,89470,gte_multilingual_reranker,0.449462890625
+Q07,a tense film that is not horror,128360,gte_multilingual_reranker,0.483154296875
+Q07,a tense film that is not horror,158238,gte_multilingual_reranker,0.44580078125
+Q08,a modern drama about family relationships,3408,gte_multilingual_reranker,0.455322265625
+Q08,a modern drama about family relationships,3510,gte_multilingual_reranker,0.55126953125
+Q08,a modern drama about family relationships,3536,gte_multilingual_reranker,0.51318359375
+Q08,a modern drama about family relationships,3948,gte_multilingual_reranker,0.55810546875
+Q08,a modern drama about family relationships,3949,gte_multilingual_reranker,0.4072265625
+Q08,a modern drama about family relationships,3969,gte_multilingual_reranker,0.51171875
+Q08,a modern drama about family relationships,4023,gte_multilingual_reranker,0.56298828125
+Q08,a modern drama about family relationships,4054,gte_multilingual_reranker,0.541015625
+Q08,a modern drama about family relationships,4873,gte_multilingual_reranker,0.40234375
+Q08,a modern drama about family relationships,4876,gte_multilingual_reranker,0.54736328125
+Q08,a modern drama about family relationships,4979,gte_multilingual_reranker,0.61865234375
+Q08,a modern drama about family relationships,4992,gte_multilingual_reranker,0.5615234375
+Q08,a modern drama about family relationships,5014,gte_multilingual_reranker,0.6376953125
+Q08,a modern drama about family relationships,5066,gte_multilingual_reranker,0.49267578125
+Q08,a modern drama about family relationships,5135,gte_multilingual_reranker,0.50830078125
+Q08,a modern drama about family relationships,5267,gte_multilingual_reranker,0.603515625
+Q08,a modern drama about family relationships,5299,gte_multilingual_reranker,0.57666015625
+Q08,a modern drama about family relationships,5377,gte_multilingual_reranker,0.5205078125
+Q08,a modern drama about family relationships,5502,gte_multilingual_reranker,0.48974609375
+Q08,a modern drama about family relationships,5577,gte_multilingual_reranker,0.576171875
+Q08,a modern drama about family relationships,5943,gte_multilingual_reranker,0.552734375
+Q08,a modern drama about family relationships,5945,gte_multilingual_reranker,0.5673828125
+Q08,a modern drama about family relationships,5992,gte_multilingual_reranker,0.56103515625
+Q08,a modern drama about family relationships,6385,gte_multilingual_reranker,0.57470703125
+Q08,a modern drama about family relationships,6870,gte_multilingual_reranker,0.431396484375
+Q08,a modern drama about family relationships,6942,gte_multilingual_reranker,0.52734375
+Q08,a modern drama about family relationships,6953,gte_multilingual_reranker,0.46826171875
+Q08,a modern drama about family relationships,7143,gte_multilingual_reranker,0.3515625
+Q08,a modern drama about family relationships,7149,gte_multilingual_reranker,0.67138671875
+Q08,a modern drama about family relationships,7151,gte_multilingual_reranker,0.398681640625
+Q08,a modern drama about family relationships,8638,gte_multilingual_reranker,0.54345703125
+Q08,a modern drama about family relationships,8784,gte_multilingual_reranker,0.5087890625
+Q08,a modern drama about family relationships,8961,gte_multilingual_reranker,0.43505859375
+Q08,a modern drama about family relationships,8969,gte_multilingual_reranker,0.493896484375
+Q08,a modern drama about family relationships,8981,gte_multilingual_reranker,0.42529296875
+Q08,a modern drama about family relationships,30822,gte_multilingual_reranker,0.54736328125
+Q08,a modern drama about family relationships,30825,gte_multilingual_reranker,0.556640625
+Q08,a modern drama about family relationships,34437,gte_multilingual_reranker,0.45849609375
+Q08,a modern drama about family relationships,37733,gte_multilingual_reranker,0.51904296875
+Q08,a modern drama about family relationships,40278,gte_multilingual_reranker,0.37744140625
+Q08,a modern drama about family relationships,40629,gte_multilingual_reranker,0.56103515625
+Q08,a modern drama about family relationships,41571,gte_multilingual_reranker,0.54248046875
+Q08,a modern drama about family relationships,45431,gte_multilingual_reranker,0.394287109375
+Q08,a modern drama about family relationships,45720,gte_multilingual_reranker,0.442138671875
+Q08,a modern drama about family relationships,46578,gte_multilingual_reranker,0.59619140625
+Q08,a modern drama about family relationships,47099,gte_multilingual_reranker,0.58056640625
+Q08,a modern drama about family relationships,49286,gte_multilingual_reranker,0.422607421875
+Q08,a modern drama about family relationships,52973,gte_multilingual_reranker,0.548828125
+Q08,a modern drama about family relationships,55052,gte_multilingual_reranker,0.5634765625
+Q08,a modern drama about family relationships,55269,gte_multilingual_reranker,0.52734375
+Q08,a modern drama about family relationships,56949,gte_multilingual_reranker,0.59228515625
+Q08,a modern drama about family relationships,58047,gte_multilingual_reranker,0.6259765625
+Q08,a modern drama about family relationships,59501,gte_multilingual_reranker,0.466796875
+Q08,a modern drama about family relationships,60397,gte_multilingual_reranker,0.54833984375
+Q08,a modern drama about family relationships,65230,gte_multilingual_reranker,0.54541015625
+Q08,a modern drama about family relationships,80463,gte_multilingual_reranker,0.4482421875
+Q08,a modern drama about family relationships,84374,gte_multilingual_reranker,0.57958984375
+Q08,a modern drama about family relationships,88163,gte_multilingual_reranker,0.5859375
+Q08,a modern drama about family relationships,88810,gte_multilingual_reranker,0.57080078125
+Q08,a modern drama about family relationships,89864,gte_multilingual_reranker,0.5791015625
+Q08,a modern drama about family relationships,96821,gte_multilingual_reranker,0.5498046875
+Q08,a modern drama about family relationships,97921,gte_multilingual_reranker,0.57421875
+Q08,a modern drama about family relationships,104374,gte_multilingual_reranker,0.591796875
+Q08,a modern drama about family relationships,105844,gte_multilingual_reranker,0.420166015625
+Q08,a modern drama about family relationships,109487,gte_multilingual_reranker,0.4892578125
+Q08,a modern drama about family relationships,111113,gte_multilingual_reranker,0.5537109375
+Q08,a modern drama about family relationships,112290,gte_multilingual_reranker,0.59326171875
+Q08,a modern drama about family relationships,117176,gte_multilingual_reranker,0.4951171875
+Q08,a modern drama about family relationships,134853,gte_multilingual_reranker,0.59130859375
+Q09,a chill and sweet French film,12,gte_multilingual_reranker,0.240966796875
+Q09,a chill and sweet French film,29,gte_multilingual_reranker,0.447998046875
+Q09,a chill and sweet French film,58,gte_multilingual_reranker,0.337158203125
+Q09,a chill and sweet French film,73,gte_multilingual_reranker,0.460693359375
+Q09,a chill and sweet French film,154,gte_multilingual_reranker,0.382080078125
+Q09,a chill and sweet French film,218,gte_multilingual_reranker,0.309814453125
+Q09,a chill and sweet French film,239,gte_multilingual_reranker,0.4296875
+Q09,a chill and sweet French film,293,gte_multilingual_reranker,0.40673828125
+Q09,a chill and sweet French film,306,gte_multilingual_reranker,0.546875
+Q09,a chill and sweet French film,307,gte_multilingual_reranker,0.469482421875
+Q09,a chill and sweet French film,308,gte_multilingual_reranker,0.47412109375
+Q09,a chill and sweet French film,455,gte_multilingual_reranker,0.35107421875
+Q09,a chill and sweet French film,509,gte_multilingual_reranker,0.318603515625
+Q09,a chill and sweet French film,546,gte_multilingual_reranker,0.3662109375
+Q09,a chill and sweet French film,555,gte_multilingual_reranker,0.2220458984375
+Q09,a chill and sweet French film,1172,gte_multilingual_reranker,0.375732421875
+Q09,a chill and sweet French film,1175,gte_multilingual_reranker,0.2314453125
+Q09,a chill and sweet French film,1249,gte_multilingual_reranker,0.1953125
+Q09,a chill and sweet French film,1251,gte_multilingual_reranker,0.51025390625
+Q09,a chill and sweet French film,1277,gte_multilingual_reranker,0.461669921875
+Q09,a chill and sweet French film,1635,gte_multilingual_reranker,0.297607421875
+Q09,a chill and sweet French film,2391,gte_multilingual_reranker,0.3251953125
+Q09,a chill and sweet French film,2731,gte_multilingual_reranker,0.5458984375
+Q09,a chill and sweet French film,3083,gte_multilingual_reranker,0.4150390625
+Q09,a chill and sweet French film,3198,gte_multilingual_reranker,0.3505859375
+Q09,a chill and sweet French film,3418,gte_multilingual_reranker,0.329833984375
+Q09,a chill and sweet French film,3910,gte_multilingual_reranker,0.460693359375
+Q09,a chill and sweet French film,4029,gte_multilingual_reranker,0.32275390625
+Q09,a chill and sweet French film,4144,gte_multilingual_reranker,0.332275390625
+Q09,a chill and sweet French film,4246,gte_multilingual_reranker,0.398193359375
+Q09,a chill and sweet French film,4973,gte_multilingual_reranker,0.6435546875
+Q09,a chill and sweet French film,5026,gte_multilingual_reranker,0.387451171875
+Q09,a chill and sweet French film,5135,gte_multilingual_reranker,0.153076171875
+Q09,a chill and sweet French film,5151,gte_multilingual_reranker,0.41845703125
+Q09,a chill and sweet French film,5219,gte_multilingual_reranker,0.1300048828125
+Q09,a chill and sweet French film,5377,gte_multilingual_reranker,0.4150390625
+Q09,a chill and sweet French film,5574,gte_multilingual_reranker,0.428466796875
+Q09,a chill and sweet French film,5782,gte_multilingual_reranker,0.419189453125
+Q09,a chill and sweet French film,6773,gte_multilingual_reranker,0.5283203125
+Q09,a chill and sweet French film,6942,gte_multilingual_reranker,0.466552734375
+Q09,a chill and sweet French film,7151,gte_multilingual_reranker,0.3388671875
+Q09,a chill and sweet French film,7265,gte_multilingual_reranker,0.53515625
+Q09,a chill and sweet French film,7371,gte_multilingual_reranker,0.391845703125
+Q09,a chill and sweet French film,8969,gte_multilingual_reranker,0.376953125
+Q09,a chill and sweet French film,34072,gte_multilingual_reranker,0.4599609375
+Q09,a chill and sweet French film,39292,gte_multilingual_reranker,0.35693359375
+Q09,a chill and sweet French film,45880,gte_multilingual_reranker,0.52392578125
+Q09,a chill and sweet French film,48082,gte_multilingual_reranker,0.53564453125
+Q09,a chill and sweet French film,51255,gte_multilingual_reranker,0.255615234375
+Q09,a chill and sweet French film,58047,gte_multilingual_reranker,0.462646484375
+Q09,a chill and sweet French film,59369,gte_multilingual_reranker,0.39892578125
+Q09,a chill and sweet French film,61323,gte_multilingual_reranker,0.392333984375
+Q09,a chill and sweet French film,86882,gte_multilingual_reranker,0.47509765625
+Q09,a chill and sweet French film,92259,gte_multilingual_reranker,0.4609375
+Q10,"a tense crime film about a heist, loyalty and betrayal",6,gte_multilingual_reranker,0.60009765625
+Q10,"a tense crime film about a heist, loyalty and betrayal",50,gte_multilingual_reranker,0.51806640625
+Q10,"a tense crime film about a heist, loyalty and betrayal",81,gte_multilingual_reranker,0.466552734375
+Q10,"a tense crime film about a heist, loyalty and betrayal",101,gte_multilingual_reranker,0.453857421875
+Q10,"a tense crime film about a heist, loyalty and betrayal",168,gte_multilingual_reranker,0.3525390625
+Q10,"a tense crime film about a heist, loyalty and betrayal",293,gte_multilingual_reranker,0.513671875
+Q10,"a tense crime film about a heist, loyalty and betrayal",319,gte_multilingual_reranker,0.445556640625
+Q10,"a tense crime film about a heist, loyalty and betrayal",454,gte_multilingual_reranker,0.50048828125
+Q10,"a tense crime film about a heist, loyalty and betrayal",555,gte_multilingual_reranker,0.385009765625
+Q10,"a tense crime film about a heist, loyalty and betrayal",745,gte_multilingual_reranker,0.337890625
+Q10,"a tense crime film about a heist, loyalty and betrayal",786,gte_multilingual_reranker,0.498046875
+Q10,"a tense crime film about a heist, loyalty and betrayal",832,gte_multilingual_reranker,0.418701171875
+Q10,"a tense crime film about a heist, loyalty and betrayal",866,gte_multilingual_reranker,0.491455078125
+Q10,"a tense crime film about a heist, loyalty and betrayal",933,gte_multilingual_reranker,0.47900390625
+Q10,"a tense crime film about a heist, loyalty and betrayal",1036,gte_multilingual_reranker,0.49462890625
+Q10,"a tense crime film about a heist, loyalty and betrayal",1084,gte_multilingual_reranker,0.4775390625
+Q10,"a tense crime film about a heist, loyalty and betrayal",1089,gte_multilingual_reranker,0.57373046875
+Q10,"a tense crime film about a heist, loyalty and betrayal",1148,gte_multilingual_reranker,0.426513671875
+Q10,"a tense crime film about a heist, loyalty and betrayal",1179,gte_multilingual_reranker,0.56884765625
+Q10,"a tense crime film about a heist, loyalty and betrayal",1245,gte_multilingual_reranker,0.4921875
+Q10,"a tense crime film about a heist, loyalty and betrayal",1260,gte_multilingual_reranker,0.35791015625
+Q10,"a tense crime film about a heist, loyalty and betrayal",1396,gte_multilingual_reranker,0.4873046875
+Q10,"a tense crime film about a heist, loyalty and betrayal",1488,gte_multilingual_reranker,0.494140625
+Q10,"a tense crime film about a heist, loyalty and betrayal",1687,gte_multilingual_reranker,0.50341796875
+Q10,"a tense crime film about a heist, loyalty and betrayal",1912,gte_multilingual_reranker,0.50439453125
+Q10,"a tense crime film about a heist, loyalty and betrayal",2058,gte_multilingual_reranker,0.475341796875
+Q10,"a tense crime film about a heist, loyalty and betrayal",2186,gte_multilingual_reranker,0.406982421875
+Q10,"a tense crime film about a heist, loyalty and betrayal",2194,gte_multilingual_reranker,0.48046875
+Q10,"a tense crime film about a heist, loyalty and betrayal",2278,gte_multilingual_reranker,0.6005859375
+Q10,"a tense crime film about a heist, loyalty and betrayal",2325,gte_multilingual_reranker,0.302734375
+Q10,"a tense crime film about a heist, loyalty and betrayal",2391,gte_multilingual_reranker,0.5283203125
+Q10,"a tense crime film about a heist, loyalty and betrayal",2490,gte_multilingual_reranker,0.59619140625
+Q10,"a tense crime film about a heist, loyalty and betrayal",2542,gte_multilingual_reranker,0.428955078125
+Q10,"a tense crime film about a heist, loyalty and betrayal",2605,gte_multilingual_reranker,0.46728515625
+Q10,"a tense crime film about a heist, loyalty and betrayal",2763,gte_multilingual_reranker,0.5322265625
+Q10,"a tense crime film about a heist, loyalty and betrayal",2802,gte_multilingual_reranker,0.482177734375
+Q10,"a tense crime film about a heist, loyalty and betrayal",2912,gte_multilingual_reranker,0.449951171875
+Q10,"a tense crime film about a heist, loyalty and betrayal",2973,gte_multilingual_reranker,0.33447265625
+Q10,"a tense crime film about a heist, loyalty and betrayal",2990,gte_multilingual_reranker,0.49560546875
+Q10,"a tense crime film about a heist, loyalty and betrayal",3275,gte_multilingual_reranker,0.49755859375
+Q10,"a tense crime film about a heist, loyalty and betrayal",3316,gte_multilingual_reranker,0.44873046875
+Q10,"a tense crime film about a heist, loyalty and betrayal",3362,gte_multilingual_reranker,0.52001953125
+Q10,"a tense crime film about a heist, loyalty and betrayal",3717,gte_multilingual_reranker,0.5947265625
+Q10,"a tense crime film about a heist, loyalty and betrayal",3744,gte_multilingual_reranker,0.469482421875
+Q10,"a tense crime film about a heist, loyalty and betrayal",3984,gte_multilingual_reranker,0.46484375
+Q10,"a tense crime film about a heist, loyalty and betrayal",4344,gte_multilingual_reranker,0.420654296875
+Q10,"a tense crime film about a heist, loyalty and betrayal",4448,gte_multilingual_reranker,0.431640625
+Q10,"a tense crime film about a heist, loyalty and betrayal",4963,gte_multilingual_reranker,0.52783203125
+Q10,"a tense crime film about a heist, loyalty and betrayal",5782,gte_multilingual_reranker,0.47216796875
+Q10,"a tense crime film about a heist, loyalty and betrayal",6378,gte_multilingual_reranker,0.5029296875
+Q10,"a tense crime film about a heist, loyalty and betrayal",7361,gte_multilingual_reranker,0.3173828125
+Q10,"a tense crime film about a heist, loyalty and betrayal",8228,gte_multilingual_reranker,0.42578125
+Q10,"a tense crime film about a heist, loyalty and betrayal",8798,gte_multilingual_reranker,0.49658203125
+Q10,"a tense crime film about a heist, loyalty and betrayal",8984,gte_multilingual_reranker,0.57177734375
+Q10,"a tense crime film about a heist, loyalty and betrayal",27831,gte_multilingual_reranker,0.45751953125
+Q10,"a tense crime film about a heist, loyalty and betrayal",44199,gte_multilingual_reranker,0.50830078125
+Q10,"a tense crime film about a heist, loyalty and betrayal",44761,gte_multilingual_reranker,0.28466796875
+Q10,"a tense crime film about a heist, loyalty and betrayal",48516,gte_multilingual_reranker,0.442138671875
+Q10,"a tense crime film about a heist, loyalty and betrayal",53322,gte_multilingual_reranker,0.55126953125
+Q10,"a tense crime film about a heist, loyalty and betrayal",58295,gte_multilingual_reranker,0.53271484375
+Q10,"a tense crime film about a heist, loyalty and betrayal",59369,gte_multilingual_reranker,0.478271484375
+Q10,"a tense crime film about a heist, loyalty and betrayal",63113,gte_multilingual_reranker,0.50146484375
+Q10,"a tense crime film about a heist, loyalty and betrayal",79132,gte_multilingual_reranker,0.47998046875
+Q10,"a tense crime film about a heist, loyalty and betrayal",80489,gte_multilingual_reranker,0.5
+Q10,"a tense crime film about a heist, loyalty and betrayal",88129,gte_multilingual_reranker,0.5478515625
+Q11,"an animated film about friendship, growing up and belonging",1,gte_multilingual_reranker,0.5615234375
+Q11,"an animated film about friendship, growing up and belonging",239,gte_multilingual_reranker,0.56787109375
+Q11,"an animated film about friendship, growing up and belonging",364,gte_multilingual_reranker,0.5048828125
+Q11,"an animated film about friendship, growing up and belonging",745,gte_multilingual_reranker,0.415283203125
+Q11,"an animated film about friendship, growing up and belonging",1029,gte_multilingual_reranker,0.466064453125
+Q11,"an animated film about friendship, growing up and belonging",1033,gte_multilingual_reranker,0.52734375
+Q11,"an animated film about friendship, growing up and belonging",1148,gte_multilingual_reranker,0.42724609375
+Q11,"an animated film about friendship, growing up and belonging",2018,gte_multilingual_reranker,0.53662109375
+Q11,"an animated film about friendship, growing up and belonging",2078,gte_multilingual_reranker,0.517578125
+Q11,"an animated film about friendship, growing up and belonging",2085,gte_multilingual_reranker,0.423095703125
+Q11,"an animated film about friendship, growing up and belonging",2087,gte_multilingual_reranker,0.55908203125
+Q11,"an animated film about friendship, growing up and belonging",2090,gte_multilingual_reranker,0.38037109375
+Q11,"an animated film about friendship, growing up and belonging",2141,gte_multilingual_reranker,0.485107421875
+Q11,"an animated film about friendship, growing up and belonging",2294,gte_multilingual_reranker,0.4716796875
+Q11,"an animated film about friendship, growing up and belonging",2687,gte_multilingual_reranker,0.50537109375
+Q11,"an animated film about friendship, growing up and belonging",2700,gte_multilingual_reranker,0.53466796875
+Q11,"an animated film about friendship, growing up and belonging",2761,gte_multilingual_reranker,0.47705078125
+Q11,"an animated film about friendship, growing up and belonging",3114,gte_multilingual_reranker,0.5693359375
+Q11,"an animated film about friendship, growing up and belonging",3213,gte_multilingual_reranker,0.33154296875
+Q11,"an animated film about friendship, growing up and belonging",3429,gte_multilingual_reranker,0.416015625
+Q11,"an animated film about friendship, growing up and belonging",4306,gte_multilingual_reranker,0.456298828125
+Q11,"an animated film about friendship, growing up and belonging",4873,gte_multilingual_reranker,0.44482421875
+Q11,"an animated film about friendship, growing up and belonging",5218,gte_multilingual_reranker,0.390380859375
+Q11,"an animated film about friendship, growing up and belonging",5444,gte_multilingual_reranker,0.5625
+Q11,"an animated film about friendship, growing up and belonging",5690,gte_multilingual_reranker,0.5224609375
+Q11,"an animated film about friendship, growing up and belonging",5971,gte_multilingual_reranker,0.53662109375
+Q11,"an animated film about friendship, growing up and belonging",6377,gte_multilingual_reranker,0.505859375
+Q11,"an animated film about friendship, growing up and belonging",6773,gte_multilingual_reranker,0.4931640625
+Q11,"an animated film about friendship, growing up and belonging",8360,gte_multilingual_reranker,0.41748046875
+Q11,"an animated film about friendship, growing up and belonging",27660,gte_multilingual_reranker,0.348876953125
+Q11,"an animated film about friendship, growing up and belonging",33615,gte_multilingual_reranker,0.48291015625
+Q11,"an animated film about friendship, growing up and belonging",38038,gte_multilingual_reranker,0.420166015625
+Q11,"an animated film about friendship, growing up and belonging",44022,gte_multilingual_reranker,0.38818359375
+Q11,"an animated film about friendship, growing up and belonging",45431,gte_multilingual_reranker,0.413330078125
+Q11,"an animated film about friendship, growing up and belonging",45517,gte_multilingual_reranker,0.46923828125
+Q11,"an animated film about friendship, growing up and belonging",50872,gte_multilingual_reranker,0.489990234375
+Q11,"an animated film about friendship, growing up and belonging",52287,gte_multilingual_reranker,0.5439453125
+Q11,"an animated film about friendship, growing up and belonging",54272,gte_multilingual_reranker,0.47021484375
+Q11,"an animated film about friendship, growing up and belonging",56152,gte_multilingual_reranker,0.427734375
+Q11,"an animated film about friendship, growing up and belonging",62999,gte_multilingual_reranker,0.458740234375
+Q11,"an animated film about friendship, growing up and belonging",63859,gte_multilingual_reranker,0.52001953125
+Q11,"an animated film about friendship, growing up and belonging",66097,gte_multilingual_reranker,0.431640625
+Q11,"an animated film about friendship, growing up and belonging",68954,gte_multilingual_reranker,0.471435546875
+Q11,"an animated film about friendship, growing up and belonging",71057,gte_multilingual_reranker,0.41259765625
+Q11,"an animated film about friendship, growing up and belonging",76093,gte_multilingual_reranker,0.53271484375
+Q11,"an animated film about friendship, growing up and belonging",78499,gte_multilingual_reranker,0.46533203125
+Q11,"an animated film about friendship, growing up and belonging",81847,gte_multilingual_reranker,0.427490234375
+Q11,"an animated film about friendship, growing up and belonging",98243,gte_multilingual_reranker,0.443603515625
+Q11,"an animated film about friendship, growing up and belonging",103141,gte_multilingual_reranker,0.5380859375
+Q11,"an animated film about friendship, growing up and belonging",106696,gte_multilingual_reranker,0.515625
+Q11,"an animated film about friendship, growing up and belonging",108932,gte_multilingual_reranker,0.473388671875
+Q11,"an animated film about friendship, growing up and belonging",115617,gte_multilingual_reranker,0.4521484375
+Q11,"an animated film about friendship, growing up and belonging",134853,gte_multilingual_reranker,0.52587890625
+Q11,"an animated film about friendship, growing up and belonging",157296,gte_multilingual_reranker,0.5
+Q12,"a war film about sacrifice, duty and the human cost of combat",110,gte_multilingual_reranker,0.481201171875
+Q12,"a war film about sacrifice, duty and the human cost of combat",466,gte_multilingual_reranker,0.404541015625
+Q12,"a war film about sacrifice, duty and the human cost of combat",527,gte_multilingual_reranker,0.47216796875
+Q12,"a war film about sacrifice, duty and the human cost of combat",590,gte_multilingual_reranker,0.3935546875
+Q12,"a war film about sacrifice, duty and the human cost of combat",647,gte_multilingual_reranker,0.431396484375
+Q12,"a war film about sacrifice, duty and the human cost of combat",912,gte_multilingual_reranker,0.412109375
+Q12,"a war film about sacrifice, duty and the human cost of combat",969,gte_multilingual_reranker,0.391845703125
+Q12,"a war film about sacrifice, duty and the human cost of combat",1059,gte_multilingual_reranker,0.262939453125
+Q12,"a war film about sacrifice, duty and the human cost of combat",1090,gte_multilingual_reranker,0.54345703125
+Q12,"a war film about sacrifice, duty and the human cost of combat",1178,gte_multilingual_reranker,0.44677734375
+Q12,"a war film about sacrifice, duty and the human cost of combat",1208,gte_multilingual_reranker,0.49365234375
+Q12,"a war film about sacrifice, duty and the human cost of combat",1222,gte_multilingual_reranker,0.509765625
+Q12,"a war film about sacrifice, duty and the human cost of combat",1224,gte_multilingual_reranker,0.326416015625
+Q12,"a war film about sacrifice, duty and the human cost of combat",1233,gte_multilingual_reranker,0.4384765625
+Q12,"a war film about sacrifice, duty and the human cost of combat",1242,gte_multilingual_reranker,0.393798828125
+Q12,"a war film about sacrifice, duty and the human cost of combat",1250,gte_multilingual_reranker,0.4208984375
+Q12,"a war film about sacrifice, duty and the human cost of combat",1263,gte_multilingual_reranker,0.47021484375
+Q12,"a war film about sacrifice, duty and the human cost of combat",1272,gte_multilingual_reranker,0.436279296875
+Q12,"a war film about sacrifice, duty and the human cost of combat",1299,gte_multilingual_reranker,0.4912109375
+Q12,"a war film about sacrifice, duty and the human cost of combat",1348,gte_multilingual_reranker,0.279296875
+Q12,"a war film about sacrifice, duty and the human cost of combat",1608,gte_multilingual_reranker,0.56005859375
+Q12,"a war film about sacrifice, duty and the human cost of combat",2028,gte_multilingual_reranker,0.59130859375
+Q12,"a war film about sacrifice, duty and the human cost of combat",2402,gte_multilingual_reranker,0.490478515625
+Q12,"a war film about sacrifice, duty and the human cost of combat",2403,gte_multilingual_reranker,0.50537109375
+Q12,"a war film about sacrifice, duty and the human cost of combat",2404,gte_multilingual_reranker,0.49658203125
+Q12,"a war film about sacrifice, duty and the human cost of combat",2427,gte_multilingual_reranker,0.5537109375
+Q12,"a war film about sacrifice, duty and the human cost of combat",2476,gte_multilingual_reranker,0.4931640625
+Q12,"a war film about sacrifice, duty and the human cost of combat",2700,gte_multilingual_reranker,0.421142578125
+Q12,"a war film about sacrifice, duty and the human cost of combat",2944,gte_multilingual_reranker,0.499267578125
+Q12,"a war film about sacrifice, duty and the human cost of combat",3441,gte_multilingual_reranker,0.41162109375
+Q12,"a war film about sacrifice, duty and the human cost of combat",3753,gte_multilingual_reranker,0.51806640625
+Q12,"a war film about sacrifice, duty and the human cost of combat",3836,gte_multilingual_reranker,0.399658203125
+Q12,"a war film about sacrifice, duty and the human cost of combat",3917,gte_multilingual_reranker,0.380615234375
+Q12,"a war film about sacrifice, duty and the human cost of combat",4008,gte_multilingual_reranker,0.45947265625
+Q12,"a war film about sacrifice, duty and the human cost of combat",4223,gte_multilingual_reranker,0.41943359375
+Q12,"a war film about sacrifice, duty and the human cost of combat",4958,gte_multilingual_reranker,0.537109375
+Q12,"a war film about sacrifice, duty and the human cost of combat",4967,gte_multilingual_reranker,0.48193359375
+Q12,"a war film about sacrifice, duty and the human cost of combat",5010,gte_multilingual_reranker,0.459716796875
+Q12,"a war film about sacrifice, duty and the human cost of combat",5152,gte_multilingual_reranker,0.56298828125
+Q12,"a war film about sacrifice, duty and the human cost of combat",5669,gte_multilingual_reranker,0.35107421875
+Q12,"a war film about sacrifice, duty and the human cost of combat",5944,gte_multilingual_reranker,0.494384765625
+Q12,"a war film about sacrifice, duty and the human cost of combat",7143,gte_multilingual_reranker,0.49560546875
+Q12,"a war film about sacrifice, duty and the human cost of combat",7151,gte_multilingual_reranker,0.09283447265625
+Q12,"a war film about sacrifice, duty and the human cost of combat",7162,gte_multilingual_reranker,0.396240234375
+Q12,"a war film about sacrifice, duty and the human cost of combat",8781,gte_multilingual_reranker,0.474853515625
+Q12,"a war film about sacrifice, duty and the human cost of combat",40278,gte_multilingual_reranker,0.46484375
+Q12,"a war film about sacrifice, duty and the human cost of combat",44555,gte_multilingual_reranker,0.44482421875
+Q12,"a war film about sacrifice, duty and the human cost of combat",48304,gte_multilingual_reranker,0.462646484375
+Q12,"a war film about sacrifice, duty and the human cost of combat",48783,gte_multilingual_reranker,0.484619140625
+Q12,"a war film about sacrifice, duty and the human cost of combat",49530,gte_multilingual_reranker,0.49658203125
+Q12,"a war film about sacrifice, duty and the human cost of combat",50068,gte_multilingual_reranker,0.467529296875
+Q12,"a war film about sacrifice, duty and the human cost of combat",61132,gte_multilingual_reranker,0.43115234375
+Q12,"a war film about sacrifice, duty and the human cost of combat",64614,gte_multilingual_reranker,0.457763671875
+Q12,"a war film about sacrifice, duty and the human cost of combat",68157,gte_multilingual_reranker,0.51220703125
+Q12,"a war film about sacrifice, duty and the human cost of combat",69481,gte_multilingual_reranker,0.45849609375
+Q12,"a war film about sacrifice, duty and the human cost of combat",80906,gte_multilingual_reranker,0.244873046875
+Q12,"a war film about sacrifice, duty and the human cost of combat",111759,gte_multilingual_reranker,0.46533203125
+Q12,"a war film about sacrifice, duty and the human cost of combat",112623,gte_multilingual_reranker,0.425537109375
+Q12,"a war film about sacrifice, duty and the human cost of combat",114662,gte_multilingual_reranker,0.4990234375
+Q12,"a war film about sacrifice, duty and the human cost of combat",115210,gte_multilingual_reranker,0.50146484375
+Q12,"a war film about sacrifice, duty and the human cost of combat",116797,gte_multilingual_reranker,0.390625
+Q12,"a war film about sacrifice, duty and the human cost of combat",116823,gte_multilingual_reranker,0.460693359375
+Q12,"a war film about sacrifice, duty and the human cost of combat",174055,gte_multilingual_reranker,0.477783203125
+Q13,a science fiction film about artificial intelligence and what it means to be human,45,gte_multilingual_reranker,0.36279296875
+Q13,a science fiction film about artificial intelligence and what it means to be human,196,gte_multilingual_reranker,0.486328125
+Q13,a science fiction film about artificial intelligence and what it means to be human,338,gte_multilingual_reranker,0.457763671875
+Q13,a science fiction film about artificial intelligence and what it means to be human,541,gte_multilingual_reranker,0.6162109375
+Q13,a science fiction film about artificial intelligence and what it means to be human,589,gte_multilingual_reranker,0.57275390625
+Q13,a science fiction film about artificial intelligence and what it means to be human,741,gte_multilingual_reranker,0.60205078125
+Q13,a science fiction film about artificial intelligence and what it means to be human,924,gte_multilingual_reranker,0.541015625
+Q13,a science fiction film about artificial intelligence and what it means to be human,1037,gte_multilingual_reranker,0.4677734375
+Q13,a science fiction film about artificial intelligence and what it means to be human,1240,gte_multilingual_reranker,0.5888671875
+Q13,a science fiction film about artificial intelligence and what it means to be human,1253,gte_multilingual_reranker,0.4130859375
+Q13,a science fiction film about artificial intelligence and what it means to be human,1371,gte_multilingual_reranker,0.5439453125
+Q13,a science fiction film about artificial intelligence and what it means to be human,1653,gte_multilingual_reranker,0.494140625
+Q13,a science fiction film about artificial intelligence and what it means to be human,1921,gte_multilingual_reranker,0.414306640625
+Q13,a science fiction film about artificial intelligence and what it means to be human,2046,gte_multilingual_reranker,0.5634765625
+Q13,a science fiction film about artificial intelligence and what it means to be human,2313,gte_multilingual_reranker,0.3251953125
+Q13,a science fiction film about artificial intelligence and what it means to be human,2533,gte_multilingual_reranker,0.47509765625
+Q13,a science fiction film about artificial intelligence and what it means to be human,2571,gte_multilingual_reranker,0.5419921875
+Q13,a science fiction film about artificial intelligence and what it means to be human,2672,gte_multilingual_reranker,0.599609375
+Q13,a science fiction film about artificial intelligence and what it means to be human,2916,gte_multilingual_reranker,0.498291015625
+Q13,a science fiction film about artificial intelligence and what it means to be human,3156,gte_multilingual_reranker,0.52197265625
+Q13,a science fiction film about artificial intelligence and what it means to be human,3503,gte_multilingual_reranker,0.455078125
+Q13,a science fiction film about artificial intelligence and what it means to be human,3745,gte_multilingual_reranker,0.426025390625
+Q13,a science fiction film about artificial intelligence and what it means to be human,3826,gte_multilingual_reranker,0.391845703125
+Q13,a science fiction film about artificial intelligence and what it means to be human,3986,gte_multilingual_reranker,0.52099609375
+Q13,a science fiction film about artificial intelligence and what it means to be human,4370,gte_multilingual_reranker,0.57763671875
+Q13,a science fiction film about artificial intelligence and what it means to be human,4446,gte_multilingual_reranker,0.380859375
+Q13,a science fiction film about artificial intelligence and what it means to be human,4545,gte_multilingual_reranker,0.64013671875
+Q13,a science fiction film about artificial intelligence and what it means to be human,5608,gte_multilingual_reranker,0.40673828125
+Q13,a science fiction film about artificial intelligence and what it means to be human,6365,gte_multilingual_reranker,0.5908203125
+Q13,a science fiction film about artificial intelligence and what it means to be human,6537,gte_multilingual_reranker,0.59130859375
+Q13,a science fiction film about artificial intelligence and what it means to be human,6934,gte_multilingual_reranker,0.55419921875
+Q13,a science fiction film about artificial intelligence and what it means to be human,6979,gte_multilingual_reranker,0.51025390625
+Q13,a science fiction film about artificial intelligence and what it means to be human,7151,gte_multilingual_reranker,0.08197021484375
+Q13,a science fiction film about artificial intelligence and what it means to be human,7361,gte_multilingual_reranker,0.5078125
+Q13,a science fiction film about artificial intelligence and what it means to be human,8644,gte_multilingual_reranker,0.595703125
+Q13,a science fiction film about artificial intelligence and what it means to be human,34319,gte_multilingual_reranker,0.525390625
+Q13,a science fiction film about artificial intelligence and what it means to be human,40278,gte_multilingual_reranker,0.32470703125
+Q13,a science fiction film about artificial intelligence and what it means to be human,47997,gte_multilingual_reranker,0.51904296875
+Q13,a science fiction film about artificial intelligence and what it means to be human,48774,gte_multilingual_reranker,0.455810546875
+Q13,a science fiction film about artificial intelligence and what it means to be human,53322,gte_multilingual_reranker,0.316162109375
+Q13,a science fiction film about artificial intelligence and what it means to be human,68237,gte_multilingual_reranker,0.5615234375
+Q13,a science fiction film about artificial intelligence and what it means to be human,68791,gte_multilingual_reranker,0.54248046875
+Q13,a science fiction film about artificial intelligence and what it means to be human,71057,gte_multilingual_reranker,0.37890625
+Q13,a science fiction film about artificial intelligence and what it means to be human,71530,gte_multilingual_reranker,0.46875
+Q13,a science fiction film about artificial intelligence and what it means to be human,79132,gte_multilingual_reranker,0.537109375
+Q13,a science fiction film about artificial intelligence and what it means to be human,88744,gte_multilingual_reranker,0.50341796875
+Q13,a science fiction film about artificial intelligence and what it means to be human,97752,gte_multilingual_reranker,0.63427734375
+Q13,a science fiction film about artificial intelligence and what it means to be human,106920,gte_multilingual_reranker,0.546875
+Q13,a science fiction film about artificial intelligence and what it means to be human,109487,gte_multilingual_reranker,0.55712890625
+Q13,a science fiction film about artificial intelligence and what it means to be human,111360,gte_multilingual_reranker,0.58154296875
+Q13,a science fiction film about artificial intelligence and what it means to be human,115713,gte_multilingual_reranker,0.751953125
+Q13,a science fiction film about artificial intelligence and what it means to be human,122892,gte_multilingual_reranker,0.59814453125
+Q13,a science fiction film about artificial intelligence and what it means to be human,164179,gte_multilingual_reranker,0.5283203125
+Q13,a science fiction film about artificial intelligence and what it means to be human,176371,gte_multilingual_reranker,0.6259765625
+Q14,"a courtroom drama about justice, ethics and moral conflict",36,gte_multilingual_reranker,0.48291015625
+Q14,"a courtroom drama about justice, ethics and moral conflict",79,gte_multilingual_reranker,0.45654296875
+Q14,"a courtroom drama about justice, ethics and moral conflict",81,gte_multilingual_reranker,0.305908203125
+Q14,"a courtroom drama about justice, ethics and moral conflict",140,gte_multilingual_reranker,0.373291015625
+Q14,"a courtroom drama about justice, ethics and moral conflict",173,gte_multilingual_reranker,0.378662109375
+Q14,"a courtroom drama about justice, ethics and moral conflict",222,gte_multilingual_reranker,0.361572265625
+Q14,"a courtroom drama about justice, ethics and moral conflict",230,gte_multilingual_reranker,0.37890625
+Q14,"a courtroom drama about justice, ethics and moral conflict",257,gte_multilingual_reranker,0.433349609375
+Q14,"a courtroom drama about justice, ethics and moral conflict",280,gte_multilingual_reranker,0.412353515625
+Q14,"a courtroom drama about justice, ethics and moral conflict",300,gte_multilingual_reranker,0.260986328125
+Q14,"a courtroom drama about justice, ethics and moral conflict",306,gte_multilingual_reranker,0.385009765625
+Q14,"a courtroom drama about justice, ethics and moral conflict",350,gte_multilingual_reranker,0.378173828125
+Q14,"a courtroom drama about justice, ethics and moral conflict",372,gte_multilingual_reranker,0.1903076171875
+Q14,"a courtroom drama about justice, ethics and moral conflict",454,gte_multilingual_reranker,0.381103515625
+Q14,"a courtroom drama about justice, ethics and moral conflict",475,gte_multilingual_reranker,0.52734375
+Q14,"a courtroom drama about justice, ethics and moral conflict",490,gte_multilingual_reranker,0.2705078125
+Q14,"a courtroom drama about justice, ethics and moral conflict",491,gte_multilingual_reranker,0.335205078125
+Q14,"a courtroom drama about justice, ethics and moral conflict",508,gte_multilingual_reranker,0.467529296875
+Q14,"a courtroom drama about justice, ethics and moral conflict",628,gte_multilingual_reranker,0.46484375
+Q14,"a courtroom drama about justice, ethics and moral conflict",805,gte_multilingual_reranker,0.443603515625
+Q14,"a courtroom drama about justice, ethics and moral conflict",1061,gte_multilingual_reranker,0.396484375
+Q14,"a courtroom drama about justice, ethics and moral conflict",1120,gte_multilingual_reranker,0.5087890625
+Q14,"a courtroom drama about justice, ethics and moral conflict",1186,gte_multilingual_reranker,0.19677734375
+Q14,"a courtroom drama about justice, ethics and moral conflict",1188,gte_multilingual_reranker,0.1514892578125
+Q14,"a courtroom drama about justice, ethics and moral conflict",1203,gte_multilingual_reranker,0.57470703125
+Q14,"a courtroom drama about justice, ethics and moral conflict",1207,gte_multilingual_reranker,0.54931640625
+Q14,"a courtroom drama about justice, ethics and moral conflict",1459,gte_multilingual_reranker,0.286865234375
+Q14,"a courtroom drama about justice, ethics and moral conflict",1645,gte_multilingual_reranker,0.47607421875
+Q14,"a courtroom drama about justice, ethics and moral conflict",1672,gte_multilingual_reranker,0.61767578125
+Q14,"a courtroom drama about justice, ethics and moral conflict",1747,gte_multilingual_reranker,0.375244140625
+Q14,"a courtroom drama about justice, ethics and moral conflict",1945,gte_multilingual_reranker,0.356689453125
+Q14,"a courtroom drama about justice, ethics and moral conflict",1955,gte_multilingual_reranker,0.302490234375
+Q14,"a courtroom drama about justice, ethics and moral conflict",1958,gte_multilingual_reranker,0.11553955078125
+Q14,"a courtroom drama about justice, ethics and moral conflict",2019,gte_multilingual_reranker,0.1947021484375
+Q14,"a courtroom drama about justice, ethics and moral conflict",2058,gte_multilingual_reranker,0.2744140625
+Q14,"a courtroom drama about justice, ethics and moral conflict",2268,gte_multilingual_reranker,0.50537109375
+Q14,"a courtroom drama about justice, ethics and moral conflict",2302,gte_multilingual_reranker,0.477783203125
+Q14,"a courtroom drama about justice, ethics and moral conflict",2427,gte_multilingual_reranker,0.1134033203125
+Q14,"a courtroom drama about justice, ethics and moral conflict",2803,gte_multilingual_reranker,0.40478515625
+Q14,"a courtroom drama about justice, ethics and moral conflict",2881,gte_multilingual_reranker,0.485595703125
+Q14,"a courtroom drama about justice, ethics and moral conflict",2973,gte_multilingual_reranker,0.2440185546875
+Q14,"a courtroom drama about justice, ethics and moral conflict",3034,gte_multilingual_reranker,0.261962890625
+Q14,"a courtroom drama about justice, ethics and moral conflict",3147,gte_multilingual_reranker,0.33837890625
+Q14,"a courtroom drama about justice, ethics and moral conflict",3178,gte_multilingual_reranker,0.403564453125
+Q14,"a courtroom drama about justice, ethics and moral conflict",3408,gte_multilingual_reranker,0.408935546875
+Q14,"a courtroom drama about justice, ethics and moral conflict",3949,gte_multilingual_reranker,0.276611328125
+Q14,"a courtroom drama about justice, ethics and moral conflict",3969,gte_multilingual_reranker,0.391357421875
+Q14,"a courtroom drama about justice, ethics and moral conflict",4351,gte_multilingual_reranker,0.314208984375
+Q14,"a courtroom drama about justice, ethics and moral conflict",5903,gte_multilingual_reranker,0.061767578125
+Q14,"a courtroom drama about justice, ethics and moral conflict",5957,gte_multilingual_reranker,0.412353515625
+Q14,"a courtroom drama about justice, ethics and moral conflict",6879,gte_multilingual_reranker,0.52294921875
+Q14,"a courtroom drama about justice, ethics and moral conflict",7151,gte_multilingual_reranker,0.04248046875
+Q14,"a courtroom drama about justice, ethics and moral conflict",51935,gte_multilingual_reranker,0.383056640625
+Q14,"a courtroom drama about justice, ethics and moral conflict",52604,gte_multilingual_reranker,0.42138671875
+Q14,"a courtroom drama about justice, ethics and moral conflict",55276,gte_multilingual_reranker,0.51513671875
+Q14,"a courtroom drama about justice, ethics and moral conflict",96737,gte_multilingual_reranker,0.29345703125
+Q14,"a courtroom drama about justice, ethics and moral conflict",96821,gte_multilingual_reranker,0.224609375
+Q14,"a courtroom drama about justice, ethics and moral conflict",104879,gte_multilingual_reranker,0.458984375
+Q14,"a courtroom drama about justice, ethics and moral conflict",105844,gte_multilingual_reranker,0.2125244140625
+Q14,"a courtroom drama about justice, ethics and moral conflict",142488,gte_multilingual_reranker,0.400390625
+Q15,a witty romantic comedy about two people gradually falling in love,39,gte_multilingual_reranker,0.546875
+Q15,a witty romantic comedy about two people gradually falling in love,122,gte_multilingual_reranker,0.454833984375
+Q15,a witty romantic comedy about two people gradually falling in love,125,gte_multilingual_reranker,0.501953125
+Q15,a witty romantic comedy about two people gradually falling in love,231,gte_multilingual_reranker,0.50537109375
+Q15,a witty romantic comedy about two people gradually falling in love,234,gte_multilingual_reranker,0.51904296875
+Q15,a witty romantic comedy about two people gradually falling in love,237,gte_multilingual_reranker,0.54541015625
+Q15,a witty romantic comedy about two people gradually falling in love,252,gte_multilingual_reranker,0.5029296875
+Q15,a witty romantic comedy about two people gradually falling in love,319,gte_multilingual_reranker,0.459716796875
+Q15,a witty romantic comedy about two people gradually falling in love,339,gte_multilingual_reranker,0.56982421875
+Q15,a witty romantic comedy about two people gradually falling in love,372,gte_multilingual_reranker,0.470703125
+Q15,a witty romantic comedy about two people gradually falling in love,575,gte_multilingual_reranker,0.5087890625
+Q15,a witty romantic comedy about two people gradually falling in love,597,gte_multilingual_reranker,0.62548828125
+Q15,a witty romantic comedy about two people gradually falling in love,788,gte_multilingual_reranker,0.50537109375
+Q15,a witty romantic comedy about two people gradually falling in love,830,gte_multilingual_reranker,0.444091796875
+Q15,a witty romantic comedy about two people gradually falling in love,905,gte_multilingual_reranker,0.564453125
+Q15,a witty romantic comedy about two people gradually falling in love,909,gte_multilingual_reranker,0.52490234375
+Q15,a witty romantic comedy about two people gradually falling in love,955,gte_multilingual_reranker,0.50341796875
+Q15,a witty romantic comedy about two people gradually falling in love,1057,gte_multilingual_reranker,0.5126953125
+Q15,a witty romantic comedy about two people gradually falling in love,1175,gte_multilingual_reranker,0.216064453125
+Q15,a witty romantic comedy about two people gradually falling in love,1230,gte_multilingual_reranker,0.52587890625
+Q15,a witty romantic comedy about two people gradually falling in love,1235,gte_multilingual_reranker,0.447998046875
+Q15,a witty romantic comedy about two people gradually falling in love,1457,gte_multilingual_reranker,0.52734375
+Q15,a witty romantic comedy about two people gradually falling in love,1569,gte_multilingual_reranker,0.5546875
+Q15,a witty romantic comedy about two people gradually falling in love,1588,gte_multilingual_reranker,0.481201171875
+Q15,a witty romantic comedy about two people gradually falling in love,1639,gte_multilingual_reranker,0.47119140625
+Q15,a witty romantic comedy about two people gradually falling in love,1777,gte_multilingual_reranker,0.56201171875
+Q15,a witty romantic comedy about two people gradually falling in love,1784,gte_multilingual_reranker,0.456298828125
+Q15,a witty romantic comedy about two people gradually falling in love,1885,gte_multilingual_reranker,0.41552734375
+Q15,a witty romantic comedy about two people gradually falling in love,1923,gte_multilingual_reranker,0.5390625
+Q15,a witty romantic comedy about two people gradually falling in love,2248,gte_multilingual_reranker,0.53857421875
+Q15,a witty romantic comedy about two people gradually falling in love,2375,gte_multilingual_reranker,0.59423828125
+Q15,a witty romantic comedy about two people gradually falling in love,2396,gte_multilingual_reranker,0.53466796875
+Q15,a witty romantic comedy about two people gradually falling in love,2424,gte_multilingual_reranker,0.59912109375
+Q15,a witty romantic comedy about two people gradually falling in love,2581,gte_multilingual_reranker,0.59228515625
+Q15,a witty romantic comedy about two people gradually falling in love,2671,gte_multilingual_reranker,0.626953125
+Q15,a witty romantic comedy about two people gradually falling in love,2805,gte_multilingual_reranker,0.423095703125
+Q15,a witty romantic comedy about two people gradually falling in love,3361,gte_multilingual_reranker,0.533203125
+Q15,a witty romantic comedy about two people gradually falling in love,3481,gte_multilingual_reranker,0.51123046875
+Q15,a witty romantic comedy about two people gradually falling in love,3948,gte_multilingual_reranker,0.58984375
+Q15,a witty romantic comedy about two people gradually falling in love,4069,gte_multilingual_reranker,0.548828125
+Q15,a witty romantic comedy about two people gradually falling in love,4144,gte_multilingual_reranker,0.450439453125
+Q15,a witty romantic comedy about two people gradually falling in love,4361,gte_multilingual_reranker,0.51611328125
+Q15,a witty romantic comedy about two people gradually falling in love,4639,gte_multilingual_reranker,0.4228515625
+Q15,a witty romantic comedy about two people gradually falling in love,4718,gte_multilingual_reranker,0.431884765625
+Q15,a witty romantic comedy about two people gradually falling in love,4728,gte_multilingual_reranker,0.280517578125
+Q15,a witty romantic comedy about two people gradually falling in love,4823,gte_multilingual_reranker,0.60986328125
+Q15,a witty romantic comedy about two people gradually falling in love,4973,gte_multilingual_reranker,0.5361328125
+Q15,a witty romantic comedy about two people gradually falling in love,5283,gte_multilingual_reranker,0.455078125
+Q15,a witty romantic comedy about two people gradually falling in love,5449,gte_multilingual_reranker,0.56103515625
+Q15,a witty romantic comedy about two people gradually falling in love,5577,gte_multilingual_reranker,0.50830078125
+Q15,a witty romantic comedy about two people gradually falling in love,5673,gte_multilingual_reranker,0.513671875
+Q15,a witty romantic comedy about two people gradually falling in love,5943,gte_multilingual_reranker,0.67529296875
+Q15,a witty romantic comedy about two people gradually falling in love,5957,gte_multilingual_reranker,0.60693359375
+Q15,a witty romantic comedy about two people gradually falling in love,6155,gte_multilingual_reranker,0.591796875
+Q15,a witty romantic comedy about two people gradually falling in love,6482,gte_multilingual_reranker,0.46337890625
+Q15,a witty romantic comedy about two people gradually falling in love,6586,gte_multilingual_reranker,0.499267578125
+Q15,a witty romantic comedy about two people gradually falling in love,6942,gte_multilingual_reranker,0.55126953125
+Q15,a witty romantic comedy about two people gradually falling in love,7173,gte_multilingual_reranker,0.63037109375
+Q15,a witty romantic comedy about two people gradually falling in love,7293,gte_multilingual_reranker,0.67529296875
+Q15,a witty romantic comedy about two people gradually falling in love,7361,gte_multilingual_reranker,0.54833984375
+Q15,a witty romantic comedy about two people gradually falling in love,8910,gte_multilingual_reranker,0.440185546875
+Q15,a witty romantic comedy about two people gradually falling in love,31685,gte_multilingual_reranker,0.6025390625
+Q15,a witty romantic comedy about two people gradually falling in love,34162,gte_multilingual_reranker,0.55029296875
+Q15,a witty romantic comedy about two people gradually falling in love,38061,gte_multilingual_reranker,0.399658203125
+Q15,a witty romantic comedy about two people gradually falling in love,49286,gte_multilingual_reranker,0.357177734375
+Q15,a witty romantic comedy about two people gradually falling in love,52973,gte_multilingual_reranker,0.499267578125
+Q15,a witty romantic comedy about two people gradually falling in love,53894,gte_multilingual_reranker,0.060638427734375
+Q15,a witty romantic comedy about two people gradually falling in love,58047,gte_multilingual_reranker,0.6201171875
+Q15,a witty romantic comedy about two people gradually falling in love,60950,gte_multilingual_reranker,0.439697265625
+Q15,a witty romantic comedy about two people gradually falling in love,64969,gte_multilingual_reranker,0.646484375
+Q15,a witty romantic comedy about two people gradually falling in love,67087,gte_multilingual_reranker,0.5048828125
+Q15,a witty romantic comedy about two people gradually falling in love,69757,gte_multilingual_reranker,0.65087890625
+Q15,a witty romantic comedy about two people gradually falling in love,70183,gte_multilingual_reranker,0.46240234375
+Q15,a witty romantic comedy about two people gradually falling in love,88163,gte_multilingual_reranker,0.61083984375
+Q15,a witty romantic comedy about two people gradually falling in love,94959,gte_multilingual_reranker,0.52392578125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,198,gte_multilingual_reranker,0.5361328125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,593,gte_multilingual_reranker,0.50341796875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,903,gte_multilingual_reranker,0.48779296875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,922,gte_multilingual_reranker,0.4287109375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1047,gte_multilingual_reranker,0.5556640625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1104,gte_multilingual_reranker,0.5107421875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1206,gte_multilingual_reranker,0.41259765625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1219,gte_multilingual_reranker,0.52734375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1258,gte_multilingual_reranker,0.56494140625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1625,gte_multilingual_reranker,0.4951171875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1748,gte_multilingual_reranker,0.603515625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1921,gte_multilingual_reranker,0.488037109375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2369,gte_multilingual_reranker,0.48681640625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2505,gte_multilingual_reranker,0.433349609375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2672,gte_multilingual_reranker,0.5205078125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2688,gte_multilingual_reranker,0.482421875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2712,gte_multilingual_reranker,0.411376953125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2762,gte_multilingual_reranker,0.515625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2841,gte_multilingual_reranker,0.54833984375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2916,gte_multilingual_reranker,0.61279296875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3044,gte_multilingual_reranker,0.53759765625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3081,gte_multilingual_reranker,0.429931640625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3176,gte_multilingual_reranker,0.47265625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3186,gte_multilingual_reranker,0.537109375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3476,gte_multilingual_reranker,0.57861328125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3499,gte_multilingual_reranker,0.50244140625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3503,gte_multilingual_reranker,0.5830078125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3535,gte_multilingual_reranker,0.509765625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3730,gte_multilingual_reranker,0.458740234375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3798,gte_multilingual_reranker,0.49658203125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3863,gte_multilingual_reranker,0.52587890625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3893,gte_multilingual_reranker,0.53076171875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3949,gte_multilingual_reranker,0.442138671875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3986,gte_multilingual_reranker,0.51513671875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3994,gte_multilingual_reranker,0.43896484375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4148,gte_multilingual_reranker,0.50927734375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4226,gte_multilingual_reranker,0.7861328125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4238,gte_multilingual_reranker,0.51513671875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4720,gte_multilingual_reranker,0.460693359375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4848,gte_multilingual_reranker,0.8466796875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4878,gte_multilingual_reranker,0.56982421875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4975,gte_multilingual_reranker,0.68798828125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4995,gte_multilingual_reranker,0.43115234375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5266,gte_multilingual_reranker,0.50634765625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5388,gte_multilingual_reranker,0.4833984375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5418,gte_multilingual_reranker,0.68017578125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5528,gte_multilingual_reranker,0.54833984375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5881,gte_multilingual_reranker,0.487060546875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,6323,gte_multilingual_reranker,0.47119140625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,7163,gte_multilingual_reranker,0.63818359375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,7254,gte_multilingual_reranker,0.62451171875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,7347,gte_multilingual_reranker,0.50830078125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,7361,gte_multilingual_reranker,0.74365234375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,8781,gte_multilingual_reranker,0.6171875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,49278,gte_multilingual_reranker,0.5322265625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,51086,gte_multilingual_reranker,0.5048828125
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,74458,gte_multilingual_reranker,0.52490234375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,79132,gte_multilingual_reranker,0.60498046875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,81591,gte_multilingual_reranker,0.461181640625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,85510,gte_multilingual_reranker,0.44921875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,87306,gte_multilingual_reranker,0.43701171875
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,112556,gte_multilingual_reranker,0.4443359375
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,114180,gte_multilingual_reranker,0.56494140625
+Q17,"a science fiction film about space exploration, isolation and survival",76,gte_multilingual_reranker,0.44482421875
+Q17,"a science fiction film about space exploration, isolation and survival",208,gte_multilingual_reranker,0.47119140625
+Q17,"a science fiction film about space exploration, isolation and survival",260,gte_multilingual_reranker,0.429931640625
+Q17,"a science fiction film about space exploration, isolation and survival",780,gte_multilingual_reranker,0.56640625
+Q17,"a science fiction film about space exploration, isolation and survival",924,gte_multilingual_reranker,0.43017578125
+Q17,"a science fiction film about space exploration, isolation and survival",1097,gte_multilingual_reranker,0.6279296875
+Q17,"a science fiction film about space exploration, isolation and survival",1200,gte_multilingual_reranker,0.497314453125
+Q17,"a science fiction film about space exploration, isolation and survival",1210,gte_multilingual_reranker,0.42138671875
+Q17,"a science fiction film about space exploration, isolation and survival",1214,gte_multilingual_reranker,0.4638671875
+Q17,"a science fiction film about space exploration, isolation and survival",1253,gte_multilingual_reranker,0.437744140625
+Q17,"a science fiction film about space exploration, isolation and survival",1301,gte_multilingual_reranker,0.64599609375
+Q17,"a science fiction film about space exploration, isolation and survival",1320,gte_multilingual_reranker,0.49560546875
+Q17,"a science fiction film about space exploration, isolation and survival",1373,gte_multilingual_reranker,0.486572265625
+Q17,"a science fiction film about space exploration, isolation and survival",1375,gte_multilingual_reranker,0.470703125
+Q17,"a science fiction film about space exploration, isolation and survival",1527,gte_multilingual_reranker,0.495361328125
+Q17,"a science fiction film about space exploration, isolation and survival",1590,gte_multilingual_reranker,0.3994140625
+Q17,"a science fiction film about space exploration, isolation and survival",1779,gte_multilingual_reranker,0.440185546875
+Q17,"a science fiction film about space exploration, isolation and survival",1831,gte_multilingual_reranker,0.56787109375
+Q17,"a science fiction film about space exploration, isolation and survival",1876,gte_multilingual_reranker,0.5068359375
+Q17,"a science fiction film about space exploration, isolation and survival",1909,gte_multilingual_reranker,0.390625
+Q17,"a science fiction film about space exploration, isolation and survival",1917,gte_multilingual_reranker,0.5078125
+Q17,"a science fiction film about space exploration, isolation and survival",2021,gte_multilingual_reranker,0.5244140625
+Q17,"a science fiction film about space exploration, isolation and survival",2288,gte_multilingual_reranker,0.5693359375
+Q17,"a science fiction film about space exploration, isolation and survival",2311,gte_multilingual_reranker,0.6259765625
+Q17,"a science fiction film about space exploration, isolation and survival",2529,gte_multilingual_reranker,0.5068359375
+Q17,"a science fiction film about space exploration, isolation and survival",2533,gte_multilingual_reranker,0.432861328125
+Q17,"a science fiction film about space exploration, isolation and survival",2827,gte_multilingual_reranker,0.460693359375
+Q17,"a science fiction film about space exploration, isolation and survival",3175,gte_multilingual_reranker,0.43701171875
+Q17,"a science fiction film about space exploration, isolation and survival",3300,gte_multilingual_reranker,0.5517578125
+Q17,"a science fiction film about space exploration, isolation and survival",3354,gte_multilingual_reranker,0.51123046875
+Q17,"a science fiction film about space exploration, isolation and survival",3471,gte_multilingual_reranker,0.6015625
+Q17,"a science fiction film about space exploration, isolation and survival",3503,gte_multilingual_reranker,0.45849609375
+Q17,"a science fiction film about space exploration, isolation and survival",3593,gte_multilingual_reranker,0.541015625
+Q17,"a science fiction film about space exploration, isolation and survival",3745,gte_multilingual_reranker,0.470458984375
+Q17,"a science fiction film about space exploration, isolation and survival",3826,gte_multilingual_reranker,0.459716796875
+Q17,"a science fiction film about space exploration, isolation and survival",3827,gte_multilingual_reranker,0.471923828125
+Q17,"a science fiction film about space exploration, isolation and survival",3981,gte_multilingual_reranker,0.440185546875
+Q17,"a science fiction film about space exploration, isolation and survival",4121,gte_multilingual_reranker,0.4697265625
+Q17,"a science fiction film about space exploration, isolation and survival",4343,gte_multilingual_reranker,0.427978515625
+Q17,"a science fiction film about space exploration, isolation and survival",4643,gte_multilingual_reranker,0.470703125
+Q17,"a science fiction film about space exploration, isolation and survival",5881,gte_multilingual_reranker,0.52685546875
+Q17,"a science fiction film about space exploration, isolation and survival",33004,gte_multilingual_reranker,0.48876953125
+Q17,"a science fiction film about space exploration, isolation and survival",34048,gte_multilingual_reranker,0.470703125
+Q17,"a science fiction film about space exploration, isolation and survival",34150,gte_multilingual_reranker,0.453125
+Q17,"a science fiction film about space exploration, isolation and survival",34405,gte_multilingual_reranker,0.413818359375
+Q17,"a science fiction film about space exploration, isolation and survival",52328,gte_multilingual_reranker,0.50634765625
+Q17,"a science fiction film about space exploration, isolation and survival",56174,gte_multilingual_reranker,0.473876953125
+Q17,"a science fiction film about space exploration, isolation and survival",57368,gte_multilingual_reranker,0.5
+Q17,"a science fiction film about space exploration, isolation and survival",68237,gte_multilingual_reranker,0.60546875
+Q17,"a science fiction film about space exploration, isolation and survival",84772,gte_multilingual_reranker,0.61279296875
+Q17,"a science fiction film about space exploration, isolation and survival",94864,gte_multilingual_reranker,0.443359375
+Q17,"a science fiction film about space exploration, isolation and survival",101864,gte_multilingual_reranker,0.5078125
+Q17,"a science fiction film about space exploration, isolation and survival",102445,gte_multilingual_reranker,0.52587890625
+Q17,"a science fiction film about space exploration, isolation and survival",103253,gte_multilingual_reranker,0.60791015625
+Q17,"a science fiction film about space exploration, isolation and survival",104841,gte_multilingual_reranker,0.51904296875
+Q17,"a science fiction film about space exploration, isolation and survival",109487,gte_multilingual_reranker,0.5361328125
+Q17,"a science fiction film about space exploration, isolation and survival",134130,gte_multilingual_reranker,0.744140625
+Q17,"a science fiction film about space exploration, isolation and survival",135569,gte_multilingual_reranker,0.490966796875
+Q17,"a science fiction film about space exploration, isolation and survival",164179,gte_multilingual_reranker,0.57177734375
+Q17,"a science fiction film about space exploration, isolation and survival",166528,gte_multilingual_reranker,0.3916015625
+Q18,"a coming-of-age film about school, friendship and finding your identity",39,gte_multilingual_reranker,0.5302734375
+Q18,"a coming-of-age film about school, friendship and finding your identity",218,gte_multilingual_reranker,0.464111328125
+Q18,"a coming-of-age film about school, friendship and finding your identity",239,gte_multilingual_reranker,0.53515625
+Q18,"a coming-of-age film about school, friendship and finding your identity",441,gte_multilingual_reranker,0.53759765625
+Q18,"a coming-of-age film about school, friendship and finding your identity",491,gte_multilingual_reranker,0.5791015625
+Q18,"a coming-of-age film about school, friendship and finding your identity",562,gte_multilingual_reranker,0.459228515625
+Q18,"a coming-of-age film about school, friendship and finding your identity",724,gte_multilingual_reranker,0.4521484375
+Q18,"a coming-of-age film about school, friendship and finding your identity",765,gte_multilingual_reranker,0.6005859375
+Q18,"a coming-of-age film about school, friendship and finding your identity",1103,gte_multilingual_reranker,0.482177734375
+Q18,"a coming-of-age film about school, friendship and finding your identity",1259,gte_multilingual_reranker,0.54541015625
+Q18,"a coming-of-age film about school, friendship and finding your identity",1285,gte_multilingual_reranker,0.46728515625
+Q18,"a coming-of-age film about school, friendship and finding your identity",1513,gte_multilingual_reranker,0.52783203125
+Q18,"a coming-of-age film about school, friendship and finding your identity",1614,gte_multilingual_reranker,0.4921875
+Q18,"a coming-of-age film about school, friendship and finding your identity",1895,gte_multilingual_reranker,0.54541015625
+Q18,"a coming-of-age film about school, friendship and finding your identity",1968,gte_multilingual_reranker,0.491455078125
+Q18,"a coming-of-age film about school, friendship and finding your identity",2114,gte_multilingual_reranker,0.438232421875
+Q18,"a coming-of-age film about school, friendship and finding your identity",2144,gte_multilingual_reranker,0.435302734375
+Q18,"a coming-of-age film about school, friendship and finding your identity",2146,gte_multilingual_reranker,0.6474609375
+Q18,"a coming-of-age film about school, friendship and finding your identity",2248,gte_multilingual_reranker,0.51806640625
+Q18,"a coming-of-age film about school, friendship and finding your identity",2352,gte_multilingual_reranker,0.52783203125
+Q18,"a coming-of-age film about school, friendship and finding your identity",2395,gte_multilingual_reranker,0.57421875
+Q18,"a coming-of-age film about school, friendship and finding your identity",2416,gte_multilingual_reranker,0.482666015625
+Q18,"a coming-of-age film about school, friendship and finding your identity",2447,gte_multilingual_reranker,0.459228515625
+Q18,"a coming-of-age film about school, friendship and finding your identity",2485,gte_multilingual_reranker,0.57177734375
+Q18,"a coming-of-age film about school, friendship and finding your identity",2565,gte_multilingual_reranker,0.421875
+Q18,"a coming-of-age film about school, friendship and finding your identity",2572,gte_multilingual_reranker,0.491455078125
+Q18,"a coming-of-age film about school, friendship and finding your identity",2706,gte_multilingual_reranker,0.51123046875
+Q18,"a coming-of-age film about school, friendship and finding your identity",2797,gte_multilingual_reranker,0.479248046875
+Q18,"a coming-of-age film about school, friendship and finding your identity",2908,gte_multilingual_reranker,0.417724609375
+Q18,"a coming-of-age film about school, friendship and finding your identity",2918,gte_multilingual_reranker,0.5654296875
+Q18,"a coming-of-age film about school, friendship and finding your identity",3176,gte_multilingual_reranker,0.485595703125
+Q18,"a coming-of-age film about school, friendship and finding your identity",3210,gte_multilingual_reranker,0.53759765625
+Q18,"a coming-of-age film about school, friendship and finding your identity",3359,gte_multilingual_reranker,0.56982421875
+Q18,"a coming-of-age film about school, friendship and finding your identity",3897,gte_multilingual_reranker,0.469482421875
+Q18,"a coming-of-age film about school, friendship and finding your identity",3967,gte_multilingual_reranker,0.6474609375
+Q18,"a coming-of-age film about school, friendship and finding your identity",3998,gte_multilingual_reranker,0.353759765625
+Q18,"a coming-of-age film about school, friendship and finding your identity",4019,gte_multilingual_reranker,0.61181640625
+Q18,"a coming-of-age film about school, friendship and finding your identity",4029,gte_multilingual_reranker,0.38232421875
+Q18,"a coming-of-age film about school, friendship and finding your identity",4641,gte_multilingual_reranker,0.544921875
+Q18,"a coming-of-age film about school, friendship and finding your identity",4878,gte_multilingual_reranker,0.479736328125
+Q18,"a coming-of-age film about school, friendship and finding your identity",4896,gte_multilingual_reranker,0.55322265625
+Q18,"a coming-of-age film about school, friendship and finding your identity",4974,gte_multilingual_reranker,0.5
+Q18,"a coming-of-age film about school, friendship and finding your identity",5066,gte_multilingual_reranker,0.54052734375
+Q18,"a coming-of-age film about school, friendship and finding your identity",5349,gte_multilingual_reranker,0.444091796875
+Q18,"a coming-of-age film about school, friendship and finding your identity",5377,gte_multilingual_reranker,0.490234375
+Q18,"a coming-of-age film about school, friendship and finding your identity",5577,gte_multilingual_reranker,0.4765625
+Q18,"a coming-of-age film about school, friendship and finding your identity",5669,gte_multilingual_reranker,0.42333984375
+Q18,"a coming-of-age film about school, friendship and finding your identity",6188,gte_multilingual_reranker,0.45556640625
+Q18,"a coming-of-age film about school, friendship and finding your identity",6863,gte_multilingual_reranker,0.495849609375
+Q18,"a coming-of-age film about school, friendship and finding your identity",7451,gte_multilingual_reranker,0.5634765625
+Q18,"a coming-of-age film about school, friendship and finding your identity",8366,gte_multilingual_reranker,0.52978515625
+Q18,"a coming-of-age film about school, friendship and finding your identity",8376,gte_multilingual_reranker,0.4794921875
+Q18,"a coming-of-age film about school, friendship and finding your identity",8970,gte_multilingual_reranker,0.437744140625
+Q18,"a coming-of-age film about school, friendship and finding your identity",44761,gte_multilingual_reranker,0.376220703125
+Q18,"a coming-of-age film about school, friendship and finding your identity",47518,gte_multilingual_reranker,0.529296875
+Q18,"a coming-of-age film about school, friendship and finding your identity",53519,gte_multilingual_reranker,0.343505859375
+Q18,"a coming-of-age film about school, friendship and finding your identity",54503,gte_multilingual_reranker,0.60546875
+Q18,"a coming-of-age film about school, friendship and finding your identity",76251,gte_multilingual_reranker,0.458984375
+Q18,"a coming-of-age film about school, friendship and finding your identity",80549,gte_multilingual_reranker,0.64990234375
+Q18,"a coming-of-age film about school, friendship and finding your identity",93510,gte_multilingual_reranker,0.54345703125
+Q18,"a coming-of-age film about school, friendship and finding your identity",96588,gte_multilingual_reranker,0.5888671875
+Q18,"a coming-of-age film about school, friendship and finding your identity",96821,gte_multilingual_reranker,0.6259765625
+Q18,"a coming-of-age film about school, friendship and finding your identity",112138,gte_multilingual_reranker,0.572265625
+Q18,"a coming-of-age film about school, friendship and finding your identity",112290,gte_multilingual_reranker,0.50439453125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2,gte_multilingual_reranker,0.5673828125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",405,gte_multilingual_reranker,0.445556640625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",653,gte_multilingual_reranker,0.471435546875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",919,gte_multilingual_reranker,0.5732421875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",1387,gte_multilingual_reranker,0.218505859375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",1967,gte_multilingual_reranker,0.552734375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2115,gte_multilingual_reranker,0.319580078125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2116,gte_multilingual_reranker,0.541015625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2140,gte_multilingual_reranker,0.55810546875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2143,gte_multilingual_reranker,0.59326171875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2161,gte_multilingual_reranker,0.56884765625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2193,gte_multilingual_reranker,0.48681640625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2406,gte_multilingual_reranker,0.304443359375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2643,gte_multilingual_reranker,0.353759765625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2826,gte_multilingual_reranker,0.4130859375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2872,gte_multilingual_reranker,0.4404296875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3000,gte_multilingual_reranker,0.5166015625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3175,gte_multilingual_reranker,0.3486328125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3489,gte_multilingual_reranker,0.482177734375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3740,gte_multilingual_reranker,0.55419921875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3997,gte_multilingual_reranker,0.428466796875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",4367,gte_multilingual_reranker,0.55810546875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",4896,gte_multilingual_reranker,0.54638671875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",4993,gte_multilingual_reranker,0.64013671875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",5463,gte_multilingual_reranker,0.368896484375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",5816,gte_multilingual_reranker,0.54443359375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",5952,gte_multilingual_reranker,0.5693359375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",6350,gte_multilingual_reranker,0.424072265625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",7153,gte_multilingual_reranker,0.6669921875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",8368,gte_multilingual_reranker,0.6064453125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",34150,gte_multilingual_reranker,0.5
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",36401,gte_multilingual_reranker,0.486572265625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",40815,gte_multilingual_reranker,0.51806640625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",41566,gte_multilingual_reranker,0.45361328125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",49649,gte_multilingual_reranker,0.5029296875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",54001,gte_multilingual_reranker,0.41943359375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",54259,gte_multilingual_reranker,0.47265625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",55269,gte_multilingual_reranker,0.424560546875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",56171,gte_multilingual_reranker,0.462646484375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",59501,gte_multilingual_reranker,0.58544921875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",69844,gte_multilingual_reranker,0.430419921875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",76093,gte_multilingual_reranker,0.60546875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",81834,gte_multilingual_reranker,0.64697265625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",81847,gte_multilingual_reranker,0.467041015625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",88125,gte_multilingual_reranker,0.47509765625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",95167,gte_multilingual_reranker,0.490478515625
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",98809,gte_multilingual_reranker,0.5126953125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",106489,gte_multilingual_reranker,0.5341796875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",106696,gte_multilingual_reranker,0.72412109375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",111659,gte_multilingual_reranker,0.64599609375
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",118696,gte_multilingual_reranker,0.61376953125
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",135143,gte_multilingual_reranker,0.51025390625
+Q20,"a film about music, artistic ambition and the personal cost of success",31,gte_multilingual_reranker,0.40234375
+Q20,"a film about music, artistic ambition and the personal cost of success",62,gte_multilingual_reranker,0.461669921875
+Q20,"a film about music, artistic ambition and the personal cost of success",111,gte_multilingual_reranker,0.2493896484375
+Q20,"a film about music, artistic ambition and the personal cost of success",140,gte_multilingual_reranker,0.4580078125
+Q20,"a film about music, artistic ambition and the personal cost of success",176,gte_multilingual_reranker,0.370849609375
+Q20,"a film about music, artistic ambition and the personal cost of success",235,gte_multilingual_reranker,0.30419921875
+Q20,"a film about music, artistic ambition and the personal cost of success",249,gte_multilingual_reranker,0.401611328125
+Q20,"a film about music, artistic ambition and the personal cost of success",307,gte_multilingual_reranker,0.34130859375
+Q20,"a film about music, artistic ambition and the personal cost of success",477,gte_multilingual_reranker,0.44482421875
+Q20,"a film about music, artistic ambition and the personal cost of success",900,gte_multilingual_reranker,0.4130859375
+Q20,"a film about music, artistic ambition and the personal cost of success",924,gte_multilingual_reranker,0.291748046875
+Q20,"a film about music, artistic ambition and the personal cost of success",953,gte_multilingual_reranker,0.3701171875
+Q20,"a film about music, artistic ambition and the personal cost of success",1035,gte_multilingual_reranker,0.442138671875
+Q20,"a film about music, artistic ambition and the personal cost of success",1042,gte_multilingual_reranker,0.440185546875
+Q20,"a film about music, artistic ambition and the personal cost of success",1093,gte_multilingual_reranker,0.326171875
+Q20,"a film about music, artistic ambition and the personal cost of success",1206,gte_multilingual_reranker,0.392822265625
+Q20,"a film about music, artistic ambition and the personal cost of success",1225,gte_multilingual_reranker,0.40869140625
+Q20,"a film about music, artistic ambition and the personal cost of success",1298,gte_multilingual_reranker,0.360595703125
+Q20,"a film about music, artistic ambition and the personal cost of success",1357,gte_multilingual_reranker,0.40380859375
+Q20,"a film about music, artistic ambition and the personal cost of success",1673,gte_multilingual_reranker,0.385986328125
+Q20,"a film about music, artistic ambition and the personal cost of success",1784,gte_multilingual_reranker,0.387939453125
+Q20,"a film about music, artistic ambition and the personal cost of success",1883,gte_multilingual_reranker,0.389404296875
+Q20,"a film about music, artistic ambition and the personal cost of success",1959,gte_multilingual_reranker,0.147216796875
+Q20,"a film about music, artistic ambition and the personal cost of success",2109,gte_multilingual_reranker,0.284423828125
+Q20,"a film about music, artistic ambition and the personal cost of success",2318,gte_multilingual_reranker,0.152099609375
+Q20,"a film about music, artistic ambition and the personal cost of success",2369,gte_multilingual_reranker,0.27783203125
+Q20,"a film about music, artistic ambition and the personal cost of success",2474,gte_multilingual_reranker,0.36376953125
+Q20,"a film about music, artistic ambition and the personal cost of success",2657,gte_multilingual_reranker,0.362060546875
+Q20,"a film about music, artistic ambition and the personal cost of success",2686,gte_multilingual_reranker,0.4052734375
+Q20,"a film about music, artistic ambition and the personal cost of success",2700,gte_multilingual_reranker,0.36083984375
+Q20,"a film about music, artistic ambition and the personal cost of success",2770,gte_multilingual_reranker,0.420654296875
+Q20,"a film about music, artistic ambition and the personal cost of success",2942,gte_multilingual_reranker,0.41259765625
+Q20,"a film about music, artistic ambition and the personal cost of success",2973,gte_multilingual_reranker,0.205810546875
+Q20,"a film about music, artistic ambition and the personal cost of success",3006,gte_multilingual_reranker,0.36962890625
+Q20,"a film about music, artistic ambition and the personal cost of success",3060,gte_multilingual_reranker,0.4130859375
+Q20,"a film about music, artistic ambition and the personal cost of success",3087,gte_multilingual_reranker,0.372802734375
+Q20,"a film about music, artistic ambition and the personal cost of success",3160,gte_multilingual_reranker,0.333984375
+Q20,"a film about music, artistic ambition and the personal cost of success",3477,gte_multilingual_reranker,0.403564453125
+Q20,"a film about music, artistic ambition and the personal cost of success",3481,gte_multilingual_reranker,0.356689453125
+Q20,"a film about music, artistic ambition and the personal cost of success",3825,gte_multilingual_reranker,0.441162109375
+Q20,"a film about music, artistic ambition and the personal cost of success",3897,gte_multilingual_reranker,0.39111328125
+Q20,"a film about music, artistic ambition and the personal cost of success",3910,gte_multilingual_reranker,0.455810546875
+Q20,"a film about music, artistic ambition and the personal cost of success",3949,gte_multilingual_reranker,0.33251953125
+Q20,"a film about music, artistic ambition and the personal cost of success",3967,gte_multilingual_reranker,0.417236328125
+Q20,"a film about music, artistic ambition and the personal cost of success",4017,gte_multilingual_reranker,0.45361328125
+Q20,"a film about music, artistic ambition and the personal cost of success",4022,gte_multilingual_reranker,0.279052734375
+Q20,"a film about music, artistic ambition and the personal cost of success",4308,gte_multilingual_reranker,0.397216796875
+Q20,"a film about music, artistic ambition and the personal cost of success",4448,gte_multilingual_reranker,0.20068359375
+Q20,"a film about music, artistic ambition and the personal cost of success",4642,gte_multilingual_reranker,0.36669921875
+Q20,"a film about music, artistic ambition and the personal cost of success",4995,gte_multilingual_reranker,0.309326171875
+Q20,"a film about music, artistic ambition and the personal cost of success",5669,gte_multilingual_reranker,0.246337890625
+Q20,"a film about music, artistic ambition and the personal cost of success",5810,gte_multilingual_reranker,0.450927734375
+Q20,"a film about music, artistic ambition and the personal cost of success",5995,gte_multilingual_reranker,0.396484375
+Q20,"a film about music, artistic ambition and the personal cost of success",6565,gte_multilingual_reranker,0.1611328125
+Q20,"a film about music, artistic ambition and the personal cost of success",6863,gte_multilingual_reranker,0.4443359375
+Q20,"a film about music, artistic ambition and the personal cost of success",7151,gte_multilingual_reranker,0.118408203125
+Q20,"a film about music, artistic ambition and the personal cost of success",7361,gte_multilingual_reranker,0.37353515625
+Q20,"a film about music, artistic ambition and the personal cost of success",8958,gte_multilingual_reranker,0.364990234375
+Q20,"a film about music, artistic ambition and the personal cost of success",30812,gte_multilingual_reranker,0.341064453125
+Q20,"a film about music, artistic ambition and the personal cost of success",40278,gte_multilingual_reranker,0.25732421875
+Q20,"a film about music, artistic ambition and the personal cost of success",40819,gte_multilingual_reranker,0.34619140625
+Q20,"a film about music, artistic ambition and the personal cost of success",47099,gte_multilingual_reranker,0.367431640625
+Q20,"a film about music, artistic ambition and the personal cost of success",48780,gte_multilingual_reranker,0.274658203125
+Q20,"a film about music, artistic ambition and the personal cost of success",77455,gte_multilingual_reranker,0.4072265625
+Q20,"a film about music, artistic ambition and the personal cost of success",80463,gte_multilingual_reranker,0.386474609375
+Q20,"a film about music, artistic ambition and the personal cost of success",80906,gte_multilingual_reranker,0.328857421875
+Q20,"a film about music, artistic ambition and the personal cost of success",96588,gte_multilingual_reranker,0.364501953125
+Q20,"a film about music, artistic ambition and the personal cost of success",112183,gte_multilingual_reranker,0.324462890625
+Q20,"a film about music, artistic ambition and the personal cost of success",112552,gte_multilingual_reranker,0.440673828125

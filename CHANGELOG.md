@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.5.0-dev — retrieval ablation 2k / multimodello
+
+- applicate al workspace le modifiche dei notebook 02/04 per il corpus ~2.000 film e `tmdb_title`;
+- introdotta `BASELINE_V2` come configurazione **sperimentale**, lasciando `BASELINE` v1 come default runtime;
+- aggiunti adapter sperimentali per BM25, BGE-M3 dense+sparse, Qwen3 Embedding e GTE multilingual;
+- aggiunte fusioni weighted RRF basate sui rank e non sugli score grezzi;
+- aggiunto il notebook `09_retrieval_ablation_2000_multimodel.ipynb`;
+- aggiunto relevance pooling top-20, Recall@20 e controllo appaiato IT/EN;
+- predisposta una seconda fase con reranker BGE, Qwen3 e GTE su candidate pool 10/20/30;
+- aggiunto extra `experiments` e test unitari per le nuove primitive di retrieval.
+
 ## 0.4.0 — LLM orchestration
 
 - aggiunti adapter asincroni e provider-neutral per Gemini e OpenAI;

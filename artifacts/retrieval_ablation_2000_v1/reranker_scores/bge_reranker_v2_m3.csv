@@ -1,0 +1,1350 @@
+query_id,query,movieId,reranker,reranker_score
+Q01,"a melancholic film about memory, identity and time",307,bge_reranker_v2_m3,0.03890198009779777
+Q01,"a melancholic film about memory, identity and time",805,bge_reranker_v2_m3,0.03365296431850364
+Q01,"a melancholic film about memory, identity and time",922,bge_reranker_v2_m3,0.042087727915618836
+Q01,"a melancholic film about memory, identity and time",1047,bge_reranker_v2_m3,0.05541279438176918
+Q01,"a melancholic film about memory, identity and time",1183,bge_reranker_v2_m3,0.09384395939201788
+Q01,"a melancholic film about memory, identity and time",1227,bge_reranker_v2_m3,0.06441766541349403
+Q01,"a melancholic film about memory, identity and time",1251,bge_reranker_v2_m3,0.028870906946287904
+Q01,"a melancholic film about memory, identity and time",1270,bge_reranker_v2_m3,0.11696559054638425
+Q01,"a melancholic film about memory, identity and time",1298,bge_reranker_v2_m3,0.0679166752559661
+Q01,"a melancholic film about memory, identity and time",1562,bge_reranker_v2_m3,0.19102566908851437
+Q01,"a melancholic film about memory, identity and time",1748,bge_reranker_v2_m3,0.057811609913169706
+Q01,"a melancholic film about memory, identity and time",1956,bge_reranker_v2_m3,0.04216654125124465
+Q01,"a melancholic film about memory, identity and time",1959,bge_reranker_v2_m3,0.09551807064795073
+Q01,"a melancholic film about memory, identity and time",2324,bge_reranker_v2_m3,0.03271312477469997
+Q01,"a melancholic film about memory, identity and time",2369,bge_reranker_v2_m3,0.06278920859705135
+Q01,"a melancholic film about memory, identity and time",2376,bge_reranker_v2_m3,0.05997643973716285
+Q01,"a melancholic film about memory, identity and time",2496,bge_reranker_v2_m3,0.06548521078320749
+Q01,"a melancholic film about memory, identity and time",2657,bge_reranker_v2_m3,0.06524656576181369
+Q01,"a melancholic film about memory, identity and time",2841,bge_reranker_v2_m3,0.0675466911396291
+Q01,"a melancholic film about memory, identity and time",2908,bge_reranker_v2_m3,0.026405517886081174
+Q01,"a melancholic film about memory, identity and time",2916,bge_reranker_v2_m3,0.07585818002124355
+Q01,"a melancholic film about memory, identity and time",2950,bge_reranker_v2_m3,0.1818436430556475
+Q01,"a melancholic film about memory, identity and time",2973,bge_reranker_v2_m3,0.01916070850199079
+Q01,"a melancholic film about memory, identity and time",2997,bge_reranker_v2_m3,0.0662060240416688
+Q01,"a melancholic film about memory, identity and time",3044,bge_reranker_v2_m3,0.13432105377342904
+Q01,"a melancholic film about memory, identity and time",3083,bge_reranker_v2_m3,0.019794778861558834
+Q01,"a melancholic film about memory, identity and time",3186,bge_reranker_v2_m3,0.06064055117326404
+Q01,"a melancholic film about memory, identity and time",3269,bge_reranker_v2_m3,0.05320620747238809
+Q01,"a melancholic film about memory, identity and time",3503,bge_reranker_v2_m3,0.04393653355151015
+Q01,"a melancholic film about memory, identity and time",3826,bge_reranker_v2_m3,0.057811609913169706
+Q01,"a melancholic film about memory, identity and time",4017,bge_reranker_v2_m3,0.0573875346753933
+Q01,"a melancholic film about memory, identity and time",4144,bge_reranker_v2_m3,0.0837404052456134
+Q01,"a melancholic film about memory, identity and time",4226,bge_reranker_v2_m3,0.09268777863937604
+Q01,"a melancholic film about memory, identity and time",4848,bge_reranker_v2_m3,0.09318171046137046
+Q01,"a melancholic film about memory, identity and time",4878,bge_reranker_v2_m3,0.2037075306987091
+Q01,"a melancholic film about memory, identity and time",4975,bge_reranker_v2_m3,0.06164962595497456
+Q01,"a melancholic film about memory, identity and time",4992,bge_reranker_v2_m3,0.08195954962063653
+Q01,"a melancholic film about memory, identity and time",5418,bge_reranker_v2_m3,0.07329727648874514
+Q01,"a melancholic film about memory, identity and time",5459,bge_reranker_v2_m3,0.05281402133724091
+Q01,"a melancholic film about memory, identity and time",5528,bge_reranker_v2_m3,0.02072506192038245
+Q01,"a melancholic film about memory, identity and time",5954,bge_reranker_v2_m3,0.11240508853787773
+Q01,"a melancholic film about memory, identity and time",5992,bge_reranker_v2_m3,0.06406543241738036
+Q01,"a melancholic film about memory, identity and time",6323,bge_reranker_v2_m3,0.08329192255674409
+Q01,"a melancholic film about memory, identity and time",7151,bge_reranker_v2_m3,0.07640768335044701
+Q01,"a melancholic film about memory, identity and time",7163,bge_reranker_v2_m3,0.05561761160460151
+Q01,"a melancholic film about memory, identity and time",7254,bge_reranker_v2_m3,0.06853749303199023
+Q01,"a melancholic film about memory, identity and time",7293,bge_reranker_v2_m3,0.03448852755791727
+Q01,"a melancholic film about memory, identity and time",7361,bge_reranker_v2_m3,0.2723147268443466
+Q01,"a melancholic film about memory, identity and time",8533,bge_reranker_v2_m3,0.06290424179805683
+Q01,"a melancholic film about memory, identity and time",8781,bge_reranker_v2_m3,0.06992183699783601
+Q01,"a melancholic film about memory, identity and time",8784,bge_reranker_v2_m3,0.02423763471263024
+Q01,"a melancholic film about memory, identity and time",8914,bge_reranker_v2_m3,0.04822634158813293
+Q01,"a melancholic film about memory, identity and time",34319,bge_reranker_v2_m3,0.054198729823185576
+Q01,"a melancholic film about memory, identity and time",41571,bge_reranker_v2_m3,0.03649376622902781
+Q01,"a melancholic film about memory, identity and time",45672,bge_reranker_v2_m3,0.04216654125124465
+Q01,"a melancholic film about memory, identity and time",46723,bge_reranker_v2_m3,0.03474962476718407
+Q01,"a melancholic film about memory, identity and time",49278,bge_reranker_v2_m3,0.047958103807899805
+Q01,"a melancholic film about memory, identity and time",64957,bge_reranker_v2_m3,0.12168575463704703
+Q01,"a melancholic film about memory, identity and time",65230,bge_reranker_v2_m3,0.12754391736612497
+Q01,"a melancholic film about memory, identity and time",68237,bge_reranker_v2_m3,0.0886623504473337
+Q01,"a melancholic film about memory, identity and time",81562,bge_reranker_v2_m3,0.040616777743879826
+Q01,"a melancholic film about memory, identity and time",86882,bge_reranker_v2_m3,0.07807816514495095
+Q01,"a melancholic film about memory, identity and time",90405,bge_reranker_v2_m3,0.04655127521213429
+Q01,"a melancholic film about memory, identity and time",90866,bge_reranker_v2_m3,0.09235979794788486
+Q01,"a melancholic film about memory, identity and time",97752,bge_reranker_v2_m3,0.07531230632362354
+Q01,"a melancholic film about memory, identity and time",104374,bge_reranker_v2_m3,0.10284407916229499
+Q01,"a melancholic film about memory, identity and time",110553,bge_reranker_v2_m3,0.09089675430664505
+Q01,"a melancholic film about memory, identity and time",116797,bge_reranker_v2_m3,0.050799459703689945
+Q02,"an emotional, optimistic and moving film",204,bge_reranker_v2_m3,0.027585282226789992
+Q02,"an emotional, optimistic and moving film",207,bge_reranker_v2_m3,0.05409869736882581
+Q02,"an emotional, optimistic and moving film",356,bge_reranker_v2_m3,0.21190567091756088
+Q02,"an emotional, optimistic and moving film",610,bge_reranker_v2_m3,0.01243165085318582
+Q02,"an emotional, optimistic and moving film",765,bge_reranker_v2_m3,0.08093670978361556
+Q02,"an emotional, optimistic and moving film",778,bge_reranker_v2_m3,0.056132775701229716
+Q02,"an emotional, optimistic and moving film",953,bge_reranker_v2_m3,0.057599205866579545
+Q02,"an emotional, optimistic and moving film",1015,bge_reranker_v2_m3,0.06816437426556994
+Q02,"an emotional, optimistic and moving film",1059,bge_reranker_v2_m3,0.07696083569602614
+Q02,"an emotional, optimistic and moving film",1097,bge_reranker_v2_m3,0.08509904500702024
+Q02,"an emotional, optimistic and moving film",1124,bge_reranker_v2_m3,0.09807932347046003
+Q02,"an emotional, optimistic and moving film",1136,bge_reranker_v2_m3,0.09089675430664505
+Q02,"an emotional, optimistic and moving film",1178,bge_reranker_v2_m3,0.032651378460344445
+Q02,"an emotional, optimistic and moving film",1276,bge_reranker_v2_m3,0.03963883910097002
+Q02,"an emotional, optimistic and moving film",1357,bge_reranker_v2_m3,0.01798620996209156
+Q02,"an emotional, optimistic and moving film",1513,bge_reranker_v2_m3,0.11858909657632805
+Q02,"an emotional, optimistic and moving film",1704,bge_reranker_v2_m3,0.18565173006556385
+Q02,"an emotional, optimistic and moving film",1876,bge_reranker_v2_m3,0.11240508853787773
+Q02,"an emotional, optimistic and moving film",1961,bge_reranker_v2_m3,0.06548521078320749
+Q02,"an emotional, optimistic and moving film",2065,bge_reranker_v2_m3,0.08756383952305867
+Q02,"an emotional, optimistic and moving film",2313,bge_reranker_v2_m3,0.0529118112099578
+Q02,"an emotional, optimistic and moving film",2318,bge_reranker_v2_m3,0.0499585240665846
+Q02,"an emotional, optimistic and moving film",2324,bge_reranker_v2_m3,0.08314291423453819
+Q02,"an emotional, optimistic and moving film",2539,bge_reranker_v2_m3,0.013480102975266339
+Q02,"an emotional, optimistic and moving film",2700,bge_reranker_v2_m3,0.05623634570448376
+Q02,"an emotional, optimistic and moving film",2863,bge_reranker_v2_m3,0.033085978388704126
+Q02,"an emotional, optimistic and moving film",2918,bge_reranker_v2_m3,0.13443464795120397
+Q02,"an emotional, optimistic and moving film",2966,bge_reranker_v2_m3,0.08181271217150776
+Q02,"an emotional, optimistic and moving film",2973,bge_reranker_v2_m3,0.03481519622190517
+Q02,"an emotional, optimistic and moving film",3083,bge_reranker_v2_m3,0.02630528053441999
+Q02,"an emotional, optimistic and moving film",3160,bge_reranker_v2_m3,0.036769466075598736
+Q02,"an emotional, optimistic and moving film",3269,bge_reranker_v2_m3,0.060086650174007626
+Q02,"an emotional, optimistic and moving film",3396,bge_reranker_v2_m3,0.05845324104109675
+Q02,"an emotional, optimistic and moving film",3969,bge_reranker_v2_m3,0.056444025048495376
+Q02,"an emotional, optimistic and moving film",4008,bge_reranker_v2_m3,0.05310790401616766
+Q02,"an emotional, optimistic and moving film",4022,bge_reranker_v2_m3,0.06656918897050167
+Q02,"an emotional, optimistic and moving film",4029,bge_reranker_v2_m3,0.013376603227377451
+Q02,"an emotional, optimistic and moving film",4041,bge_reranker_v2_m3,0.05845324104109675
+Q02,"an emotional, optimistic and moving film",5014,bge_reranker_v2_m3,0.0825493022640281
+Q02,"an emotional, optimistic and moving film",5015,bge_reranker_v2_m3,0.047869006476144456
+Q02,"an emotional, optimistic and moving film",5066,bge_reranker_v2_m3,0.053502149195322694
+Q02,"an emotional, optimistic and moving film",5669,bge_reranker_v2_m3,0.05541279438176918
+Q02,"an emotional, optimistic and moving film",5673,bge_reranker_v2_m3,0.05136750838696147
+Q02,"an emotional, optimistic and moving film",5690,bge_reranker_v2_m3,0.04724971350148983
+Q02,"an emotional, optimistic and moving film",6385,bge_reranker_v2_m3,0.041384718846844165
+Q02,"an emotional, optimistic and moving film",6565,bge_reranker_v2_m3,0.07807816514495095
+Q02,"an emotional, optimistic and moving film",7361,bge_reranker_v2_m3,0.09401017961657226
+Q02,"an emotional, optimistic and moving film",8784,bge_reranker_v2_m3,0.03448852755791727
+Q02,"an emotional, optimistic and moving film",30707,bge_reranker_v2_m3,0.0722430022495024
+Q02,"an emotional, optimistic and moving film",31658,bge_reranker_v2_m3,0.03978780836936238
+Q02,"an emotional, optimistic and moving film",33166,bge_reranker_v2_m3,0.039342503264258206
+Q02,"an emotional, optimistic and moving film",33660,bge_reranker_v2_m3,0.05834584061168106
+Q02,"an emotional, optimistic and moving film",34072,bge_reranker_v2_m3,0.0805019233960317
+Q02,"an emotional, optimistic and moving film",39183,bge_reranker_v2_m3,0.04046483553314982
+Q02,"an emotional, optimistic and moving film",39292,bge_reranker_v2_m3,0.04092230281647798
+Q02,"an emotional, optimistic and moving film",40278,bge_reranker_v2_m3,0.07585818002124355
+Q02,"an emotional, optimistic and moving film",46578,bge_reranker_v2_m3,0.04769128322359844
+Q02,"an emotional, optimistic and moving film",47099,bge_reranker_v2_m3,0.09186978148697045
+Q02,"an emotional, optimistic and moving film",48304,bge_reranker_v2_m3,0.04115288921744486
+Q02,"an emotional, optimistic and moving film",52328,bge_reranker_v2_m3,0.04393653355151015
+Q02,"an emotional, optimistic and moving film",54999,bge_reranker_v2_m3,0.025565213923269593
+Q02,"an emotional, optimistic and moving film",56587,bge_reranker_v2_m3,0.05899302973563795
+Q02,"an emotional, optimistic and moving film",56782,bge_reranker_v2_m3,0.052230857101425734
+Q02,"an emotional, optimistic and moving film",58047,bge_reranker_v2_m3,0.054399318044658335
+Q02,"an emotional, optimistic and moving film",61132,bge_reranker_v2_m3,0.03767939123112169
+Q02,"an emotional, optimistic and moving film",64969,bge_reranker_v2_m3,0.0549038536212843
+Q02,"an emotional, optimistic and moving film",65230,bge_reranker_v2_m3,0.07807816514495095
+Q02,"an emotional, optimistic and moving film",68954,bge_reranker_v2_m3,0.08787643811186902
+Q02,"an emotional, optimistic and moving film",72011,bge_reranker_v2_m3,0.06041841989614358
+Q02,"an emotional, optimistic and moving film",72641,bge_reranker_v2_m3,0.07490527135477446
+Q02,"an emotional, optimistic and moving film",80906,bge_reranker_v2_m3,0.029201290245781282
+Q02,"an emotional, optimistic and moving film",88405,bge_reranker_v2_m3,0.021246698019321414
+Q02,"an emotional, optimistic and moving film",88810,bge_reranker_v2_m3,0.1001722186259225
+Q02,"an emotional, optimistic and moving film",89864,bge_reranker_v2_m3,0.03561141336294632
+Q02,"an emotional, optimistic and moving film",92259,bge_reranker_v2_m3,0.01865352173176137
+Q02,"an emotional, optimistic and moving film",96821,bge_reranker_v2_m3,0.04200905542895354
+Q02,"an emotional, optimistic and moving film",97921,bge_reranker_v2_m3,0.06584470058431105
+Q02,"an emotional, optimistic and moving film",106918,bge_reranker_v2_m3,0.05986641857192516
+Q02,"an emotional, optimistic and moving film",112552,bge_reranker_v2_m3,0.040313437834832884
+Q02,"an emotional, optimistic and moving film",134853,bge_reranker_v2_m3,0.058560826873748875
+Q03,"a dystopian film about surveillance, social control and individual freedom",1,bge_reranker_v2_m3,0.04001226888816327
+Q03,"a dystopian film about surveillance, social control and individual freedom",16,bge_reranker_v2_m3,0.02838212289990485
+Q03,"a dystopian film about surveillance, social control and individual freedom",150,bge_reranker_v2_m3,0.04769128322359844
+Q03,"a dystopian film about surveillance, social control and individual freedom",223,bge_reranker_v2_m3,0.009670992763446974
+Q03,"a dystopian film about surveillance, social control and individual freedom",231,bge_reranker_v2_m3,0.02630528053441999
+Q03,"a dystopian film about surveillance, social control and individual freedom",333,bge_reranker_v2_m3,0.008124708778180903
+Q03,"a dystopian film about surveillance, social control and individual freedom",356,bge_reranker_v2_m3,0.07835980852418191
+Q03,"a dystopian film about surveillance, social control and individual freedom",376,bge_reranker_v2_m3,0.02936785418122852
+Q03,"a dystopian film about surveillance, social control and individual freedom",383,bge_reranker_v2_m3,0.048676572031706056
+Q03,"a dystopian film about surveillance, social control and individual freedom",455,bge_reranker_v2_m3,0.03333682414270177
+Q03,"a dystopian film about surveillance, social control and individual freedom",466,bge_reranker_v2_m3,0.017110889211844043
+Q03,"a dystopian film about surveillance, social control and individual freedom",508,bge_reranker_v2_m3,0.014842417234248268
+Q03,"a dystopian film about surveillance, social control and individual freedom",553,bge_reranker_v2_m3,0.04689925817986902
+Q03,"a dystopian film about surveillance, social control and individual freedom",590,bge_reranker_v2_m3,0.030100337240429473
+Q03,"a dystopian film about surveillance, social control and individual freedom",785,bge_reranker_v2_m3,0.022201228903055727
+Q03,"a dystopian film about surveillance, social control and individual freedom",923,bge_reranker_v2_m3,0.09602548878779378
+Q03,"a dystopian film about surveillance, social control and individual freedom",1042,bge_reranker_v2_m3,0.030675801710674105
+Q03,"a dystopian film about surveillance, social control and individual freedom",1120,bge_reranker_v2_m3,0.024516335827191236
+Q03,"a dystopian film about surveillance, social control and individual freedom",1251,bge_reranker_v2_m3,0.020884215894006432
+Q03,"a dystopian film about surveillance, social control and individual freedom",1253,bge_reranker_v2_m3,0.033462934651990704
+Q03,"a dystopian film about surveillance, social control and individual freedom",1283,bge_reranker_v2_m3,0.030214587067393973
+Q03,"a dystopian film about surveillance, social control and individual freedom",1619,bge_reranker_v2_m3,0.02541965238092861
+Q03,"a dystopian film about surveillance, social control and individual freedom",1704,bge_reranker_v2_m3,0.07626996618067049
+Q03,"a dystopian film about surveillance, social control and individual freedom",1732,bge_reranker_v2_m3,0.05213425646829601
+Q03,"a dystopian film about surveillance, social control and individual freedom",1747,bge_reranker_v2_m3,0.0073743653082378275
+Q03,"a dystopian film about surveillance, social control and individual freedom",2028,bge_reranker_v2_m3,0.056966382144208905
+Q03,"a dystopian film about surveillance, social control and individual freedom",2072,bge_reranker_v2_m3,0.016340128093601535
+Q03,"a dystopian film about surveillance, social control and individual freedom",2100,bge_reranker_v2_m3,0.013848610215564574
+Q03,"a dystopian film about surveillance, social control and individual freedom",2313,bge_reranker_v2_m3,0.03085050897203675
+Q03,"a dystopian film about surveillance, social control and individual freedom",2375,bge_reranker_v2_m3,0.033273941086340214
+Q03,"a dystopian film about surveillance, social control and individual freedom",2398,bge_reranker_v2_m3,0.02355433157794505
+Q03,"a dystopian film about surveillance, social control and individual freedom",2501,bge_reranker_v2_m3,0.020884215894006432
+Q03,"a dystopian film about surveillance, social control and individual freedom",2505,bge_reranker_v2_m3,0.0751764027608316
+Q03,"a dystopian film about surveillance, social control and individual freedom",2598,bge_reranker_v2_m3,0.008061991528271641
+Q03,"a dystopian film about surveillance, social control and individual freedom",2701,bge_reranker_v2_m3,0.033462934651990704
+Q03,"a dystopian film about surveillance, social control and individual freedom",2770,bge_reranker_v2_m3,0.021084841136897813
+Q03,"a dystopian film about surveillance, social control and individual freedom",2792,bge_reranker_v2_m3,0.017780390073110934
+Q03,"a dystopian film about surveillance, social control and individual freedom",2797,bge_reranker_v2_m3,0.023870834952430912
+Q03,"a dystopian film about surveillance, social control and individual freedom",2973,bge_reranker_v2_m3,0.011419614645648403
+Q03,"a dystopian film about surveillance, social control and individual freedom",3037,bge_reranker_v2_m3,0.0187251624683022
+Q03,"a dystopian film about surveillance, social control and individual freedom",3147,bge_reranker_v2_m3,0.035211136421575806
+Q03,"a dystopian film about surveillance, social control and individual freedom",3252,bge_reranker_v2_m3,0.024053552894426174
+Q03,"a dystopian film about surveillance, social control and individual freedom",3255,bge_reranker_v2_m3,0.027901376209556707
+Q03,"a dystopian film about surveillance, social control and individual freedom",3388,bge_reranker_v2_m3,0.026255300789352832
+Q03,"a dystopian film about surveillance, social control and individual freedom",3751,bge_reranker_v2_m3,0.018369638109289186
+Q03,"a dystopian film about surveillance, social control and individual freedom",3827,bge_reranker_v2_m3,0.03846619201832429
+Q03,"a dystopian film about surveillance, social control and individual freedom",3836,bge_reranker_v2_m3,0.018055334973499374
+Q03,"a dystopian film about surveillance, social control and individual freedom",4002,bge_reranker_v2_m3,0.011463797377996033
+Q03,"a dystopian film about surveillance, social control and individual freedom",4022,bge_reranker_v2_m3,0.03890198009779777
+Q03,"a dystopian film about surveillance, social control and individual freedom",4677,bge_reranker_v2_m3,0.018440209049289533
+Q03,"a dystopian film about surveillance, social control and individual freedom",5060,bge_reranker_v2_m3,0.01020905431880827
+Q03,"a dystopian film about surveillance, social control and individual freedom",5464,bge_reranker_v2_m3,0.03554439752641486
+Q03,"a dystopian film about surveillance, social control and individual freedom",5669,bge_reranker_v2_m3,0.024469669638716426
+Q03,"a dystopian film about surveillance, social control and individual freedom",5785,bge_reranker_v2_m3,0.022977369910025615
+Q03,"a dystopian film about surveillance, social control and individual freedom",5903,bge_reranker_v2_m3,0.08225394475770913
+Q03,"a dystopian film about surveillance, social control and individual freedom",5989,bge_reranker_v2_m3,0.02153287714620796
+Q03,"a dystopian film about surveillance, social control and individual freedom",6565,bge_reranker_v2_m3,0.04646466395017124
+Q03,"a dystopian film about surveillance, social control and individual freedom",7367,bge_reranker_v2_m3,0.019271137919768803
+Q03,"a dystopian film about surveillance, social control and individual freedom",8529,bge_reranker_v2_m3,0.028816196803253383
+Q03,"a dystopian film about surveillance, social control and individual freedom",34520,bge_reranker_v2_m3,0.03289904134796495
+Q03,"a dystopian film about surveillance, social control and individual freedom",44555,bge_reranker_v2_m3,0.03507867664288415
+Q03,"a dystopian film about surveillance, social control and individual freedom",47997,bge_reranker_v2_m3,0.0656048374590693
+Q03,"a dystopian film about surveillance, social control and individual freedom",48783,bge_reranker_v2_m3,0.02333076880848049
+Q03,"a dystopian film about surveillance, social control and individual freedom",55247,bge_reranker_v2_m3,0.045948207349174146
+Q03,"a dystopian film about surveillance, social control and individual freedom",56587,bge_reranker_v2_m3,0.019382191201735868
+Q03,"a dystopian film about surveillance, social control and individual freedom",59022,bge_reranker_v2_m3,0.019419348182448604
+Q03,"a dystopian film about surveillance, social control and individual freedom",60074,bge_reranker_v2_m3,0.032344332381157095
+Q03,"a dystopian film about surveillance, social control and individual freedom",68554,bge_reranker_v2_m3,0.01697999223731832
+Q03,"a dystopian film about surveillance, social control and individual freedom",97752,bge_reranker_v2_m3,0.11696559054638425
+Q03,"a dystopian film about surveillance, social control and individual freedom",104211,bge_reranker_v2_m3,0.011029470022501837
+Q03,"a dystopian film about surveillance, social control and individual freedom",105504,bge_reranker_v2_m3,0.03904829272622639
+Q03,"a dystopian film about surveillance, social control and individual freedom",106100,bge_reranker_v2_m3,0.0210043657325086
+Q03,"a dystopian film about surveillance, social control and individual freedom",107406,bge_reranker_v2_m3,0.053998838999525255
+Q03,"a dystopian film about surveillance, social control and individual freedom",111743,bge_reranker_v2_m3,0.024609928625961945
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",198,bge_reranker_v2_m3,0.017176709012318405
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",215,bge_reranker_v2_m3,0.009232214404536284
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",533,bge_reranker_v2_m3,0.040845715909949315
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",541,bge_reranker_v2_m3,0.04099902718739302
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",924,bge_reranker_v2_m3,0.046205749035319515
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",926,bge_reranker_v2_m3,0.03494669711152705
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",930,bge_reranker_v2_m3,0.017712298703411445
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",953,bge_reranker_v2_m3,0.03314851840247966
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1015,bge_reranker_v2_m3,0.0544998743411987
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1100,bge_reranker_v2_m3,0.1500288243424251
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1127,bge_reranker_v2_m3,0.03271312477469997
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1248,bge_reranker_v2_m3,0.014063627043245475
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1251,bge_reranker_v2_m3,0.012821214266594244
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1584,bge_reranker_v2_m3,0.023870834952430912
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1587,bge_reranker_v2_m3,0.09501305198790384
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1590,bge_reranker_v2_m3,0.06086344622489191
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1722,bge_reranker_v2_m3,0.041384718846844165
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1726,bge_reranker_v2_m3,0.05910154671075201
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1912,bge_reranker_v2_m3,0.01744248473620534
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",1917,bge_reranker_v2_m3,0.0499585240665846
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2288,bge_reranker_v2_m3,0.01697999223731832
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2311,bge_reranker_v2_m3,0.01744248473620534
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2369,bge_reranker_v2_m3,0.0276377218735812
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2454,bge_reranker_v2_m3,0.012336100420869753
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2455,bge_reranker_v2_m3,0.019493871727031764
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2671,bge_reranker_v2_m3,0.006771209930611186
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2672,bge_reranker_v2_m3,0.01554364793077063
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2686,bge_reranker_v2_m3,0.008187909901696233
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2719,bge_reranker_v2_m3,0.022414216463636873
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2916,bge_reranker_v2_m3,0.033716538692887876
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2973,bge_reranker_v2_m3,0.011158031248084035
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3269,bge_reranker_v2_m3,0.04535258055430642
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3503,bge_reranker_v2_m3,0.010013570623173138
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3751,bge_reranker_v2_m3,0.03185885568604045
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3826,bge_reranker_v2_m3,0.02722090240982675
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3863,bge_reranker_v2_m3,0.01317194988155645
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",3986,bge_reranker_v2_m3,0.02194825371486785
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4022,bge_reranker_v2_m3,0.04501553160023231
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4226,bge_reranker_v2_m3,0.017110889211844043
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4848,bge_reranker_v2_m3,0.015784561073809773
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4974,bge_reranker_v2_m3,0.09602548878779378
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4975,bge_reranker_v2_m3,0.0217811713314998
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",4995,bge_reranker_v2_m3,0.04312337071537061
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5135,bge_reranker_v2_m3,0.007846239292520898
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5378,bge_reranker_v2_m3,0.034423549412649974
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5388,bge_reranker_v2_m3,0.01646617504750254
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5669,bge_reranker_v2_m3,0.013325147705881427
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",5881,bge_reranker_v2_m3,0.01554364793077063
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",6373,bge_reranker_v2_m3,0.06681232582952595
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",7151,bge_reranker_v2_m3,0.027428542704283878
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",7361,bge_reranker_v2_m3,0.036769466075598736
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",8376,bge_reranker_v2_m3,0.06453547659922156
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",8528,bge_reranker_v2_m3,0.22524614987399516
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",27660,bge_reranker_v2_m3,0.01317194988155645
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",33794,bge_reranker_v2_m3,0.07055959618729296
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",34319,bge_reranker_v2_m3,0.033211172570690284
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",45672,bge_reranker_v2_m3,0.012194133037590526
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",48774,bge_reranker_v2_m3,0.02076473876293561
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",48780,bge_reranker_v2_m3,0.013795364421185227
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",53464,bge_reranker_v2_m3,0.06804042027255897
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",53993,bge_reranker_v2_m3,0.023153411092838465
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",57368,bge_reranker_v2_m3,0.014559518620319444
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",58559,bge_reranker_v2_m3,0.09073548763985105
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",60040,bge_reranker_v2_m3,0.07531230632362354
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",68554,bge_reranker_v2_m3,0.012336100420869753
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",79132,bge_reranker_v2_m3,0.07850097854158133
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",85414,bge_reranker_v2_m3,0.03690806619720511
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",86190,bge_reranker_v2_m3,0.033907958004827626
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",86332,bge_reranker_v2_m3,0.12732673857393992
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",91529,bge_reranker_v2_m3,0.08494710334281272
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",97752,bge_reranker_v2_m3,0.08464395813578095
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",98243,bge_reranker_v2_m3,0.060197050160538924
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",98961,bge_reranker_v2_m3,0.02527489813024264
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",102125,bge_reranker_v2_m3,0.026355352846119753
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",102445,bge_reranker_v2_m3,0.047958103807899805
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",104841,bge_reranker_v2_m3,0.011687257995694434
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",104913,bge_reranker_v2_m3,0.011419614645648403
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",106072,bge_reranker_v2_m3,0.08756383952305867
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",109487,bge_reranker_v2_m3,0.020488554684743848
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",116797,bge_reranker_v2_m3,0.026759283185443145
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",122886,bge_reranker_v2_m3,0.08035746882220708
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",164179,bge_reranker_v2_m3,0.013584392513059032
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",166528,bge_reranker_v2_m3,0.06465348835622392
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",174055,bge_reranker_v2_m3,0.03782128658136544
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",176371,bge_reranker_v2_m3,0.04312337071537061
+Q05,a film belonging to a famous saga or collection,58,bge_reranker_v2_m3,0.010693757736175494
+Q05,a film belonging to a famous saga or collection,110,bge_reranker_v2_m3,0.156620183363451
+Q05,a film belonging to a famous saga or collection,235,bge_reranker_v2_m3,0.009090383313658499
+Q05,a film belonging to a famous saga or collection,260,bge_reranker_v2_m3,0.24725966834322632
+Q05,a film belonging to a famous saga or collection,266,bge_reranker_v2_m3,0.07723878631706028
+Q05,a film belonging to a famous saga or collection,307,bge_reranker_v2_m3,0.02681019589956736
+Q05,a film belonging to a famous saga or collection,314,bge_reranker_v2_m3,0.025711587009830988
+Q05,a film belonging to a famous saga or collection,405,bge_reranker_v2_m3,0.08756383952305867
+Q05,a film belonging to a famous saga or collection,529,bge_reranker_v2_m3,0.019719128107346592
+Q05,a film belonging to a famous saga or collection,595,bge_reranker_v2_m3,0.3142609570123732
+Q05,a film belonging to a famous saga or collection,653,bge_reranker_v2_m3,0.1732882059293266
+Q05,a film belonging to a famous saga or collection,900,bge_reranker_v2_m3,0.00881316650304586
+Q05,a film belonging to a famous saga or collection,930,bge_reranker_v2_m3,0.033273941086340214
+Q05,a film belonging to a famous saga or collection,953,bge_reranker_v2_m3,0.017780390073110934
+Q05,a film belonging to a famous saga or collection,1059,bge_reranker_v2_m3,0.07276837992771636
+Q05,a film belonging to a famous saga or collection,1136,bge_reranker_v2_m3,0.07250525242471809
+Q05,a film belonging to a famous saga or collection,1196,bge_reranker_v2_m3,0.3188031832624884
+Q05,a film belonging to a famous saga or collection,1197,bge_reranker_v2_m3,0.06075190308755833
+Q05,a film belonging to a famous saga or collection,1198,bge_reranker_v2_m3,0.21667379410865023
+Q05,a film belonging to a famous saga or collection,1272,bge_reranker_v2_m3,0.10374862686637973
+Q05,a film belonging to a famous saga or collection,1275,bge_reranker_v2_m3,0.058131594864695615
+Q05,a film belonging to a famous saga or collection,1287,bge_reranker_v2_m3,0.04023794262361602
+Q05,a film belonging to a famous saga or collection,1348,bge_reranker_v2_m3,0.03541073007632382
+Q05,a film belonging to a famous saga or collection,1387,bge_reranker_v2_m3,0.31658051502379086
+Q05,a film belonging to a famous saga or collection,1688,bge_reranker_v2_m3,0.12262824270646298
+Q05,a film belonging to a famous saga or collection,1959,bge_reranker_v2_m3,0.009161026922093826
+Q05,a film belonging to a famous saga or collection,2115,bge_reranker_v2_m3,0.27659282054818163
+Q05,a film belonging to a famous saga or collection,2116,bge_reranker_v2_m3,0.26664362336185243
+Q05,a film belonging to a famous saga or collection,2143,bge_reranker_v2_m3,0.03289904134796495
+Q05,a film belonging to a famous saga or collection,2161,bge_reranker_v2_m3,0.08389038641057993
+Q05,a film belonging to a famous saga or collection,2186,bge_reranker_v2_m3,0.03378022896841
+Q05,a film belonging to a famous saga or collection,2325,bge_reranker_v2_m3,0.006168994922681432
+Q05,a film belonging to a famous saga or collection,2628,bge_reranker_v2_m3,0.12054230544225221
+Q05,a film belonging to a famous saga or collection,2671,bge_reranker_v2_m3,0.005021149947632315
+Q05,a film belonging to a famous saga or collection,2826,bge_reranker_v2_m3,0.08344117362711122
+Q05,a film belonging to a famous saga or collection,2872,bge_reranker_v2_m3,0.07290027342462209
+Q05,a film belonging to a famous saga or collection,3160,bge_reranker_v2_m3,0.010570488620307572
+Q05,a film belonging to a famous saga or collection,3260,bge_reranker_v2_m3,0.020645930739218447
+Q05,a film belonging to a famous saga or collection,3671,bge_reranker_v2_m3,0.020449394548602298
+Q05,a film belonging to a famous saga or collection,3996,bge_reranker_v2_m3,0.18330105547281286
+Q05,a film belonging to a famous saga or collection,3997,bge_reranker_v2_m3,0.24113181204224512
+Q05,a film belonging to a famous saga or collection,4327,bge_reranker_v2_m3,0.1602660323277607
+Q05,a film belonging to a famous saga or collection,4993,bge_reranker_v2_m3,0.40427223019366065
+Q05,a film belonging to a famous saga or collection,5013,bge_reranker_v2_m3,0.006438102555483281
+Q05,a film belonging to a famous saga or collection,5064,bge_reranker_v2_m3,0.06992183699783601
+Q05,a film belonging to a famous saga or collection,5066,bge_reranker_v2_m3,0.034423549412649974
+Q05,a film belonging to a famous saga or collection,5313,bge_reranker_v2_m3,0.1285251389364931
+Q05,a film belonging to a famous saga or collection,5669,bge_reranker_v2_m3,0.007176881945656949
+Q05,a film belonging to a famous saga or collection,5816,bge_reranker_v2_m3,0.4551077881041586
+Q05,a film belonging to a famous saga or collection,5952,bge_reranker_v2_m3,0.4424256963155534
+Q05,a film belonging to a famous saga or collection,6541,bge_reranker_v2_m3,0.018761083978128455
+Q05,a film belonging to a famous saga or collection,7147,bge_reranker_v2_m3,0.041617797774438206
+Q05,a film belonging to a famous saga or collection,7151,bge_reranker_v2_m3,0.04655127521213429
+Q05,a film belonging to a famous saga or collection,7153,bge_reranker_v2_m3,0.4146617973581297
+Q05,a film belonging to a famous saga or collection,7458,bge_reranker_v2_m3,0.06954174450582809
+Q05,a film belonging to a famous saga or collection,8368,bge_reranker_v2_m3,0.3610520692965356
+Q05,a film belonging to a famous saga or collection,8640,bge_reranker_v2_m3,0.07572137207533139
+Q05,a film belonging to a famous saga or collection,33493,bge_reranker_v2_m3,0.11992252200191787
+Q05,a film belonging to a famous saga or collection,36401,bge_reranker_v2_m3,0.09602548878779378
+Q05,a film belonging to a famous saga or collection,40278,bge_reranker_v2_m3,0.11716746932535989
+Q05,a film belonging to a famous saga or collection,41566,bge_reranker_v2_m3,0.23057307839092478
+Q05,a film belonging to a famous saga or collection,44555,bge_reranker_v2_m3,0.0036642203307843528
+Q05,a film belonging to a famous saga or collection,45447,bge_reranker_v2_m3,0.15354917288301603
+Q05,a film belonging to a famous saga or collection,49649,bge_reranker_v2_m3,0.1030244283262171
+Q05,a film belonging to a famous saga or collection,51662,bge_reranker_v2_m3,0.033273941086340214
+Q05,a film belonging to a famous saga or collection,58293,bge_reranker_v2_m3,0.007260866498285616
+Q05,a film belonging to a famous saga or collection,59501,bge_reranker_v2_m3,0.235284052258966
+Q05,a film belonging to a famous saga or collection,63113,bge_reranker_v2_m3,0.1789558876900955
+Q05,a film belonging to a famous saga or collection,64614,bge_reranker_v2_m3,0.03210070671700818
+Q05,a film belonging to a famous saga or collection,65230,bge_reranker_v2_m3,0.1834472938323525
+Q05,a film belonging to a famous saga or collection,67255,bge_reranker_v2_m3,0.05899302973563795
+Q05,a film belonging to a famous saga or collection,76175,bge_reranker_v2_m3,0.19620941280870197
+Q05,a film belonging to a famous saga or collection,78105,bge_reranker_v2_m3,0.06325052199347325
+Q05,a film belonging to a famous saga or collection,86332,bge_reranker_v2_m3,0.20513692444762338
+Q05,a film belonging to a famous saga or collection,96079,bge_reranker_v2_m3,0.16708272026322207
+Q05,a film belonging to a famous saga or collection,98809,bge_reranker_v2_m3,0.4238753137960776
+Q05,a film belonging to a famous saga or collection,106489,bge_reranker_v2_m3,0.41739021363984224
+Q05,a film belonging to a famous saga or collection,109374,bge_reranker_v2_m3,0.02630528053441999
+Q05,a film belonging to a famous saga or collection,111659,bge_reranker_v2_m3,0.2365162364457076
+Q05,a film belonging to a famous saga or collection,115713,bge_reranker_v2_m3,0.010448625445116806
+Q05,a film belonging to a famous saga or collection,118696,bge_reranker_v2_m3,0.5059468326017701
+Q05,a film belonging to a famous saga or collection,122886,bge_reranker_v2_m3,0.28716772788359296
+Q05,a film belonging to a famous saga or collection,135143,bge_reranker_v2_m3,0.2632204423196186
+Q06,a reflective science fiction film under two hours,76,bge_reranker_v2_m3,0.0706877914430165
+Q06,a reflective science fiction film under two hours,172,bge_reranker_v2_m3,0.09285216083166364
+Q06,a reflective science fiction film under two hours,327,bge_reranker_v2_m3,0.03919513320329816
+Q06,a reflective science fiction film under two hours,379,bge_reranker_v2_m3,0.029145972818990035
+Q06,a reflective science fiction film under two hours,541,bge_reranker_v2_m3,0.08586245629955466
+Q06,a reflective science fiction film under two hours,610,bge_reranker_v2_m3,0.014337030424010801
+Q06,a reflective science fiction film under two hours,671,bge_reranker_v2_m3,0.02722090240982675
+Q06,a reflective science fiction film under two hours,836,bge_reranker_v2_m3,0.05232762684639322
+Q06,a reflective science fiction film under two hours,1037,bge_reranker_v2_m3,0.0837404052456134
+Q06,a reflective science fiction film under two hours,1129,bge_reranker_v2_m3,0.04672495862609241
+Q06,a reflective science fiction film under two hours,1214,bge_reranker_v2_m3,0.0596469429451214
+Q06,a reflective science fiction film under two hours,1253,bge_reranker_v2_m3,0.06453547659922156
+Q06,a reflective science fiction film under two hours,1320,bge_reranker_v2_m3,0.046378205994811086
+Q06,a reflective science fiction film under two hours,1590,bge_reranker_v2_m3,0.09947021388210706
+Q06,a reflective science fiction film under two hours,1653,bge_reranker_v2_m3,0.08079154357007134
+Q06,a reflective science fiction film under two hours,1690,bge_reranker_v2_m3,0.07490527135477446
+Q06,a reflective science fiction film under two hours,1748,bge_reranker_v2_m3,0.052230857101425734
+Q06,a reflective science fiction film under two hours,1921,bge_reranker_v2_m3,0.03185885568604045
+Q06,a reflective science fiction film under two hours,2011,bge_reranker_v2_m3,0.03474962476718407
+Q06,a reflective science fiction film under two hours,2046,bge_reranker_v2_m3,0.0675466911396291
+Q06,a reflective science fiction film under two hours,2134,bge_reranker_v2_m3,0.03155901917057399
+Q06,a reflective science fiction film under two hours,2454,bge_reranker_v2_m3,0.0825493022640281
+Q06,a reflective science fiction film under two hours,2455,bge_reranker_v2_m3,0.06742377910460126
+Q06,a reflective science fiction film under two hours,2527,bge_reranker_v2_m3,0.045692032381584625
+Q06,a reflective science fiction film under two hours,2532,bge_reranker_v2_m3,0.11436852618181248
+Q06,a reflective science fiction film under two hours,2657,bge_reranker_v2_m3,0.03155901917057399
+Q06,a reflective science fiction film under two hours,2672,bge_reranker_v2_m3,0.039564555132237354
+Q06,a reflective science fiction film under two hours,2808,bge_reranker_v2_m3,0.08787643811186902
+Q06,a reflective science fiction film under two hours,2916,bge_reranker_v2_m3,0.08122775599781698
+Q06,a reflective science fiction film under two hours,3300,bge_reranker_v2_m3,0.06097518086496481
+Q06,a reflective science fiction film under two hours,3699,bge_reranker_v2_m3,0.17370831302403128
+Q06,a reflective science fiction film under two hours,3826,bge_reranker_v2_m3,0.08834722695778002
+Q06,a reflective science fiction film under two hours,4015,bge_reranker_v2_m3,0.02006180244042778
+Q06,a reflective science fiction film under two hours,4121,bge_reranker_v2_m3,0.028816196803253383
+Q06,a reflective science fiction film under two hours,4446,bge_reranker_v2_m3,0.08151975597471893
+Q06,a reflective science fiction film under two hours,4878,bge_reranker_v2_m3,0.02992974702544123
+Q06,a reflective science fiction film under two hours,5171,bge_reranker_v2_m3,0.08419108099457717
+Q06,a reflective science fiction film under two hours,5219,bge_reranker_v2_m3,0.050051306118557334
+Q06,a reflective science fiction film under two hours,5881,bge_reranker_v2_m3,0.0436095275656257
+Q06,a reflective science fiction film under two hours,6537,bge_reranker_v2_m3,0.11736965022765812
+Q06,a reflective science fiction film under two hours,6659,bge_reranker_v2_m3,0.027428542704283878
+Q06,a reflective science fiction film under two hours,7163,bge_reranker_v2_m3,0.058131594864695615
+Q06,a reflective science fiction film under two hours,7254,bge_reranker_v2_m3,0.0787840167568374
+Q06,a reflective science fiction film under two hours,7361,bge_reranker_v2_m3,0.09790668605808908
+Q06,a reflective science fiction film under two hours,8644,bge_reranker_v2_m3,0.04526809364320459
+Q06,a reflective science fiction film under two hours,8861,bge_reranker_v2_m3,0.048857778622174906
+Q06,a reflective science fiction film under two hours,27660,bge_reranker_v2_m3,0.010860331013277533
+Q06,a reflective science fiction film under two hours,27904,bge_reranker_v2_m3,0.03897507053921153
+Q06,a reflective science fiction film under two hours,33004,bge_reranker_v2_m3,0.09401017961657226
+Q06,a reflective science fiction film under two hours,34048,bge_reranker_v2_m3,0.053799643460064
+Q06,a reflective science fiction film under two hours,37386,bge_reranker_v2_m3,0.08079154357007134
+Q06,a reflective science fiction film under two hours,43928,bge_reranker_v2_m3,0.08787643811186902
+Q06,a reflective science fiction film under two hours,47997,bge_reranker_v2_m3,0.03541073007632382
+Q06,a reflective science fiction film under two hours,48774,bge_reranker_v2_m3,0.05500528829345414
+Q06,a reflective science fiction film under two hours,51412,bge_reranker_v2_m3,0.05470151263137117
+Q06,a reflective science fiction film under two hours,52328,bge_reranker_v2_m3,0.08284562460179114
+Q06,a reflective science fiction film under two hours,57368,bge_reranker_v2_m3,0.017509557349574698
+Q06,a reflective science fiction film under two hours,60069,bge_reranker_v2_m3,0.14282864911055923
+Q06,a reflective science fiction film under two hours,68237,bge_reranker_v2_m3,0.052618953347713764
+Q06,a reflective science fiction film under two hours,70286,bge_reranker_v2_m3,0.0840406115573681
+Q06,a reflective science fiction film under two hours,71057,bge_reranker_v2_m3,0.05429893662693447
+Q06,a reflective science fiction film under two hours,71530,bge_reranker_v2_m3,0.05602938511788175
+Q06,a reflective science fiction film under two hours,85414,bge_reranker_v2_m3,0.05242456596260684
+Q06,a reflective science fiction film under two hours,87306,bge_reranker_v2_m3,0.03488088693667929
+Q06,a reflective science fiction film under two hours,90405,bge_reranker_v2_m3,0.06336634320336171
+Q06,a reflective science fiction film under two hours,103253,bge_reranker_v2_m3,0.09877258875237437
+Q06,a reflective science fiction film under two hours,104841,bge_reranker_v2_m3,0.23178806916340616
+Q06,a reflective science fiction film under two hours,111360,bge_reranker_v2_m3,0.05728197321925716
+Q06,a reflective science fiction film under two hours,111759,bge_reranker_v2_m3,0.11516222873143662
+Q06,a reflective science fiction film under two hours,122922,bge_reranker_v2_m3,0.049681154690907205
+Q06,a reflective science fiction film under two hours,164179,bge_reranker_v2_m3,0.06052939020253899
+Q07,a tense film that is not horror,9,bge_reranker_v2_m3,0.027117656009307572
+Q07,a tense film that is not horror,24,bge_reranker_v2_m3,0.07303238715077966
+Q07,a tense film that is not horror,79,bge_reranker_v2_m3,0.04418332190240695
+Q07,a tense film that is not horror,81,bge_reranker_v2_m3,0.04698663961763089
+Q07,a tense film that is not horror,172,bge_reranker_v2_m3,0.09739039825194779
+Q07,a tense film that is not horror,198,bge_reranker_v2_m3,0.05146276543260744
+Q07,a tense film that is not horror,319,bge_reranker_v2_m3,0.14915918827525723
+Q07,a tense film that is not horror,377,bge_reranker_v2_m3,0.041075889246390745
+Q07,a tense film that is not horror,380,bge_reranker_v2_m3,0.06878728913128046
+Q07,a tense film that is not horror,490,bge_reranker_v2_m3,0.02849004258632246
+Q07,a tense film that is not horror,493,bge_reranker_v2_m3,0.02104456579396102
+Q07,a tense film that is not horror,540,bge_reranker_v2_m3,0.03210070671700818
+Q07,a tense film that is not horror,608,bge_reranker_v2_m3,0.04153996561206154
+Q07,a tense film that is not horror,628,bge_reranker_v2_m3,0.0418521320924613
+Q07,a tense film that is not horror,736,bge_reranker_v2_m3,0.08284562460179114
+Q07,a tense film that is not horror,798,bge_reranker_v2_m3,0.05089371986183379
+Q07,a tense film that is not horror,903,bge_reranker_v2_m3,0.052618953347713764
+Q07,a tense film that is not horror,904,bge_reranker_v2_m3,0.04769128322359844
+Q07,a tense film that is not horror,953,bge_reranker_v2_m3,0.08122775599781698
+Q07,a tense film that is not horror,1036,bge_reranker_v2_m3,0.042722197546490565
+Q07,a tense film that is not horror,1094,bge_reranker_v2_m3,0.03760863550580657
+Q07,a tense film that is not horror,1120,bge_reranker_v2_m3,0.05986641857192516
+Q07,a tense film that is not horror,1248,bge_reranker_v2_m3,0.03649376622902781
+Q07,a tense film that is not horror,1260,bge_reranker_v2_m3,0.15687834529138767
+Q07,a tense film that is not horror,1343,bge_reranker_v2_m3,0.03890198009779777
+Q07,a tense film that is not horror,1344,bge_reranker_v2_m3,0.03210070671700818
+Q07,a tense film that is not horror,1480,bge_reranker_v2_m3,0.17078441790183443
+Q07,a tense film that is not horror,1488,bge_reranker_v2_m3,0.04742587317756678
+Q07,a tense film that is not horror,1722,bge_reranker_v2_m3,0.07450025901897812
+Q07,a tense film that is not horror,1921,bge_reranker_v2_m3,0.17483253041377647
+Q07,a tense film that is not horror,1959,bge_reranker_v2_m3,0.04344689686005183
+Q07,a tense film that is not horror,2058,bge_reranker_v2_m3,0.053601141095294236
+Q07,a tense film that is not horror,2109,bge_reranker_v2_m3,0.0570713972253977
+Q07,a tense film that is not horror,2186,bge_reranker_v2_m3,0.06804042027255897
+Q07,a tense film that is not horror,2289,bge_reranker_v2_m3,0.022846197405650772
+Q07,a tense film that is not horror,2318,bge_reranker_v2_m3,0.045692032381584625
+Q07,a tense film that is not horror,2334,bge_reranker_v2_m3,0.05340332979982423
+Q07,a tense film that is not horror,2353,bge_reranker_v2_m3,0.04501553160023231
+Q07,a tense film that is not horror,2478,bge_reranker_v2_m3,0.06816437426556994
+Q07,a tense film that is not horror,2707,bge_reranker_v2_m3,0.05500528829345414
+Q07,a tense film that is not horror,2915,bge_reranker_v2_m3,0.07807816514495095
+Q07,a tense film that is not horror,3274,bge_reranker_v2_m3,0.05136750838696147
+Q07,a tense film that is not horror,3362,bge_reranker_v2_m3,0.04922211319719861
+Q07,a tense film that is not horror,3462,bge_reranker_v2_m3,0.049589022984031735
+Q07,a tense film that is not horror,3893,bge_reranker_v2_m3,0.04663804002318764
+Q07,a tense film that is not horror,4029,bge_reranker_v2_m3,0.017780390073110934
+Q07,a tense film that is not horror,4378,bge_reranker_v2_m3,0.04501553160023231
+Q07,a tense film that is not horror,4878,bge_reranker_v2_m3,0.03711690880775959
+Q07,a tense film that is not horror,5266,bge_reranker_v2_m3,0.05997643973716285
+Q07,a tense film that is not horror,5388,bge_reranker_v2_m3,0.03882902118577125
+Q07,a tense film that is not horror,5528,bge_reranker_v2_m3,0.12907303803511985
+Q07,a tense film that is not horror,5669,bge_reranker_v2_m3,0.06075190308755833
+Q07,a tense film that is not horror,5872,bge_reranker_v2_m3,0.04054073846348187
+Q07,a tense film that is not horror,5903,bge_reranker_v2_m3,0.033273941086340214
+Q07,a tense film that is not horror,6281,bge_reranker_v2_m3,0.049681154690907205
+Q07,a tense film that is not horror,6979,bge_reranker_v2_m3,0.1147647802656337
+Q07,a tense film that is not horror,7151,bge_reranker_v2_m3,0.12721826766848623
+Q07,a tense film that is not horror,7361,bge_reranker_v2_m3,0.06278920859705135
+Q07,a tense film that is not horror,7371,bge_reranker_v2_m3,0.030675801710674105
+Q07,a tense film that is not horror,8644,bge_reranker_v2_m3,0.19574777923498313
+Q07,a tense film that is not horror,8783,bge_reranker_v2_m3,0.08166611439199503
+Q07,a tense film that is not horror,8950,bge_reranker_v2_m3,0.04949705323280327
+Q07,a tense film that is not horror,30749,bge_reranker_v2_m3,0.046205749035319515
+Q07,a tense film that is not horror,33166,bge_reranker_v2_m3,0.03149938030244345
+Q07,a tense film that is not horror,34405,bge_reranker_v2_m3,0.05834584061168106
+Q07,a tense film that is not horror,36517,bge_reranker_v2_m3,0.11920292202211755
+Q07,a tense film that is not horror,37729,bge_reranker_v2_m3,0.06041841989614358
+Q07,a tense film that is not horror,40278,bge_reranker_v2_m3,0.08678673721804313
+Q07,a tense film that is not horror,40583,bge_reranker_v2_m3,0.16968087821750136
+Q07,a tense film that is not horror,44191,bge_reranker_v2_m3,0.0675466911396291
+Q07,a tense film that is not horror,44199,bge_reranker_v2_m3,0.05033063259747688
+Q07,a tense film that is not horror,51086,bge_reranker_v2_m3,0.021990219697200806
+Q07,a tense film that is not horror,55820,bge_reranker_v2_m3,0.04023794262361602
+Q07,a tense film that is not horror,57368,bge_reranker_v2_m3,0.017712298703411445
+Q07,a tense film that is not horror,61132,bge_reranker_v2_m3,0.05749327880038582
+Q07,a tense film that is not horror,63113,bge_reranker_v2_m3,0.05791808743947444
+Q07,a tense film that is not horror,68157,bge_reranker_v2_m3,0.04146227271140963
+Q07,a tense film that is not horror,69481,bge_reranker_v2_m3,0.0399373142069266
+Q07,a tense film that is not horror,70286,bge_reranker_v2_m3,0.08647764745688197
+Q07,a tense film that is not horror,72378,bge_reranker_v2_m3,0.13626321126119584
+Q07,a tense film that is not horror,80489,bge_reranker_v2_m3,0.0437727391740845
+Q07,a tense film that is not horror,80906,bge_reranker_v2_m3,0.05070536479783052
+Q07,a tense film that is not horror,81562,bge_reranker_v2_m3,0.03507867664288415
+Q07,a tense film that is not horror,89470,bge_reranker_v2_m3,0.04526809364320459
+Q07,a tense film that is not horror,128360,bge_reranker_v2_m3,0.06278920859705135
+Q07,a tense film that is not horror,158238,bge_reranker_v2_m3,0.03501262694674069
+Q08,a modern drama about family relationships,3408,bge_reranker_v2_m3,0.03670035387577421
+Q08,a modern drama about family relationships,3510,bge_reranker_v2_m3,0.13432105377342904
+Q08,a modern drama about family relationships,3536,bge_reranker_v2_m3,0.05146276543260744
+Q08,a modern drama about family relationships,3948,bge_reranker_v2_m3,0.0866320675642644
+Q08,a modern drama about family relationships,3949,bge_reranker_v2_m3,0.018869254537334273
+Q08,a modern drama about family relationships,3969,bge_reranker_v2_m3,0.04501553160023231
+Q08,a modern drama about family relationships,4023,bge_reranker_v2_m3,0.10338596660618364
+Q08,a modern drama about family relationships,4054,bge_reranker_v2_m3,0.1354606505255906
+Q08,a modern drama about family relationships,4873,bge_reranker_v2_m3,0.047869006476144456
+Q08,a modern drama about family relationships,4876,bge_reranker_v2_m3,0.25183165438781235
+Q08,a modern drama about family relationships,4979,bge_reranker_v2_m3,0.17909941966896972
+Q08,a modern drama about family relationships,4992,bge_reranker_v2_m3,0.04681203126388343
+Q08,a modern drama about family relationships,5014,bge_reranker_v2_m3,0.21601153469447487
+Q08,a modern drama about family relationships,5066,bge_reranker_v2_m3,0.025565213923269593
+Q08,a modern drama about family relationships,5135,bge_reranker_v2_m3,0.12252321251815919
+Q08,a modern drama about family relationships,5267,bge_reranker_v2_m3,0.12776141236308594
+Q08,a modern drama about family relationships,5299,bge_reranker_v2_m3,0.14669741042535941
+Q08,a modern drama about family relationships,5377,bge_reranker_v2_m3,0.046378205994811086
+Q08,a modern drama about family relationships,5502,bge_reranker_v2_m3,0.19147881780979006
+Q08,a modern drama about family relationships,5577,bge_reranker_v2_m3,0.0872522465547244
+Q08,a modern drama about family relationships,5943,bge_reranker_v2_m3,0.04200905542895354
+Q08,a modern drama about family relationships,5945,bge_reranker_v2_m3,0.1431877021825763
+Q08,a modern drama about family relationships,5992,bge_reranker_v2_m3,0.08993301223786454
+Q08,a modern drama about family relationships,6385,bge_reranker_v2_m3,0.2161769619577029
+Q08,a modern drama about family relationships,6870,bge_reranker_v2_m3,0.04742587317756678
+Q08,a modern drama about family relationships,6942,bge_reranker_v2_m3,0.05136750838696147
+Q08,a modern drama about family relationships,6953,bge_reranker_v2_m3,0.051941561501226155
+Q08,a modern drama about family relationships,7143,bge_reranker_v2_m3,0.03055986285813286
+Q08,a modern drama about family relationships,7149,bge_reranker_v2_m3,0.0722430022495024
+Q08,a modern drama about family relationships,7151,bge_reranker_v2_m3,0.019606182891419337
+Q08,a modern drama about family relationships,8638,bge_reranker_v2_m3,0.057599205866579545
+Q08,a modern drama about family relationships,8784,bge_reranker_v2_m3,0.03622005586497474
+Q08,a modern drama about family relationships,8961,bge_reranker_v2_m3,0.13443464795120397
+Q08,a modern drama about family relationships,8969,bge_reranker_v2_m3,0.036769466075598736
+Q08,a modern drama about family relationships,8981,bge_reranker_v2_m3,0.04023794262361602
+Q08,a modern drama about family relationships,30822,bge_reranker_v2_m3,0.042642391872602076
+Q08,a modern drama about family relationships,30825,bge_reranker_v2_m3,0.1735681880220941
+Q08,a modern drama about family relationships,34437,bge_reranker_v2_m3,0.028007520605988132
+Q08,a modern drama about family relationships,37733,bge_reranker_v2_m3,0.21255875527247142
+Q08,a modern drama about family relationships,40278,bge_reranker_v2_m3,0.03179866880469501
+Q08,a modern drama about family relationships,40629,bge_reranker_v2_m3,0.26549942080817324
+Q08,a modern drama about family relationships,41571,bge_reranker_v2_m3,0.02976009394596422
+Q08,a modern drama about family relationships,45431,bge_reranker_v2_m3,0.03514484640079327
+Q08,a modern drama about family relationships,45720,bge_reranker_v2_m3,0.03143985047843082
+Q08,a modern drama about family relationships,46578,bge_reranker_v2_m3,0.23126681205738464
+Q08,a modern drama about family relationships,47099,bge_reranker_v2_m3,0.11757213354550881
+Q08,a modern drama about family relationships,49286,bge_reranker_v2_m3,0.014899643269019096
+Q08,a modern drama about family relationships,52973,bge_reranker_v2_m3,0.07751765647688268
+Q08,a modern drama about family relationships,55052,bge_reranker_v2_m3,0.048496003243956885
+Q08,a modern drama about family relationships,55269,bge_reranker_v2_m3,0.12189465566827873
+Q08,a modern drama about family relationships,56949,bge_reranker_v2_m3,0.0274806928095821
+Q08,a modern drama about family relationships,58047,bge_reranker_v2_m3,0.10393037850513788
+Q08,a modern drama about family relationships,59501,bge_reranker_v2_m3,0.23846150816187367
+Q08,a modern drama about family relationships,60397,bge_reranker_v2_m3,0.13811267781421271
+Q08,a modern drama about family relationships,65230,bge_reranker_v2_m3,0.12002562775436143
+Q08,a modern drama about family relationships,80463,bge_reranker_v2_m3,0.06052939020253899
+Q08,a modern drama about family relationships,84374,bge_reranker_v2_m3,0.05997643973716285
+Q08,a modern drama about family relationships,88163,bge_reranker_v2_m3,0.06348236212647844
+Q08,a modern drama about family relationships,88810,bge_reranker_v2_m3,0.08913693827254159
+Q08,a modern drama about family relationships,89864,bge_reranker_v2_m3,0.043854563399873446
+Q08,a modern drama about family relationships,96821,bge_reranker_v2_m3,0.018299332210213487
+Q08,a modern drama about family relationships,97921,bge_reranker_v2_m3,0.056444025048495376
+Q08,a modern drama about family relationships,104374,bge_reranker_v2_m3,0.17724051706725022
+Q08,a modern drama about family relationships,105844,bge_reranker_v2_m3,0.024656855541960166
+Q08,a modern drama about family relationships,109487,bge_reranker_v2_m3,0.10650458901723904
+Q08,a modern drama about family relationships,111113,bge_reranker_v2_m3,0.07723878631706028
+Q08,a modern drama about family relationships,112290,bge_reranker_v2_m3,0.11536140159594613
+Q08,a modern drama about family relationships,117176,bge_reranker_v2_m3,0.045948207349174146
+Q08,a modern drama about family relationships,134853,bge_reranker_v2_m3,0.15203224162217424
+Q09,a chill and sweet French film,12,bge_reranker_v2_m3,0.012479699745327845
+Q09,a chill and sweet French film,29,bge_reranker_v2_m3,0.0162774609127135
+Q09,a chill and sweet French film,58,bge_reranker_v2_m3,0.010693757736175494
+Q09,a chill and sweet French film,73,bge_reranker_v2_m3,0.01691491326672651
+Q09,a chill and sweet French film,154,bge_reranker_v2_m3,0.03971325677368418
+Q09,a chill and sweet French film,218,bge_reranker_v2_m3,0.010448625445116806
+Q09,a chill and sweet French film,239,bge_reranker_v2_m3,0.007785654765367813
+Q09,a chill and sweet French film,293,bge_reranker_v2_m3,0.03732688734412946
+Q09,a chill and sweet French film,306,bge_reranker_v2_m3,0.018440209049289533
+Q09,a chill and sweet French film,307,bge_reranker_v2_m3,0.012100385813544712
+Q09,a chill and sweet French film,308,bge_reranker_v2_m3,0.016029147365901313
+Q09,a chill and sweet French film,455,bge_reranker_v2_m3,0.019606182891419337
+Q09,a chill and sweet French film,509,bge_reranker_v2_m3,0.014063627043245475
+Q09,a chill and sweet French film,546,bge_reranker_v2_m3,0.011732463956348185
+Q09,a chill and sweet French film,555,bge_reranker_v2_m3,0.008985428752560174
+Q09,a chill and sweet French film,1172,bge_reranker_v2_m3,0.007518718061432194
+Q09,a chill and sweet French film,1175,bge_reranker_v2_m3,0.015723990527735578
+Q09,a chill and sweet French film,1249,bge_reranker_v2_m3,0.008610767667510729
+Q09,a chill and sweet French film,1251,bge_reranker_v2_m3,0.0258096220343115
+Q09,a chill and sweet French film,1277,bge_reranker_v2_m3,0.02806073976570819
+Q09,a chill and sweet French film,1635,bge_reranker_v2_m3,0.006413163741325347
+Q09,a chill and sweet French film,2391,bge_reranker_v2_m3,0.00912563738918052
+Q09,a chill and sweet French film,2731,bge_reranker_v2_m3,0.025908020914060952
+Q09,a chill and sweet French film,3083,bge_reranker_v2_m3,0.014842417234248268
+Q09,a chill and sweet French film,3198,bge_reranker_v2_m3,0.021990219697200806
+Q09,a chill and sweet French film,3418,bge_reranker_v2_m3,0.013795364421185227
+Q09,a chill and sweet French film,3910,bge_reranker_v2_m3,0.012336100420869753
+Q09,a chill and sweet French film,4029,bge_reranker_v2_m3,0.002434382008505326
+Q09,a chill and sweet French film,4144,bge_reranker_v2_m3,0.0035657366623610266
+Q09,a chill and sweet French film,4246,bge_reranker_v2_m3,0.02224366758387693
+Q09,a chill and sweet French film,4973,bge_reranker_v2_m3,0.027901376209556707
+Q09,a chill and sweet French film,5026,bge_reranker_v2_m3,0.010013570623173138
+Q09,a chill and sweet French film,5135,bge_reranker_v2_m3,0.0026626127171173355
+Q09,a chill and sweet French film,5151,bge_reranker_v2_m3,0.022286185539225494
+Q09,a chill and sweet French film,5219,bge_reranker_v2_m3,0.0031480705546296176
+Q09,a chill and sweet French film,5377,bge_reranker_v2_m3,0.02827460011345791
+Q09,a chill and sweet French film,5574,bge_reranker_v2_m3,0.02310927773615126
+Q09,a chill and sweet French film,5782,bge_reranker_v2_m3,0.017242777557652904
+Q09,a chill and sweet French film,6773,bge_reranker_v2_m3,0.032222296966057905
+Q09,a chill and sweet French film,6942,bge_reranker_v2_m3,0.03882902118577125
+Q09,a chill and sweet French film,7151,bge_reranker_v2_m3,0.02931223075135632
+Q09,a chill and sweet French film,7265,bge_reranker_v2_m3,0.014392336369436931
+Q09,a chill and sweet French film,7371,bge_reranker_v2_m3,0.01342825474196852
+Q09,a chill and sweet French film,8969,bge_reranker_v2_m3,0.013376603227377451
+Q09,a chill and sweet French film,34072,bge_reranker_v2_m3,0.025035423538735918
+Q09,a chill and sweet French film,39292,bge_reranker_v2_m3,0.008093289897373068
+Q09,a chill and sweet French film,45880,bge_reranker_v2_m3,0.024191485868135028
+Q09,a chill and sweet French film,48082,bge_reranker_v2_m3,0.012673735693033067
+Q09,a chill and sweet French film,51255,bge_reranker_v2_m3,0.0057525450502372046
+Q09,a chill and sweet French film,58047,bge_reranker_v2_m3,0.006121281290728531
+Q09,a chill and sweet French film,59369,bge_reranker_v2_m3,0.013325147705881427
+Q09,a chill and sweet French film,61323,bge_reranker_v2_m3,0.007149101966546361
+Q09,a chill and sweet French film,86882,bge_reranker_v2_m3,0.029145972818990035
+Q09,a chill and sweet French film,92259,bge_reranker_v2_m3,0.012673735693033067
+Q10,"a tense crime film about a heist, loyalty and betrayal",6,bge_reranker_v2_m3,0.11085559492526088
+Q10,"a tense crime film about a heist, loyalty and betrayal",50,bge_reranker_v2_m3,0.09721884276216182
+Q10,"a tense crime film about a heist, loyalty and betrayal",81,bge_reranker_v2_m3,0.03004336941132273
+Q10,"a tense crime film about a heist, loyalty and betrayal",101,bge_reranker_v2_m3,0.036425152640625603
+Q10,"a tense crime film about a heist, loyalty and betrayal",168,bge_reranker_v2_m3,0.1129910084485674
+Q10,"a tense crime film about a heist, loyalty and betrayal",293,bge_reranker_v2_m3,0.18111832336652267
+Q10,"a tense crime film about a heist, loyalty and betrayal",319,bge_reranker_v2_m3,0.04586266415654218
+Q10,"a tense crime film about a heist, loyalty and betrayal",454,bge_reranker_v2_m3,0.08479540782206828
+Q10,"a tense crime film about a heist, loyalty and betrayal",555,bge_reranker_v2_m3,0.03941638743217145
+Q10,"a tense crime film about a heist, loyalty and betrayal",745,bge_reranker_v2_m3,0.023689471299374428
+Q10,"a tense crime film about a heist, loyalty and betrayal",786,bge_reranker_v2_m3,0.06359857904766149
+Q10,"a tense crime film about a heist, loyalty and betrayal",832,bge_reranker_v2_m3,0.03690806619720511
+Q10,"a tense crime film about a heist, loyalty and betrayal",866,bge_reranker_v2_m3,0.10338596660618364
+Q10,"a tense crime film about a heist, loyalty and betrayal",933,bge_reranker_v2_m3,0.06916356453554355
+Q10,"a tense crime film about a heist, loyalty and betrayal",1036,bge_reranker_v2_m3,0.09982066756762313
+Q10,"a tense crime film about a heist, loyalty and betrayal",1084,bge_reranker_v2_m3,0.09704755697933024
+Q10,"a tense crime film about a heist, loyalty and betrayal",1089,bge_reranker_v2_m3,0.1401007860904824
+Q10,"a tense crime film about a heist, loyalty and betrayal",1148,bge_reranker_v2_m3,0.02017731832286999
+Q10,"a tense crime film about a heist, loyalty and betrayal",1179,bge_reranker_v2_m3,0.15380319590944705
+Q10,"a tense crime film about a heist, loyalty and betrayal",1245,bge_reranker_v2_m3,0.059210250741285934
+Q10,"a tense crime film about a heist, loyalty and betrayal",1260,bge_reranker_v2_m3,0.060197050160538924
+Q10,"a tense crime film about a heist, loyalty and betrayal",1396,bge_reranker_v2_m3,0.06075190308755833
+Q10,"a tense crime film about a heist, loyalty and betrayal",1488,bge_reranker_v2_m3,0.04401864986294638
+Q10,"a tense crime film about a heist, loyalty and betrayal",1687,bge_reranker_v2_m3,0.05686154864494637
+Q10,"a tense crime film about a heist, loyalty and betrayal",1912,bge_reranker_v2_m3,0.09351230915384985
+Q10,"a tense crime film about a heist, loyalty and betrayal",2058,bge_reranker_v2_m3,0.03507867664288415
+Q10,"a tense crime film about a heist, loyalty and betrayal",2186,bge_reranker_v2_m3,0.0418521320924613
+Q10,"a tense crime film about a heist, loyalty and betrayal",2194,bge_reranker_v2_m3,0.09912085510042458
+Q10,"a tense crime film about a heist, loyalty and betrayal",2278,bge_reranker_v2_m3,0.05675689645649191
+Q10,"a tense crime film about a heist, loyalty and betrayal",2325,bge_reranker_v2_m3,0.004101929257867252
+Q10,"a tense crime film about a heist, loyalty and betrayal",2391,bge_reranker_v2_m3,0.13511791798795325
+Q10,"a tense crime film about a heist, loyalty and betrayal",2490,bge_reranker_v2_m3,0.12262824270646298
+Q10,"a tense crime film about a heist, loyalty and betrayal",2542,bge_reranker_v2_m3,0.036769466075598736
+Q10,"a tense crime film about a heist, loyalty and betrayal",2605,bge_reranker_v2_m3,0.05320620747238809
+Q10,"a tense crime film about a heist, loyalty and betrayal",2763,bge_reranker_v2_m3,0.11182182391242389
+Q10,"a tense crime film about a heist, loyalty and betrayal",2802,bge_reranker_v2_m3,0.03252822350114495
+Q10,"a tense crime film about a heist, loyalty and betrayal",2912,bge_reranker_v2_m3,0.04913078875410071
+Q10,"a tense crime film about a heist, loyalty and betrayal",2973,bge_reranker_v2_m3,0.03588069552584119
+Q10,"a tense crime film about a heist, loyalty and betrayal",2990,bge_reranker_v2_m3,0.03949040464878066
+Q10,"a tense crime film about a heist, loyalty and betrayal",3275,bge_reranker_v2_m3,0.042962471566243284
+Q10,"a tense crime film about a heist, loyalty and betrayal",3316,bge_reranker_v2_m3,0.03963883910097002
+Q10,"a tense crime film about a heist, loyalty and betrayal",3362,bge_reranker_v2_m3,0.06477170097147576
+Q10,"a tense crime film about a heist, loyalty and betrayal",3717,bge_reranker_v2_m3,0.09186978148697045
+Q10,"a tense crime film about a heist, loyalty and betrayal",3744,bge_reranker_v2_m3,0.03283695602724524
+Q10,"a tense crime film about a heist, loyalty and betrayal",3984,bge_reranker_v2_m3,0.0436095275656257
+Q10,"a tense crime film about a heist, loyalty and betrayal",4344,bge_reranker_v2_m3,0.04115288921744486
+Q10,"a tense crime film about a heist, loyalty and betrayal",4448,bge_reranker_v2_m3,0.08269734267503885
+Q10,"a tense crime film about a heist, loyalty and betrayal",4963,bge_reranker_v2_m3,0.12054230544225221
+Q10,"a tense crime film about a heist, loyalty and betrayal",5782,bge_reranker_v2_m3,0.013121271126550958
+Q10,"a tense crime film about a heist, loyalty and betrayal",6378,bge_reranker_v2_m3,0.17667160102063315
+Q10,"a tense crime film about a heist, loyalty and betrayal",7361,bge_reranker_v2_m3,0.03397199715737667
+Q10,"a tense crime film about a heist, loyalty and betrayal",8228,bge_reranker_v2_m3,0.11536140159594613
+Q10,"a tense crime film about a heist, loyalty and betrayal",8798,bge_reranker_v2_m3,0.022586042786347345
+Q10,"a tense crime film about a heist, loyalty and betrayal",8984,bge_reranker_v2_m3,0.16559311363082369
+Q10,"a tense crime film about a heist, loyalty and betrayal",27831,bge_reranker_v2_m3,0.02992974702544123
+Q10,"a tense crime film about a heist, loyalty and betrayal",44199,bge_reranker_v2_m3,0.09999630577091606
+Q10,"a tense crime film about a heist, loyalty and betrayal",44761,bge_reranker_v2_m3,0.015014748005819525
+Q10,"a tense crime film about a heist, loyalty and betrayal",48516,bge_reranker_v2_m3,0.025760559119668493
+Q10,"a tense crime film about a heist, loyalty and betrayal",53322,bge_reranker_v2_m3,0.08108211382389394
+Q10,"a tense crime film about a heist, loyalty and betrayal",58295,bge_reranker_v2_m3,0.1437877942733285
+Q10,"a tense crime film about a heist, loyalty and betrayal",59369,bge_reranker_v2_m3,0.017375664509219565
+Q10,"a tense crime film about a heist, loyalty and betrayal",63113,bge_reranker_v2_m3,0.04153996561206154
+Q10,"a tense crime film about a heist, loyalty and betrayal",79132,bge_reranker_v2_m3,0.1405720439332569
+Q10,"a tense crime film about a heist, loyalty and betrayal",80489,bge_reranker_v2_m3,0.05310790401616766
+Q10,"a tense crime film about a heist, loyalty and betrayal",88129,bge_reranker_v2_m3,0.06371499425196533
+Q11,"an animated film about friendship, growing up and belonging",1,bge_reranker_v2_m3,0.21157967933910984
+Q11,"an animated film about friendship, growing up and belonging",239,bge_reranker_v2_m3,0.21436230766344294
+Q11,"an animated film about friendship, growing up and belonging",364,bge_reranker_v2_m3,0.27376850760759114
+Q11,"an animated film about friendship, growing up and belonging",745,bge_reranker_v2_m3,0.05899302973563795
+Q11,"an animated film about friendship, growing up and belonging",1029,bge_reranker_v2_m3,0.23213602937942993
+Q11,"an animated film about friendship, growing up and belonging",1033,bge_reranker_v2_m3,0.4179246318677877
+Q11,"an animated film about friendship, growing up and belonging",1148,bge_reranker_v2_m3,0.05370030576252624
+Q11,"an animated film about friendship, growing up and belonging",2018,bge_reranker_v2_m3,0.4220877073988101
+Q11,"an animated film about friendship, growing up and belonging",2078,bge_reranker_v2_m3,0.3981139003301753
+Q11,"an animated film about friendship, growing up and belonging",2085,bge_reranker_v2_m3,0.18907149226772618
+Q11,"an animated film about friendship, growing up and belonging",2087,bge_reranker_v2_m3,0.27855107373531623
+Q11,"an animated film about friendship, growing up and belonging",2090,bge_reranker_v2_m3,0.15947904162777593
+Q11,"an animated film about friendship, growing up and belonging",2141,bge_reranker_v2_m3,0.15687834529138767
+Q11,"an animated film about friendship, growing up and belonging",2294,bge_reranker_v2_m3,0.09186978148697045
+Q11,"an animated film about friendship, growing up and belonging",2687,bge_reranker_v2_m3,0.24256428978896624
+Q11,"an animated film about friendship, growing up and belonging",2700,bge_reranker_v2_m3,0.11260009974533915
+Q11,"an animated film about friendship, growing up and belonging",2761,bge_reranker_v2_m3,0.3195459149903856
+Q11,"an animated film about friendship, growing up and belonging",3114,bge_reranker_v2_m3,0.21967211902506864
+Q11,"an animated film about friendship, growing up and belonging",3213,bge_reranker_v2_m3,0.18010666408646395
+Q11,"an animated film about friendship, growing up and belonging",3429,bge_reranker_v2_m3,0.013742320495902368
+Q11,"an animated film about friendship, growing up and belonging",4306,bge_reranker_v2_m3,0.25219982583470935
+Q11,"an animated film about friendship, growing up and belonging",4873,bge_reranker_v2_m3,0.12357700352382259
+Q11,"an animated film about friendship, growing up and belonging",5218,bge_reranker_v2_m3,0.19915219960336822
+Q11,"an animated film about friendship, growing up and belonging",5444,bge_reranker_v2_m3,0.4896102604199459
+Q11,"an animated film about friendship, growing up and belonging",5690,bge_reranker_v2_m3,0.12896329929010264
+Q11,"an animated film about friendship, growing up and belonging",5971,bge_reranker_v2_m3,0.1936043573157071
+Q11,"an animated film about friendship, growing up and belonging",6377,bge_reranker_v2_m3,0.3611647202343208
+Q11,"an animated film about friendship, growing up and belonging",6773,bge_reranker_v2_m3,0.12603029065187174
+Q11,"an animated film about friendship, growing up and belonging",8360,bge_reranker_v2_m3,0.0946777017913266
+Q11,"an animated film about friendship, growing up and belonging",27660,bge_reranker_v2_m3,0.053998838999525255
+Q11,"an animated film about friendship, growing up and belonging",33615,bge_reranker_v2_m3,0.15291561784917637
+Q11,"an animated film about friendship, growing up and belonging",38038,bge_reranker_v2_m3,0.16803621717823458
+Q11,"an animated film about friendship, growing up and belonging",44022,bge_reranker_v2_m3,0.23633993777367787
+Q11,"an animated film about friendship, growing up and belonging",45431,bge_reranker_v2_m3,0.13580411591273822
+Q11,"an animated film about friendship, growing up and belonging",45517,bge_reranker_v2_m3,0.12147716208963945
+Q11,"an animated film about friendship, growing up and belonging",50872,bge_reranker_v2_m3,0.15636236748299262
+Q11,"an animated film about friendship, growing up and belonging",52287,bge_reranker_v2_m3,0.15830443056115417
+Q11,"an animated film about friendship, growing up and belonging",54272,bge_reranker_v2_m3,0.2337063569140403
+Q11,"an animated film about friendship, growing up and belonging",56152,bge_reranker_v2_m3,0.11858909657632805
+Q11,"an animated film about friendship, growing up and belonging",62999,bge_reranker_v2_m3,0.17370831302403128
+Q11,"an animated film about friendship, growing up and belonging",63859,bge_reranker_v2_m3,0.20946968133032529
+Q11,"an animated film about friendship, growing up and belonging",66097,bge_reranker_v2_m3,0.24689632765031744
+Q11,"an animated film about friendship, growing up and belonging",68954,bge_reranker_v2_m3,0.14596546711283134
+Q11,"an animated film about friendship, growing up and belonging",71057,bge_reranker_v2_m3,0.10393037850513788
+Q11,"an animated film about friendship, growing up and belonging",76093,bge_reranker_v2_m3,0.4470679767469683
+Q11,"an animated film about friendship, growing up and belonging",78499,bge_reranker_v2_m3,0.0984254123665623
+Q11,"an animated film about friendship, growing up and belonging",81847,bge_reranker_v2_m3,0.27914020662224065
+Q11,"an animated film about friendship, growing up and belonging",98243,bge_reranker_v2_m3,0.17050799982688053
+Q11,"an animated film about friendship, growing up and belonging",103141,bge_reranker_v2_m3,0.2033908961192982
+Q11,"an animated film about friendship, growing up and belonging",106696,bge_reranker_v2_m3,0.45332235054753817
+Q11,"an animated film about friendship, growing up and belonging",108932,bge_reranker_v2_m3,0.26020143184909333
+Q11,"an animated film about friendship, growing up and belonging",115617,bge_reranker_v2_m3,0.16926851601245527
+Q11,"an animated film about friendship, growing up and belonging",134853,bge_reranker_v2_m3,0.18565173006556385
+Q11,"an animated film about friendship, growing up and belonging",157296,bge_reranker_v2_m3,0.14608724704829568
+Q12,"a war film about sacrifice, duty and the human cost of combat",110,bge_reranker_v2_m3,0.10356715633550771
+Q12,"a war film about sacrifice, duty and the human cost of combat",466,bge_reranker_v2_m3,0.025083140936028623
+Q12,"a war film about sacrifice, duty and the human cost of combat",527,bge_reranker_v2_m3,0.020645930739218447
+Q12,"a war film about sacrifice, duty and the human cost of combat",590,bge_reranker_v2_m3,0.046378205994811086
+Q12,"a war film about sacrifice, duty and the human cost of combat",647,bge_reranker_v2_m3,0.06489011473216191
+Q12,"a war film about sacrifice, duty and the human cost of combat",912,bge_reranker_v2_m3,0.06979492650638747
+Q12,"a war film about sacrifice, duty and the human cost of combat",969,bge_reranker_v2_m3,0.06164962595497456
+Q12,"a war film about sacrifice, duty and the human cost of combat",1059,bge_reranker_v2_m3,0.046378205994811086
+Q12,"a war film about sacrifice, duty and the human cost of combat",1090,bge_reranker_v2_m3,0.07765743714392222
+Q12,"a war film about sacrifice, duty and the human cost of combat",1178,bge_reranker_v2_m3,0.06097518086496481
+Q12,"a war film about sacrifice, duty and the human cost of combat",1208,bge_reranker_v2_m3,0.04518375667269088
+Q12,"a war film about sacrifice, duty and the human cost of combat",1222,bge_reranker_v2_m3,0.058560826873748875
+Q12,"a war film about sacrifice, duty and the human cost of combat",1224,bge_reranker_v2_m3,0.07172112432623752
+Q12,"a war film about sacrifice, duty and the human cost of combat",1233,bge_reranker_v2_m3,0.055310652215996105
+Q12,"a war film about sacrifice, duty and the human cost of combat",1242,bge_reranker_v2_m3,0.03314851840247966
+Q12,"a war film about sacrifice, duty and the human cost of combat",1250,bge_reranker_v2_m3,0.06441766541349403
+Q12,"a war film about sacrifice, duty and the human cost of combat",1263,bge_reranker_v2_m3,0.07585818002124355
+Q12,"a war film about sacrifice, duty and the human cost of combat",1272,bge_reranker_v2_m3,0.08647764745688197
+Q12,"a war film about sacrifice, duty and the human cost of combat",1299,bge_reranker_v2_m3,0.027795622581245058
+Q12,"a war film about sacrifice, duty and the human cost of combat",1348,bge_reranker_v2_m3,0.021822824973459234
+Q12,"a war film about sacrifice, duty and the human cost of combat",1608,bge_reranker_v2_m3,0.09073548763985105
+Q12,"a war film about sacrifice, duty and the human cost of combat",2028,bge_reranker_v2_m3,0.34753711019190425
+Q12,"a war film about sacrifice, duty and the human cost of combat",2402,bge_reranker_v2_m3,0.033023552336627474
+Q12,"a war film about sacrifice, duty and the human cost of combat",2403,bge_reranker_v2_m3,0.04312337071537061
+Q12,"a war film about sacrifice, duty and the human cost of combat",2404,bge_reranker_v2_m3,0.07504072453849712
+Q12,"a war film about sacrifice, duty and the human cost of combat",2427,bge_reranker_v2_m3,0.08359066775394157
+Q12,"a war film about sacrifice, duty and the human cost of combat",2476,bge_reranker_v2_m3,0.08961381665165222
+Q12,"a war film about sacrifice, duty and the human cost of combat",2700,bge_reranker_v2_m3,0.018511045990317374
+Q12,"a war film about sacrifice, duty and the human cost of combat",2944,bge_reranker_v2_m3,0.04894862171682361
+Q12,"a war film about sacrifice, duty and the human cost of combat",3441,bge_reranker_v2_m3,0.07043161579902456
+Q12,"a war film about sacrifice, duty and the human cost of combat",3753,bge_reranker_v2_m3,0.11143445200542622
+Q12,"a war film about sacrifice, duty and the human cost of combat",3836,bge_reranker_v2_m3,0.03114383053477846
+Q12,"a war film about sacrifice, duty and the human cost of combat",3917,bge_reranker_v2_m3,0.01994693442741052
+Q12,"a war film about sacrifice, duty and the human cost of combat",4008,bge_reranker_v2_m3,0.02484543689426909
+Q12,"a war film about sacrifice, duty and the human cost of combat",4223,bge_reranker_v2_m3,0.043528139716435335
+Q12,"a war film about sacrifice, duty and the human cost of combat",4958,bge_reranker_v2_m3,0.0651275468396235
+Q12,"a war film about sacrifice, duty and the human cost of combat",4967,bge_reranker_v2_m3,0.051941561501226155
+Q12,"a war film about sacrifice, duty and the human cost of combat",5010,bge_reranker_v2_m3,0.12273335033624272
+Q12,"a war film about sacrifice, duty and the human cost of combat",5152,bge_reranker_v2_m3,0.08122775599781698
+Q12,"a war film about sacrifice, duty and the human cost of combat",5669,bge_reranker_v2_m3,0.01098694263059318
+Q12,"a war film about sacrifice, duty and the human cost of combat",5944,bge_reranker_v2_m3,0.04130730379300428
+Q12,"a war film about sacrifice, duty and the human cost of combat",7143,bge_reranker_v2_m3,0.06992183699783601
+Q12,"a war film about sacrifice, duty and the human cost of combat",7151,bge_reranker_v2_m3,0.021698097123631948
+Q12,"a war film about sacrifice, duty and the human cost of combat",7162,bge_reranker_v2_m3,0.04344689686005183
+Q12,"a war film about sacrifice, duty and the human cost of combat",8781,bge_reranker_v2_m3,0.041075889246390745
+Q12,"a war film about sacrifice, duty and the human cost of combat",40278,bge_reranker_v2_m3,0.09367800267455072
+Q12,"a war film about sacrifice, duty and the human cost of combat",44555,bge_reranker_v2_m3,0.010944577400979882
+Q12,"a war film about sacrifice, duty and the human cost of combat",48304,bge_reranker_v2_m3,0.046378205994811086
+Q12,"a war film about sacrifice, duty and the human cost of combat",48783,bge_reranker_v2_m3,0.06441766541349403
+Q12,"a war film about sacrifice, duty and the human cost of combat",49530,bge_reranker_v2_m3,0.02017731832286999
+Q12,"a war film about sacrifice, duty and the human cost of combat",50068,bge_reranker_v2_m3,0.03919513320329816
+Q12,"a war film about sacrifice, duty and the human cost of combat",61132,bge_reranker_v2_m3,0.035813191755480776
+Q12,"a war film about sacrifice, duty and the human cost of combat",64614,bge_reranker_v2_m3,0.03126191341682427
+Q12,"a war film about sacrifice, duty and the human cost of combat",68157,bge_reranker_v2_m3,0.04410091256841041
+Q12,"a war film about sacrifice, duty and the human cost of combat",69481,bge_reranker_v2_m3,0.04977344860541247
+Q12,"a war film about sacrifice, duty and the human cost of combat",80906,bge_reranker_v2_m3,0.0027149854690051763
+Q12,"a war film about sacrifice, duty and the human cost of combat",111759,bge_reranker_v2_m3,0.053502149195322694
+Q12,"a war film about sacrifice, duty and the human cost of combat",112623,bge_reranker_v2_m3,0.028925717867727446
+Q12,"a war film about sacrifice, duty and the human cost of combat",114662,bge_reranker_v2_m3,0.06632687402359617
+Q12,"a war film about sacrifice, duty and the human cost of combat",115210,bge_reranker_v2_m3,0.06086344622489191
+Q12,"a war film about sacrifice, duty and the human cost of combat",116797,bge_reranker_v2_m3,0.03796369520926448
+Q12,"a war film about sacrifice, duty and the human cost of combat",116823,bge_reranker_v2_m3,0.04200905542895354
+Q12,"a war film about sacrifice, duty and the human cost of combat",174055,bge_reranker_v2_m3,0.08434179503087752
+Q13,a science fiction film about artificial intelligence and what it means to be human,45,bge_reranker_v2_m3,0.01124456072066409
+Q13,a science fiction film about artificial intelligence and what it means to be human,196,bge_reranker_v2_m3,0.019087433820142514
+Q13,a science fiction film about artificial intelligence and what it means to be human,338,bge_reranker_v2_m3,0.1499043354766407
+Q13,a science fiction film about artificial intelligence and what it means to be human,541,bge_reranker_v2_m3,0.47793487278031094
+Q13,a science fiction film about artificial intelligence and what it means to be human,589,bge_reranker_v2_m3,0.2260993940477108
+Q13,a science fiction film about artificial intelligence and what it means to be human,741,bge_reranker_v2_m3,0.34224170304368307
+Q13,a science fiction film about artificial intelligence and what it means to be human,924,bge_reranker_v2_m3,0.4476111998177913
+Q13,a science fiction film about artificial intelligence and what it means to be human,1037,bge_reranker_v2_m3,0.05802474899879611
+Q13,a science fiction film about artificial intelligence and what it means to be human,1240,bge_reranker_v2_m3,0.47586411003430884
+Q13,a science fiction film about artificial intelligence and what it means to be human,1253,bge_reranker_v2_m3,0.03126191341682427
+Q13,a science fiction film about artificial intelligence and what it means to be human,1371,bge_reranker_v2_m3,0.19620941280870197
+Q13,a science fiction film about artificial intelligence and what it means to be human,1653,bge_reranker_v2_m3,0.05749327880038582
+Q13,a science fiction film about artificial intelligence and what it means to be human,1921,bge_reranker_v2_m3,0.010818448652863185
+Q13,a science fiction film about artificial intelligence and what it means to be human,2046,bge_reranker_v2_m3,0.2730894751371906
+Q13,a science fiction film about artificial intelligence and what it means to be human,2313,bge_reranker_v2_m3,0.016785489890063697
+Q13,a science fiction film about artificial intelligence and what it means to be human,2533,bge_reranker_v2_m3,0.027169231535681047
+Q13,a science fiction film about artificial intelligence and what it means to be human,2571,bge_reranker_v2_m3,0.3159469966500125
+Q13,a science fiction film about artificial intelligence and what it means to be human,2672,bge_reranker_v2_m3,0.2609540759298918
+Q13,a science fiction film about artificial intelligence and what it means to be human,2916,bge_reranker_v2_m3,0.033085978388704126
+Q13,a science fiction film about artificial intelligence and what it means to be human,3156,bge_reranker_v2_m3,0.11656273818809301
+Q13,a science fiction film about artificial intelligence and what it means to be human,3503,bge_reranker_v2_m3,0.009821792919693043
+Q13,a science fiction film about artificial intelligence and what it means to be human,3745,bge_reranker_v2_m3,0.010448625445116806
+Q13,a science fiction film about artificial intelligence and what it means to be human,3826,bge_reranker_v2_m3,0.02350945240753301
+Q13,a science fiction film about artificial intelligence and what it means to be human,3986,bge_reranker_v2_m3,0.018334452089518297
+Q13,a science fiction film about artificial intelligence and what it means to be human,4370,bge_reranker_v2_m3,0.8296300758720911
+Q13,a science fiction film about artificial intelligence and what it means to be human,4446,bge_reranker_v2_m3,0.015424552081841137
+Q13,a science fiction film about artificial intelligence and what it means to be human,4545,bge_reranker_v2_m3,0.4210756326877515
+Q13,a science fiction film about artificial intelligence and what it means to be human,5608,bge_reranker_v2_m3,0.006744989542092038
+Q13,a science fiction film about artificial intelligence and what it means to be human,6365,bge_reranker_v2_m3,0.31174106827762943
+Q13,a science fiction film about artificial intelligence and what it means to be human,6537,bge_reranker_v2_m3,0.19375686554382182
+Q13,a science fiction film about artificial intelligence and what it means to be human,6934,bge_reranker_v2_m3,0.2618968592847959
+Q13,a science fiction film about artificial intelligence and what it means to be human,6979,bge_reranker_v2_m3,0.1057634231295006
+Q13,a science fiction film about artificial intelligence and what it means to be human,7151,bge_reranker_v2_m3,0.002900857710860122
+Q13,a science fiction film about artificial intelligence and what it means to be human,7361,bge_reranker_v2_m3,0.05834584061168106
+Q13,a science fiction film about artificial intelligence and what it means to be human,8644,bge_reranker_v2_m3,0.2880681397870343
+Q13,a science fiction film about artificial intelligence and what it means to be human,34319,bge_reranker_v2_m3,0.014728613849722676
+Q13,a science fiction film about artificial intelligence and what it means to be human,40278,bge_reranker_v2_m3,0.0039762279744753005
+Q13,a science fiction film about artificial intelligence and what it means to be human,47997,bge_reranker_v2_m3,0.02605630425138499
+Q13,a science fiction film about artificial intelligence and what it means to be human,48774,bge_reranker_v2_m3,0.007260866498285616
+Q13,a science fiction film about artificial intelligence and what it means to be human,53322,bge_reranker_v2_m3,0.009783876017655003
+Q13,a science fiction film about artificial intelligence and what it means to be human,68237,bge_reranker_v2_m3,0.3103807543471772
+Q13,a science fiction film about artificial intelligence and what it means to be human,68791,bge_reranker_v2_m3,0.2881682892535452
+Q13,a science fiction film about artificial intelligence and what it means to be human,71057,bge_reranker_v2_m3,0.022328782910109677
+Q13,a science fiction film about artificial intelligence and what it means to be human,71530,bge_reranker_v2_m3,0.01646617504750254
+Q13,a science fiction film about artificial intelligence and what it means to be human,79132,bge_reranker_v2_m3,0.05561761160460151
+Q13,a science fiction film about artificial intelligence and what it means to be human,88744,bge_reranker_v2_m3,0.032040078058081095
+Q13,a science fiction film about artificial intelligence and what it means to be human,97752,bge_reranker_v2_m3,0.4964714636074287
+Q13,a science fiction film about artificial intelligence and what it means to be human,106920,bge_reranker_v2_m3,0.21206880435710532
+Q13,a science fiction film about artificial intelligence and what it means to be human,109487,bge_reranker_v2_m3,0.46587345377762773
+Q13,a science fiction film about artificial intelligence and what it means to be human,111360,bge_reranker_v2_m3,0.5053708871611445
+Q13,a science fiction film about artificial intelligence and what it means to be human,115713,bge_reranker_v2_m3,0.7429815685336945
+Q13,a science fiction film about artificial intelligence and what it means to be human,122892,bge_reranker_v2_m3,0.23057307839092478
+Q13,a science fiction film about artificial intelligence and what it means to be human,164179,bge_reranker_v2_m3,0.012920473039078978
+Q13,a science fiction film about artificial intelligence and what it means to be human,176371,bge_reranker_v2_m3,0.25926260794247247
+Q14,"a courtroom drama about justice, ethics and moral conflict",36,bge_reranker_v2_m3,0.03601607075006732
+Q14,"a courtroom drama about justice, ethics and moral conflict",79,bge_reranker_v2_m3,0.03384403534049259
+Q14,"a courtroom drama about justice, ethics and moral conflict",81,bge_reranker_v2_m3,0.007489624898808397
+Q14,"a courtroom drama about justice, ethics and moral conflict",140,bge_reranker_v2_m3,0.013848610215564574
+Q14,"a courtroom drama about justice, ethics and moral conflict",173,bge_reranker_v2_m3,0.031738591899222963
+Q14,"a courtroom drama about justice, ethics and moral conflict",222,bge_reranker_v2_m3,0.05975658640044865
+Q14,"a courtroom drama about justice, ethics and moral conflict",230,bge_reranker_v2_m3,0.05089371986183379
+Q14,"a courtroom drama about justice, ethics and moral conflict",257,bge_reranker_v2_m3,0.03986249410726427
+Q14,"a courtroom drama about justice, ethics and moral conflict",280,bge_reranker_v2_m3,0.025957357197796852
+Q14,"a courtroom drama about justice, ethics and moral conflict",300,bge_reranker_v2_m3,0.004416555931143974
+Q14,"a courtroom drama about justice, ethics and moral conflict",306,bge_reranker_v2_m3,0.023734685770113232
+Q14,"a courtroom drama about justice, ethics and moral conflict",350,bge_reranker_v2_m3,0.019719128107346592
+Q14,"a courtroom drama about justice, ethics and moral conflict",372,bge_reranker_v2_m3,0.002822832897761561
+Q14,"a courtroom drama about justice, ethics and moral conflict",454,bge_reranker_v2_m3,0.032344332381157095
+Q14,"a courtroom drama about justice, ethics and moral conflict",475,bge_reranker_v2_m3,0.09268777863937604
+Q14,"a courtroom drama about justice, ethics and moral conflict",490,bge_reranker_v2_m3,0.01020905431880827
+Q14,"a courtroom drama about justice, ethics and moral conflict",491,bge_reranker_v2_m3,0.019271137919768803
+Q14,"a courtroom drama about justice, ethics and moral conflict",508,bge_reranker_v2_m3,0.0773781063026379
+Q14,"a courtroom drama about justice, ethics and moral conflict",628,bge_reranker_v2_m3,0.09105827889318013
+Q14,"a courtroom drama about justice, ethics and moral conflict",805,bge_reranker_v2_m3,0.12874406025628407
+Q14,"a courtroom drama about justice, ethics and moral conflict",1061,bge_reranker_v2_m3,0.06325052199347325
+Q14,"a courtroom drama about justice, ethics and moral conflict",1120,bge_reranker_v2_m3,0.0253230601097671
+Q14,"a courtroom drama about justice, ethics and moral conflict",1186,bge_reranker_v2_m3,0.003483424193080668
+Q14,"a courtroom drama about justice, ethics and moral conflict",1188,bge_reranker_v2_m3,0.004773722390757114
+Q14,"a courtroom drama about justice, ethics and moral conflict",1203,bge_reranker_v2_m3,0.1789558876900955
+Q14,"a courtroom drama about justice, ethics and moral conflict",1207,bge_reranker_v2_m3,0.16132023775174628
+Q14,"a courtroom drama about justice, ethics and moral conflict",1459,bge_reranker_v2_m3,0.01691491326672651
+Q14,"a courtroom drama about justice, ethics and moral conflict",1645,bge_reranker_v2_m3,0.08632347658627028
+Q14,"a courtroom drama about justice, ethics and moral conflict",1672,bge_reranker_v2_m3,0.5836780397069826
+Q14,"a courtroom drama about justice, ethics and moral conflict",1747,bge_reranker_v2_m3,0.019308086195651518
+Q14,"a courtroom drama about justice, ethics and moral conflict",1945,bge_reranker_v2_m3,0.014172366191301682
+Q14,"a courtroom drama about justice, ethics and moral conflict",1955,bge_reranker_v2_m3,0.02442309005410721
+Q14,"a courtroom drama about justice, ethics and moral conflict",1958,bge_reranker_v2_m3,0.01191502196714824
+Q14,"a courtroom drama about justice, ethics and moral conflict",2019,bge_reranker_v2_m3,0.01757688326733593
+Q14,"a courtroom drama about justice, ethics and moral conflict",2058,bge_reranker_v2_m3,0.011869121046339474
+Q14,"a courtroom drama about justice, ethics and moral conflict",2268,bge_reranker_v2_m3,0.077099696216148
+Q14,"a courtroom drama about justice, ethics and moral conflict",2302,bge_reranker_v2_m3,0.10557884359159042
+Q14,"a courtroom drama about justice, ethics and moral conflict",2427,bge_reranker_v2_m3,0.011419614645648403
+Q14,"a courtroom drama about justice, ethics and moral conflict",2803,bge_reranker_v2_m3,0.02898062974145319
+Q14,"a courtroom drama about justice, ethics and moral conflict",2881,bge_reranker_v2_m3,0.05931914210343721
+Q14,"a courtroom drama about justice, ethics and moral conflict",2973,bge_reranker_v2_m3,0.012673735693033067
+Q14,"a courtroom drama about justice, ethics and moral conflict",3034,bge_reranker_v2_m3,0.026006784923597617
+Q14,"a courtroom drama about justice, ethics and moral conflict",3147,bge_reranker_v2_m3,0.015072628308945691
+Q14,"a courtroom drama about justice, ethics and moral conflict",3178,bge_reranker_v2_m3,0.012383784637260331
+Q14,"a courtroom drama about justice, ethics and moral conflict",3408,bge_reranker_v2_m3,0.031084951087943985
+Q14,"a courtroom drama about justice, ethics and moral conflict",3949,bge_reranker_v2_m3,0.01005236865796813
+Q14,"a courtroom drama about justice, ethics and moral conflict",3969,bge_reranker_v2_m3,0.019870713960402048
+Q14,"a courtroom drama about justice, ethics and moral conflict",4351,bge_reranker_v2_m3,0.014615670100635953
+Q14,"a courtroom drama about justice, ethics and moral conflict",5903,bge_reranker_v2_m3,0.007785654765367813
+Q14,"a courtroom drama about justice, ethics and moral conflict",5957,bge_reranker_v2_m3,0.005426943348925352
+Q14,"a courtroom drama about justice, ethics and moral conflict",6879,bge_reranker_v2_m3,0.09825223213687319
+Q14,"a courtroom drama about justice, ethics and moral conflict",7151,bge_reranker_v2_m3,0.010818448652863185
+Q14,"a courtroom drama about justice, ethics and moral conflict",51935,bge_reranker_v2_m3,0.00959645473238191
+Q14,"a courtroom drama about justice, ethics and moral conflict",52604,bge_reranker_v2_m3,0.08093670978361556
+Q14,"a courtroom drama about justice, ethics and moral conflict",55276,bge_reranker_v2_m3,0.04434858139539836
+Q14,"a courtroom drama about justice, ethics and moral conflict",96737,bge_reranker_v2_m3,0.024145422717464924
+Q14,"a courtroom drama about justice, ethics and moral conflict",96821,bge_reranker_v2_m3,0.005774929853444153
+Q14,"a courtroom drama about justice, ethics and moral conflict",104879,bge_reranker_v2_m3,0.04344689686005183
+Q14,"a courtroom drama about justice, ethics and moral conflict",105844,bge_reranker_v2_m3,0.014615670100635953
+Q14,"a courtroom drama about justice, ethics and moral conflict",142488,bge_reranker_v2_m3,0.012147170099805137
+Q15,a witty romantic comedy about two people gradually falling in love,39,bge_reranker_v2_m3,0.07120272707185868
+Q15,a witty romantic comedy about two people gradually falling in love,122,bge_reranker_v2_m3,0.045692032381584625
+Q15,a witty romantic comedy about two people gradually falling in love,125,bge_reranker_v2_m3,0.05728197321925716
+Q15,a witty romantic comedy about two people gradually falling in love,231,bge_reranker_v2_m3,0.05572028719717483
+Q15,a witty romantic comedy about two people gradually falling in love,234,bge_reranker_v2_m3,0.03670035387577421
+Q15,a witty romantic comedy about two people gradually falling in love,237,bge_reranker_v2_m3,0.19837458075735578
+Q15,a witty romantic comedy about two people gradually falling in love,252,bge_reranker_v2_m3,0.05098814552771514
+Q15,a witty romantic comedy about two people gradually falling in love,319,bge_reranker_v2_m3,0.012479699745327845
+Q15,a witty romantic comedy about two people gradually falling in love,339,bge_reranker_v2_m3,0.07477004290796137
+Q15,a witty romantic comedy about two people gradually falling in love,372,bge_reranker_v2_m3,0.04543721764463945
+Q15,a witty romantic comedy about two people gradually falling in love,575,bge_reranker_v2_m3,0.11124120650754304
+Q15,a witty romantic comedy about two people gradually falling in love,597,bge_reranker_v2_m3,0.24544655698700496
+Q15,a witty romantic comedy about two people gradually falling in love,788,bge_reranker_v2_m3,0.05320620747238809
+Q15,a witty romantic comedy about two people gradually falling in love,830,bge_reranker_v2_m3,0.017712298703411445
+Q15,a witty romantic comedy about two people gradually falling in love,905,bge_reranker_v2_m3,0.08269734267503885
+Q15,a witty romantic comedy about two people gradually falling in love,909,bge_reranker_v2_m3,0.040692953596653016
+Q15,a witty romantic comedy about two people gradually falling in love,955,bge_reranker_v2_m3,0.07343005269989412
+Q15,a witty romantic comedy about two people gradually falling in love,1057,bge_reranker_v2_m3,0.08151975597471893
+Q15,a witty romantic comedy about two people gradually falling in love,1175,bge_reranker_v2_m3,0.011201213376078314
+Q15,a witty romantic comedy about two people gradually falling in love,1230,bge_reranker_v2_m3,0.08329192255674409
+Q15,a witty romantic comedy about two people gradually falling in love,1235,bge_reranker_v2_m3,0.0638316080246603
+Q15,a witty romantic comedy about two people gradually falling in love,1457,bge_reranker_v2_m3,0.03114383053477846
+Q15,a witty romantic comedy about two people gradually falling in love,1569,bge_reranker_v2_m3,0.13637818915265099
+Q15,a witty romantic comedy about two people gradually falling in love,1588,bge_reranker_v2_m3,0.10338596660618364
+Q15,a witty romantic comedy about two people gradually falling in love,1639,bge_reranker_v2_m3,0.03488088693667929
+Q15,a witty romantic comedy about two people gradually falling in love,1777,bge_reranker_v2_m3,0.16599831119805178
+Q15,a witty romantic comedy about two people gradually falling in love,1784,bge_reranker_v2_m3,0.03314851840247966
+Q15,a witty romantic comedy about two people gradually falling in love,1885,bge_reranker_v2_m3,0.01819436822090561
+Q15,a witty romantic comedy about two people gradually falling in love,1923,bge_reranker_v2_m3,0.057705316146563324
+Q15,a witty romantic comedy about two people gradually falling in love,2248,bge_reranker_v2_m3,0.0840406115573681
+Q15,a witty romantic comedy about two people gradually falling in love,2375,bge_reranker_v2_m3,0.10669059394565118
+Q15,a witty romantic comedy about two people gradually falling in love,2396,bge_reranker_v2_m3,0.14915918827525723
+Q15,a witty romantic comedy about two people gradually falling in love,2424,bge_reranker_v2_m3,0.2170054741491156
+Q15,a witty romantic comedy about two people gradually falling in love,2581,bge_reranker_v2_m3,0.10284407916229499
+Q15,a witty romantic comedy about two people gradually falling in love,2671,bge_reranker_v2_m3,0.05602938511788175
+Q15,a witty romantic comedy about two people gradually falling in love,2805,bge_reranker_v2_m3,0.04840595740372121
+Q15,a witty romantic comedy about two people gradually falling in love,3361,bge_reranker_v2_m3,0.05108273695705249
+Q15,a witty romantic comedy about two people gradually falling in love,3481,bge_reranker_v2_m3,0.15817435274843167
+Q15,a witty romantic comedy about two people gradually falling in love,3948,bge_reranker_v2_m3,0.08494710334281272
+Q15,a witty romantic comedy about two people gradually falling in love,4069,bge_reranker_v2_m3,0.2386388948770155
+Q15,a witty romantic comedy about two people gradually falling in love,4144,bge_reranker_v2_m3,0.040769266244388154
+Q15,a witty romantic comedy about two people gradually falling in love,4361,bge_reranker_v2_m3,0.038178274261566426
+Q15,a witty romantic comedy about two people gradually falling in love,4639,bge_reranker_v2_m3,0.03919513320329816
+Q15,a witty romantic comedy about two people gradually falling in love,4718,bge_reranker_v2_m3,0.027428542704283878
+Q15,a witty romantic comedy about two people gradually falling in love,4728,bge_reranker_v2_m3,0.005865338360797102
+Q15,a witty romantic comedy about two people gradually falling in love,4823,bge_reranker_v2_m3,0.20946968133032529
+Q15,a witty romantic comedy about two people gradually falling in love,4973,bge_reranker_v2_m3,0.039342503264258206
+Q15,a witty romantic comedy about two people gradually falling in love,5283,bge_reranker_v2_m3,0.07263670636078698
+Q15,a witty romantic comedy about two people gradually falling in love,5449,bge_reranker_v2_m3,0.07585818002124355
+Q15,a witty romantic comedy about two people gradually falling in love,5577,bge_reranker_v2_m3,0.08882029240011773
+Q15,a witty romantic comedy about two people gradually falling in love,5673,bge_reranker_v2_m3,0.03615193758286911
+Q15,a witty romantic comedy about two people gradually falling in love,5943,bge_reranker_v2_m3,0.166539809467368
+Q15,a witty romantic comedy about two people gradually falling in love,5957,bge_reranker_v2_m3,0.10484336403025445
+Q15,a witty romantic comedy about two people gradually falling in love,6155,bge_reranker_v2_m3,0.04493164302237832
+Q15,a witty romantic comedy about two people gradually falling in love,6482,bge_reranker_v2_m3,0.0483160702678493
+Q15,a witty romantic comedy about two people gradually falling in love,6586,bge_reranker_v2_m3,0.08694165672789168
+Q15,a witty romantic comedy about two people gradually falling in love,6942,bge_reranker_v2_m3,0.1412814160007008
+Q15,a witty romantic comedy about two people gradually falling in love,7173,bge_reranker_v2_m3,0.07043161579902456
+Q15,a witty romantic comedy about two people gradually falling in love,7293,bge_reranker_v2_m3,0.10970577387797076
+Q15,a witty romantic comedy about two people gradually falling in love,7361,bge_reranker_v2_m3,0.056444025048495376
+Q15,a witty romantic comedy about two people gradually falling in love,8910,bge_reranker_v2_m3,0.03448852755791727
+Q15,a witty romantic comedy about two people gradually falling in love,31685,bge_reranker_v2_m3,0.10034840644105593
+Q15,a witty romantic comedy about two people gradually falling in love,34162,bge_reranker_v2_m3,0.08299414835226906
+Q15,a witty romantic comedy about two people gradually falling in love,38061,bge_reranker_v2_m3,0.022889840112388905
+Q15,a witty romantic comedy about two people gradually falling in love,49286,bge_reranker_v2_m3,0.033462934651990704
+Q15,a witty romantic comedy about two people gradually falling in love,52973,bge_reranker_v2_m3,0.040313437834832884
+Q15,a witty romantic comedy about two people gradually falling in love,53894,bge_reranker_v2_m3,0.0018243827852769423
+Q15,a witty romantic comedy about two people gradually falling in love,58047,bge_reranker_v2_m3,0.1524103175158668
+Q15,a witty romantic comedy about two people gradually falling in love,60950,bge_reranker_v2_m3,0.04320403592344244
+Q15,a witty romantic comedy about two people gradually falling in love,64969,bge_reranker_v2_m3,0.13161904835577012
+Q15,a witty romantic comedy about two people gradually falling in love,67087,bge_reranker_v2_m3,0.06891250313807083
+Q15,a witty romantic comedy about two people gradually falling in love,69757,bge_reranker_v2_m3,0.16398024910404718
+Q15,a witty romantic comedy about two people gradually falling in love,70183,bge_reranker_v2_m3,0.02249996937700377
+Q15,a witty romantic comedy about two people gradually falling in love,88163,bge_reranker_v2_m3,0.07572137207533139
+Q15,a witty romantic comedy about two people gradually falling in love,94959,bge_reranker_v2_m3,0.4813319238096782
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,198,bge_reranker_v2_m3,0.011823394836370594
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,593,bge_reranker_v2_m3,0.03167862478274483
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,903,bge_reranker_v2_m3,0.07356305033897523
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,922,bge_reranker_v2_m3,0.03941638743217145
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1047,bge_reranker_v2_m3,0.025516603447980492
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1104,bge_reranker_v2_m3,0.12357700352382259
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1206,bge_reranker_v2_m3,0.013636835281429878
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1219,bge_reranker_v2_m3,0.09351230915384985
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1258,bge_reranker_v2_m3,0.06187598572364272
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1625,bge_reranker_v2_m3,0.03494669711152705
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1748,bge_reranker_v2_m3,0.02442309005410721
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,1921,bge_reranker_v2_m3,0.02992974702544123
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2369,bge_reranker_v2_m3,0.015906391711814714
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2505,bge_reranker_v2_m3,0.011732463956348185
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2672,bge_reranker_v2_m3,0.009090383313658499
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2688,bge_reranker_v2_m3,0.0274806928095821
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2712,bge_reranker_v2_m3,0.022074387101024415
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2762,bge_reranker_v2_m3,0.09025323205382096
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2841,bge_reranker_v2_m3,0.032589744766025344
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,2916,bge_reranker_v2_m3,0.037892426629607394
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3044,bge_reranker_v2_m3,0.12095702846131734
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3081,bge_reranker_v2_m3,0.03832197352054554
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3176,bge_reranker_v2_m3,0.06030763997506922
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3186,bge_reranker_v2_m3,0.025083140936028623
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3476,bge_reranker_v2_m3,0.03333682414270177
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3499,bge_reranker_v2_m3,0.04493164302237832
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3503,bge_reranker_v2_m3,0.13128455956620533
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3535,bge_reranker_v2_m3,0.0570713972253977
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3730,bge_reranker_v2_m3,0.019719128107346592
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3798,bge_reranker_v2_m3,0.015247590621499623
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3863,bge_reranker_v2_m3,0.010169657753872614
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3893,bge_reranker_v2_m3,0.012722708199923247
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3949,bge_reranker_v2_m3,0.015723990527735578
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3986,bge_reranker_v2_m3,0.016850079447897758
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,3994,bge_reranker_v2_m3,0.018089995204993197
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4148,bge_reranker_v2_m3,0.09602548878779378
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4226,bge_reranker_v2_m3,0.28756770344326626
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4238,bge_reranker_v2_m3,0.0369775545351458
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4720,bge_reranker_v2_m3,0.014337030424010801
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4848,bge_reranker_v2_m3,0.21568095536429607
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4878,bge_reranker_v2_m3,0.11066322824113882
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4975,bge_reranker_v2_m3,0.04146227271140963
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,4995,bge_reranker_v2_m3,0.039342503264258206
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5266,bge_reranker_v2_m3,0.07290027342462209
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5388,bge_reranker_v2_m3,0.014615670100635953
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5418,bge_reranker_v2_m3,0.03839401775761835
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5528,bge_reranker_v2_m3,0.014281933925111154
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,5881,bge_reranker_v2_m3,0.13568954596860924
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,6323,bge_reranker_v2_m3,0.03588069552584119
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,7163,bge_reranker_v2_m3,0.021990219697200806
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,7254,bge_reranker_v2_m3,0.045692032381584625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,7347,bge_reranker_v2_m3,0.01536534144130222
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,7361,bge_reranker_v2_m3,0.045692032381584625
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,8781,bge_reranker_v2_m3,0.033085978388704126
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,49278,bge_reranker_v2_m3,0.026105915341323935
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,51086,bge_reranker_v2_m3,0.033211172570690284
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,74458,bge_reranker_v2_m3,0.13799647126840353
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,79132,bge_reranker_v2_m3,0.06097518086496481
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,81591,bge_reranker_v2_m3,0.0984254123665623
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,85510,bge_reranker_v2_m3,0.02605630425138499
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,87306,bge_reranker_v2_m3,0.007460643463940165
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,112556,bge_reranker_v2_m3,0.05155818952427454
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,114180,bge_reranker_v2_m3,0.03132111722078539
+Q17,"a science fiction film about space exploration, isolation and survival",76,bge_reranker_v2_m3,0.11318690654016263
+Q17,"a science fiction film about space exploration, isolation and survival",208,bge_reranker_v2_m3,0.06244528561398407
+Q17,"a science fiction film about space exploration, isolation and survival",260,bge_reranker_v2_m3,0.1212688777402316
+Q17,"a science fiction film about space exploration, isolation and survival",780,bge_reranker_v2_m3,0.09636510472498538
+Q17,"a science fiction film about space exploration, isolation and survival",924,bge_reranker_v2_m3,0.5083534096863863
+Q17,"a science fiction film about space exploration, isolation and survival",1097,bge_reranker_v2_m3,0.1678997379500831
+Q17,"a science fiction film about space exploration, isolation and survival",1200,bge_reranker_v2_m3,0.13603350040798867
+Q17,"a science fiction film about space exploration, isolation and survival",1210,bge_reranker_v2_m3,0.1812632068286302
+Q17,"a science fiction film about space exploration, isolation and survival",1214,bge_reranker_v2_m3,0.10894504720170402
+Q17,"a science fiction film about space exploration, isolation and survival",1253,bge_reranker_v2_m3,0.10725032589277456
+Q17,"a science fiction film about space exploration, isolation and survival",1301,bge_reranker_v2_m3,0.19884087755303317
+Q17,"a science fiction film about space exploration, isolation and survival",1320,bge_reranker_v2_m3,0.11858909657632805
+Q17,"a science fiction film about space exploration, isolation and survival",1373,bge_reranker_v2_m3,0.1129910084485674
+Q17,"a science fiction film about space exploration, isolation and survival",1375,bge_reranker_v2_m3,0.10743747660842012
+Q17,"a science fiction film about space exploration, isolation and survival",1527,bge_reranker_v2_m3,0.16708272026322207
+Q17,"a science fiction film about space exploration, isolation and survival",1590,bge_reranker_v2_m3,0.17553807362342938
+Q17,"a science fiction film about space exploration, isolation and survival",1779,bge_reranker_v2_m3,0.10105591346809123
+Q17,"a science fiction film about space exploration, isolation and survival",1831,bge_reranker_v2_m3,0.18967113959323328
+Q17,"a science fiction film about space exploration, isolation and survival",1876,bge_reranker_v2_m3,0.1509026313736394
+Q17,"a science fiction film about space exploration, isolation and survival",1909,bge_reranker_v2_m3,0.1223133843238468
+Q17,"a science fiction film about space exploration, isolation and survival",1917,bge_reranker_v2_m3,0.18967113959323328
+Q17,"a science fiction film about space exploration, isolation and survival",2021,bge_reranker_v2_m3,0.1974444571048067
+Q17,"a science fiction film about space exploration, isolation and survival",2288,bge_reranker_v2_m3,0.41264849112196944
+Q17,"a science fiction film about space exploration, isolation and survival",2311,bge_reranker_v2_m3,0.11757213354550881
+Q17,"a science fiction film about space exploration, isolation and survival",2529,bge_reranker_v2_m3,0.1576549093940152
+Q17,"a science fiction film about space exploration, isolation and survival",2533,bge_reranker_v2_m3,0.13986565348595603
+Q17,"a science fiction film about space exploration, isolation and survival",2827,bge_reranker_v2_m3,0.06866228586049841
+Q17,"a science fiction film about space exploration, isolation and survival",3175,bge_reranker_v2_m3,0.08314291423453819
+Q17,"a science fiction film about space exploration, isolation and survival",3300,bge_reranker_v2_m3,0.1725898126377591
+Q17,"a science fiction film about space exploration, isolation and survival",3354,bge_reranker_v2_m3,0.22473530073526204
+Q17,"a science fiction film about space exploration, isolation and survival",3471,bge_reranker_v2_m3,0.1589561227143433
+Q17,"a science fiction film about space exploration, isolation and survival",3503,bge_reranker_v2_m3,0.10158944591881584
+Q17,"a science fiction film about space exploration, isolation and survival",3593,bge_reranker_v2_m3,0.07409726117812651
+Q17,"a science fiction film about space exploration, isolation and survival",3745,bge_reranker_v2_m3,0.20946968133032529
+Q17,"a science fiction film about space exploration, isolation and survival",3826,bge_reranker_v2_m3,0.13061774667060078
+Q17,"a science fiction film about space exploration, isolation and survival",3827,bge_reranker_v2_m3,0.18198897778208856
+Q17,"a science fiction film about space exploration, isolation and survival",3981,bge_reranker_v2_m3,0.11716746932535989
+Q17,"a science fiction film about space exploration, isolation and survival",4121,bge_reranker_v2_m3,0.03527754690661164
+Q17,"a science fiction film about space exploration, isolation and survival",4343,bge_reranker_v2_m3,0.032222296966057905
+Q17,"a science fiction film about space exploration, isolation and survival",4643,bge_reranker_v2_m3,0.1179780085953826
+Q17,"a science fiction film about space exploration, isolation and survival",5881,bge_reranker_v2_m3,0.25164770242862033
+Q17,"a science fiction film about space exploration, isolation and survival",33004,bge_reranker_v2_m3,0.2449043761326729
+Q17,"a science fiction film about space exploration, isolation and survival",34048,bge_reranker_v2_m3,0.144994255590899
+Q17,"a science fiction film about space exploration, isolation and survival",34150,bge_reranker_v2_m3,0.19852992152742407
+Q17,"a science fiction film about space exploration, isolation and survival",34405,bge_reranker_v2_m3,0.14854056798294435
+Q17,"a science fiction film about space exploration, isolation and survival",52328,bge_reranker_v2_m3,0.09351230915384985
+Q17,"a science fiction film about space exploration, isolation and survival",56174,bge_reranker_v2_m3,0.159086721936221
+Q17,"a science fiction film about space exploration, isolation and survival",57368,bge_reranker_v2_m3,0.08108211382389394
+Q17,"a science fiction film about space exploration, isolation and survival",68237,bge_reranker_v2_m3,0.2697101295716962
+Q17,"a science fiction film about space exploration, isolation and survival",84772,bge_reranker_v2_m3,0.1359187673817584
+Q17,"a science fiction film about space exploration, isolation and survival",94864,bge_reranker_v2_m3,0.12797922384015545
+Q17,"a science fiction film about space exploration, isolation and survival",101864,bge_reranker_v2_m3,0.12560065843624257
+Q17,"a science fiction film about space exploration, isolation and survival",102445,bge_reranker_v2_m3,0.1367236130726179
+Q17,"a science fiction film about space exploration, isolation and survival",103253,bge_reranker_v2_m3,0.11536140159594613
+Q17,"a science fiction film about space exploration, isolation and survival",104841,bge_reranker_v2_m3,0.2549724637637575
+Q17,"a science fiction film about space exploration, isolation and survival",109487,bge_reranker_v2_m3,0.13352816354548508
+Q17,"a science fiction film about space exploration, isolation and survival",134130,bge_reranker_v2_m3,0.6473524728455617
+Q17,"a science fiction film about space exploration, isolation and survival",135569,bge_reranker_v2_m3,0.16491954666382327
+Q17,"a science fiction film about space exploration, isolation and survival",164179,bge_reranker_v2_m3,0.06221698130939033
+Q17,"a science fiction film about space exploration, isolation and survival",166528,bge_reranker_v2_m3,0.13341521726397837
+Q18,"a coming-of-age film about school, friendship and finding your identity",39,bge_reranker_v2_m3,0.15266279628647764
+Q18,"a coming-of-age film about school, friendship and finding your identity",218,bge_reranker_v2_m3,0.0596469429451214
+Q18,"a coming-of-age film about school, friendship and finding your identity",239,bge_reranker_v2_m3,0.11716746932535989
+Q18,"a coming-of-age film about school, friendship and finding your identity",441,bge_reranker_v2_m3,0.15278916420533722
+Q18,"a coming-of-age film about school, friendship and finding your identity",491,bge_reranker_v2_m3,0.19775413247015594
+Q18,"a coming-of-age film about school, friendship and finding your identity",562,bge_reranker_v2_m3,0.0825493022640281
+Q18,"a coming-of-age film about school, friendship and finding your identity",724,bge_reranker_v2_m3,0.077099696216148
+Q18,"a coming-of-age film about school, friendship and finding your identity",765,bge_reranker_v2_m3,0.18550413362367746
+Q18,"a coming-of-age film about school, friendship and finding your identity",1103,bge_reranker_v2_m3,0.11027937158609122
+Q18,"a coming-of-age film about school, friendship and finding your identity",1259,bge_reranker_v2_m3,0.1753967859238641
+Q18,"a coming-of-age film about school, friendship and finding your identity",1285,bge_reranker_v2_m3,0.1614524064731903
+Q18,"a coming-of-age film about school, friendship and finding your identity",1513,bge_reranker_v2_m3,0.05510689943883947
+Q18,"a coming-of-age film about school, friendship and finding your identity",1614,bge_reranker_v2_m3,0.02072506192038245
+Q18,"a coming-of-age film about school, friendship and finding your identity",1895,bge_reranker_v2_m3,0.2588876954588965
+Q18,"a coming-of-age film about school, friendship and finding your identity",1968,bge_reranker_v2_m3,0.14706452045904775
+Q18,"a coming-of-age film about school, friendship and finding your identity",2114,bge_reranker_v2_m3,0.07211220541293051
+Q18,"a coming-of-age film about school, friendship and finding your identity",2144,bge_reranker_v2_m3,0.0874079174912833
+Q18,"a coming-of-age film about school, friendship and finding your identity",2146,bge_reranker_v2_m3,0.1457221597481568
+Q18,"a coming-of-age film about school, friendship and finding your identity",2248,bge_reranker_v2_m3,0.0666906545157953
+Q18,"a coming-of-age film about school, friendship and finding your identity",2352,bge_reranker_v2_m3,0.10706346207954627
+Q18,"a coming-of-age film about school, friendship and finding your identity",2395,bge_reranker_v2_m3,0.1746916902686323
+Q18,"a coming-of-age film about school, friendship and finding your identity",2416,bge_reranker_v2_m3,0.037047168669075196
+Q18,"a coming-of-age film about school, friendship and finding your identity",2447,bge_reranker_v2_m3,0.04216654125124465
+Q18,"a coming-of-age film about school, friendship and finding your identity",2485,bge_reranker_v2_m3,0.03628829766475822
+Q18,"a coming-of-age film about school, friendship and finding your identity",2565,bge_reranker_v2_m3,0.0544998743411987
+Q18,"a coming-of-age film about school, friendship and finding your identity",2572,bge_reranker_v2_m3,0.18111832336652267
+Q18,"a coming-of-age film about school, friendship and finding your identity",2706,bge_reranker_v2_m3,0.24472382910998208
+Q18,"a coming-of-age film about school, friendship and finding your identity",2797,bge_reranker_v2_m3,0.07094482774276181
+Q18,"a coming-of-age film about school, friendship and finding your identity",2908,bge_reranker_v2_m3,0.050799459703689945
+Q18,"a coming-of-age film about school, friendship and finding your identity",2918,bge_reranker_v2_m3,0.17924304163598906
+Q18,"a coming-of-age film about school, friendship and finding your identity",3176,bge_reranker_v2_m3,0.08284562460179114
+Q18,"a coming-of-age film about school, friendship and finding your identity",3210,bge_reranker_v2_m3,0.4062729370622351
+Q18,"a coming-of-age film about school, friendship and finding your identity",3359,bge_reranker_v2_m3,0.2968580553950878
+Q18,"a coming-of-age film about school, friendship and finding your identity",3897,bge_reranker_v2_m3,0.09739039825194779
+Q18,"a coming-of-age film about school, friendship and finding your identity",3967,bge_reranker_v2_m3,0.15533456033332146
+Q18,"a coming-of-age film about school, friendship and finding your identity",3998,bge_reranker_v2_m3,0.043528139716435335
+Q18,"a coming-of-age film about school, friendship and finding your identity",4019,bge_reranker_v2_m3,0.18198897778208856
+Q18,"a coming-of-age film about school, friendship and finding your identity",4029,bge_reranker_v2_m3,0.009376237450848677
+Q18,"a coming-of-age film about school, friendship and finding your identity",4641,bge_reranker_v2_m3,0.07696083569602614
+Q18,"a coming-of-age film about school, friendship and finding your identity",4878,bge_reranker_v2_m3,0.09619516283205891
+Q18,"a coming-of-age film about school, friendship and finding your identity",4896,bge_reranker_v2_m3,0.23633993777367787
+Q18,"a coming-of-age film about school, friendship and finding your identity",4974,bge_reranker_v2_m3,0.023286305444260233
+Q18,"a coming-of-age film about school, friendship and finding your identity",5066,bge_reranker_v2_m3,0.16371266947237673
+Q18,"a coming-of-age film about school, friendship and finding your identity",5349,bge_reranker_v2_m3,0.11818140091045345
+Q18,"a coming-of-age film about school, friendship and finding your identity",5377,bge_reranker_v2_m3,0.1299538139648546
+Q18,"a coming-of-age film about school, friendship and finding your identity",5577,bge_reranker_v2_m3,0.08601588131710575
+Q18,"a coming-of-age film about school, friendship and finding your identity",5669,bge_reranker_v2_m3,0.015014748005819525
+Q18,"a coming-of-age film about school, friendship and finding your identity",6188,bge_reranker_v2_m3,0.03670035387577421
+Q18,"a coming-of-age film about school, friendship and finding your identity",6863,bge_reranker_v2_m3,0.06928941251462155
+Q18,"a coming-of-age film about school, friendship and finding your identity",7451,bge_reranker_v2_m3,0.274448591016273
+Q18,"a coming-of-age film about school, friendship and finding your identity",8366,bge_reranker_v2_m3,0.1406900653736848
+Q18,"a coming-of-age film about school, friendship and finding your identity",8376,bge_reranker_v2_m3,0.03179866880469501
+Q18,"a coming-of-age film about school, friendship and finding your identity",8970,bge_reranker_v2_m3,0.0499585240665846
+Q18,"a coming-of-age film about school, friendship and finding your identity",44761,bge_reranker_v2_m3,0.026105915341323935
+Q18,"a coming-of-age film about school, friendship and finding your identity",47518,bge_reranker_v2_m3,0.0382500590931036
+Q18,"a coming-of-age film about school, friendship and finding your identity",53519,bge_reranker_v2_m3,0.03882902118577125
+Q18,"a coming-of-age film about school, friendship and finding your identity",54503,bge_reranker_v2_m3,0.44176331446336214
+Q18,"a coming-of-age film about school, friendship and finding your identity",76251,bge_reranker_v2_m3,0.05510689943883947
+Q18,"a coming-of-age film about school, friendship and finding your identity",80549,bge_reranker_v2_m3,0.3621792647817727
+Q18,"a coming-of-age film about school, friendship and finding your identity",93510,bge_reranker_v2_m3,0.11182182391242389
+Q18,"a coming-of-age film about school, friendship and finding your identity",96588,bge_reranker_v2_m3,0.16885695214168317
+Q18,"a coming-of-age film about school, friendship and finding your identity",96821,bge_reranker_v2_m3,0.403273064322071
+Q18,"a coming-of-age film about school, friendship and finding your identity",112138,bge_reranker_v2_m3,0.18257121981177252
+Q18,"a coming-of-age film about school, friendship and finding your identity",112290,bge_reranker_v2_m3,0.1796744476266455
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2,bge_reranker_v2_m3,0.11777491957086146
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",405,bge_reranker_v2_m3,0.05213425646829601
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",653,bge_reranker_v2_m3,0.08803311528880657
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",919,bge_reranker_v2_m3,0.17175468335105526
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",1387,bge_reranker_v2_m3,0.01073516260909068
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",1967,bge_reranker_v2_m3,0.09203286011100995
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2115,bge_reranker_v2_m3,0.05117749440582949
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2116,bge_reranker_v2_m3,0.08449275397500926
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2140,bge_reranker_v2_m3,0.09704755697933024
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2143,bge_reranker_v2_m3,0.0656048374590693
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2161,bge_reranker_v2_m3,0.14021847642535415
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2193,bge_reranker_v2_m3,0.22798457407385647
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2406,bge_reranker_v2_m3,0.0437727391740845
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2643,bge_reranker_v2_m3,0.028761587264997814
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2826,bge_reranker_v2_m3,0.03185885568604045
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",2872,bge_reranker_v2_m3,0.10800065320372512
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3000,bge_reranker_v2_m3,0.10743747660842012
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3175,bge_reranker_v2_m3,0.020924190916620598
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3489,bge_reranker_v2_m3,0.08284562460179114
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3740,bge_reranker_v2_m3,0.05480259515596156
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",3997,bge_reranker_v2_m3,0.0722430022495024
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",4367,bge_reranker_v2_m3,0.43836439475195893
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",4896,bge_reranker_v2_m3,0.6418714600946596
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",4993,bge_reranker_v2_m3,0.24889914037650993
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",5463,bge_reranker_v2_m3,0.058560826873748875
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",5816,bge_reranker_v2_m3,0.3092322734931207
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",5952,bge_reranker_v2_m3,0.17483253041377647
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",6350,bge_reranker_v2_m3,0.048857778622174906
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",7153,bge_reranker_v2_m3,0.24202643355734138
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",8368,bge_reranker_v2_m3,0.5150101368683592
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",34150,bge_reranker_v2_m3,0.15027805746752934
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",36401,bge_reranker_v2_m3,0.07949569926013912
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",40815,bge_reranker_v2_m3,0.2824930052527928
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",41566,bge_reranker_v2_m3,0.12241825973580354
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",49649,bge_reranker_v2_m3,0.10070160818492735
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",54001,bge_reranker_v2_m3,0.1353463249619047
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",54259,bge_reranker_v2_m3,0.07159119944455247
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",55269,bge_reranker_v2_m3,0.04092230281647798
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",56171,bge_reranker_v2_m3,0.101411324754648
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",59501,bge_reranker_v2_m3,0.09138210306717136
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",69844,bge_reranker_v2_m3,0.12002562775436143
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",76093,bge_reranker_v2_m3,0.16384641536836564
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",81834,bge_reranker_v2_m3,0.26038946087302073
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",81847,bge_reranker_v2_m3,0.051941561501226155
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",88125,bge_reranker_v2_m3,0.05510689943883947
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",95167,bge_reranker_v2_m3,0.05480259515596156
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",98809,bge_reranker_v2_m3,0.12560065843624257
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",106489,bge_reranker_v2_m3,0.16411417070210504
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",106696,bge_reranker_v2_m3,0.6106276245622925
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",111659,bge_reranker_v2_m3,0.49015172551598307
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",118696,bge_reranker_v2_m3,0.19421493774762635
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",135143,bge_reranker_v2_m3,0.14645309221797823
+Q20,"a film about music, artistic ambition and the personal cost of success",31,bge_reranker_v2_m3,0.04476431259571493
+Q20,"a film about music, artistic ambition and the personal cost of success",62,bge_reranker_v2_m3,0.07992552347565954
+Q20,"a film about music, artistic ambition and the personal cost of success",111,bge_reranker_v2_m3,0.03161876726864549
+Q20,"a film about music, artistic ambition and the personal cost of success",140,bge_reranker_v2_m3,0.06903792817478999
+Q20,"a film about music, artistic ambition and the personal cost of success",176,bge_reranker_v2_m3,0.008985428752560174
+Q20,"a film about music, artistic ambition and the personal cost of success",235,bge_reranker_v2_m3,0.028544151696160366
+Q20,"a film about music, artistic ambition and the personal cost of success",249,bge_reranker_v2_m3,0.07450025901897812
+Q20,"a film about music, artistic ambition and the personal cost of success",307,bge_reranker_v2_m3,0.04169576942445538
+Q20,"a film about music, artistic ambition and the personal cost of success",477,bge_reranker_v2_m3,0.045692032381584625
+Q20,"a film about music, artistic ambition and the personal cost of success",900,bge_reranker_v2_m3,0.029816541143800022
+Q20,"a film about music, artistic ambition and the personal cost of success",924,bge_reranker_v2_m3,0.06313489821219215
+Q20,"a film about music, artistic ambition and the personal cost of success",953,bge_reranker_v2_m3,0.041617797774438206
+Q20,"a film about music, artistic ambition and the personal cost of success",1035,bge_reranker_v2_m3,0.0656048374590693
+Q20,"a film about music, artistic ambition and the personal cost of success",1042,bge_reranker_v2_m3,0.07807816514495095
+Q20,"a film about music, artistic ambition and the personal cost of success",1093,bge_reranker_v2_m3,0.04328484519570855
+Q20,"a film about music, artistic ambition and the personal cost of success",1206,bge_reranker_v2_m3,0.025662705546089896
+Q20,"a film about music, artistic ambition and the personal cost of success",1225,bge_reranker_v2_m3,0.07765743714392222
+Q20,"a film about music, artistic ambition and the personal cost of success",1298,bge_reranker_v2_m3,0.05975658640044865
+Q20,"a film about music, artistic ambition and the personal cost of success",1357,bge_reranker_v2_m3,0.034423549412649974
+Q20,"a film about music, artistic ambition and the personal cost of success",1673,bge_reranker_v2_m3,0.024656855541960166
+Q20,"a film about music, artistic ambition and the personal cost of success",1784,bge_reranker_v2_m3,0.021368887755176
+Q20,"a film about music, artistic ambition and the personal cost of success",1883,bge_reranker_v2_m3,0.032222296966057905
+Q20,"a film about music, artistic ambition and the personal cost of success",1959,bge_reranker_v2_m3,0.017110889211844043
+Q20,"a film about music, artistic ambition and the personal cost of success",2109,bge_reranker_v2_m3,0.028925717867727446
+Q20,"a film about music, artistic ambition and the personal cost of success",2318,bge_reranker_v2_m3,0.0162774609127135
+Q20,"a film about music, artistic ambition and the personal cost of success",2369,bge_reranker_v2_m3,0.03283695602724524
+Q20,"a film about music, artistic ambition and the personal cost of success",2474,bge_reranker_v2_m3,0.03429394712087164
+Q20,"a film about music, artistic ambition and the personal cost of success",2657,bge_reranker_v2_m3,0.05213425646829601
+Q20,"a film about music, artistic ambition and the personal cost of success",2686,bge_reranker_v2_m3,0.04535258055430642
+Q20,"a film about music, artistic ambition and the personal cost of success",2700,bge_reranker_v2_m3,0.040845715909949315
+Q20,"a film about music, artistic ambition and the personal cost of success",2770,bge_reranker_v2_m3,0.023599294351465336
+Q20,"a film about music, artistic ambition and the personal cost of success",2942,bge_reranker_v2_m3,0.044847903433294374
+Q20,"a film about music, artistic ambition and the personal cost of success",2973,bge_reranker_v2_m3,0.0253230601097671
+Q20,"a film about music, artistic ambition and the personal cost of success",3006,bge_reranker_v2_m3,0.026205413449533824
+Q20,"a film about music, artistic ambition and the personal cost of success",3060,bge_reranker_v2_m3,0.0529118112099578
+Q20,"a film about music, artistic ambition and the personal cost of success",3087,bge_reranker_v2_m3,0.04401864986294638
+Q20,"a film about music, artistic ambition and the personal cost of success",3160,bge_reranker_v2_m3,0.032651378460344445
+Q20,"a film about music, artistic ambition and the personal cost of success",3477,bge_reranker_v2_m3,0.04724971350148983
+Q20,"a film about music, artistic ambition and the personal cost of success",3481,bge_reranker_v2_m3,0.03429394712087164
+Q20,"a film about music, artistic ambition and the personal cost of success",3825,bge_reranker_v2_m3,0.0773781063026379
+Q20,"a film about music, artistic ambition and the personal cost of success",3897,bge_reranker_v2_m3,0.06941547240649758
+Q20,"a film about music, artistic ambition and the personal cost of success",3910,bge_reranker_v2_m3,0.03114383053477846
+Q20,"a film about music, artistic ambition and the personal cost of success",3949,bge_reranker_v2_m3,0.019719128107346592
+Q20,"a film about music, artistic ambition and the personal cost of success",3967,bge_reranker_v2_m3,0.09484524420535369
+Q20,"a film about music, artistic ambition and the personal cost of success",4017,bge_reranker_v2_m3,0.034423549412649974
+Q20,"a film about music, artistic ambition and the personal cost of success",4022,bge_reranker_v2_m3,0.04434858139539836
+Q20,"a film about music, artistic ambition and the personal cost of success",4308,bge_reranker_v2_m3,0.09721884276216182
+Q20,"a film about music, artistic ambition and the personal cost of success",4448,bge_reranker_v2_m3,0.02838212289990485
+Q20,"a film about music, artistic ambition and the personal cost of success",4642,bge_reranker_v2_m3,0.03126191341682427
+Q20,"a film about music, artistic ambition and the personal cost of success",4995,bge_reranker_v2_m3,0.03875619358719477
+Q20,"a film about music, artistic ambition and the personal cost of success",5669,bge_reranker_v2_m3,0.025083140936028623
+Q20,"a film about music, artistic ambition and the personal cost of success",5810,bge_reranker_v2_m3,0.041930523563668616
+Q20,"a film about music, artistic ambition and the personal cost of success",5995,bge_reranker_v2_m3,0.0374675068985736
+Q20,"a film about music, artistic ambition and the personal cost of success",6565,bge_reranker_v2_m3,0.042722197546490565
+Q20,"a film about music, artistic ambition and the personal cost of success",6863,bge_reranker_v2_m3,0.05986641857192516
+Q20,"a film about music, artistic ambition and the personal cost of success",7151,bge_reranker_v2_m3,0.03971325677368418
+Q20,"a film about music, artistic ambition and the personal cost of success",7361,bge_reranker_v2_m3,0.06176270896503102
+Q20,"a film about music, artistic ambition and the personal cost of success",8958,bge_reranker_v2_m3,0.05500528829345414
+Q20,"a film about music, artistic ambition and the personal cost of success",30812,bge_reranker_v2_m3,0.027901376209556707
+Q20,"a film about music, artistic ambition and the personal cost of success",40278,bge_reranker_v2_m3,0.026355352846119753
+Q20,"a film about music, artistic ambition and the personal cost of success",40819,bge_reranker_v2_m3,0.05117749440582949
+Q20,"a film about music, artistic ambition and the personal cost of success",47099,bge_reranker_v2_m3,0.029201290245781282
+Q20,"a film about music, artistic ambition and the personal cost of success",48780,bge_reranker_v2_m3,0.02585877591271116
+Q20,"a film about music, artistic ambition and the personal cost of success",77455,bge_reranker_v2_m3,0.017509557349574698
+Q20,"a film about music, artistic ambition and the personal cost of success",80463,bge_reranker_v2_m3,0.06916356453554355
+Q20,"a film about music, artistic ambition and the personal cost of success",80906,bge_reranker_v2_m3,0.012920473039078978
+Q20,"a film about music, artistic ambition and the personal cost of success",96588,bge_reranker_v2_m3,0.09859886446869569
+Q20,"a film about music, artistic ambition and the personal cost of success",112183,bge_reranker_v2_m3,0.028544151696160366
+Q20,"a film about music, artistic ambition and the personal cost of success",112552,bge_reranker_v2_m3,0.07436570297412956

@@ -21,6 +21,28 @@ Il test successivo non ha mostrato un vantaggio complessivo del reranker: perci�
 `dense_v1` resta il profilo predefinito. Il reranker viene conservato come
 profilo sperimentale, utile per analisi per-query e future ablation.
 
+## Nuova ablation sperimentale su ~2.000 film
+
+La baseline runtime `BASELINE` resta volutamente in **v1** (`canonical_title`) per non
+invalidare collection Qdrant, profili MCP e notebook 05-08 già verificati. La nuova
+rappresentazione con `tmdb_title` è esposta separatamente come `BASELINE_V2` e viene
+usata soltanto dall'esperimento finché non viene selezionata una nuova configurazione.
+
+Il notebook `09_retrieval_ablation_2000_multimodel.ipynb` amplia il confronto a:
+
+- BM25;
+- BGE-M3 dense e learned sparse;
+- fusioni RRF dense+sparse e BM25+dense+sparse;
+- Qwen3-Embedding-0.6B dense;
+- GTE multilingual base dense;
+- fusioni Qwen/GTE dense + BGE-M3 sparse;
+- reranker BGE, Qwen3 e GTE sui soli first-stage finalisti.
+
+La valutazione principale usa query inglesi e conserva un controllo IT/EN appaiato.
+Il pooling è a due stadi: top-10 di tutti i sistemi per lo screening, poi top-30
+dei soli finalisti per candidate recall e reranking @10/@20/@30 verso un top-10 finale. I parametri
+dell'esperimento sono anche in `configs/retrieval_ablation_2000_v1.json`.
+
 La versione 0.4 aggiunge un primo workflow LLM provider-neutral:
 
 ```text
@@ -39,6 +61,7 @@ notebooks/05_qdrant_dense_integration.ipynb  migrazione e equivalenza dense
 notebooks/06_qdrant_dense_reranking.ipynb    dense vs dense+reranker e top-n
 notebooks/07_mcp_server_validation.ipynb     contratto MCP e round-trip in-process
 notebooks/08_llm_mcp_integration.ipynb       Gemini/OpenAI, agenti e flusso end-to-end
+notebooks/09_retrieval_ablation_2000_multimodel.ipynb  benchmark retrieval/reranking esteso
 src/movie_rag/config.py                      configurazioni versionate
 src/movie_rag/documents.py                   documento D, payload e fingerprint
 src/movie_rag/embeddings.py                  adapter BGE-M3 e cache validata
@@ -57,8 +80,10 @@ src/movie_rag/llm_mcp.py                     gateway tipizzato verso MCP
 src/movie_rag/llm_workflow.py                orchestratore deterministico
 src/movie_rag/validation.py                  equivalenza NumPy ↔ Qdrant
 src/movie_rag/evaluation.py                  NDCG, Recall e Precision
+src/movie_rag/experimental_retrieval.py        adapter e fusioni per la nuova ablation
 configs/baseline_manifest_v1.json            provenienza della baseline dense
 configs/reranker_manifest_v1.json            contratto del reranker sperimentale
+configs/retrieval_ablation_2000_v1.json         manifest del benchmark esteso
 configs/mcp_profiles_v1.json                 dense default e dense+rerank opzionale
 configs/mcp.env.example                      variabili d'ambiente commentate
 configs/mcp_client.example.json              configurazione client stdio di esempio
@@ -91,7 +116,7 @@ ricalcola gli embedding dei documenti e non esegue un nuovo upsert.
 Per il notebook 08 con Gemini:
 
 ```bash
-python -m pip install -e ".[bge,mcp,llm-gemini,llm-openai,test]"
+python -m pip install -e ".[bge,mcp,llm-gemini,test]"
 ```
 
 Creare un `.env` locale non versionato:

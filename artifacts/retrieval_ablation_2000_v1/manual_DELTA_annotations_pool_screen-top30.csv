@@ -1,0 +1,647 @@
+﻿query_id,query,tmdb_title,relevance
+Q01,"a melancholic film about memory, identity and time",One Hour Photo,1
+Q01,"a melancholic film about memory, identity and time",About Time,1
+Q01,"a melancholic film about memory, identity and time",The English Patient,2
+Q01,"a melancholic film about memory, identity and time",All About My Mother,1
+Q01,"a melancholic film about memory, identity and time",The Bourne Identity,1
+Q01,"a melancholic film about memory, identity and time",Solaris,2
+Q01,"a melancholic film about memory, identity and time",Midnight in Paris,1
+Q01,"a melancholic film about memory, identity and time",Ordinary People,1
+Q01,"a melancholic film about memory, identity and time",Blast from the Past,1
+Q01,"a melancholic film about memory, identity and time",Forever Young,1
+Q01,"a melancholic film about memory, identity and time",Kate & Leopold,1
+Q01,"a melancholic film about memory, identity and time","Girl, Interrupted",1
+Q01,"a melancholic film about memory, identity and time",Cloud Atlas,2
+Q01,"a melancholic film about memory, identity and time",Pink Floyd: The Wall,2
+Q01,"a melancholic film about memory, identity and time",The Blue Lagoon,0
+Q01,"a melancholic film about memory, identity and time",Three Colors: Blue,2
+Q01,"a melancholic film about memory, identity and time",Moon,2
+Q01,"a melancholic film about memory, identity and time",Hugo,1
+Q01,"a melancholic film about memory, identity and time",Hollow Man,0
+Q01,"a melancholic film about memory, identity and time",A Time to Kill,0
+Q01,"a melancholic film about memory, identity and time",Sunset Boulevard,2
+Q01,"a melancholic film about memory, identity and time",Once Upon a Time in America,2
+Q01,"a melancholic film about memory, identity and time",Girl with a Pearl Earring,1
+Q01,"a melancholic film about memory, identity and time",Life Is Beautiful,1
+Q01,"a melancholic film about memory, identity and time",Primer,1
+Q01,"a melancholic film about memory, identity and time",Babel,1
+Q01,"a melancholic film about memory, identity and time",Back to the Future,1
+Q01,"a melancholic film about memory, identity and time",Vanilla Sky,2
+Q01,"a melancholic film about memory, identity and time",Pollock,1
+Q01,"a melancholic film about memory, identity and time",Memoirs of a Geisha,2
+Q01,"a melancholic film about memory, identity and time",Click,1
+Q01,"a melancholic film about memory, identity and time",Garden State,1
+Q01,"a melancholic film about memory, identity and time",In Time,1
+Q01,"a melancholic film about memory, identity and time",The Imitation Game,1
+Q01,"a melancholic film about memory, identity and time",In the Mood for Love,2
+Q02,"an emotional, optimistic and moving film",Little Miss Sunshine,2
+Q02,"an emotional, optimistic and moving film",The Pursuit of Happyness,2
+Q02,"an emotional, optimistic and moving film",A Walk in the Clouds,2
+Q02,"an emotional, optimistic and moving film",Up in the Air,1
+Q02,"an emotional, optimistic and moving film",Homeward Bound: The Incredible Journey,2
+Q02,"an emotional, optimistic and moving film",There Will Be Blood,0
+Q02,"an emotional, optimistic and moving film",50/50,2
+Q02,"an emotional, optimistic and moving film",I Am Sam,2
+Q02,"an emotional, optimistic and moving film",Shoot 'Em Up,0
+Q02,"an emotional, optimistic and moving film",Cool Hand Luke,1
+Q02,"an emotional, optimistic and moving film",Silver Linings Playbook,2
+Q02,"an emotional, optimistic and moving film",Magnolia,1
+Q02,"an emotional, optimistic and moving film",Forever Young,2
+Q02,"an emotional, optimistic and moving film",Under Siege 2: Dark Territory,0
+Q02,"an emotional, optimistic and moving film",Pay It Forward,2
+Q02,"an emotional, optimistic and moving film",Born on the Fourth of July,1
+Q02,"an emotional, optimistic and moving film",Monster's Ball,1
+Q02,"an emotional, optimistic and moving film",Jack,2
+Q02,"an emotional, optimistic and moving film",Monty Python and the Holy Grail,0
+Q02,"an emotional, optimistic and moving film",Seabiscuit,2
+Q02,"an emotional, optimistic and moving film",Howl's Moving Castle,2
+Q02,"an emotional, optimistic and moving film",Trainspotting,1
+Q02,"an emotional, optimistic and moving film","Good Night, and Good Luck.",1
+Q02,"an emotional, optimistic and moving film",Romy and Michele's High School Reunion,1
+Q02,"an emotional, optimistic and moving film",A Hard Day's Night,1
+Q02,"an emotional, optimistic and moving film",Cast Away,2
+Q02,"an emotional, optimistic and moving film",Grave of the Fireflies,1
+Q02,"an emotional, optimistic and moving film","Definitely, Maybe",2
+Q02,"an emotional, optimistic and moving film",The Perks of Being a Wallflower,2
+Q02,"an emotional, optimistic and moving film",Shine,2
+Q02,"an emotional, optimistic and moving film",Cinderella Man,2
+Q02,"an emotional, optimistic and moving film",An Officer and a Gentleman,2
+Q02,"an emotional, optimistic and moving film",Punch-Drunk Love,2
+Q02,"an emotional, optimistic and moving film",Inside Job,0
+Q02,"an emotional, optimistic and moving film",The Help,2
+Q02,"an emotional, optimistic and moving film",Heavy Metal,0
+Q02,"an emotional, optimistic and moving film",The Muppet Movie,2
+Q02,"an emotional, optimistic and moving film",The Straight Story,2
+Q02,"an emotional, optimistic and moving film",Jarhead,1
+Q03,"a dystopian film about surveillance, social control and individual freedom",A Million Ways to Die in the West,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Harry and the Hendersons,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",The Bucket List,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Wyatt Earp,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Bowfinger,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Airplane II: The Sequel,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Jackass: The Movie,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",M*A*S*H,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",The River Wild,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Wag the Dog,1
+Q03,"a dystopian film about surveillance, social control and individual freedom",Citizen Kane,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Little Big Man,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",High Noon,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",We're the Millers,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Dumb and Dumber,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Tommy Boy,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Clerks,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Pushing Tin,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Seabiscuit,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Philadelphia,1
+Q03,"a dystopian film about surveillance, social control and individual freedom",Wild Wild West,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Toy Story,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Hot Shots! Part Deux,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",The People vs. Larry Flynt,1
+Q03,"a dystopian film about surveillance, social control and individual freedom",Miracle on 34th Street,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Into the Wild,1
+Q03,"a dystopian film about surveillance, social control and individual freedom",Tombstone,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Kingpin,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",The Green Mile,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Snowpiercer,2
+Q03,"a dystopian film about surveillance, social control and individual freedom",Dances with Wolves,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Good Will Hunting,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Crimes and Misdemeanors,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",The Dukes of Hazzard,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Dallas Buyers Club,1
+Q03,"a dystopian film about surveillance, social control and individual freedom",Seven Years in Tibet,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",8MM,0
+Q03,"a dystopian film about surveillance, social control and individual freedom",Scent of a Woman,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Forever Young,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Star Wars: The Force Awakens,2
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",A Beautiful Mind,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Solaris,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",The 6th Day,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Tomorrow Never Dies,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",The Fly,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Blade Runner,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",The Incredible Hulk,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",The Abyss,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Thor: The Dark World,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",The Animatrix,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Source Code,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Contact,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Gravity,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Strange Days,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Rush,2
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Vanilla Sky,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Rise of the Guardians,2
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Zero Dark Thirty,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Event Horizon,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",The Red Violin,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Star Wars: Episode II - Attack of the Clones,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",It's a Wonderful Life,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",8½,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Eternal Sunshine of the Spotless Mind,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Iron Man 3,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Armageddon,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Hollow Man,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Evan Almighty,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",The Shadow,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Mulholland Drive,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Girl with a Pearl Earring,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",2010,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Napoleon Dynamite,2
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Notting Hill,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Click,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Children of Men,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Thor,2
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",All About Eve,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Star Trek Into Darkness,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Arrival,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",The Postman,2
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",The Haunting,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Angels & Demons,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",The Fly,0
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Monsoon Wedding,1
+Q04,"a film about an underdog overcoming failure through perseverance, teamwork and personal growth",Rogue One: A Star Wars Story,2
+Q05,a film belonging to a famous saga or collection,Monty Python and the Holy Grail,1
+Q05,a film belonging to a famous saga or collection,The Brothers Grimm,0
+Q05,a film belonging to a famous saga or collection,The NeverEnding Story,2
+Q05,a film belonging to a famous saga or collection,Fantastic Beasts and Where to Find Them,2
+Q05,a film belonging to a famous saga or collection,Beauty and the Beast,1
+Q05,a film belonging to a famous saga or collection,Eragon,1
+Q05,a film belonging to a famous saga or collection,Anastasia,0
+Q05,a film belonging to a famous saga or collection,Highlander III: The Sorcerer,2
+Q05,a film belonging to a famous saga or collection,Star Wars,2
+Q05,a film belonging to a famous saga or collection,Legends of the Fall,0
+Q05,a film belonging to a famous saga or collection,Highlander,2
+Q05,a film belonging to a famous saga or collection,Troy,0
+Q05,a film belonging to a famous saga or collection,The Princess Bride,0
+Q05,a film belonging to a famous saga or collection,Harry Potter and the Prisoner of Azkaban,2
+Q05,a film belonging to a famous saga or collection,Braveheart,0
+Q05,a film belonging to a famous saga or collection,300,1
+Q05,a film belonging to a famous saga or collection,The Girl with the Dragon Tattoo,2
+Q05,a film belonging to a famous saga or collection,DragonHeart,2
+Q05,a film belonging to a famous saga or collection,Indiana Jones and the Temple of Doom,2
+Q05,a film belonging to a famous saga or collection,Strangers on a Train,0
+Q05,a film belonging to a famous saga or collection,The Scorpion King,2
+Q05,a film belonging to a famous saga or collection,Gosford Park,0
+Q05,a film belonging to a famous saga or collection,Three Colors: Blue,2
+Q05,a film belonging to a famous saga or collection,Marley & Me,0
+Q05,a film belonging to a famous saga or collection,Romeo + Juliet,0
+Q05,a film belonging to a famous saga or collection,Harry Potter and the Chamber of Secrets,2
+Q05,a film belonging to a famous saga or collection,Prince of Persia: The Sands of Time,1
+Q05,a film belonging to a famous saga or collection,Thor,2
+Q05,a film belonging to a famous saga or collection,The Grand Budapest Hotel,0
+Q05,a film belonging to a famous saga or collection,Magnolia,0
+Q05,a film belonging to a famous saga or collection,Skyfall,2
+Q05,a film belonging to a famous saga or collection,Raiders of the Lost Ark,2
+Q05,a film belonging to a famous saga or collection,Dungeons & Dragons,1
+Q05,a film belonging to a famous saga or collection,Gran Torino,0
+Q05,a film belonging to a famous saga or collection,Clash of the Titans,1
+Q05,a film belonging to a famous saga or collection,"10,000 BC",0
+Q05,a film belonging to a famous saga or collection,Quantum of Solace,2
+Q05,a film belonging to a famous saga or collection,The Secret of Roan Inish,0
+Q05,a film belonging to a famous saga or collection,"Crouching Tiger, Hidden Dragon",1
+Q05,a film belonging to a famous saga or collection,A Walk to Remember,0
+Q05,a film belonging to a famous saga or collection,Big Fish,0
+Q06,a reflective science fiction film under two hours,Idiocracy,2
+Q06,a reflective science fiction film under two hours,Johnny Mnemonic,1
+Q06,a reflective science fiction film under two hours,Alien,1
+Q06,a reflective science fiction film under two hours,Alien Resurrection,1
+Q06,a reflective science fiction film under two hours,Final Fantasy: The Spirits Within,2
+Q06,a reflective science fiction film under two hours,Æon Flux,1
+Q06,a reflective science fiction film under two hours,Children of Men,2
+Q06,a reflective science fiction film under two hours,Alien³,1
+Q06,a reflective science fiction film under two hours,Surrogates,2
+Q06,a reflective science fiction film under two hours,Gattaca,2
+Q06,a reflective science fiction film under two hours,The Thirteenth Floor,2
+Q06,a reflective science fiction film under two hours,War of the Worlds,1
+Q06,a reflective science fiction film under two hours,Heavy Metal,1
+Q06,a reflective science fiction film under two hours,Pi,2
+Q06,a reflective science fiction film under two hours,Back to the Future Part II,1
+Q06,a reflective science fiction film under two hours,"I, Robot",2
+Q06,a reflective science fiction film under two hours,Mystery Science Theater 3000: The Movie,0
+Q06,a reflective science fiction film under two hours,Next,1
+Q06,a reflective science fiction film under two hours,Timecop,1
+Q06,a reflective science fiction film under two hours,Event Horizon,1
+Q06,a reflective science fiction film under two hours,The Rocky Horror Picture Show,0
+Q06,a reflective science fiction film under two hours,The Fly,2
+Q06,a reflective science fiction film under two hours,Westworld,2
+Q06,a reflective science fiction film under two hours,The Hitchhiker's Guide to the Galaxy,1
+Q06,a reflective science fiction film under two hours,Doctor Strange,1
+Q06,a reflective science fiction film under two hours,"Dude, Where's My Car?",0
+Q06,a reflective science fiction film under two hours,Dark City,2
+Q06,a reflective science fiction film under two hours,Ultraviolet,0
+Q06,a reflective science fiction film under two hours,9,2
+Q07,a tense film that is not horror,Cape Fear,2
+Q07,a tense film that is not horror,Hotel Rwanda,2
+Q07,a tense film that is not horror,The Juror,2
+Q07,a tense film that is not horror,The Hateful Eight,2
+Q07,a tense film that is not horror,Fargo,2
+Q07,a tense film that is not horror,Daylight,2
+Q07,a tense film that is not horror,Die Another Day,1
+Q07,a tense film that is not horror,Single White Female,2
+Q07,a tense film that is not horror,Sudden Death,2
+Q07,a tense film that is not horror,Risky Business,0
+Q07,a tense film that is not horror,The Crying Game,2
+Q07,a tense film that is not horror,Touch of Evil,2
+Q07,a tense film that is not horror,Johnny Mnemonic,1
+Q07,a tense film that is not horror,Rear Window,2
+Q07,a tense film that is not horror,Crash,1
+Q07,a tense film that is not horror,Serenity,1
+Q07,a tense film that is not horror,Inside Man,2
+Q07,a tense film that is not horror,True Lies,2
+Q07,a tense film that is not horror,Pi,2
+Q07,a tense film that is not horror,Dog Day Afternoon,2
+Q07,a tense film that is not horror,The Hurt Locker,2
+Q07,a tense film that is not horror,Things to Do in Denver When You're Dead,1
+Q07,a tense film that is not horror,WarGames,2
+Q07,a tense film that is not horror,The Village,1
+Q07,a tense film that is not horror,Powder,0
+Q07,a tense film that is not horror,The People vs. Larry Flynt,1
+Q07,a tense film that is not horror,Sexy Beast,2
+Q07,a tense film that is not horror,Phone Booth,2
+Q07,a tense film that is not horror,The Player,1
+Q07,a tense film that is not horror,Enemy of the State,2
+Q07,a tense film that is not horror,"I, Robot",1
+Q07,a tense film that is not horror,Shallow Grave,2
+Q07,a tense film that is not horror,Sliver,2
+Q07,a tense film that is not horror,The Nice Guys,1
+Q07,a tense film that is not horror,Out of Africa,0
+Q07,a tense film that is not horror,Equilibrium,2
+Q07,a tense film that is not horror,No Country for Old Men,2
+Q07,a tense film that is not horror,The Town,2
+Q07,a tense film that is not horror,Quantum of Solace,1
+Q07,a tense film that is not horror,Strange Days,2
+Q07,a tense film that is not horror,Strangers on a Train,2
+Q07,a tense film that is not horror,Inside Job,0
+Q08,a modern drama about family relationships,The Rookie,2
+Q08,a modern drama about family relationships,The Darjeeling Limited,2
+Q08,a modern drama about family relationships,No Strings Attached,0
+Q08,a modern drama about family relationships,Save the Last Dance,1
+Q08,a modern drama about family relationships,Bridget Jones: The Edge of Reason,0
+Q08,a modern drama about family relationships,50/50,1
+Q08,a modern drama about family relationships,Erin Brockovich,1
+Q08,a modern drama about family relationships,Maid in Manhattan,1
+Q08,a modern drama about family relationships,The Theory of Everything,2
+Q08,a modern drama about family relationships,Pay It Forward,2
+Q08,a modern drama about family relationships,Neighbors,1
+Q08,a modern drama about family relationships,Mystic River,2
+Q08,a modern drama about family relationships,The Help,1
+Q08,a modern drama about family relationships,Thir13en Ghosts,1
+Q08,a modern drama about family relationships,The Hours,2
+Q08,a modern drama about family relationships,Knocked Up,2
+Q08,a modern drama about family relationships,27 Dresses,0
+Q08,a modern drama about family relationships,The Devil Wears Prada,0
+Q08,a modern drama about family relationships,Marley & Me,2
+Q08,a modern drama about family relationships,The Perks of Being a Wallflower,1
+Q08,a modern drama about family relationships,Interstellar,2
+Q08,a modern drama about family relationships,Meet the Parents,2
+Q08,a modern drama about family relationships,Love Actually,1
+Q08,a modern drama about family relationships,About a Boy,1
+Q08,a modern drama about family relationships,Girl with a Pearl Earring,0
+Q08,a modern drama about family relationships,The Last Samurai,0
+Q08,a modern drama about family relationships,Over the Hedge,1
+Q08,a modern drama about family relationships,The Holiday,0
+Q08,a modern drama about family relationships,Keeping the Faith,0
+Q08,a modern drama about family relationships,The Social Network,0
+Q08,a modern drama about family relationships,Frequency,2
+Q08,a modern drama about family relationships,Broken Flowers,2
+Q09,a chill and sweet French film,About a Boy,1
+Q09,a chill and sweet French film,The Ice Storm,0
+Q09,a chill and sweet French film,A Simple Plan,0
+Q09,a chill and sweet French film,Cyrano de Bergerac,1
+Q09,a chill and sweet French film,Love Actually,1
+Q09,a chill and sweet French film,The Postman,1
+Q09,a chill and sweet French film,In the Mood for Love,1
+Q09,a chill and sweet French film,All About My Mother,0
+Q09,a chill and sweet French film,Dracula: Dead and Loving It,0
+Q09,a chill and sweet French film,A Goofy Movie,1
+Q09,a chill and sweet French film,The Piano,0
+Q09,a chill and sweet French film,Hot Fuzz,0
+Q09,a chill and sweet French film,"Definitely, Maybe",1
+Q09,a chill and sweet French film,Free Willy,1
+Q09,a chill and sweet French film,True Romance,0
+Q09,a chill and sweet French film,Super Mario Bros.,0
+Q09,a chill and sweet French film,Nikita,1
+Q09,a chill and sweet French film,Bridget Jones's Diary,1
+Q09,a chill and sweet French film,Resident Evil,0
+Q09,a chill and sweet French film,Bridget Jones: The Edge of Reason,1
+Q09,a chill and sweet French film,"Good Night, and Good Luck.",0
+Q09,a chill and sweet French film,Burn After Reading,0
+Q09,a chill and sweet French film,Boys on the Side,0
+Q09,a chill and sweet French film,Dancer in the Dark,0
+Q10,"a tense crime film about a heist, loyalty and betrayal",Out of Sight,2
+Q10,"a tense crime film about a heist, loyalty and betrayal",Ocean's Thirteen,2
+Q10,"a tense crime film about a heist, loyalty and betrayal",A Simple Plan,2
+Q10,"a tense crime film about a heist, loyalty and betrayal","Lock, Stock and Two Smoking Barrels",2
+Q10,"a tense crime film about a heist, loyalty and betrayal",Reindeer Games,2
+Q10,"a tense crime film about a heist, loyalty and betrayal",Ronin,2
+Q10,"a tense crime film about a heist, loyalty and betrayal",True Romance,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",The Boondock Saints,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",Licence to Kill,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",Shaft,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",Ocean's Eleven,2
+Q10,"a tense crime film about a heist, loyalty and betrayal",The Devil's Own,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",Quantum of Solace,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",The Firm,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",Die Hard,2
+Q10,"a tense crime film about a heist, loyalty and betrayal",Diamonds Are Forever,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",Swordfish,2
+Q10,"a tense crime film about a heist, loyalty and betrayal",First Knight,0
+Q10,"a tense crime film about a heist, loyalty and betrayal",The Jackal,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",Layer Cake,2
+Q10,"a tense crime film about a heist, loyalty and betrayal",Tequila Sunrise,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",The Untouchables,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",The Maltese Falcon,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",Brick,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",The Professional,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",Orgazmo,0
+Q10,"a tense crime film about a heist, loyalty and betrayal",The Limey,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",The Departed,1
+Q10,"a tense crime film about a heist, loyalty and betrayal",Taken,1
+Q11,"an animated film about friendship, growing up and belonging",My Neighbor Totoro,2
+Q11,"an animated film about friendship, growing up and belonging",Ratatouille,2
+Q11,"an animated film about friendship, growing up and belonging",Shrek 2,2
+Q11,"an animated film about friendship, growing up and belonging",Grave of the Fireflies,1
+Q11,"an animated film about friendship, growing up and belonging",Antz,2
+Q11,"an animated film about friendship, growing up and belonging",Dumbo,2
+Q11,"an animated film about friendship, growing up and belonging",Peter Pan,2
+Q11,"an animated film about friendship, growing up and belonging",The Simpsons Movie,1
+Q11,"an animated film about friendship, growing up and belonging",A Close Shave,1
+Q11,"an animated film about friendship, growing up and belonging",9,2
+Q11,"an animated film about friendship, growing up and belonging",The Wrong Trousers,1
+Q11,"an animated film about friendship, growing up and belonging",Wallace & Gromit: The Curse of the Were-Rabbit,1
+Q11,"an animated film about friendship, growing up and belonging",The Lego Movie,2
+Q11,"an animated film about friendship, growing up and belonging",Shrek,2
+Q11,"an animated film about friendship, growing up and belonging",Toy Story 3,2
+Q11,"an animated film about friendship, growing up and belonging",Tarzan,2
+Q11,"an animated film about friendship, growing up and belonging",Ice Age,2
+Q11,"an animated film about friendship, growing up and belonging",Toy Story 2,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",Braveheart,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",Born on the Fourth of July,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",The Patriot,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",American Sniper,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",The Deer Hunter,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",No Man's Land,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",The Killing Fields,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",Rambo: First Blood Part II,1
+Q12,"a war film about sacrifice, duty and the human cost of combat",Letters from Iwo Jima,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",First Blood,1
+Q12,"a war film about sacrifice, duty and the human cost of combat",Schindler's List,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",Star Trek: Nemesis,0
+Q12,"a war film about sacrifice, duty and the human cost of combat",The Imitation Game,1
+Q12,"a war film about sacrifice, duty and the human cost of combat",Rambo III,1
+Q12,"a war film about sacrifice, duty and the human cost of combat",Cold Mountain,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",Red Dawn,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",The Lives of Others,1
+Q12,"a war film about sacrifice, duty and the human cost of combat",Apocalypse Now,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",Bowling for Columbine,0
+Q12,"a war film about sacrifice, duty and the human cost of combat",Heartbreak Ridge,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",Enemy at the Gates,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",Casablanca,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",The Bridge on the River Kwai,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",Kelly's Heroes,1
+Q12,"a war film about sacrifice, duty and the human cost of combat",Hellraiser,0
+Q12,"a war film about sacrifice, duty and the human cost of combat",Dawn of the Planet of the Apes,1
+Q12,"a war film about sacrifice, duty and the human cost of combat",Dunkirk,2
+Q12,"a war film about sacrifice, duty and the human cost of combat",The Manchurian Candidate,1
+Q12,"a war film about sacrifice, duty and the human cost of combat",Hot Shots! Part Deux,1
+Q12,"a war film about sacrifice, duty and the human cost of combat",Dances with Wolves,1
+Q12,"a war film about sacrifice, duty and the human cost of combat",Nosferatu,0
+Q13,a science fiction film about artificial intelligence and what it means to be human,Arrival,1
+Q13,a science fiction film about artificial intelligence and what it means to be human,Bicentennial Man,2
+Q13,a science fiction film about artificial intelligence and what it means to be human,Avengers: Age of Ultron,2
+Q13,a science fiction film about artificial intelligence and what it means to be human,Rise of the Planet of the Apes,0
+Q13,a science fiction film about artificial intelligence and what it means to be human,The Matrix Reloaded,2
+Q13,a science fiction film about artificial intelligence and what it means to be human,Surrogates,1
+Q13,a science fiction film about artificial intelligence and what it means to be human,The Day the Earth Stood Still,1
+Q13,a science fiction film about artificial intelligence and what it means to be human,The Elephant Man,0
+Q13,a science fiction film about artificial intelligence and what it means to be human,Ghost in the Shell,2
+Q13,a science fiction film about artificial intelligence and what it means to be human,The Island,1
+Q13,a science fiction film about artificial intelligence and what it means to be human,9,2
+Q13,a science fiction film about artificial intelligence and what it means to be human,Total Recall,1
+Q13,a science fiction film about artificial intelligence and what it means to be human,Species,0
+Q13,a science fiction film about artificial intelligence and what it means to be human,Terminator 2: Judgment Day,2
+Q13,a science fiction film about artificial intelligence and what it means to be human,Pi,0
+Q13,a science fiction film about artificial intelligence and what it means to be human,Titan A.E.,0
+Q13,a science fiction film about artificial intelligence and what it means to be human,Jarhead,0
+Q13,a science fiction film about artificial intelligence and what it means to be human,Children of Men,1
+Q13,a science fiction film about artificial intelligence and what it means to be human,Solaris,1
+Q13,a science fiction film about artificial intelligence and what it means to be human,Eternal Sunshine of the Spotless Mind,1
+Q13,a science fiction film about artificial intelligence and what it means to be human,Inception,1
+Q13,a science fiction film about artificial intelligence and what it means to be human,Ocean's Thirteen,0
+Q13,a science fiction film about artificial intelligence and what it means to be human,Virtuosity,2
+Q13,a science fiction film about artificial intelligence and what it means to be human,Flight of the Navigator,1
+Q13,a science fiction film about artificial intelligence and what it means to be human,Escape from the Planet of the Apes,0
+Q13,a science fiction film about artificial intelligence and what it means to be human,Final Fantasy: The Spirits Within,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Dead Man Walking,1
+Q14,"a courtroom drama about justice, ethics and moral conflict","sex, lies, and videotape",0
+Q14,"a courtroom drama about justice, ethics and moral conflict",The Client,2
+Q14,"a courtroom drama about justice, ethics and moral conflict",The People vs. Larry Flynt,2
+Q14,"a courtroom drama about justice, ethics and moral conflict",Dredd,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Dolores Claiborne,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Quiz Show,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Strictly Ballroom,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",Kramer vs. Kramer,2
+Q14,"a courtroom drama about justice, ethics and moral conflict",The Firm,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",The Man Without a Face,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Requiem for a Dream,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",The Green Mile,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Two Weeks Notice,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",Shooter,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",The Perks of Being a Wallflower,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",Spotlight,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Equilibrium,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",Girl with a Pearl Earring,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",Things to Do in Denver When You're Dead,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",Three Colors: Red,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Pay It Forward,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",Up Close & Personal,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",The Thin Red Line,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",Erin Brockovich,2
+Q14,"a courtroom drama about justice, ethics and moral conflict",On the Waterfront,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Terms of Endearment,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",The Negotiator,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Wag the Dog,0
+Q14,"a courtroom drama about justice, ethics and moral conflict",Crimes and Misdemeanors,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Malice,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Absolute Power,1
+Q14,"a courtroom drama about justice, ethics and moral conflict",Seven Samurai,0
+Q15,a witty romantic comedy about two people gradually falling in love,Never Been Kissed,2
+Q15,a witty romantic comedy about two people gradually falling in love,The Holiday,2
+Q15,a witty romantic comedy about two people gradually falling in love,(500) Days of Summer,1
+Q15,a witty romantic comedy about two people gradually falling in love,Dumb and Dumberer: When Harry Met Lloyd,0
+Q15,a witty romantic comedy about two people gradually falling in love,"I Love You, Man",0
+Q15,a witty romantic comedy about two people gradually falling in love,Chasing Amy,2
+Q15,a witty romantic comedy about two people gradually falling in love,There's Something About Mary,2
+Q15,a witty romantic comedy about two people gradually falling in love,Everyone Says I Love You,1
+Q15,a witty romantic comedy about two people gradually falling in love,The Wedding Singer,2
+Q15,a witty romantic comedy about two people gradually falling in love,The Ugly Truth,2
+Q15,a witty romantic comedy about two people gradually falling in love,Clueless,2
+Q15,a witty romantic comedy about two people gradually falling in love,Say Anything...,2
+Q15,a witty romantic comedy about two people gradually falling in love,Mickey Blue Eyes,1
+Q15,a witty romantic comedy about two people gradually falling in love,Dumb and Dumber,0
+Q15,a witty romantic comedy about two people gradually falling in love,Bringing Up Baby,2
+Q15,a witty romantic comedy about two people gradually falling in love,Reality Bites,1
+Q15,a witty romantic comedy about two people gradually falling in love,Two Weeks Notice,2
+Q15,a witty romantic comedy about two people gradually falling in love,American Wedding,1
+Q15,a witty romantic comedy about two people gradually falling in love,Harold and Maude,2
+Q15,a witty romantic comedy about two people gradually falling in love,The Opposite of Sex,1
+Q15,a witty romantic comedy about two people gradually falling in love,Meet the Parents,1
+Q15,a witty romantic comedy about two people gradually falling in love,The Apartment,2
+Q15,a witty romantic comedy about two people gradually falling in love,American Pie 2,0
+Q15,a witty romantic comedy about two people gradually falling in love,National Lampoon's Van Wilder,1
+Q15,a witty romantic comedy about two people gradually falling in love,Notting Hill,2
+Q15,a witty romantic comedy about two people gradually falling in love,Rat Race,0
+Q15,a witty romantic comedy about two people gradually falling in love,Bull Durham,2
+Q15,a witty romantic comedy about two people gradually falling in love,Mr. Deeds,2
+Q15,a witty romantic comedy about two people gradually falling in love,Boomerang,2
+Q15,a witty romantic comedy about two people gradually falling in love,The Nutty Professor,1
+Q15,a witty romantic comedy about two people gradually falling in love,As Good as It Gets,2
+Q15,a witty romantic comedy about two people gradually falling in love,Sicko,0
+Q15,a witty romantic comedy about two people gradually falling in love,The First Wives Club,0
+Q15,a witty romantic comedy about two people gradually falling in love,Delicatessen,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,The Shining,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,The Cell,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Donnie Darko,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,The Maze Runner,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Secret Window,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Sucker Punch,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Paycheck,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,The Silence of the Lambs,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Desperately Seeking Susan,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Eyes Wide Shut,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Nurse Betty,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,One Hour Photo,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,8MM,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,The General's Daughter,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Déjà Vu,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Requiem for a Dream,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Unbreakable,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,The Butterfly Effect,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Pi,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,A Beautiful Mind,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,The Long Kiss Goodnight,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Gone Girl,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,The Talented Mr. Ripley,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,The 6th Day,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,The Others,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Sleepy Hollow,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,The Conversation,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,The Bourne Identity,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Super 8,0
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,A Clockwork Orange,1
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Vanilla Sky,2
+Q16,a psychological thriller with unreliable memory and a fragmented sense of reality,Panic Room,1
+Q17,"a science fiction film about space exploration, isolation and survival",The Day the Earth Stood Still,1
+Q17,"a science fiction film about space exploration, isolation and survival",Close Encounters of the Third Kind,1
+Q17,"a science fiction film about space exploration, isolation and survival",Prometheus,2
+Q17,"a science fiction film about space exploration, isolation and survival",Red Planet,2
+Q17,"a science fiction film about space exploration, isolation and survival",Star Trek V: The Final Frontier,1
+Q17,"a science fiction film about space exploration, isolation and survival",I Am Legend,1
+Q17,"a science fiction film about space exploration, isolation and survival",Return of the Jedi,1
+Q17,"a science fiction film about space exploration, isolation and survival",Alien³,1
+Q17,"a science fiction film about space exploration, isolation and survival",E.T. the Extra-Terrestrial,0
+Q17,"a science fiction film about space exploration, isolation and survival",Star Trek III: The Search for Spock,1
+Q17,"a science fiction film about space exploration, isolation and survival",War of the Worlds,1
+Q17,"a science fiction film about space exploration, isolation and survival",Evolution,0
+Q17,"a science fiction film about space exploration, isolation and survival",The Hitchhiker's Guide to the Galaxy,1
+Q17,"a science fiction film about space exploration, isolation and survival",Star Trek Beyond,2
+Q17,"a science fiction film about space exploration, isolation and survival",Independence Day,1
+Q17,"a science fiction film about space exploration, isolation and survival",Armageddon,2
+Q17,"a science fiction film about space exploration, isolation and survival",Hollow Man,0
+Q17,"a science fiction film about space exploration, isolation and survival",The X-Files,1
+Q17,"a science fiction film about space exploration, isolation and survival",The Astronaut's Wife,1
+Q17,"a science fiction film about space exploration, isolation and survival",Star Trek Into Darkness,1
+Q17,"a science fiction film about space exploration, isolation and survival",Deep Impact,2
+Q17,"a science fiction film about space exploration, isolation and survival",Fantastic Four,1
+Q17,"a science fiction film about space exploration, isolation and survival",Waterworld,1
+Q17,"a science fiction film about space exploration, isolation and survival",Battlefield Earth,1
+Q18,"a coming-of-age film about school, friendship and finding your identity",22 Jump Street,1
+Q18,"a coming-of-age film about school, friendship and finding your identity",Boys on the Side,0
+Q18,"a coming-of-age film about school, friendship and finding your identity",The Outsiders,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",The School of Rock,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Heathers,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Big,1
+Q18,"a coming-of-age film about school, friendship and finding your identity",In & Out,1
+Q18,"a coming-of-age film about school, friendship and finding your identity",10 Things I Hate About You,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Accepted,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Clueless,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Can't Hardly Wait,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Rebel Without a Cause,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Saved!,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Varsity Blues,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Ferris Bueller's Day Off,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Finding Neverland,0
+Q18,"a coming-of-age film about school, friendship and finding your identity",Welcome to the Dollhouse,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Death Proof,0
+Q18,"a coming-of-age film about school, friendship and finding your identity",The Talented Mr. Ripley,0
+Q18,"a coming-of-age film about school, friendship and finding your identity",Rushmore,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Stand by Me,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Back to School,1
+Q18,"a coming-of-age film about school, friendship and finding your identity",State and Main,0
+Q18,"a coming-of-age film about school, friendship and finding your identity",Spider-Man,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",The Man Without a Face,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",The Craft,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Donnie Darko,2
+Q18,"a coming-of-age film about school, friendship and finding your identity",Bowling for Columbine,0
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",The Chronicles of Narnia: Prince Caspian,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Highlander III: The Sorcerer,1
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Eragon,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",The Hobbit: The Battle of the Five Armies,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Excalibur,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Harry Potter and the Order of the Phoenix,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Dungeons & Dragons,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Harry Potter and the Half-Blood Prince,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",The 13th Warrior,1
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Labyrinth,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Superman IV: The Quest for Peace,0
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Tangled,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Princess Mononoke,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Hook,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Big Trouble in Little China,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Reign of Fire,1
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",How to Train Your Dragon,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",DragonHeart,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Jaws,0
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship","The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Brave,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Stardust,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",The Golden Compass,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",The Wizard of Oz,2
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Romancing the Stone,1
+Q19,"a fantasy adventure involving a dangerous quest, magic and friendship",Fantastic Four,1
+Q20,"a film about music, artistic ambition and the personal cost of success",Living in Oblivion,1
+Q20,"a film about music, artistic ambition and the personal cost of success",Exit Through the Gift Shop,1
+Q20,"a film about music, artistic ambition and the personal cost of success",The Doors,2
+Q20,"a film about music, artistic ambition and the personal cost of success",The Aviator,1
+Q20,"a film about music, artistic ambition and the personal cost of success",Ed Wood,1
+Q20,"a film about music, artistic ambition and the personal cost of success",The Red Violin,2
+Q20,"a film about music, artistic ambition and the personal cost of success",Three Colors: Blue,1
+Q20,"a film about music, artistic ambition and the personal cost of success",As Good as It Gets,0
+Q20,"a film about music, artistic ambition and the personal cost of success",Bowfinger,1
+Q20,"a film about music, artistic ambition and the personal cost of success",Coyote Ugly,2
+Q20,"a film about music, artistic ambition and the personal cost of success",Requiem for a Dream,0
+Q20,"a film about music, artistic ambition and the personal cost of success",That Thing You Do!,2
+Q20,"a film about music, artistic ambition and the personal cost of success","South Park: Bigger, Longer & Uncut",0
+Q20,"a film about music, artistic ambition and the personal cost of success",Moulin Rouge!,2
+Q20,"a film about music, artistic ambition and the personal cost of success",The Jerk,0
+Q20,"a film about music, artistic ambition and the personal cost of success",The Color of Money,0
+Q20,"a film about music, artistic ambition and the personal cost of success",The Insider,0
+Q20,"a film about music, artistic ambition and the personal cost of success",Taxi Driver,0
+Q20,"a film about music, artistic ambition and the personal cost of success",Happiness,0
+Q20,"a film about music, artistic ambition and the personal cost of success",Crimes and Misdemeanors,0
+Q20,"a film about music, artistic ambition and the personal cost of success",Magnolia,0
+Q20,"a film about music, artistic ambition and the personal cost of success",Eternal Sunshine of the Spotless Mind,0
+Q20,"a film about music, artistic ambition and the personal cost of success",Immortal Beloved,2
+Q20,"a film about music, artistic ambition and the personal cost of success",The Prestige,1
+Q20,"a film about music, artistic ambition and the personal cost of success",It's a Wonderful Life,0
+Q20,"a film about music, artistic ambition and the personal cost of success",Birdman or (The Unexpected Virtue of Ignorance),1
+Q20,"a film about music, artistic ambition and the personal cost of success",Bulworth,0
+Q20,"a film about music, artistic ambition and the personal cost of success",Out of Africa,0
+Q20,"a film about music, artistic ambition and the personal cost of success",Dancer in the Dark,1
+Q20,"a film about music, artistic ambition and the personal cost of success",Flashdance,2
+Q20,"a film about music, artistic ambition and the personal cost of success",Billy Elliot,2
+Q20,"a film about music, artistic ambition and the personal cost of success",Cast Away,0
+Q20,"a film about music, artistic ambition and the personal cost of success",2001: A Space Odyssey,0
+Q20,"a film about music, artistic ambition and the personal cost of success",Seabiscuit,0
+Q20,"a film about music, artistic ambition and the personal cost of success",Boogie Nights,1
+Q20,"a film about music, artistic ambition and the personal cost of success",Desperately Seeking Susan,0
+Q20,"a film about music, artistic ambition and the personal cost of success",The Pianist,1
