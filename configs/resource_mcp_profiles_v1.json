@@ -1,0 +1,81 @@
+{
+  "version": "1",
+  "profiles": {
+    "movielens_gte_fast_v2": {
+      "profile_id": "movielens_gte_fast_v2",
+      "domain_id": "movielens_v2",
+      "collection_name": "movies_d_full_enriched_v2_gte_multilingual_base_v1",
+      "search_profile_id": "fast",
+      "vector_name": "dense",
+      "schema_version": "movielens_v2_resource_payload_v1",
+      "qdrant_url_env": "QDRANT_URL",
+      "qdrant_url_default": "http://localhost:6333",
+      "exact": false,
+      "encoder": {
+        "name": "gte_multilingual_base_dense",
+        "model_name": "Alibaba-NLP/gte-multilingual-base",
+        "dimension": 768,
+        "trust_remote_code": true,
+        "batch_size": 16,
+        "normalize_embeddings": true,
+        "max_seq_length": null,
+        "query_prompt_name": null
+      },
+      "search_profiles": {
+        "fast": {
+          "candidate_k": 10,
+          "final_k": 10,
+          "rerank": false
+        },
+        "quality": {
+          "candidate_k": 20,
+          "final_k": 10,
+          "rerank": true
+        }
+      }
+    },
+    "movielens_gte_quality_v2": {
+      "profile_id": "movielens_gte_quality_v2",
+      "domain_id": "movielens_v2",
+      "collection_name": "movies_d_full_enriched_v2_gte_multilingual_base_v1",
+      "search_profile_id": "quality",
+      "vector_name": "dense",
+      "schema_version": "movielens_v2_resource_payload_v1",
+      "qdrant_url_env": "QDRANT_URL",
+      "qdrant_url_default": "http://localhost:6333",
+      "exact": false,
+      "encoder": {
+        "name": "gte_multilingual_base_dense",
+        "model_name": "Alibaba-NLP/gte-multilingual-base",
+        "dimension": 768,
+        "trust_remote_code": true,
+        "batch_size": 16,
+        "normalize_embeddings": true,
+        "max_seq_length": null,
+        "query_prompt_name": null
+      },
+      "reranker": {
+        "name": "gte_multilingual_reranker",
+        "backend": "sentence_transformers_cross_encoder",
+        "model_name": "Alibaba-NLP/gte-multilingual-reranker-base",
+        "trust_remote_code": true,
+        "batch_size": 8,
+        "max_length": 1024,
+        "device": "auto",
+        "precision": "auto"
+      },
+      "search_profiles": {
+        "fast": {
+          "candidate_k": 10,
+          "final_k": 10,
+          "rerank": false
+        },
+        "quality": {
+          "candidate_k": 5,
+          "final_k": 2,
+          "rerank": true
+        }
+      }
+    }
+  }
+}

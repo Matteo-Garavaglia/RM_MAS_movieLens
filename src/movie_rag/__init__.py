@@ -186,3 +186,26 @@ __all__ = [
     "rerank_candidates",
     "validate_query_set",
 ]
+from .resource_domain import ResourceDomainCatalog, ResourceDomainProfile, load_resource_domain_catalog
+from .resource_mcp_profiles import (
+    EncoderProfile,
+    ResourceMCPProfile,
+    ResourceMCPProfileCatalog,
+    ResourceSearchServiceRegistry,
+    load_resource_mcp_profiles,
+)
+from .resource_mcp import create_resource_mcp_server
+from .resource_mcp_gateway import MCPResourceToolGateway, MCPToolTrace
+from .resource_llm_models import (
+    ResourceRetrievalPlan,
+    GroundedRecommendation,
+    GroundedAnswer,
+    LLMCallRecord,
+    ResourceConversationState,
+)
+from .resource_llm_agents import ResourcePlannerAgent, ResourceAnswerAgent
+from .resource_llm_workflow import (
+    ResourceWorkflowPolicy,
+    ResourceAssistantWorkflow,
+    build_resource_assistant_workflow,
+)
