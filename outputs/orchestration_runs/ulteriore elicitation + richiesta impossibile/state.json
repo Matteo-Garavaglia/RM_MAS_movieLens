@@ -1,0 +1,483 @@
+{
+  "attempts": [
+    {
+      "elapsed_ms": 6075,
+      "filters": {},
+      "returned_ids": [
+        "110553",
+        "1556",
+        "3623",
+        "45186",
+        "8636",
+        "34048",
+        "52722",
+        "59022",
+        "95",
+        "1100"
+      ],
+      "semantic_query": "Tom Holland and Tom Cruise starring together in a film"
+    }
+  ],
+  "base_filters": {},
+  "candidates": {
+    "1100": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Adventure", "Action", "Drama", "Romance"],
+        "imdb_id": 99371,
+        "language": "en",
+        "runtime": 107.0,
+        "tmdb_id": 2119,
+        "year": 1990.0
+      },
+      "queries": ["Tom Holland and Tom Cruise starring together in a film"],
+      "resource_id": "1100",
+      "score": 0.6313231,
+      "text": "Title: Days of Thunder genres: Adventure, Action, Drama Overview: Talented but unproven stock car driver Cole Trickle gets a break and with the guidance of veteran Harry Hogge turns heads on the track. The young hotshot develops a rivalry with a fellow racer that threatens his career when the two smash their cars. But with the help of his doctor, Cole just might overcome his injuries-- and his fear. Tagline: You can't outrun the thunder. keywords: underdog sports stock car racing daytona car crash rivalry revenge racing crash race car driver nascar racer stock car recovery phoenix, arizona motorsport underdog sports movie Directors: Tony Scott Writers: Robert Towne Composers: Hans Zimmer Main cast: Tom Cruise, Robert Duvall, Nicole Kidman, Randy Quaid, Cary Elwes Main characters: Cole Trickle, Harry Hogge, Dr. Claire Lewicki, Tim Dalander, Russ Wheeler Collection: Days of Thunder Colletion Production companies: Paramount Pictures, Don Simpson/Jerry Bruckheimer Films",
+      "title": "Days of Thunder"
+    },
+    "110553": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Action", "Adventure", "Science Fiction", "Sci-Fi", "IMAX"],
+        "imdb_id": 1872181,
+        "language": "en",
+        "runtime": 141.0,
+        "tmdb_id": 102382,
+        "year": 2014.0
+      },
+      "queries": ["Tom Holland and Tom Cruise starring together in a film"],
+      "resource_id": "110553",
+      "score": 0.66034555,
+      "text": "Title: The Amazing Spider-Man 2 genres: Action, Adventure, Science Fiction Overview: For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past. Tagline: His greatest battle begins. keywords: new york city experiment obsession secret identity superhero based on comic sequel electrocution super power masked superhero teen superhero Directors: Marc Webb Writers: Alex Kurtzman, Jeff Pinkner, Roberto Orci Composers: Tom Holkenborg, Johnny Marr, Hans Zimmer, Pharrell Williams, Steve Mazzaro, Mike Einziger, Andrew Kawczynski Main cast: Andrew Garfield, Emma Stone, Jamie Foxx, Dane DeHaan, Colm Feore Main characters: Spider-Man / Peter Parker, Gwen Stacy, Electro / Max Dillon, Green Goblin / Harry Osborn, Donald Menken Collection: The Amazing Spider-Man Collection Production companies: Columbia Pictures, Matt Tolmach Productions, Arad Productions, Marvel Entertainment",
+      "title": "The Amazing Spider-Man 2"
+    },
+    "1556": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Action", "Thriller", "Romance"],
+        "imdb_id": 120179,
+        "language": "en",
+        "runtime": 125.0,
+        "tmdb_id": 1639,
+        "year": 1997.0
+      },
+      "queries": ["Tom Holland and Tom Cruise starring together in a film"],
+      "resource_id": "1556",
+      "score": 0.6561288,
+      "text": "Title: Speed 2: Cruise Control genres: Action, Thriller Overview: A disgruntled former employee hijacks the Seabourn Legend cruise liner. Set on a fixed course, without any means of communication and at the mercy of the hijacker, it's up to the one cop on vacation and his soon to be fiancé (hopefully) Annie to regain control of it before it kills the passengers and causes an environmental disaster. Insurmountable and daunting tasks await them on their perilous journey throughout the ship trying to fend off the hijacker and save the passengers. Tagline: Rush hour hits the water. keywords: computer diamond boat cruise sequel disaster cruise ship sea cruise shipboard romance collision course serene barefoot female disgruntled employee sympathetic Directors: Jan de Bont Writers: Randall McCormick, Jeff Nathanson Composers: Mark Mancina Main cast: Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison, Brian McCardie Main characters: Annie, Alex, Geiger, Juliano, Merced Collection: Speed Collection Production companies: 20th Century Fox, Blue Tulip Productions",
+      "title": "Speed 2: Cruise Control"
+    },
+    "34048": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": [
+          "Adventure",
+          "Thriller",
+          "Science Fiction",
+          "Action",
+          "Sci-Fi"
+        ],
+        "imdb_id": 407304,
+        "language": "en",
+        "runtime": 117.0,
+        "tmdb_id": 74,
+        "year": 2005.0
+      },
+      "queries": ["Tom Holland and Tom Cruise starring together in a film"],
+      "resource_id": "34048",
+      "score": 0.6351791,
+      "text": "Title: War of the Worlds genres: Adventure, Thriller, Science Fiction Overview: Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down. Tagline: They're already here. keywords: daughter new jersey post-traumatic stress disorder (ptsd) airplane based on novel or book underground dystopia alien survival disaster apocalypse creature alien invasion human subjugation Directors: Steven Spielberg Writers: David Koepp, Josh Friedman Composers: John Williams Main cast: Tom Cruise, Dakota Fanning, Miranda Otto, Justin Chatwin, Tim Robbins Main characters: Ray, Rachel, Mary Ann, Robbie, Harlan Ogilvy Production companies: Paramount Pictures, DreamWorks Pictures, Amblin Entertainment, Cruise/Wagner Productions",
+      "title": "War of the Worlds"
+    },
+    "3623": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "DE"],
+        "genres": ["Adventure", "Action", "Thriller"],
+        "imdb_id": 120755,
+        "language": "en",
+        "runtime": 123.0,
+        "tmdb_id": 955,
+        "year": 2000.0
+      },
+      "queries": ["Tom Holland and Tom Cruise starring together in a film"],
+      "resource_id": "3623",
+      "score": 0.65511596,
+      "text": "Title: Mission: Impossible II genres: Adventure, Action, Thriller Overview: With computer genius Luther Stickell at his side and a beautiful thief on his mind, agent Ethan Hunt races across Australia and Spain to stop a former IMF agent from unleashing a genetically engineered biological weapon called Chimera. This mission, should Hunt choose to accept it, plunges him into the center of an international crisis of terrifying magnitude. Tagline: Expect the impossible again. keywords: dying and death mask island central intelligence agency (cia) helicopter computer spain undercover skyscraper secret mission spy secret identity ex-lover fake identity secret agent climbing sequel secret government organization infiltration duel lethal virus motorcycle rescue team slow motion agent fictional government agency research laboratory motorcycle chase government agency based on tv series Directors: John Woo Writers: Robert Towne Composers: Hans Zimmer Main cast: Tom Cruise, Dougray Scott, Thandiwe Newton, Ving Rhames, Richard Roxburgh Main characters: Ethan Hunt, Sean Ambrose, Nyah Hall, Luther Stickell, Hugh Stamp Collection: Mission: Impossible Collection Production companies: Paramount Pictures, Cruise/Wagner Productions, Munich Film Partners & Company (MFP) MI 2 Productions",
+      "title": "Mission: Impossible II"
+    },
+    "45186": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "DE"],
+        "genres": ["Adventure", "Action", "Thriller"],
+        "imdb_id": 317919,
+        "language": "en",
+        "runtime": 126.0,
+        "tmdb_id": 956,
+        "year": 2006.0
+      },
+      "queries": ["Tom Holland and Tom Cruise starring together in a film"],
+      "resource_id": "45186",
+      "score": 0.64551675,
+      "text": "Title: Mission: Impossible III genres: Adventure, Action, Thriller Overview: Retired from active duty, and training recruits for the Impossible Mission Force, agent Ethan Hunt faces the toughest foe of his career: Owen Davian, an international broker of arms and information, who's as cunning as he is ruthless. Davian emerges to threaten Hunt and all that he holds dear – including the woman Hunt loves. Tagline: The mission begins. keywords: mask mission berlin, germany central intelligence agency (cia) computer the white house shanghai, china funeral explosive secret mission spy vatican (holy see) secret identity traitor map honeymoon pretended murder letter fake identity covered investigation secret agent stamp hard drive e-mail decipherment suitcase sequel secret government organization revenge murder hospital infiltration duel disguise celebration fictional government agency research laboratory government agency blast desperate anxious based on tv series suspenseful amused Directors: J.J. Abrams Writers: Roberto Orci, J.J. Abrams, Alex Kurtzman Composers: Michael Giacchino Main cast: Tom Cruise, Philip Seymour Hoffman, Ving Rhames, Billy Crudup, Michelle Monaghan Main characters: Ethan Hunt, Owen Davian, Luther, Musgrave, Julia Collection: Mission: Impossible Collection Production companies: Paramount Pictures, Cruise/Wagner Productions, MI 3 Film",
+      "title": "Mission: Impossible III"
+    },
+    "52722": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction",
+          "Sci-Fi",
+          "Thriller",
+          "IMAX"
+        ],
+        "imdb_id": 413300,
+        "language": "en",
+        "runtime": 139.0,
+        "tmdb_id": 559,
+        "year": 2007.0
+      },
+      "queries": ["Tom Holland and Tom Cruise starring together in a film"],
+      "resource_id": "52722",
+      "score": 0.63413644,
+      "text": "Title: Spider-Man 3 genres: Action, Adventure, Science Fiction Overview: The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle. Tagline: The greatest battle lies within. keywords: amnesia dual identity love of one's life loss of loved one forgiveness hostility superhero sandstorm spider wretch sand narcissism egomania based on comic sequel revenge symbiote amused Directors: Sam Raimi Writers: Alvin Sargent, Sam Raimi, Ivan Raimi Composers: Christopher Young Main cast: Tobey Maguire, Kirsten Dunst, James Franco, Thomas Haden Church, Topher Grace Main characters: Spider-Man / Peter Parker, Mary Jane Watson, New Goblin / Harry Osborn, Sandman / Flint Marko, Venom / Eddie Brock Collection: Spider-Man Collection Production companies: Laura Ziskin Productions, Marvel Studios, Columbia Pictures",
+      "title": "Spider-Man 3"
+    },
+    "59022": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Comedy", "Adventure"],
+        "imdb_id": 481536,
+        "language": "en",
+        "runtime": 101.0,
+        "tmdb_id": 13335,
+        "year": 2008.0
+      },
+      "queries": ["Tom Holland and Tom Cruise starring together in a film"],
+      "resource_id": "59022",
+      "score": 0.6339872,
+      "text": "Title: Harold & Kumar Escape from Guantanamo Bay genres: Comedy, Adventure Overview: Having satisfied their urge for White Castle, Harold and Kumar jump on a plane to catch up with Harold's love interest, who's headed for the Netherlands. But the pair must change their plans when Kumar is accused of being a terrorist. Rob Corddry also stars in this wild comedy sequel that follows the hapless stoners' misadventures as they try to avoid being captured by the Department of Homeland Security. Tagline: This time they're running from the joint. keywords: guantanamo bay road trip guantánamo cannabis sequel terrorism east asian lead buddy stoner aftercreditsstinger duringcreditsstinger stoner movie amused Directors: Hayden Schlossberg, Jon Hurwitz Writers: Jon Hurwitz, Hayden Schlossberg Composers: George S. Clinton Main cast: John Cho, Kal Penn, Neil Patrick Harris, Rob Corddry, Roger Bart Main characters: Harold Lee, Kumar Patel, Neil Patrick Harris, Ron Fox, Dr. Jack Beecher Collection: Harold & Kumar Collection Production companies: New Line Cinema, Kingsgate Films, Mandate Pictures, Mandate International",
+      "title": "Harold & Kumar Escape from Guantanamo Bay"
+    },
+    "8636": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Action", "Adventure", "Science Fiction", "Sci-Fi", "IMAX"],
+        "imdb_id": 316654,
+        "language": "en",
+        "runtime": 127.0,
+        "tmdb_id": 558,
+        "year": 2004.0
+      },
+      "queries": ["Tom Holland and Tom Cruise starring together in a film"],
+      "resource_id": "8636",
+      "score": 0.6448538,
+      "text": "Title: Spider-Man 2 genres: Action, Adventure, Science Fiction Overview: Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well... Tagline: There's a hero in all of us. keywords: new york city dual identity love of one's life secret identity superhero pizza boy based on comic sequel romance doctor scientist tentacle death super villain young adult user tags: Doc Ock Directors: Sam Raimi Writers: Alvin Sargent Composers: Danny Elfman Main cast: Tobey Maguire, Kirsten Dunst, James Franco, Alfred Molina, Rosemary Harris Main characters: Spider-Man / Peter Parker, Mary Jane Watson, Harry Osborn, Doc Ock / Otto Octavius, May Parker Collection: Spider-Man Collection Production companies: Marvel Enterprises, Laura Ziskin Productions, Columbia Pictures",
+      "title": "Spider-Man 2"
+    },
+    "95": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Action", "Thriller", "Adventure"],
+        "imdb_id": 115759,
+        "language": "en",
+        "runtime": 108.0,
+        "tmdb_id": 9208,
+        "year": 1996.0
+      },
+      "queries": ["Tom Holland and Tom Cruise starring together in a film"],
+      "resource_id": "95",
+      "score": 0.6320238,
+      "text": "Title: Broken Arrow genres: Action, Thriller Overview: When rogue stealth-fighter pilot Vic Deakins deliberately drops off the radar while on maneuvers, the Air Force ends up with two stolen nuclear warheads -- and Deakins's co-pilot, Riley Hale, is the military's only hope for getting them back. Traversing the deserted canyons of Utah, Hale teams with park ranger Terry Carmichael to put Deakins back in his box. Tagline: Prepare to go ballistic. keywords: canyon helicopter underground river mexican standoff countdown pilot fistfight major betrayal gunfight train explosion park ranger desert military hostile nuclear device boxing stealth aircraft abandoned mine action hero humvee antagonistic audacious authoritarian ominous Directors: John Woo Writers: Graham Yost Composers: Hans Zimmer Main cast: John Travolta, Christian Slater, Samantha Mathis, Delroy Lindo, Frank Whaley Main characters: Vic Deakins, Riley Hale, Terry Carmichael, Colonel Max Wilkins, Giles Prentice Production companies: The Mark Gordon Company, WCG Entertainment Productions",
+      "title": "Broken Arrow"
+    }
+  },
+  "clarifications": 1,
+  "conversation": [
+    {
+      "question": "Che tipo di film stai cercando? Potresti indicarmi generi, attori, registi o una trama che ti piace?",
+      "reply": "sto cercando un film che abbia sia Tom Holland che Tom Cruise assieme"
+    }
+  ],
+  "decisions": 1,
+  "events": [
+    {
+      "action": "started",
+      "actor": "workflow",
+      "details": { "domain": "movielens_v2" },
+      "step": 1,
+      "time": "2026-10-22T08:33:30.918446+00:00"
+    },
+    {
+      "action": "updated",
+      "actor": "elicitation",
+      "details": {
+        "clarification_required": true,
+        "filter_keys": [],
+        "semantic_query": ""
+      },
+      "step": 2,
+      "time": "2026-10-22T08:33:32.685543+00:00"
+    },
+    {
+      "action": "ask_user",
+      "actor": "orchestrator",
+      "details": {
+        "question": "Che tipo di film stai cercando? Potresti indicarmi generi, attori, registi o una trama che ti piace?"
+      },
+      "step": 3,
+      "time": "2026-10-22T08:33:32.688396+00:00"
+    },
+    {
+      "action": "clarification_received",
+      "actor": "user",
+      "details": {
+        "reply": "sto cercando un film che abbia sia Tom Holland che Tom Cruise assieme"
+      },
+      "step": 4,
+      "time": "2026-10-22T08:36:10.464649+00:00"
+    },
+    {
+      "action": "updated",
+      "actor": "elicitation",
+      "details": {
+        "clarification_required": false,
+        "filter_keys": [],
+        "semantic_query": "Tom Holland and Tom Cruise starring together in a film"
+      },
+      "step": 5,
+      "time": "2026-10-22T08:36:12.118600+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "retrieval",
+      "details": {
+        "duration_ms": 6075,
+        "new_candidates": 10,
+        "query": "Tom Holland and Tom Cruise starring together in a film",
+        "resource_ids": [
+          "110553",
+          "1556",
+          "3623",
+          "45186",
+          "8636",
+          "34048",
+          "52722",
+          "59022",
+          "95",
+          "1100"
+        ],
+        "returned": 10
+      },
+      "step": 6,
+      "time": "2026-10-22T08:36:18.196986+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_validator",
+        "keys": [
+          "covered",
+          "invalid_resource_ids",
+          "missing",
+          "reason",
+          "status"
+        ],
+        "latency_ms": 1229
+      },
+      "step": 7,
+      "time": "2026-10-22T08:36:19.431412+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "validation",
+      "details": {
+        "covered": [],
+        "invalid_resource_ids": [],
+        "missing": [
+          "Nessun film nei candidati vede Tom Holland e Tom Cruise recitare insieme."
+        ],
+        "status": "INSUFFICIENT"
+      },
+      "step": 8,
+      "time": "2026-10-22T08:36:19.437470+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_orchestrator",
+        "keys": ["action", "question", "reason", "semantic_query"],
+        "latency_ms": 962
+      },
+      "step": 9,
+      "time": "2026-10-22T08:36:20.401800+00:00"
+    },
+    {
+      "action": "decision",
+      "actor": "orchestrator",
+      "details": {
+        "decision": {
+          "action": "FINISH",
+          "question": "",
+          "reason": "Non esistono film con Tom Holland e Tom Cruise nel database; avendo esaurito i tentativi di ricerca ed essendo il set di candidati non conforme, si termina la sessione.",
+          "semantic_query": ""
+        }
+      },
+      "step": 10,
+      "time": "2026-10-22T08:36:20.404587+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_answer",
+        "keys": ["answer", "resource_ids"],
+        "latency_ms": 1041
+      },
+      "step": 11,
+      "time": "2026-10-22T08:36:21.447110+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "answer",
+      "details": {
+        "reason": "Non esistono film con Tom Holland e Tom Cruise nel database; avendo esaurito i tentativi di ricerca ed essendo il set di candidati non conforme, si termina la sessione.",
+        "resource_ids": []
+      },
+      "step": 12,
+      "time": "2026-10-22T08:36:21.450842+00:00"
+    }
+  ],
+  "final_answer": {
+    "answer": "Nei candidati verificati non sono presenti film in cui recitano insieme Tom Holland e Tom Cruise.",
+    "resource_ids": []
+  },
+  "llm_calls": 5,
+  "llm_traces": [
+    {
+      "prompt_version": "resource_planner_v1",
+      "provider_trace": {
+        "agent": "resource_planner",
+        "duration_ms": 1721.0884579690173,
+        "model": "gemini-3.5-flash-lite",
+        "profile_id": "gemini_free",
+        "prompt_version": "resource_planner_v1",
+        "provider": "gemini",
+        "request_id": "W8rZaprEKvCnkdUP8YWU0QI",
+        "started_at": "2026-10-22T08:33:30.947977Z",
+        "usage": {
+          "input_tokens": "[REDACTED]",
+          "output_tokens": "[REDACTED]",
+          "total_tokens": "[REDACTED]"
+        }
+      },
+      "role": "planner"
+    },
+    {
+      "prompt_version": "resource_planner_v1",
+      "provider_trace": {
+        "agent": "resource_planner",
+        "duration_ms": 1647.723041009158,
+        "model": "gemini-3.5-flash-lite",
+        "profile_id": "gemini_free",
+        "prompt_version": "resource_planner_v1",
+        "provider": "gemini",
+        "request_id": "-8rZat-oFdCWxN8PguOPuAk",
+        "started_at": "2026-10-22T08:36:10.470268Z",
+        "usage": {
+          "input_tokens": "[REDACTED]",
+          "output_tokens": "[REDACTED]",
+          "total_tokens": "[REDACTED]"
+        }
+      },
+      "role": "planner"
+    },
+    {
+      "agent": "resource_validator",
+      "duration_ms": 1228.2813340425491,
+      "latency_ms": 1229,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "AsvZap_cKLTuxN8PsZqIsQ0",
+      "started_at": "2026-10-22T08:36:18.201333Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_orchestrator",
+      "duration_ms": 962.1549999574199,
+      "latency_ms": 962,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "A8vZapOVMPr4xN8P477WyQ8",
+      "started_at": "2026-10-22T08:36:19.439500Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_answer",
+      "duration_ms": 1040.780834038742,
+      "latency_ms": 1041,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "BMvZatrWMZfQ28oP1LK30AE",
+      "started_at": "2026-10-22T08:36:20.406227Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    }
+  ],
+  "original_request": "Vorrei film che mi piace",
+  "pending_question": null,
+  "profile": {
+    "clarification_question": null,
+    "clarification_required": false,
+    "filters": {},
+    "rationale": "The user explicitly requested a movie featuring both Tom Holland and Tom Cruise. No other structured constraints like year or runtime were provided.",
+    "semantic_query": "Tom Holland and Tom Cruise starring together in a film"
+  },
+  "run_id": "dd239b306b234292",
+  "status": "COMPLETE",
+  "termination_reason": "Non esistono film con Tom Holland e Tom Cruise nel database; avendo esaurito i tentativi di ricerca ed essendo il set di candidati non conforme, si termina la sessione.",
+  "token_total": "[REDACTED]",
+  "token_usage_complete": "[REDACTED]",
+  "validations": [
+    {
+      "covered": [],
+      "invalid_resource_ids": [],
+      "missing": [
+        "Nessun film nei candidati vede Tom Holland e Tom Cruise recitare insieme."
+      ],
+      "reason": "La richiesta dell'utente richiede un film con Tom Holland e Tom Cruise, ma nessuno dei candidati presenti nel database soddisfa questo criterio (alcuni vedono Tom Cruise, altri riguardano Spider-Man con altri attori, ma nessuno li include entrambi).",
+      "status": "INSUFFICIENT"
+    }
+  ]
+}

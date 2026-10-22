@@ -1,0 +1,509 @@
+{
+  "attempts": [
+    {
+      "elapsed_ms": 17459,
+      "filters": { "exclude_genres": ["Horror"] },
+      "returned_ids": [
+        "8644",
+        "6537",
+        "115713",
+        "1240",
+        "2571",
+        "6934",
+        "6365",
+        "68791",
+        "111360",
+        "541"
+      ],
+      "semantic_query": "artificial intelligence AI machine learning philosophical action sci-fi"
+    }
+  ],
+  "base_filters": { "exclude_genres": ["Horror"] },
+  "candidates": {
+    "111360": {
+      "metadata": {
+        "adult": false,
+        "countries": ["FR"],
+        "genres": ["Action", "Science Fiction", "Sci-Fi"],
+        "imdb_id": 2872732,
+        "language": "en",
+        "runtime": 89.0,
+        "tmdb_id": 240832,
+        "year": 2014.0
+      },
+      "queries": [
+        "artificial intelligence AI machine learning philosophical action sci-fi"
+      ],
+      "resource_id": "111360",
+      "score": 0.6733997,
+      "text": "Title: Lucy genres: Action, Science Fiction Overview: A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic. Tagline: The average person uses 10% of their brain capacity. Imagine what she could do with 100%. keywords: artificial intelligence (a.i.) telepathy intelligence drug mule time travel telekinesis futuristic drugs super power tough girl surgery brain capacity synthetic drug human brain absurd cliché melodramatic pretentious Directors: Luc Besson Writers: Luc Besson Composers: Éric Serra Main cast: Scarlett Johansson, Morgan Freeman, Choi Min-sik, Amr Waked, Julian Rhind-Tutt Main characters: Lucy, Professor Norman, Mr. Jang, Pierre Del Rio, The Limey Production companies: EuropaCorp, Canal+, Ciné+, TF1 Films Production",
+      "title": "Lucy"
+    },
+    "115713": {
+      "metadata": {
+        "adult": false,
+        "countries": ["GB", "US"],
+        "genres": ["Drama", "Science Fiction", "Sci-Fi", "Thriller"],
+        "imdb_id": 470752,
+        "language": "en",
+        "runtime": 108.0,
+        "tmdb_id": 264660,
+        "year": 2015.0
+      },
+      "queries": [
+        "artificial intelligence AI machine learning philosophical action sci-fi"
+      ],
+      "resource_id": "115713",
+      "score": 0.69729525,
+      "text": "Title: Ex Machina genres: Drama, Science Fiction Overview: Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl. Tagline: There is nothing more human than the will to survive. keywords: android dancing friendship man vs machine distrust artificial intelligence (a.i.) isolation technology manipulation high technology treason deception norway laboratory robot power outage surveillance rich surveillance camera consciousness employer employee relationship isolated house wealthy man existentialism lockdown emotional intelligence female cyborg human android relationship tech company critical intense Directors: Alex Garland Writers: Alex Garland Composers: Ben Salisbury, Geoff Barrow Main cast: Domhnall Gleeson, Alicia Vikander, Oscar Isaac, Sonoya Mizuno, Corey Johnson Main characters: Caleb, Ava, Nathan, Kyoko, Jay Production companies: DNA Films, Film4 Productions, IAC Films, Scott Rudin Productions",
+      "title": "Ex Machina"
+    },
+    "1240": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "GB"],
+        "genres": ["Action", "Thriller", "Science Fiction", "Sci-Fi"],
+        "imdb_id": 88247,
+        "language": "en",
+        "runtime": 108.0,
+        "tmdb_id": 218,
+        "year": 1984.0
+      },
+      "queries": [
+        "artificial intelligence AI machine learning philosophical action sci-fi"
+      ],
+      "resource_id": "1240",
+      "score": 0.6933705,
+      "text": "Title: The Terminator genres: Action, Thriller, Science Fiction Overview: In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine? Tagline: Your future is in its hands. keywords: man vs machine artificial intelligence (a.i.) saving the world laser gun cyborg killer robot shotgun rebel dystopia villain time travel murder female protagonist los angeles, california urban setting future war savior tech noir time paradox action hero griffith observatory good versus evil user tags: Action, Sci-Fi, artificial intelligence, robots, special effects, tense, time travel Directors: James Cameron Writers: James Cameron, Gale Anne Hurd Composers: Brad Fiedel Main cast: Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield, Lance Henriksen Main characters: Terminator, Kyle Reese, Sarah Connor, Traxler, Vukovich Collection: The Terminator Collection Production companies: Hemdale, Pacific Western",
+      "title": "The Terminator"
+    },
+    "2571": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Action", "Science Fiction", "Sci-Fi", "Thriller"],
+        "imdb_id": 133093,
+        "language": "en",
+        "runtime": 136.0,
+        "tmdb_id": 603,
+        "year": 1999.0
+      },
+      "queries": [
+        "artificial intelligence AI machine learning philosophical action sci-fi"
+      ],
+      "resource_id": "2571",
+      "score": 0.693261,
+      "text": "Title: The Matrix genres: Action, Science Fiction Overview: Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth. Tagline: Believe the unbelievable. keywords: man vs machine martial arts fortune teller artificial intelligence (a.i.) saving the world prophecy philosophy dystopia allegory insurgence chosen one simulated reality cyberpunk woman director gnosticism user tags: alternate universe, martial arts, philosophy, post apocalyptic, sci-fi Directors: Lana Wachowski, Lilly Wachowski Writers: Lana Wachowski, Lilly Wachowski Composers: Don Davis Main cast: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Gloria Foster Main characters: Neo, Morpheus, Trinity, Agent Smith, Oracle Collection: The Matrix Collection Production companies: Village Roadshow Pictures, Groucho II Film Partnership, Silver Pictures, Warner Bros. Pictures",
+      "title": "The Matrix"
+    },
+    "541": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "HK", "GB"],
+        "genres": ["Science Fiction", "Drama", "Thriller", "Action", "Sci-Fi"],
+        "imdb_id": 83658,
+        "language": "en",
+        "runtime": 118.0,
+        "tmdb_id": 78,
+        "year": 1982.0
+      },
+      "queries": [
+        "artificial intelligence AI machine learning philosophical action sci-fi"
+      ],
+      "resource_id": "541",
+      "score": 0.6694799,
+      "text": "Title: Blade Runner genres: Science Fiction, Drama, Thriller Overview: In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans. Tagline: Man has made his match ...now it's his problem. keywords: android flying car bounty hunter artificial intelligence (a.i.) genetics based on novel or book dystopia futuristic fugitive cyberpunk los angeles, california alcoholic origami unicorn tech noir humanity neo-noir grim human clone humanoid robot blade runner 2010s suspenseful admiring excited user tags: Philip K. Dick, androids, artificial intelligence, atmospheric, cyberpunk, dreamlike, existentialism, future, mindfuck, philosophical, robots, sci-fi Directors: Ridley Scott Writers: Hampton Fancher, David Webb Peoples Composers: Vangelis Main cast: Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos, M. Emmet Walsh Main characters: Deckard, Batty, Rachael, Gaff, Bryant Collection: Blade Runner Collection Production companies: Shaw Brothers, The Ladd Company, Warner Bros. Pictures",
+      "title": "Blade Runner"
+    },
+    "6365": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller",
+          "Science Fiction",
+          "Sci-Fi",
+          "IMAX"
+        ],
+        "imdb_id": 234215,
+        "language": "en",
+        "runtime": 138.0,
+        "tmdb_id": 604,
+        "year": 2003.0
+      },
+      "queries": [
+        "artificial intelligence AI machine learning philosophical action sci-fi"
+      ],
+      "resource_id": "6365",
+      "score": 0.6860441,
+      "text": "Title: The Matrix Reloaded genres: Adventure, Action, Thriller, Science Fiction Overview: The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source. Tagline: Free your mind. keywords: dying and death future mission man vs machine underground world martial arts kung fu hero dreams fortune teller artificial intelligence (a.i.) computer saving the world computer virus virtual reality fight prophecy truth key dystopia allegory simulation plato precognition rave car crash sequel cyberpunk woman director action hero gnosticism oracle grand defiant sardonic Directors: Lana Wachowski, Lilly Wachowski Writers: Lana Wachowski, Lilly Wachowski Composers: Don Davis Main cast: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Jada Pinkett Smith Main characters: Neo, Morpheus, Trinity, Agent Smith, Niobe Collection: The Matrix Collection Production companies: Village Roadshow Pictures, Silver Pictures, NPV Entertainment",
+      "title": "The Matrix Reloaded"
+    },
+    "6537": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "DE", "GB"],
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "imdb_id": 181852,
+        "language": "en",
+        "runtime": 109.0,
+        "tmdb_id": 296,
+        "year": 2003.0
+      },
+      "queries": [
+        "artificial intelligence AI machine learning philosophical action sci-fi"
+      ],
+      "resource_id": "6537",
+      "score": 0.71066594,
+      "text": "Title: Terminator 3: Rise of the Machines genres: Action, Thriller, Science Fiction Overview: It's been 10 years since John Connor saved Earth from Judgment Day, and he's now living under the radar, steering clear of using anything Skynet can trace. That is, until he encounters T-X, a robotic assassin ordered to finish what T-1000 started. Good thing Connor's former nemesis, the Terminator, is back to aid the now-adult Connor … just like he promised. Tagline: The machines will rise. keywords: man vs machine artificial intelligence (a.i.) saving the world leather jacket cyborg killer robot dystopia nanotechnology rocket launcher veterinarian fire engine villain time travel sequel psychiatrist urban setting female villain firefighter action hero 2030s good versus evil ambivalent Directors: Jonathan Mostow Writers: Michael Ferris, John Brancato Composers: Marco Beltrami Main cast: Arnold Schwarzenegger, Nick Stahl, Claire Danes, Kristanna Loken, Earl Boen Main characters: The Terminator, John Connor, Kate Brewster, T-X, Dr. Peter Silberman Collection: The Terminator Collection Production companies: Intermedia Films, IMF Internationale Medien und Film 3 & Produktions, C2 Pictures, Mostow/Lieberman Productions",
+      "title": "Terminator 3: Rise of the Machines"
+    },
+    "68791": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Thriller",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "imdb_id": 438488,
+        "language": "en",
+        "runtime": 115.0,
+        "tmdb_id": 534,
+        "year": 2009.0
+      },
+      "queries": [
+        "artificial intelligence AI machine learning philosophical action sci-fi"
+      ],
+      "resource_id": "68791",
+      "score": 0.67631555,
+      "text": "Title: Terminator Salvation genres: Action, Science Fiction, Thriller Overview: All grown up in post-apocalyptic 2018, John Connor must lead the resistance of humans against the increasingly dominating militaristic robots. But when Marcus Wright appears, his existence confuses the mission as Connor tries to determine whether Wright has come from the future or the past -- and whether he's friend or foe. Tagline: The end begins. keywords: army artificial intelligence (a.i.) saving the world prophecy san francisco, california gas station cyborg killer robot dystopia firearm post-apocalyptic future wartime sequel los angeles, california user tags: Christian Bale, FIGHTING THE SYSTEM, artificial intelligence, bad acting, bad plot, bad script, franchise, new composer, post-apocalyptic, robots, sci-fi, sequel Directors: McG Writers: John Brancato, Michael Ferris Composers: Danny Elfman Main cast: Christian Bale, Sam Worthington, Moon Bloodgood, Helena Bonham Carter, Anton Yelchin Main characters: John Connor, Marcus Wright, Blair Williams, Serena, Kyle Reese Collection: The Terminator Collection Production companies: The Halcyon Company, Moritz Borman Productions, Wonderland Sound and Vision, Mandate International, T Asset Acquisition Company, Columbia Pictures, Warner Bros. Pictures",
+      "title": "Terminator Salvation"
+    },
+    "6934": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller",
+          "Science Fiction",
+          "Sci-Fi",
+          "IMAX"
+        ],
+        "imdb_id": 242653,
+        "language": "en",
+        "runtime": 129.0,
+        "tmdb_id": 605,
+        "year": 2003.0
+      },
+      "queries": [
+        "artificial intelligence AI machine learning philosophical action sci-fi"
+      ],
+      "resource_id": "6934",
+      "score": 0.6895858,
+      "text": "Title: The Matrix Revolutions genres: Adventure, Action, Thriller, Science Fiction Overview: The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith. Tagline: Everything that has a beginning has an end. keywords: dying and death rescue future mission man vs machine underground world machine town martial arts kung fu hero dreams fortune teller artificial intelligence (a.i.) computer saving the world flying temple computer virus virtual reality fight truth philosophy key killer robot subway dystopia allegory sun sunlight precognition super computer ying yang sequel cyberpunk christ allegory woman director philosophical action hero gnosticism excited pretentious Directors: Lilly Wachowski, Lana Wachowski Writers: Lilly Wachowski, Lana Wachowski Composers: Don Davis Main cast: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Jada Pinkett Smith Main characters: Neo, Morpheus, Trinity, Agent Smith, Niobe Collection: The Matrix Collection Production companies: Village Roadshow Pictures, NPV Entertainment, Silver Pictures",
+      "title": "The Matrix Revolutions"
+    },
+    "8644": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "DE", "CA"],
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "imdb_id": 343818,
+        "language": "en",
+        "runtime": 115.0,
+        "tmdb_id": 2048,
+        "year": 2004.0
+      },
+      "queries": [
+        "artificial intelligence AI machine learning philosophical action sci-fi"
+      ],
+      "resource_id": "8644",
+      "score": 0.7131665,
+      "text": "Title: I, Robot genres: Action, Science Fiction Overview: In 2035, where robots are commonplace and abide by the three laws of robotics, a technophobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger. Tagline: One man saw it coming. keywords: chicago, illinois future man vs machine hero artificial intelligence (a.i.) based on novel or book grandparent grandchild relationship homicide detective dystopia hologram murder robot as menace car accident robot grandmother humanity futuristic city robotics humanoid robot talking robot self-driving car homicide investigation 2030s serious robot companion old robot new robot tense Directors: Alex Proyas Writers: Jeff Vintar, Akiva Goldsman Composers: Marco Beltrami Main cast: Will Smith, Bridget Moynahan, Alan Tudyk, James Cromwell, Bruce Greenwood Main characters: Del Spooner, Susan Calvin, Sonny (voice), Dr. Alfred Lanning, Lawrence Robertson Production companies: Davis Entertainment, Laurence Mark Productions, Canlaws Productions, 20th Century Fox, Overbrook Entertainment, Mediastream Vierte Film",
+      "title": "I, Robot"
+    }
+  },
+  "clarifications": 0,
+  "conversation": [],
+  "decisions": 1,
+  "events": [
+    {
+      "action": "started",
+      "actor": "workflow",
+      "details": { "domain": "movielens_v2" },
+      "step": 1,
+      "time": "2026-10-21T15:54:10.596794+00:00"
+    },
+    {
+      "action": "updated",
+      "actor": "elicitation",
+      "details": {
+        "clarification_required": false,
+        "filter_keys": ["exclude_genres"],
+        "semantic_query": "artificial intelligence AI machine learning philosophical action sci-fi"
+      },
+      "step": 2,
+      "time": "2026-10-21T15:54:18.826587+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "retrieval",
+      "details": {
+        "duration_ms": 17459,
+        "new_candidates": 10,
+        "query": "artificial intelligence AI machine learning philosophical action sci-fi",
+        "resource_ids": [
+          "8644",
+          "6537",
+          "115713",
+          "1240",
+          "2571",
+          "6934",
+          "6365",
+          "68791",
+          "111360",
+          "541"
+        ],
+        "returned": 10
+      },
+      "step": 3,
+      "time": "2026-10-21T15:54:36.289406+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_validator",
+        "keys": [
+          "covered",
+          "invalid_resource_ids",
+          "missing",
+          "reason",
+          "status"
+        ],
+        "latency_ms": 22980
+      },
+      "step": 4,
+      "time": "2026-10-21T15:54:59.271915+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "validation",
+      "details": {
+        "covered": [
+          "8644",
+          "6537",
+          "115713",
+          "1240",
+          "2571",
+          "6934",
+          "6365",
+          "68791",
+          "111360",
+          "541"
+        ],
+        "invalid_resource_ids": [],
+        "missing": [],
+        "status": "SUFFICIENT"
+      },
+      "step": 5,
+      "time": "2026-10-21T15:54:59.275649+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_orchestrator",
+        "keys": ["action", "question", "reason", "semantic_query"],
+        "latency_ms": 3778
+      },
+      "step": 6,
+      "time": "2026-10-21T15:55:03.056199+00:00"
+    },
+    {
+      "action": "decision",
+      "actor": "orchestrator",
+      "details": {
+        "decision": {
+          "action": "FINISH",
+          "question": "",
+          "reason": "Il set di 10 candidati copre perfettamente la richiesta dell'utente (film sull'intelligenza artificiale, filosofici e d'azione, escludendo gli horror) ed è validato come sufficiente.",
+          "semantic_query": ""
+        }
+      },
+      "step": 7,
+      "time": "2026-10-21T15:55:03.059865+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_answer",
+        "keys": ["answer", "resource_ids"],
+        "latency_ms": 1917
+      },
+      "step": 8,
+      "time": "2026-10-21T15:55:04.979173+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "answer",
+      "details": {
+        "reason": "Il set di 10 candidati copre perfettamente la richiesta dell'utente (film sull'intelligenza artificiale, filosofici e d'azione, escludendo gli horror) ed è validato come sufficiente.",
+        "resource_ids": [
+          "541",
+          "1240",
+          "2571",
+          "8644",
+          "6365",
+          "6537",
+          "6934",
+          "68791",
+          "111360",
+          "115713"
+        ]
+      },
+      "step": 9,
+      "time": "2026-10-21T15:55:04.985426+00:00"
+    }
+  ],
+  "final_answer": {
+    "answer": "Ecco una selezione di film sull'intelligenza artificiale che spaziano da avvincenti action sci-fi a pellicole più filosofiche e introspettive, senza contenuti horror.",
+    "resource_ids": [
+      "541",
+      "1240",
+      "2571",
+      "8644",
+      "6365",
+      "6537",
+      "6934",
+      "68791",
+      "111360",
+      "115713"
+    ]
+  },
+  "llm_calls": 4,
+  "llm_traces": [
+    {
+      "prompt_version": "resource_planner_v1",
+      "provider_trace": {
+        "agent": "resource_planner",
+        "duration_ms": 8218.251792015508,
+        "model": "gemini-3.5-flash-lite",
+        "profile_id": "gemini_free",
+        "prompt_version": "resource_planner_v1",
+        "provider": "gemini",
+        "request_id": "I-DYaozOIZi0nsEP05ujqAQ",
+        "started_at": "2026-10-21T15:54:10.604984Z",
+        "usage": {
+          "input_tokens": "[REDACTED]",
+          "output_tokens": "[REDACTED]",
+          "total_tokens": "[REDACTED]"
+        }
+      },
+      "role": "planner"
+    },
+    {
+      "agent": "resource_validator",
+      "duration_ms": 22977.97587502282,
+      "latency_ms": 22980,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "PeDYaqS4CbzonsEPmN7jWQ",
+      "started_at": "2026-10-21T15:54:36.291495Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_orchestrator",
+      "duration_ms": 3777.7665000176057,
+      "latency_ms": 3778,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "U-DYaoeDItDgkdUPu8anuA4",
+      "started_at": "2026-10-21T15:54:59.277862Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_answer",
+      "duration_ms": 1915.9865420078859,
+      "latency_ms": 1917,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "V-DYaqiXGbDinsEPl6zDkQ4",
+      "started_at": "2026-10-21T15:55:03.062210Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    }
+  ],
+  "original_request": "Vorrei film sull'intelligenza artificiale, alcuni filosofici e altri d'azione, non horror.",
+  "pending_question": null,
+  "profile": {
+    "clarification_question": null,
+    "clarification_required": false,
+    "filters": { "exclude_genres": ["Horror"] },
+    "rationale": "The user requested movies about artificial intelligence with philosophical or action elements, explicitly excluding horror. 'Horror' is mapped to exclude_genres, while the thematic elements and styles are retained in the semantic query.",
+    "semantic_query": "artificial intelligence AI machine learning philosophical action sci-fi"
+  },
+  "run_id": "09c8e771714e4950",
+  "status": "COMPLETE",
+  "termination_reason": "Il set di 10 candidati copre perfettamente la richiesta dell'utente (film sull'intelligenza artificiale, filosofici e d'azione, escludendo gli horror) ed è validato come sufficiente.",
+  "token_total": "[REDACTED]",
+  "token_usage_complete": "[REDACTED]",
+  "validations": [
+    {
+      "covered": [
+        "8644",
+        "6537",
+        "115713",
+        "1240",
+        "2571",
+        "6934",
+        "6365",
+        "68791",
+        "111360",
+        "541"
+      ],
+      "invalid_resource_ids": [],
+      "missing": [],
+      "reason": "Tutti i candidati rispettano il vincolo di esclusione del genere Horror e coprono in modo eccellente la richiesta sui film di intelligenza artificiale, filosofici e d'azione.",
+      "status": "SUFFICIENT"
+    }
+  ]
+}

@@ -30,6 +30,7 @@
       },
       "planner_instructions": [
         "Names of actors/directors and thematic descriptions remain in semantic_query rather than becoming unsupported structured filters.",
+        "Require that the user query must state a film Genre, if it does not, ask the user to specify one or more genres.",
         "Do not infer year, runtime, language, country or genre constraints unless the user states them."
       ],
       "answer_instructions": [

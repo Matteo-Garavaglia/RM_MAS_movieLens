@@ -1,0 +1,36 @@
+{
+  "attempts": [],
+  "base_filters": {},
+  "candidates": {},
+  "clarifications": 0,
+  "conversation": [],
+  "decisions": 0,
+  "events": [
+    {
+      "action": "started",
+      "actor": "workflow",
+      "details": { "domain": "movielens_v2" },
+      "step": 1,
+      "time": "2026-10-22T09:25:16.205855+00:00"
+    },
+    {
+      "action": "failed",
+      "actor": "workflow",
+      "details": { "reason": "TimeoutError: " },
+      "step": 2,
+      "time": "2026-10-22T09:26:16.214122+00:00"
+    }
+  ],
+  "final_answer": null,
+  "llm_calls": 1,
+  "llm_traces": [],
+  "original_request": "Vorrei dei film con Tom Hanks prodotti prima del 2010",
+  "pending_question": null,
+  "profile": {},
+  "run_id": "2196df77dfe94596",
+  "status": "FAILED",
+  "termination_reason": "TimeoutError: ",
+  "token_total": "[REDACTED]",
+  "token_usage_complete": "[REDACTED]",
+  "validations": []
+}

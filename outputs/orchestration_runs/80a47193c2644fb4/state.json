@@ -1,0 +1,75 @@
+{
+  "attempts": [],
+  "base_filters": { "max_year": 2009 },
+  "candidates": {},
+  "clarifications": 1,
+  "conversation": [],
+  "decisions": 0,
+  "events": [
+    {
+      "action": "started",
+      "actor": "workflow",
+      "details": { "domain": "movielens_v2" },
+      "step": 1,
+      "time": "2026-10-22T09:29:14.593858+00:00"
+    },
+    {
+      "action": "updated",
+      "actor": "elicitation",
+      "details": {
+        "clarification_required": true,
+        "filter_keys": ["max_year"],
+        "semantic_query": "movies starring Tom Hanks"
+      },
+      "step": 2,
+      "time": "2026-10-22T09:29:15.982247+00:00"
+    },
+    {
+      "action": "ask_user",
+      "actor": "orchestrator",
+      "details": {
+        "question": "Could you please specify one or more genres you are interested in?"
+      },
+      "step": 3,
+      "time": "2026-10-22T09:29:15.987083+00:00"
+    }
+  ],
+  "final_answer": null,
+  "llm_calls": 1,
+  "llm_traces": [
+    {
+      "prompt_version": "resource_planner_v1",
+      "provider_trace": {
+        "agent": "resource_planner",
+        "duration_ms": 1377.408874919638,
+        "model": "gemini-3.5-flash-lite",
+        "profile_id": "gemini_free",
+        "prompt_version": "resource_planner_v1",
+        "provider": "gemini",
+        "request_id": "a9fZasCSFYamkdUPm9CckQ8",
+        "started_at": "2026-10-22T09:29:14.601059Z",
+        "usage": {
+          "input_tokens": "[REDACTED]",
+          "output_tokens": "[REDACTED]",
+          "total_tokens": "[REDACTED]"
+        }
+      },
+      "role": "planner"
+    }
+  ],
+  "original_request": "Vorrei dei film con Tom Hanks prodotti prima del 2010",
+  "pending_question": "Could you please specify one or more genres you are interested in?",
+  "profile": {
+    "clarification_question": "Could you please specify one or more genres you are interested in?",
+    "clarification_required": true,
+    "filters": { "max_year": 2009 },
+    "rationale": "The user requested movies with Tom Hanks released before 2010. Per instructions, a film genre must be stated; since none was provided, clarification is required.",
+    "semantic_query": "movies starring Tom Hanks"
+  },
+  "run_id": "80a47193c2644fb4",
+  "status": "WAITING_USER",
+  "termination_reason": null,
+  "token_total": "[REDACTED]",
+  "token_usage_complete": "[REDACTED]",
+  "validations": []
+}

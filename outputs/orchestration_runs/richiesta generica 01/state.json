@@ -1,0 +1,528 @@
+{
+  "attempts": [
+    {
+      "elapsed_ms": 13497,
+      "filters": { "include_genres": ["Romance"] },
+      "returned_ids": [
+        "8533",
+        "69757",
+        "5066",
+        "8638",
+        "2248",
+        "4308",
+        "140",
+        "39183",
+        "88163",
+        "4069"
+      ],
+      "semantic_query": "romantic movies, love stories, relationships, emotional romance"
+    }
+  ],
+  "base_filters": { "include_genres": ["Romance"] },
+  "candidates": {
+    "140": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Drama", "Romance"],
+        "imdb_id": 118055,
+        "language": "en",
+        "runtime": 119.0,
+        "tmdb_id": 9302,
+        "year": 1996.0
+      },
+      "queries": [
+        "romantic movies, love stories, relationships, emotional romance"
+      ],
+      "resource_id": "140",
+      "score": 0.66480297,
+      "text": "Title: Up Close & Personal genres: Drama, Romance Overview: Tally Atwater has a dream: to be a prime-time network newscaster. She pursues this dream with nothing but ambition, raw talent and a homemade demo tape. Warren Justice is a brilliant, hard edged, veteran newsman. He sees Tally has talent and becomes her mentor. Tally’s career takes a meteoric rise and she and Warren fall in love. The romance that results is as intense and revealing as television news itself. Yet, each breaking story, every videotaped crisis that brings them together, also threatens to drive them apart... Tagline: Passion Brought Them Together... Only Success Could Tear Them Apart! keywords: career miami, florida affectation reporter candid intimate absurd admiring adoring amused informative sympathetic vibrant user tags: journalism Directors: Jon Avnet Writers: Joan Didion, John Gregory Dunne Composers: Thomas Newman Main cast: Robert Redford, Michelle Pfeiffer, Stockard Channing, Joe Mantegna, Kate Nelligan Main characters: Warren Justice, Tally Atwater, Marcia McGrath, Bucky Terranova, Joanna Kennelly Production companies: Cinergi Pictures, The Avnet/Kerner Company",
+      "title": "Up Close & Personal"
+    },
+    "2248": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Romance", "Comedy", "Drama"],
+        "imdb_id": 98258,
+        "language": "en",
+        "runtime": 100.0,
+        "tmdb_id": 2028,
+        "year": 1989.0
+      },
+      "queries": [
+        "romantic movies, love stories, relationships, emotional romance"
+      ],
+      "resource_id": "2248",
+      "score": 0.6706238,
+      "text": "Title: Say Anything... genres: Romance, Comedy, Drama Overview: Average student and eternal optimist Lloyd Dobler seeks to capture the heart of Diane Court, a beautiful but unattainable valedictorian classmate. He surprises just about everyone - including himself - when she returns the sentiment. However, Diane's divorced, over-protective father soon begins to disapprove of the match, and Lloyd realises that it's going to take more than just the power of love to conquer all. Tagline: A Lloyd meets girl story. keywords: high school seattle, washington high school graduation teenage crush teenage love kickboxer opposites attract valedictorian teenage angst user tags: In Your Eyes, Lloyd Dobbler Directors: Cameron Crowe Writers: Cameron Crowe Composers: Richard Gibbs, Anne Dudley Main cast: John Cusack, Ione Skye, John Mahoney, Lili Taylor, Amy Brooks Main characters: Lloyd Dobler, Diane Court, James Court, Corey Flood, D.C. Production companies: Gracie Films, 20th Century Fox",
+      "title": "Say Anything..."
+    },
+    "39183": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "CA"],
+        "genres": ["Drama", "Romance"],
+        "imdb_id": 388795,
+        "language": "en",
+        "runtime": 134.0,
+        "tmdb_id": 142,
+        "year": 2005.0
+      },
+      "queries": [
+        "romantic movies, love stories, relationships, emotional romance"
+      ],
+      "resource_id": "39183",
+      "score": 0.6616849,
+      "text": "Title: Brokeback Mountain genres: Drama, Romance Overview: In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own. Tagline: Love is a force of nature. keywords: secret love wyoming, usa countryside homophobia marriage crisis intolerance in the closet summer cowboy lgbt star crossed lovers 1960s thoughtful closeted homosexual gay romance gay theme gay relationship matter of fact Directors: Ang Lee Writers: Diana Ossana, Larry McMurtry Composers: Gustavo Santaolalla Main cast: Heath Ledger, Jake Gyllenhaal, Michelle Williams, Anne Hathaway, Randy Quaid Main characters: Ennis Del Mar, Jack Twist, Alma Beers, Lureen Newsome, Joe Aguirre Production companies: Focus Features, River Road Entertainment, Alberta Film Entertainment",
+      "title": "Brokeback Mountain"
+    },
+    "4069": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "DE", "GB"],
+        "genres": ["Comedy", "Romance"],
+        "imdb_id": 209475,
+        "language": "en",
+        "runtime": 103.0,
+        "tmdb_id": 2018,
+        "year": 2001.0
+      },
+      "queries": [
+        "romantic movies, love stories, relationships, emotional romance"
+      ],
+      "resource_id": "4069",
+      "score": 0.65566957,
+      "text": "Title: The Wedding Planner genres: Comedy, Romance Overview: San Francisco's premiere wedding planner, Mary Fiore is rescued from an accident by the man of her dreams, pediatrician Steve Edison, only to find he is the fiancé of her latest client. As Mary continues making their wedding arrangements, she and Steve are put into a string of uncomfortable situations that force them to face their mutual attraction. Tagline: A romantic comedy about love, destiny and other events you just can't plan for. keywords: san francisco, california arranged marriage wedding planner romcom doctor wedding heiress childhood friends chance meeting damsel in distress heroic rescue pediatrician single woman italian immigrant organized new money in love with someone's man fake fiancé immigrant parents Directors: Adam Shankman Writers: Pamela Falk, Michael Ellis Composers: Mervyn Warren Main cast: Jennifer Lopez, Matthew McConaughey, Justin Chambers, Joanna Gleason, Lou Myers Main characters: Mary Fiore, Steve Edison, Massimo, Mrs. Donolly, Burt Weinberg Production companies: Tapestry Films, Dee Gee Entertainment, IMF, Intermedia Films, Prufrock Pictures, Columbia Pictures, J&M Entertainment",
+      "title": "The Wedding Planner"
+    },
+    "4308": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "AU"],
+        "genres": ["Drama", "Romance", "Music", "Musical"],
+        "imdb_id": 203009,
+        "language": "en",
+        "runtime": 128.0,
+        "tmdb_id": 824,
+        "year": 2001.0
+      },
+      "queries": [
+        "romantic movies, love stories, relationships, emotional romance"
+      ],
+      "resource_id": "4308",
+      "score": 0.6658585,
+      "text": "Title: Moulin Rouge! genres: Drama, Romance, Music Overview: A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star. Tagline: The greatest thing you'll ever learn is just to love.... and be loved in return. keywords: paris, france nightclub fairy courtesan duke musical poet terminal illness love writer prostitution death illness rouge tuberculosis bohemian dance hall 19th century 1900s belle epoque jukebox musical romantic amused moulin rouge Directors: Baz Luhrmann Writers: Baz Luhrmann, Craig Pearce Composers: Craig Armstrong Main cast: Ewan McGregor, Nicole Kidman, John Leguizamo, Jim Broadbent, Richard Roxburgh Main characters: Christian, Satine, Toulouse-Lautrec, Harold Zidler, The Duke Production companies: 20th Century Fox, Bazmark",
+      "title": "Moulin Rouge!"
+    },
+    "5066": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Drama", "Romance"],
+        "imdb_id": 281358,
+        "language": "en",
+        "runtime": 102.0,
+        "tmdb_id": 10229,
+        "year": 2002.0
+      },
+      "queries": [
+        "romantic movies, love stories, relationships, emotional romance"
+      ],
+      "resource_id": "5066",
+      "score": 0.6736282,
+      "text": "Title: A Walk to Remember genres: Drama, Romance Overview: When the popular, restless Landon Carter is forced to participate in the school drama production, he falls in love with Jamie Sullivan, the daughter of the town's minister. Jamie has a \"to-do\" list for her life, as well as a very big secret she must keep from Landon. Tagline: It all comes down to who's by your side. keywords: high school based on novel or book theatre group north carolina romance coming of age cancer tragic love valentine's day nostalgic star crossed lovers teen drama terminal cancer christian film sentimental romantic adoring distressing empathetic hopeful Directors: Adam Shankman Writers: Karen Janszen Composers: Mervyn Warren Main cast: Mandy Moore, Shane West, Peter Coyote, Daryl Hannah, Lauren German Main characters: Jamie Sullivan, Landon Carter, Reverend Sullivan, Cynthia Carter, Belinda Production companies: Pandora Pictures, Di Novi Pictures, Warner Bros. Pictures",
+      "title": "A Walk to Remember"
+    },
+    "69757": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Comedy", "Drama", "Romance"],
+        "imdb_id": 1022603,
+        "language": "en",
+        "runtime": 95.0,
+        "tmdb_id": 19913,
+        "year": 2009.0
+      },
+      "queries": [
+        "romantic movies, love stories, relationships, emotional romance"
+      ],
+      "resource_id": "69757",
+      "score": 0.67607987,
+      "text": "Title: (500) Days of Summer genres: Comedy, Drama, Romance Overview: Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life. Tagline: Boy meets girl. Boy falls in love. Girl doesn't. keywords: jealousy gallery fight date architect interview romcom sister love friends fate los angeles, california summer year heartache user tags: Funny, Zooey Deschanel, artistic, humorous, inspiring, intelligent, quirky, romance Directors: Marc Webb Writers: Michael H. Weber, Scott Neustadter Composers: Mychael Danna, Rob Simonsen Main cast: Joseph Gordon-Levitt, Zooey Deschanel, Geoffrey Arend, Chloë Grace Moretz, Matthew Gray Gubler Main characters: Tom, Summer, McKenzie, Rachel, Paul Production companies: Fox Searchlight Pictures, Watermark Pictures, Dune Entertainment III",
+      "title": "(500) Days of Summer"
+    },
+    "8533": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Romance", "Drama"],
+        "imdb_id": 332280,
+        "language": "en",
+        "runtime": 123.0,
+        "tmdb_id": 11036,
+        "year": 2004.0
+      },
+      "queries": [
+        "romantic movies, love stories, relationships, emotional romance"
+      ],
+      "resource_id": "8533",
+      "score": 0.6978652,
+      "text": "Title: The Notebook genres: Romance, Drama Overview: An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths. Tagline: Behind every great love is a great story. keywords: secret love soulmates based on novel or book love of one's life fight poem river sadness class dementia tears candle mailbox valentine's day romantic user tags: memory loss, romance, sad Directors: Nick Cassavetes Writers: Jan Sardi, Jeremy Leven Composers: Aaron Zigman Main cast: Ryan Gosling, Rachel McAdams, Gena Rowlands, James Garner, Joan Allen Main characters: Noah Calhoun, Allie Hamilton, Older Allie, Older Noah 'Duke', Anne Hamilton Production companies: New Line Cinema, Avery Pix, Gran Via Productions",
+      "title": "The Notebook"
+    },
+    "8638": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Drama", "Romance"],
+        "imdb_id": 381681,
+        "language": "en",
+        "runtime": 80.0,
+        "tmdb_id": 80,
+        "year": 2004.0
+      },
+      "queries": [
+        "romantic movies, love stories, relationships, emotional romance"
+      ],
+      "resource_id": "8638",
+      "score": 0.6730364,
+      "text": "Title: Before Sunset genres: Drama, Romance Overview: Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more. Tagline: What if you had a second chance with the one that got away? keywords: journalist talking soulmates walking paris, france bookshop love of one's life author semi autobiographical romantic cliché user tags: generation X Directors: Richard Linklater Writers: Richard Linklater, Ethan Hawke, Julie Delpy Main cast: Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torrès, Rodolphe Pauly Main characters: Jesse, Céline, Bookstore Manager, Journalist #1, Journalist #2 Collection: Before... Collection Production companies: Warner Independent Pictures, Castle Rock Entertainment, Detour Filmproduction",
+      "title": "Before Sunset"
+    },
+    "88163": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Comedy", "Drama", "Romance"],
+        "imdb_id": 1570728,
+        "language": "en",
+        "runtime": 118.0,
+        "tmdb_id": 50646,
+        "year": 2011.0
+      },
+      "queries": [
+        "romantic movies, love stories, relationships, emotional romance"
+      ],
+      "resource_id": "88163",
+      "score": 0.65638816,
+      "text": "Title: Crazy, Stupid, Love. genres: Comedy, Drama, Romance Overview: Cal Weaver is living the American dream. He has a good job, a beautiful house, great children and a beautiful wife, named Emily. Cal's seemingly perfect life unravels, however, when he learns that Emily has been unfaithful and wants a divorce. Over 40 and suddenly single, Cal is adrift in the fickle world of dating. Enter, Jacob Palmer, a self-styled player who takes Cal under his wing and teaches him how to be a hit with the ladies. Tagline: This is crazy. This is stupid. This is love. keywords: friendship soulmates marriage crisis midlife crisis babysitter womanizer law school los angeles, california middle school relationship love affair divorcee teenage love playful Directors: Glenn Ficarra, John Requa Writers: Dan Fogelman Composers: Christophe Beck, Nick Urata Main cast: Steve Carell, Ryan Gosling, Julianne Moore, Emma Stone, Lio Tipton Main characters: Cal, Jacob, Emily, Hannah, Jessica Production companies: Warner Bros. Pictures",
+      "title": "Crazy, Stupid, Love."
+    }
+  },
+  "clarifications": 1,
+  "conversation": [
+    {
+      "question": "Vorrei aiutarti a trovare dei bei film, ma hai bisogno di specificare uno o più generi cinematografici (ad esempio commedia, drammatico, fantascienza, azione, ecc.). Quali generi ti interessano?",
+      "reply": "dei film romantici"
+    }
+  ],
+  "decisions": 1,
+  "events": [
+    {
+      "action": "started",
+      "actor": "workflow",
+      "details": { "domain": "movielens_v2" },
+      "step": 1,
+      "time": "2026-10-22T09:04:48.213287+00:00"
+    },
+    {
+      "action": "updated",
+      "actor": "elicitation",
+      "details": {
+        "clarification_required": true,
+        "filter_keys": [],
+        "semantic_query": ""
+      },
+      "step": 2,
+      "time": "2026-10-22T09:04:49.794678+00:00"
+    },
+    {
+      "action": "ask_user",
+      "actor": "orchestrator",
+      "details": {
+        "question": "Vorrei aiutarti a trovare dei bei film, ma hai bisogno di specificare uno o più generi cinematografici (ad esempio commedia, drammatico, fantascienza, azione, ecc.). Quali generi ti interessano?"
+      },
+      "step": 3,
+      "time": "2026-10-22T09:04:49.797312+00:00"
+    },
+    {
+      "action": "clarification_received",
+      "actor": "user",
+      "details": { "reply": "dei film romantici" },
+      "step": 4,
+      "time": "2026-10-22T09:05:28.575375+00:00"
+    },
+    {
+      "action": "updated",
+      "actor": "elicitation",
+      "details": {
+        "clarification_required": false,
+        "filter_keys": ["include_genres"],
+        "semantic_query": "romantic movies, love stories, relationships, emotional romance"
+      },
+      "step": 5,
+      "time": "2026-10-22T09:05:30.020530+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "retrieval",
+      "details": {
+        "duration_ms": 13497,
+        "new_candidates": 10,
+        "query": "romantic movies, love stories, relationships, emotional romance",
+        "resource_ids": [
+          "8533",
+          "69757",
+          "5066",
+          "8638",
+          "2248",
+          "4308",
+          "140",
+          "39183",
+          "88163",
+          "4069"
+        ],
+        "returned": 10
+      },
+      "step": 6,
+      "time": "2026-10-22T09:05:43.521036+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_validator",
+        "keys": [
+          "covered",
+          "invalid_resource_ids",
+          "missing",
+          "reason",
+          "status"
+        ],
+        "latency_ms": 1068
+      },
+      "step": 7,
+      "time": "2026-10-22T09:05:44.592965+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "validation",
+      "details": {
+        "covered": [
+          "8533",
+          "69757",
+          "5066",
+          "8638",
+          "2248",
+          "4308",
+          "140",
+          "39183",
+          "88163",
+          "4069"
+        ],
+        "invalid_resource_ids": [],
+        "missing": [],
+        "status": "SUFFICIENT"
+      },
+      "step": 8,
+      "time": "2026-10-22T09:05:44.596310+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_orchestrator",
+        "keys": ["action", "question", "reason", "semantic_query"],
+        "latency_ms": 740
+      },
+      "step": 9,
+      "time": "2026-10-22T09:05:45.338248+00:00"
+    },
+    {
+      "action": "decision",
+      "actor": "orchestrator",
+      "details": {
+        "decision": {
+          "action": "FINISH",
+          "question": "",
+          "reason": "Il set di candidati è già sufficiente e validato positivamente con 10 film di genere Romance che soddisfano la richiesta dell'utente.",
+          "semantic_query": ""
+        }
+      },
+      "step": 10,
+      "time": "2026-10-22T09:05:45.340815+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_answer",
+        "keys": ["answer", "resource_ids"],
+        "latency_ms": 964
+      },
+      "step": 11,
+      "time": "2026-10-22T09:05:46.307479+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "answer",
+      "details": {
+        "reason": "Il set di candidati è già sufficiente e validato positivamente con 10 film di genere Romance che soddisfano la richiesta dell'utente.",
+        "resource_ids": [
+          "8533",
+          "69757",
+          "5066",
+          "8638",
+          "2248",
+          "4308",
+          "140",
+          "39183",
+          "88163",
+          "4069"
+        ]
+      },
+      "step": 12,
+      "time": "2026-10-22T09:05:46.313138+00:00"
+    }
+  ],
+  "final_answer": {
+    "answer": "Ecco una selezione di film romantici ed emozionanti tra cui scegliere, come il celebre dramma d'amore \"The Notebook\" o la commedia \"(500) Days of Summer\".",
+    "resource_ids": [
+      "8533",
+      "69757",
+      "5066",
+      "8638",
+      "2248",
+      "4308",
+      "140",
+      "39183",
+      "88163",
+      "4069"
+    ]
+  },
+  "llm_calls": 5,
+  "llm_traces": [
+    {
+      "prompt_version": "resource_planner_v1",
+      "provider_trace": {
+        "agent": "resource_planner",
+        "duration_ms": 1574.4824170833454,
+        "model": "gemini-3.5-flash-lite",
+        "profile_id": "gemini_free",
+        "prompt_version": "resource_planner_v1",
+        "provider": "gemini",
+        "request_id": "sdHZaq-CBp7hnsEPuK7nqQ4",
+        "started_at": "2026-10-22T09:04:48.218290Z",
+        "usage": {
+          "input_tokens": "[REDACTED]",
+          "output_tokens": "[REDACTED]",
+          "total_tokens": "[REDACTED]"
+        }
+      },
+      "role": "planner"
+    },
+    {
+      "prompt_version": "resource_planner_v1",
+      "provider_trace": {
+        "agent": "resource_planner",
+        "duration_ms": 1432.0773339131847,
+        "model": "gemini-3.5-flash-lite",
+        "profile_id": "gemini_free",
+        "prompt_version": "resource_planner_v1",
+        "provider": "gemini",
+        "request_id": "2dHZapDoFOnNkdUPtJbPuA4",
+        "started_at": "2026-10-22T09:05:28.587448Z",
+        "usage": {
+          "input_tokens": "[REDACTED]",
+          "output_tokens": "[REDACTED]",
+          "total_tokens": "[REDACTED]"
+        }
+      },
+      "role": "planner"
+    },
+    {
+      "agent": "resource_validator",
+      "duration_ms": 1067.638749955222,
+      "latency_ms": 1068,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "59HZatftOtab3boPn4rvwQs",
+      "started_at": "2026-10-22T09:05:43.525097Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_orchestrator",
+      "duration_ms": 740.310666966252,
+      "latency_ms": 740,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "6NHZarPMN6vikdUPsKjX4AM",
+      "started_at": "2026-10-22T09:05:44.597821Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_answer",
+      "duration_ms": 963.6542910011485,
+      "latency_ms": 964,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "6dHZatasLOyt3boPmY2j6Ao",
+      "started_at": "2026-10-22T09:05:45.343664Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    }
+  ],
+  "original_request": "Vorrei dei film belli",
+  "pending_question": null,
+  "profile": {
+    "clarification_question": null,
+    "clarification_required": false,
+    "filters": { "include_genres": ["Romance"] },
+    "rationale": "The user requested romantic movies ('film romantici'), so the 'Romance' genre is included in the filters and the semantic query is focused on romance and love stories.",
+    "semantic_query": "romantic movies, love stories, relationships, emotional romance"
+  },
+  "run_id": "50327a6955ea4166",
+  "status": "COMPLETE",
+  "termination_reason": "Il set di candidati è già sufficiente e validato positivamente con 10 film di genere Romance che soddisfano la richiesta dell'utente.",
+  "token_total": "[REDACTED]",
+  "token_usage_complete": "[REDACTED]",
+  "validations": [
+    {
+      "covered": [
+        "8533",
+        "69757",
+        "5066",
+        "8638",
+        "2248",
+        "4308",
+        "140",
+        "39183",
+        "88163",
+        "4069"
+      ],
+      "invalid_resource_ids": [],
+      "missing": [],
+      "reason": "Tutti i candidati proposti rientrano nel genere Romance come richiesto dal profilo e rispondono perfettamente alla richiesta generica di film romantici belli.",
+      "status": "SUFFICIENT"
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "attempts": [
+    {
+      "elapsed_ms": 2406,
+      "filters": { "min_year": 2001 },
+      "returned_ids": [
+        "93840",
+        "4388",
+        "71535",
+        "36401",
+        "122904",
+        "6888",
+        "122916",
+        "4734",
+        "103335",
+        "187593"
+      ],
+      "semantic_query": "Horror, adventure, and comedy movies"
+    },
+    {
+      "elapsed_ms": 1756,
+      "filters": { "min_year": 2001 },
+      "returned_ids": [
+        "59615",
+        "106489",
+        "78105",
+        "6764",
+        "98809",
+        "58293",
+        "6564",
+        "53125",
+        "4254",
+        "4367"
+      ],
+      "semantic_query": "Adventure movie after 2000"
+    }
+  ],
+  "base_filters": { "min_year": 2001 },
+  "candidates": {
+    "103335": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Science Fiction",
+          "Children",
+          "IMAX"
+        ],
+        "imdb_id": 1690953,
+        "language": "en",
+        "runtime": 98.0,
+        "tmdb_id": 93456,
+        "year": 2013.0
+      },
+      "queries": ["Horror, adventure, and comedy movies"],
+      "resource_id": "103335",
+      "score": 0.6966747,
+      "text": "Title: Despicable Me 2 genres: Animation, Comedy, Family, Science Fiction Overview: Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal. Tagline: More minions. More despicable. keywords: parent child relationship villain adoptive father secret agent bakery sequel falling in love family single father audition female agent duringcreditsstinger first date supervillain masked supervillain 3d animation absurd hilarious amused brisk bumbling detective Directors: Pierre Coffin, Chris Renaud Writers: Ken Daurio, Cinco Paul Composers: Heitor Pereira Main cast: Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove, Dana Gaier Ellis Main characters: Gru (voice), Lucy (voice), Eduardo / El Macho (voice), Margo (voice), Edith (voice) Collection: Despicable Me Collection Production companies: Illumination, Universal Pictures",
+      "title": "Despicable Me 2"
+    },
+    "106489": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "NZ"],
+        "genres": ["Fantasy", "Adventure", "Action", "IMAX"],
+        "imdb_id": 1170358,
+        "language": "en",
+        "runtime": 161.0,
+        "tmdb_id": 57158,
+        "year": 2013.0
+      },
+      "queries": ["Adventure movie after 2000"],
+      "resource_id": "106489",
+      "score": 0.6527529,
+      "text": "Title: The Hobbit: The Desolation of Smaug genres: Fantasy, Adventure, Action Overview: The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug. Tagline: Beyond darkness... beyond desolation... lies the greatest danger of all. keywords: gold lake based on novel or book elves dwarf shapeshifting mountain giant spider melancholy sequel bear troll dragon turns into animal barrel fantasy world wizard journey ring invisibility captured live action and animation high fantasy sword and sorcery trekking good versus evil hobbit user tags: Tolkien, adventure, fantasy, too long Directors: Peter Jackson Writers: Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro Composers: Howard Shore Main cast: Ian McKellen, Martin Freeman, Richard Armitage, Benedict Cumberbatch, Orlando Bloom Main characters: Gandalf the Grey, Bilbo Baggins, Thorin Oakenshield, Smaug / Sauron, Legolas Collection: The Hobbit Collection Production companies: New Line Cinema, Metro-Goldwyn-Mayer, WingNut Films",
+      "title": "The Hobbit: The Desolation of Smaug"
+    },
+    "122904": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
+        "imdb_id": 1431045,
+        "language": "en",
+        "runtime": 108.0,
+        "tmdb_id": 293660,
+        "year": 2016.0
+      },
+      "queries": ["Horror, adventure, and comedy movies"],
+      "resource_id": "122904",
+      "score": 0.7050287,
+      "text": "Title: Deadpool genres: Action, Adventure, Comedy Overview: The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life. Tagline: Feel the love. keywords: superhero anti hero mercenary based on comic aftercreditsstinger duringcreditsstinger Directors: Tim Miller Writers: Rhett Reese, Paul Wernick Composers: Tom Holkenborg Main cast: Ryan Reynolds, Morena Baccarin, Ed Skrein, T.J. Miller, Gina Carano Main characters: Wade / Deadpool, Vanessa, Ajax, Weasel, Angel Dust Collection: Deadpool Collection Production companies: 20th Century Fox, The Donners' Company, Genre Films, Marvel Entertainment",
+      "title": "Deadpool"
+    },
+    "122916": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Comedy",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "imdb_id": 3501632,
+        "language": "en",
+        "runtime": 131.0,
+        "tmdb_id": 284053,
+        "year": 2017.0
+      },
+      "queries": ["Horror, adventure, and comedy movies"],
+      "resource_id": "122916",
+      "score": 0.699062,
+      "text": "Title: Thor: Ragnarok genres: Action, Science Fiction, Comedy, Adventure Overview: Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela. Tagline: No hammer. No problem. keywords: superhero death of father based on comic sequel alien planet female villain norse mythology aftercreditsstinger duringcreditsstinger marvel cinematic universe (mcu) mysterious norse god familiar ominous user tags: awesome, humor, quirky, unconventional, white guilt Directors: Taika Waititi Writers: Craig Kyle, Christopher L. Yost, Eric Pearson Composers: Mark Mothersbaugh Main cast: Chris Hemsworth, Mark Ruffalo, Tom Hiddleston, Cate Blanchett, Idris Elba Main characters: Thor, Bruce Banner / Hulk, Loki, Hela, Heimdall Collection: Thor Collection Production companies: Marvel Studios",
+      "title": "Thor: Ragnarok"
+    },
+    "187593": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Action", "Comedy", "Adventure", "Sci-Fi"],
+        "imdb_id": 5463162,
+        "language": "en",
+        "runtime": 120.0,
+        "tmdb_id": 383498,
+        "year": 2018.0
+      },
+      "queries": ["Horror, adventure, and comedy movies"],
+      "resource_id": "187593",
+      "score": 0.69595575,
+      "text": "Title: Deadpool 2 genres: Action, Comedy, Adventure Overview: Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life. Tagline: Prepare for the Second Coming. keywords: hero superhero mutant mercenary based on comic sequel breaking the fourth wall aftercreditsstinger duringcreditsstinger joyful user tags: Josh Brolin, Ryan Reynolds, sarcasm Directors: David Leitch Writers: Rhett Reese, Paul Wernick, Ryan Reynolds Composers: Tyler Bates Main cast: Ryan Reynolds, Josh Brolin, Morena Baccarin, Julian Dennison, Zazie Beetz Main characters: Wade Wilson / Deadpool / Juggernaut (voice), Cable, Vanessa, Firefist, Domino Collection: Deadpool Collection Production companies: Maximum Effort, Genre Films, 20th Century Fox, Marvel Entertainment",
+      "title": "Deadpool 2"
+    },
+    "36401": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action",
+          "Comedy",
+          "Thriller",
+          "Horror"
+        ],
+        "imdb_id": 355295,
+        "language": "en",
+        "runtime": 118.0,
+        "tmdb_id": 4442,
+        "year": 2005.0
+      },
+      "queries": ["Horror, adventure, and comedy movies"],
+      "resource_id": "36401",
+      "score": 0.70924354,
+      "text": "Title: The Brothers Grimm genres: Adventure, Fantasy, Action, Comedy, Thriller Overview: Folklore collectors and con artists, Jake and Will Grimm, travel from village to village pretending to protect townsfolk from enchanted creatures and performing exorcisms. However, they are put to the test when they encounter a real magical curse in a haunted forest with real magical beings, requiring genuine courage. Tagline: No curse they can't reverse. No demon they can't exterminate. No spell they can't break. keywords: sibling relationship germany literature brothers grimm con artist historical fiction aftercreditsstinger 19th century fake exorcism Directors: Terry Gilliam Writers: Ehren Kruger Composers: Dario Marianelli Main cast: Matt Damon, Heath Ledger, Lena Headey, Peter Stormare, Monica Bellucci Main characters: Wilhelm Grimm, Jacob Grimm, Angelika, Cavaldi, Mirror Queen Production companies: Summit Entertainment, Atlas Entertainment, Mosaic Media Group, Dimension Films, Metro-Goldwyn-Mayer, Daniel Bobker Productions",
+      "title": "The Brothers Grimm"
+    },
+    "4254": {
+      "metadata": {
+        "adult": false,
+        "countries": ["AU", "US"],
+        "genres": ["Adventure", "Comedy", "Drama"],
+        "imdb_id": 231402,
+        "language": "en",
+        "runtime": 95.0,
+        "tmdb_id": 9290,
+        "year": 2001.0
+      },
+      "queries": ["Adventure movie after 2000"],
+      "resource_id": "4254",
+      "score": 0.6401074,
+      "text": "Title: Crocodile Dundee in Los Angeles genres: Adventure, Comedy Overview: After settling in the tiny Australian town of Walkabout Creek with his significant other and his young son, Mick \"Crocodile\" Dundee is thrown for a loop when a prestigious Los Angeles newspaper offers his honey a job. The family migrates back to the United States, and Croc and son soon find themselves learning some lessons about American life -- many of them inadvertent Tagline: He heard there was wildlife in L.A. He didn't know how wild. keywords: crocodile traffic jam los angeles, california stolen painting adventurer kangaroo Directors: Simon Wincer Writers: Eric Abrams, Matthew Berry Composers: Basil Poledouris Main cast: Paul Hogan, Linda Kozlowski, Jere Burns, Jonathan Banks, Alec Wilson Main characters: Michael J. 'Crocodile' Dundee, Sue Charleton, Arnan Rothman, Milos Drubnik, Jacko Collection: Crocodile Dundee Collection Production companies: Bungalow Productions, Silver Lion Films, Kathy Morgan Productions",
+      "title": "Crocodile Dundee in Los Angeles"
+    },
+    "4367": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "GB"],
+        "genres": ["Adventure", "Action", "Fantasy"],
+        "imdb_id": 146316,
+        "language": "en",
+        "runtime": 100.0,
+        "tmdb_id": 1995,
+        "year": 2001.0
+      },
+      "queries": ["Adventure movie after 2000"],
+      "resource_id": "4367",
+      "score": 0.6398106,
+      "text": "Title: Lara Croft: Tomb Raider genres: Adventure, Action, Fantasy Overview: Orphaned heiress, English aristocrat and intrepid archaeologist, Lara Croft, embarks on a dangerous quest to retrieve the two halves of an ancient artifact which controls time before it falls into the wrong hands. As an extremely rare planetary alignment is about to occur for the first time in 5,000 years, the fearless tomb raider will have to team up with rival adventurers and sworn enemies to collect the pieces, while time is running out. But, in the end, who can harness the archaic talisman's unlimited power? Tagline: Born into Wealth. Groomed by the Elite. Trained for Combat. keywords: london, england buddhist monk planetary alignment illuminati steampunk female protagonist heiress archaeologist based on video game aristocrat sled dogs relic dead father siberia adventurer archeology animate statue lunar eclipse tomb raiding Directors: Simon West Writers: Patrick Massett, John Zinman Composers: Graeme Revell Main cast: Angelina Jolie, Iain Glen, Daniel Craig, Noah Taylor, Chris Barrie Main characters: Lara Croft, Manfred Powell, Alex West, Bryce, Hillary Collection: Tomb Raider Collection Production companies: Paramount Pictures, Mutual Film Company, Lawrence Gordon Productions, Eidos Films",
+      "title": "Lara Croft: Tomb Raider"
+    },
+    "4388": {
+      "metadata": {
+        "adult": false,
+        "countries": ["CA", "US"],
+        "genres": ["Comedy"],
+        "imdb_id": 257106,
+        "language": "en",
+        "runtime": 82.0,
+        "tmdb_id": 4248,
+        "year": 2001.0
+      },
+      "queries": ["Horror, adventure, and comedy movies"],
+      "resource_id": "4388",
+      "score": 0.71252155,
+      "text": "Title: Scary Movie 2 genres: Comedy Overview: A group of students visit a mansion called \"Hell House,\" and murderous high jinks ensue. Tagline: No more mercy. No more shame. No more sequels - honest! - We lied. keywords: supernatural exorcism haunted house parody sequel spoof horror spoof secret door college student school project haunted mansion weed horror parody supernatural horror whimsical supernatural comedy Directors: Keenen Ivory Wayans Writers: Shawn Wayans, Marlon Wayans, Alyson Fouse, Michael Anthony Snowden, Craig Wayans, Greg Grabianski, Dave Polsky Composers: Mark McGrath Main cast: Anna Faris, Regina Hall, Marlon Wayans, Shawn Wayans, Christopher Masterson Main characters: Cindy, Brenda, Shorty, Ray, Buddy Collection: Scary Movie Collection Production companies: Brad Grey Pictures, Gold/Miller Productions, Wayans Bros. Entertainment, Dimension Films",
+      "title": "Scary Movie 2"
+    },
+    "4734": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Comedy", "Adventure", "Action"],
+        "imdb_id": 261392,
+        "language": "en",
+        "runtime": 104.0,
+        "tmdb_id": 2294,
+        "year": 2001.0
+      },
+      "queries": ["Horror, adventure, and comedy movies"],
+      "resource_id": "4734",
+      "score": 0.6979897,
+      "text": "Title: Jay and Silent Bob Strike Back genres: Comedy, Adventure, Action Overview: When Jay and Silent Bob learn that their comic-book alter egos, Bluntman and Chronic, have been sold to Hollywood as part of a big-screen movie that leaves them out of any royalties, the pair travel to Tinseltown to sabotage the production. Tagline: Hollywood had it coming. keywords: experiment movie business comic book breaking the fourth wall self mocking gigantic hand view askewniverse Directors: Kevin Smith Writers: Kevin Smith Composers: James L. Venable Main cast: Jason Mewes, Kevin Smith, Ben Affleck, Shannon Elizabeth, Eliza Dushku Main characters: Jay, Silent Bob, Holden McNeil / Ben Affleck, Justice, Sissy Collection: Jay and Silent Bob Collection Production companies: Dimension Films, View Askew Productions",
+      "title": "Jay and Silent Bob Strike Back"
+    },
+    "53125": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Adventure", "Fantasy", "Action", "Comedy"],
+        "imdb_id": 449088,
+        "language": "en",
+        "runtime": 169.0,
+        "tmdb_id": 285,
+        "year": 2007.0
+      },
+      "queries": ["Adventure movie after 2000"],
+      "resource_id": "53125",
+      "score": 0.6406176,
+      "text": "Title: Pirates of the Caribbean: At World's End genres: Adventure, Fantasy, Action Overview: After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Elizabeth Swann, and Captain Barbossa journey to the ends of the earth to rescue him. And as the East India Trading Company tightens its grip on the seas under Lord Cutler Beckett—now in control of Davy Jones—the fate of piracy hangs by a thread. Now, they must unite the pirate lords for one final stand. But as loyalties are tested and alliances shift, each must ultimately choose where they stand in the battle for freedom on the high seas. Tagline: At the end of the world, the adventure begins. keywords: exotic island strong woman love of one's life afterlife traitor singapore shipwreck sequel sword fight pirate monkey swashbuckler flying dutchman rum sailing ship aftercreditsstinger british navy mass hanging playful based on theme park ride whimsical celebratory excited joyful Directors: Gore Verbinski Writers: Terry Rossio, Ted Elliott Composers: Hans Zimmer Main cast: Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley, Jack Davenport Main characters: Jack Sparrow, Barbossa, Will Turner, Elizabeth Swann, Norrington Collection: Pirates of the Caribbean Collection Production companies: Jerry Bruckheimer Films, Second Mate Productions, Walt Disney Pictures",
+      "title": "Pirates of the Caribbean: At World's End"
+    },
+    "58293": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "ZA"],
+        "genres": [
+          "Adventure",
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Romance",
+          "Thriller"
+        ],
+        "imdb_id": 443649,
+        "language": "en",
+        "runtime": 109.0,
+        "tmdb_id": 7840,
+        "year": 2008.0
+      },
+      "queries": ["Adventure movie after 2000"],
+      "resource_id": "58293",
+      "score": 0.6457225,
+      "text": "Title: 10,000 BC genres: Adventure, Action, Drama, Fantasy Overview: A prehistoric epic that follows a young mammoth hunter's journey through uncharted territory to secure the future of his tribe. Tagline: The legend. The battle. The first hero. keywords: hunter indigenous fighter female lover pyramid mammoth sapient mountain village stone age primitive time prehistory saber-toothed tiger admiring pleistocene Directors: Roland Emmerich Writers: Roland Emmerich, Harald Kloser Composers: Harald Kloser, Thomas Wander Main cast: Steven Strait, Camilla Belle, Cliff Curtis, Nathanael Baring, Mo Zinal Main characters: D’Leh, Evolet, Tic-Tic, Baku, Ka’Ren Production companies: Centropolis Entertainment, Legendary Pictures, The Department of Trade, Industry and Competition of South Africa, Moonlighting Films, Warner Bros. Pictures",
+      "title": "10,000 BC"
+    },
+    "59615": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Adventure", "Action", "Comedy", "Sci-Fi"],
+        "imdb_id": 367882,
+        "language": "en",
+        "runtime": 122.0,
+        "tmdb_id": 217,
+        "year": 2008.0
+      },
+      "queries": ["Adventure movie after 2000"],
+      "resource_id": "59615",
+      "score": 0.6849872,
+      "text": "Title: Indiana Jones and the Kingdom of the Crystal Skull genres: Adventure, Action Overview: Set during the Cold War, the Soviets—led by sword-wielding Irina Spalko—are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. Indy is coerced to head to Peru at the behest of a young man whose friend—and Indy's colleague—Professor Oxley has been captured for his knowledge of the skull's whereabouts. Tagline: The adventure continues... keywords: treasure mexico city, mexico saving the world whip leather jacket riddle maya civilization peru machinegun treasure hunt sequel alien nuclear explosion refrigerator archaeologist adventurer area 51 archeology 1950s father son relationship absurd excited vibrant Directors: Steven Spielberg Writers: David Koepp Composers: John Williams Main cast: Harrison Ford, Cate Blanchett, Karen Allen, Shia LaBeouf, Ray Winstone Main characters: Indiana Jones, Irina Spalko, Marion Ravenwood, Mutt Williams, George 'Mac' McHale Collection: Indiana Jones Collection Production companies: Paramount Pictures, Lucasfilm Ltd.",
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull"
+    },
+    "6564": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "DE", "HK", "JP", "GB"],
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy",
+          "Comedy",
+          "Romance",
+          "Thriller"
+        ],
+        "imdb_id": 325703,
+        "language": "en",
+        "runtime": 117.0,
+        "tmdb_id": 1996,
+        "year": 2003.0
+      },
+      "queries": ["Adventure movie after 2000"],
+      "resource_id": "6564",
+      "score": 0.6426612,
+      "text": "Title: Lara Croft: Tomb Raider - The Cradle of Life genres: Adventure, Action, Fantasy Overview: Off the coast of the volcanic island of Santorini, the intrepid archaeologist Lara Croft makes the unexpected discovery of a pulsating golden orb able to guide its holder to the mythical Pandora's Box. As the legendary artifact contains ancient mysteries of unfathomable power - said to contain one of the deadliest plagues on Earth, Lara is tasked by MI6 to make sure it doesn't fall into the wrong hands. With the aid of former Marine turned mercenary Terry Sheridan, she travels the world in pursuit of the precious item in a race against time; she must beat the unscrupulous Nobel Prize-winning scientist turned bioterrorist, Jonathan Reiss, to it. Tagline: The lady returns. keywords: medallion biological weapon shanghai, china riddle ex-lover greece kazakhstan mercenary earthquake chinese mafia treasure hunt alexander the great pandora's box sequel female protagonist hong kong mi6 scientist underwater heiress archaeologist based on video game aristocrat great wall of china adventurer archeology crime syndicate bio terrorism mythical artifact user tags: Angelina Jolie, adventure, heroine in tight suit Directors: Jan de Bont Writers: Dean Georgaris Composers: Alan Silvestri Main cast: Angelina Jolie, Gerard Butler, Ciarán Hinds, Chris Barrie, Noah Taylor Main characters: Lara Croft, Terry Sheridan, Jonathan Reiss, Hillary, Bryce Collection: Tomb Raider Collection Production companies: Paramount Pictures, Mutual Film Company, Lawrence Gordon Productions, Eidos Films, October Pictures, BBC Film, Tele München, TOHO",
+      "title": "Lara Croft: Tomb Raider - The Cradle of Life"
+    },
+    "6764": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Adventure", "Action", "Comedy", "Thriller"],
+        "imdb_id": 327850,
+        "language": "en",
+        "runtime": 104.0,
+        "tmdb_id": 10159,
+        "year": 2003.0
+      },
+      "queries": ["Adventure movie after 2000"],
+      "resource_id": "6764",
+      "score": 0.6486446,
+      "text": "Title: The Rundown genres: Adventure, Action, Comedy, Thriller Overview: When Travis, the mouthy son of a criminal, disappears in the Amazon in search of a treasured artifact, his father sends in Beck, who becomes Travis's rival for the affections of Mariana, a mysterious Brazilian woman. With his steely disposition, Beck is a man of few words -- but it takes him all the discipline he can muster to work with Travis to nab a tyrant who's after the same treasure. Tagline: Bulls, guns, whips, gold and one sacred cat. keywords: bounty hunter hunter fight treasure hunt amazon rainforest gold mine jungle brazil amused vibrant Directors: Peter Berg Writers: R.J. Stewart, James Vanderbilt, R.J. Stewart Composers: Harry Gregson-Williams Main cast: Dwayne Johnson, Seann William Scott, Rosario Dawson, Christopher Walken, Ewen Bremner Main characters: Beck, Travis, Mariana, Hatcher, Declan Production companies: Columbia Pictures, Universal Pictures, WWE Studios, Misher Films, Strike Entertainment, IM3 Entertainment",
+      "title": "The Rundown"
+    },
+    "6888": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Comedy", "Horror"],
+        "imdb_id": 306047,
+        "language": "en",
+        "runtime": 84.0,
+        "tmdb_id": 4256,
+        "year": 2003.0
+      },
+      "queries": ["Horror, adventure, and comedy movies"],
+      "resource_id": "6888",
+      "score": 0.6997267,
+      "text": "Title: Scary Movie 3 genres: Comedy Overview: News anchorwoman Cindy Campbell has to investigate mysterious crop circles and killing video tapes, and help the President stop an alien invasion in the process. Tagline: Great trilogies come in threes. keywords: halloween parody sequel alien spoof vhs horror spoof alien invasion crop circle tv news anchor mysterious death weed horror parody dumb blonde aliens amused Directors: David Zucker Writers: Craig Mazin, Pat Proft Composers: James L. Venable Main cast: Anna Faris, Regina Hall, Simon Rex, Anthony Anderson, Charlie Sheen Main characters: Cindy, Brenda Meeks, George, Mahalik, Tom Collection: Scary Movie Collection Production companies: Brad Grey Pictures, Dimension Films",
+      "title": "Scary Movie 3"
+    },
+    "71535": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Comedy", "Horror", "Action"],
+        "imdb_id": 1156398,
+        "language": "en",
+        "runtime": 88.0,
+        "tmdb_id": 19908,
+        "year": 2009.0
+      },
+      "queries": ["Horror, adventure, and comedy movies"],
+      "resource_id": "71535",
+      "score": 0.71057963,
+      "text": "Title: Zombieland genres: Comedy, Horror Overview: Columbus has made a habit of running from what scares him. Tallahassee doesn't have fears. If he did, he'd kick their ever-living ass. In a world overrun by zombies, these two are perfectly evolved survivors. But now, they're about to stare down the most terrifying prospect of all: each other. Tagline: Nut up or shut up. keywords: washington dc, usa sibling relationship saving the world circus post-apocalyptic future gore parody road trip zombie survival horror amusement park twinkie body count zombification disposing of a dead body loner aftercreditsstinger zombie apocalypse satirical fear of clowns joyous absurd hilarious amused sarcastic user tags: Bill Murray, Emma Stone, Jesse Eisenberg, Woody Harrelson, dark comedy, funny Directors: Ruben Fleischer Writers: Rhett Reese, Paul Wernick Composers: David Sardy Main cast: Jesse Eisenberg, Woody Harrelson, Emma Stone, Abigail Breslin, Amber Heard Main characters: Columbus, Tallahassee, Wichita, Little Rock, 406 Collection: Zombieland Collection Production companies: Columbia Pictures, Relativity Media, Pariah",
+      "title": "Zombieland"
+    },
+    "78105": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Adventure", "Fantasy", "Action", "Romance", "IMAX"],
+        "imdb_id": 473075,
+        "language": "en",
+        "runtime": 116.0,
+        "tmdb_id": 9543,
+        "year": 2010.0
+      },
+      "queries": ["Adventure movie after 2000"],
+      "resource_id": "78105",
+      "score": 0.6508781,
+      "text": "Title: Prince of Persia: The Sands of Time genres: Adventure, Fantasy, Action Overview: A rogue prince reluctantly joins forces with a mysterious princess and together, they race against dark forces to safeguard an ancient dagger capable of releasing the Sands of Time – gift from the gods that can reverse time and allow its possessor to rule the world. Tagline: Defy the Future keywords: persia sandstorm brother against brother armageddon based on video game Directors: Mike Newell Writers: Boaz Yakin, Doug Miro, Carlo Bernard Composers: Harry Gregson-Williams Main cast: Jake Gyllenhaal, Gemma Arterton, Ben Kingsley, Alfred Molina, Steve Toussaint Main characters: Prince Dastan, Tamina, Nizam, Sheik Amar, Seso Production companies: Walt Disney Pictures, Jerry Bruckheimer Films",
+      "title": "Prince of Persia: The Sands of Time"
+    },
+    "93840": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Horror", "Mystery", "Comedy", "Sci-Fi", "Thriller"],
+        "imdb_id": 1259521,
+        "language": "en",
+        "runtime": 95.0,
+        "tmdb_id": 22970,
+        "year": 2012.0
+      },
+      "queries": ["Horror, adventure, and comedy movies"],
+      "resource_id": "93840",
+      "score": 0.73430634,
+      "text": "Title: The Cabin in the Woods genres: Horror, Mystery, Comedy Overview: Five friends set out for a weekend at a remote cabin in the woods, expecting nothing more than fun and relaxation. As night falls, they discover that something far more unsettling is at work and that nothing about their getaway is what it seems. Tagline: You think you know the story. keywords: halloween giant snake school party motorcycle crash abandoned house woods marijuana cabin apocalypse zombie werewolf creature cabin in the woods video wall speaker phone young adult college student lovecraftian everyone dies Directors: Drew Goddard Writers: Drew Goddard, Joss Whedon Composers: David Julyan Main cast: Kristen Connolly, Fran Kranz, Chris Hemsworth, Jesse Williams, Anna Hutchison Main characters: Dana Polk, Marty Mikalski, Curt Vaughn, Holden McCrea, Jules Louden Production companies: Mutant Enemy Productions",
+      "title": "The Cabin in the Woods"
+    },
+    "98809": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "NZ"],
+        "genres": ["Adventure", "Fantasy", "Action", "IMAX"],
+        "imdb_id": 903624,
+        "language": "en",
+        "runtime": 169.0,
+        "tmdb_id": 49051,
+        "year": 2012.0
+      },
+      "queries": ["Adventure movie after 2000"],
+      "resource_id": "98809",
+      "score": 0.64729166,
+      "text": "Title: The Hobbit: An Unexpected Journey genres: Adventure, Fantasy, Action Overview: Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon. Tagline: From the smallest beginnings come the greatest legends. keywords: based on novel or book elves dwarf magic horseback riding sword burglar legend riddle mountain contract travel troll creature thunderstorm fantasy world wizard epic battle lost ring journey ring tunnel underground lake buried treasure invisibility quest live action and animation high fantasy sword and sorcery trekking goblins good versus evil fantasy creature hobbit user tags: Action, Myth Directors: Peter Jackson Writers: Guillermo del Toro, Fran Walsh, Philippa Boyens, Peter Jackson Composers: Howard Shore, London Philharmonic Orchestra Main cast: Martin Freeman, Ian McKellen, Richard Armitage, James Nesbitt, Ken Stott Main characters: Bilbo Baggins, Gandalf the Grey, Thorin Oakenshield, Bofur, Balin Collection: The Hobbit Collection Production companies: New Line Cinema, Metro-Goldwyn-Mayer, WingNut Films",
+      "title": "The Hobbit: An Unexpected Journey"
+    }
+  },
+  "clarifications": 0,
+  "conversation": [],
+  "decisions": 2,
+  "events": [
+    {
+      "action": "started",
+      "actor": "workflow",
+      "details": { "domain": "movielens_v2" },
+      "step": 1,
+      "time": "2026-10-22T08:41:42.970467+00:00"
+    },
+    {
+      "action": "updated",
+      "actor": "elicitation",
+      "details": {
+        "clarification_required": false,
+        "filter_keys": ["min_year"],
+        "semantic_query": "Horror, adventure, and comedy movies"
+      },
+      "step": 2,
+      "time": "2026-10-22T08:41:44.424158+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "retrieval",
+      "details": {
+        "duration_ms": 2406,
+        "new_candidates": 10,
+        "query": "Horror, adventure, and comedy movies",
+        "resource_ids": [
+          "93840",
+          "4388",
+          "71535",
+          "36401",
+          "122904",
+          "6888",
+          "122916",
+          "4734",
+          "103335",
+          "187593"
+        ],
+        "returned": 10
+      },
+      "step": 3,
+      "time": "2026-10-22T08:41:46.831616+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_validator",
+        "keys": [
+          "covered",
+          "invalid_resource_ids",
+          "missing",
+          "reason",
+          "status"
+        ],
+        "latency_ms": 2042
+      },
+      "step": 4,
+      "time": "2026-10-22T08:41:48.875470+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "validation",
+      "details": {
+        "covered": ["Horror", "Commedia", "Anno successivo al 2000"],
+        "invalid_resource_ids": [],
+        "missing": [
+          "Un film specifico che copra chiaramente il genere 'Avventura' rispettando tutti i vincoli insieme agli altri."
+        ],
+        "status": "PARTIAL"
+      },
+      "step": 5,
+      "time": "2026-10-22T08:41:48.881128+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_orchestrator",
+        "keys": ["action", "question", "reason", "semantic_query"],
+        "latency_ms": 17945
+      },
+      "step": 6,
+      "time": "2026-10-22T08:42:06.828992+00:00"
+    },
+    {
+      "action": "decision",
+      "actor": "orchestrator",
+      "details": {
+        "decision": {
+          "action": "RETRIEVE",
+          "question": "",
+          "reason": "Abbiamo già trovato ottimi film Horror e Commedia post-2000, ma ci serve un film d'Avventura puro uscito dopo il 2000 per completare la richiesta di tre generi distinti.",
+          "semantic_query": "Adventure movie after 2000"
+        }
+      },
+      "step": 7,
+      "time": "2026-10-22T08:42:06.834584+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "retrieval",
+      "details": {
+        "duration_ms": 1756,
+        "new_candidates": 20,
+        "query": "Adventure movie after 2000",
+        "resource_ids": [
+          "59615",
+          "106489",
+          "78105",
+          "6764",
+          "98809",
+          "58293",
+          "6564",
+          "53125",
+          "4254",
+          "4367"
+        ],
+        "returned": 10
+      },
+      "step": 8,
+      "time": "2026-10-22T08:42:08.592746+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_validator",
+        "keys": [
+          "covered",
+          "invalid_resource_ids",
+          "missing",
+          "reason",
+          "status"
+        ],
+        "latency_ms": 1811
+      },
+      "step": 9,
+      "time": "2026-10-22T08:42:10.406703+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "validation",
+      "details": {
+        "covered": ["93840", "59615", "4388"],
+        "invalid_resource_ids": [],
+        "missing": [],
+        "status": "SUFFICIENT"
+      },
+      "step": 10,
+      "time": "2026-10-22T08:42:10.409856+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_orchestrator",
+        "keys": ["action", "question", "reason", "semantic_query"],
+        "latency_ms": 878
+      },
+      "step": 11,
+      "time": "2026-10-22T08:42:11.290903+00:00"
+    },
+    {
+      "action": "decision",
+      "actor": "orchestrator",
+      "details": {
+        "decision": {
+          "action": "FINISH",
+          "question": "",
+          "reason": "Abbiamo già identificato tre film validi (uno per ciascun genere richiesto: Horror, Avventura, Commedia) che rispettano il vincolo temporale (usciti dopo il 2000), confermati dalla validazione come sufficienti.",
+          "semantic_query": ""
+        }
+      },
+      "step": 12,
+      "time": "2026-10-22T08:42:11.295977+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_answer",
+        "keys": ["answer", "resource_ids"],
+        "latency_ms": 1241
+      },
+      "step": 13,
+      "time": "2026-10-22T08:42:12.540543+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "answer",
+      "details": {
+        "reason": "Abbiamo già identificato tre film validi (uno per ciascun genere richiesto: Horror, Avventura, Commedia) che rispettano il vincolo temporale (usciti dopo il 2000), confermati dalla validazione come sufficienti.",
+        "resource_ids": ["93840", "4388", "59615"]
+      },
+      "step": 14,
+      "time": "2026-10-22T08:42:12.544909+00:00"
+    }
+  ],
+  "final_answer": {
+    "answer": "Ecco tre film usciti dopo il 2000 che coprono i generi richiesti: 'The Cabin in the Woods' (Horror e Commedia), 'Scary Movie 2' (Commedia) e 'Indiana Jones and the Kingdom of the Crystal Skull' (Avventura).",
+    "resource_ids": ["93840", "4388", "59615"]
+  },
+  "llm_calls": 6,
+  "llm_traces": [
+    {
+      "prompt_version": "resource_planner_v1",
+      "provider_trace": {
+        "agent": "resource_planner",
+        "duration_ms": 1444.5461670402437,
+        "model": "gemini-3.5-flash-lite",
+        "profile_id": "gemini_free",
+        "prompt_version": "resource_planner_v1",
+        "provider": "gemini",
+        "request_id": "R8zZaoKVL5uJxN8P9oq3yAk",
+        "started_at": "2026-10-22T08:41:42.978234Z",
+        "usage": {
+          "input_tokens": "[REDACTED]",
+          "output_tokens": "[REDACTED]",
+          "total_tokens": "[REDACTED]"
+        }
+      },
+      "role": "planner"
+    },
+    {
+      "agent": "resource_validator",
+      "duration_ms": 2040.9463749965653,
+      "latency_ms": 2042,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "S8zZao6DFqawxN8P28uXwA0",
+      "started_at": "2026-10-22T08:41:46.833809Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_orchestrator",
+      "duration_ms": 17944.09599993378,
+      "latency_ms": 17945,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "TczZapabDvr4xN8P477WyQ8",
+      "started_at": "2026-10-22T08:41:48.884080Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_validator",
+      "duration_ms": 1810.5819579213858,
+      "latency_ms": 1811,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "YczZaoewKuOXvdIPz9vYoQk",
+      "started_at": "2026-10-22T08:42:08.595652Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_orchestrator",
+      "duration_ms": 878.2624170416966,
+      "latency_ms": 878,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "YszZarfgNNjZxs0P98jmmAg",
+      "started_at": "2026-10-22T08:42:10.412522Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_answer",
+      "duration_ms": 1240.6838750466704,
+      "latency_ms": 1241,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "ZMzZaoHkAfj5xN8PoY3BgQ0",
+      "started_at": "2026-10-22T08:42:11.299677Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    }
+  ],
+  "original_request": "Vorrei 3 film, uno per ognuno di questi generi: Horror, Avventura, Commedia. Tutti usciti dopo il 2000",
+  "pending_question": null,
+  "profile": {
+    "clarification_question": null,
+    "clarification_required": false,
+    "filters": { "min_year": 2001 },
+    "rationale": "The user is asking for three films across Horror, Adventure, and Comedy genres released after the year 2000. We apply min_year: 2001 and include all three genres in the semantic query since only a single set of filters is supported per retrieval call.",
+    "semantic_query": "Horror, adventure, and comedy movies"
+  },
+  "run_id": "a49f6f5596cc4d6e",
+  "status": "COMPLETE",
+  "termination_reason": "Abbiamo già identificato tre film validi (uno per ciascun genere richiesto: Horror, Avventura, Commedia) che rispettano il vincolo temporale (usciti dopo il 2000), confermati dalla validazione come sufficienti.",
+  "token_total": "[REDACTED]",
+  "token_usage_complete": "[REDACTED]",
+  "validations": [
+    {
+      "covered": ["Horror", "Commedia", "Anno successivo al 2000"],
+      "invalid_resource_ids": [],
+      "missing": [
+        "Un film specifico che copra chiaramente il genere 'Avventura' rispettando tutti i vincoli insieme agli altri."
+      ],
+      "reason": "L'utente richiede 3 film, uno per ciascuno dei seguenti generi: Horror, Avventura, Commedia, tutti usciti dopo il 2000. Tra i candidati forniti abbiamo ottimi esempi di Horror/Commedia post-2000 (es. 'The Cabin in the Woods', 'Zombieland'), e film che mescolano Avventura e Commedia (es. 'The Brothers Grimm' del 2005, che ha anche elementi di Horror/Fantasy), ma non c'è una chiara selezione o combinazione di tre titoli distinti che coprano in modo inequivocabile e separato tutti e tre i generi richiesti dall'utente in un set coerente.",
+      "status": "PARTIAL"
+    },
+    {
+      "covered": ["93840", "59615", "4388"],
+      "invalid_resource_ids": [],
+      "missing": [],
+      "reason": "Sono stati identificati tre film che coprono perfettamente i tre generi richiesti (Horror, Avventura, Commedia) e rispettano il vincolo temporale (usciti dopo il 2000): 'The Cabin in the Woods' (Horror/Comedy), 'Indiana Jones and the Kingdom of the Crystal Skull' (Adventure) e 'Scary Movie 2' (Comedy).",
+      "status": "SUFFICIENT"
+    }
+  ]
+}

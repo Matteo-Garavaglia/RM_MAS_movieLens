@@ -1,0 +1,795 @@
+{
+  "attempts": [
+    {
+      "elapsed_ms": 16985,
+      "filters": { "include_genres": ["Romance"], "min_year": 2011 },
+      "returned_ids": [
+        "88163",
+        "84374",
+        "88405",
+        "96821",
+        "106920",
+        "117176",
+        "84954",
+        "86882",
+        "94959",
+        "86833"
+      ],
+      "semantic_query": "romantic movies starring Tom Holland"
+    },
+    {
+      "elapsed_ms": 753,
+      "filters": { "include_genres": ["Romance"], "min_year": 2011 },
+      "returned_ids": [
+        "88163",
+        "88405",
+        "84374",
+        "117176",
+        "96821",
+        "84954",
+        "94959",
+        "106920",
+        "86882",
+        "86833"
+      ],
+      "semantic_query": "Tom Holland romantic movies after 2010"
+    },
+    {
+      "elapsed_ms": 619,
+      "filters": { "include_genres": ["Romance"], "min_year": 2011 },
+      "returned_ids": [
+        "88405",
+        "88163",
+        "84374",
+        "117176",
+        "84954",
+        "96821",
+        "106920",
+        "94959",
+        "97921",
+        "86833"
+      ],
+      "semantic_query": "Tom Holland romance films post 2010"
+    }
+  ],
+  "base_filters": { "include_genres": ["Romance"], "min_year": 2011 },
+  "candidates": {
+    "106920": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Romance", "Science Fiction", "Drama", "Sci-Fi"],
+        "imdb_id": 1798709,
+        "language": "en",
+        "runtime": 126.0,
+        "tmdb_id": 152601,
+        "year": 2013.0
+      },
+      "queries": [
+        "romantic movies starring Tom Holland",
+        "Tom Holland romantic movies after 2010",
+        "Tom Holland romance films post 2010"
+      ],
+      "resource_id": "106920",
+      "score": 0.57540035,
+      "text": "Title: Her genres: Romance, Science Fiction, Drama Overview: In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all. Tagline: A Spike Jonze love story. keywords: future artificial intelligence (a.i.) computer satire love loneliness transhumanism los angeles, california heartbreak semi autobiographical speculative singularity near future serene intimate provocative dramatic comforting operating system Directors: Spike Jonze Writers: Spike Jonze Composers: Richard Reed Parry, Jeremy Gara, Tim Kingsbury, Régine Chassagne, Win Butler, Will Butler Main cast: Joaquin Phoenix, Scarlett Johansson, Lynn Adrianna, Lisa Renee Pitts, Gabe Gomez Main characters: Theodore, Samantha (voice), Letter Writer #1, Letter Writer #2, Letter Writer #3 Production companies: Annapurna Pictures",
+      "title": "Her"
+    },
+    "117176": {
+      "metadata": {
+        "adult": false,
+        "countries": ["GB", "US"],
+        "genres": ["Drama", "Romance"],
+        "imdb_id": 2980516,
+        "language": "en",
+        "runtime": 123.0,
+        "tmdb_id": 266856,
+        "year": 2014.0
+      },
+      "queries": [
+        "romantic movies starring Tom Holland",
+        "Tom Holland romantic movies after 2010",
+        "Tom Holland romance films post 2010"
+      ],
+      "resource_id": "117176",
+      "score": 0.5752419,
+      "text": "Title: The Theory of Everything genres: Drama, Romance Overview: Once a healthy, active young man, Hawking received an earth-shattering diagnosis at 21 years of age. With Jane fighting tirelessly by his side, Stephen embarks on his most ambitious scientific work, studying the very thing he now has precious little of – time. Tagline: His mind changed our world. Her love changed his. keywords: husband wife relationship biography based on true story physicist based on memoir or autobiography fictional biography medical drama motor neuron disease als cambridge university inspirational admiring Directors: James Marsh Writers: Anthony McCarten Composers: Jóhann Jóhannsson Main cast: Eddie Redmayne, Felicity Jones, Charlie Cox, Emily Watson, Simon McBurney Main characters: Stephen Hawking, Jane Hawking, Jonathan Hellyer Jones, Beryl Wilde, Frank Hawking Production companies: Working Title, Working Title Films",
+      "title": "The Theory of Everything"
+    },
+    "84374": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Comedy", "Romance"],
+        "imdb_id": 1411238,
+        "language": "en",
+        "runtime": 107.0,
+        "tmdb_id": 41630,
+        "year": 2011.0
+      },
+      "queries": [
+        "romantic movies starring Tom Holland",
+        "Tom Holland romantic movies after 2010",
+        "Tom Holland romance films post 2010"
+      ],
+      "resource_id": "84374",
+      "score": 0.607201,
+      "text": "Title: No Strings Attached genres: Comedy, Romance Overview: Emma is a busy doctor who sets up a seemingly perfect arrangement when she offers her best friend Adam a relationship with one rule: No strings attached. But when a fling becomes a thing, can sex friends stay best friends? Tagline: Friendship has its benefits. keywords: parent child relationship casual meeting sexual humor student of medicine friends open relationship best friend valentine's day casual sex friends in love duringcreditsstinger fling father son conflict Directors: Ivan Reitman Writers: Elizabeth Meriwether Composers: John Debney Main cast: Natalie Portman, Ashton Kutcher, Kevin Kline, Cary Elwes, Greta Gerwig Main characters: Emma Kurtzman, Adam Franklin, Alvin Franklin, Dr. Stephen Metzner, Patrice Production companies: Katalyst Films, The Montecito Picture Company, Handsomecharlie Films",
+      "title": "No Strings Attached"
+    },
+    "84954": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Science Fiction", "Thriller", "Romance", "Sci-Fi"],
+        "imdb_id": 1385826,
+        "language": "en",
+        "runtime": 106.0,
+        "tmdb_id": 38050,
+        "year": 2011.0
+      },
+      "queries": [
+        "romantic movies starring Tom Holland",
+        "Tom Holland romantic movies after 2010",
+        "Tom Holland romance films post 2010"
+      ],
+      "resource_id": "84954",
+      "score": 0.5749043,
+      "text": "Title: The Adjustment Bureau genres: Science Fiction, Thriller, Romance Overview: A man glimpses the future Fate has planned for him – and chooses to fight for his own destiny. Battling the powerful Adjustment Bureau across, under and through the streets of New York, he risks his destined greatness to be with the only woman he's ever loved. Tagline: Your future has been adjusted. keywords: hotel future plan dancer hat marriage senator kiss politician honesty alone speech fate foot chase covert agency courthouse political campaign destiny time freeze based on short story Directors: George Nolfi Writers: George Nolfi Composers: Thomas Newman Main cast: Matt Damon, Emily Blunt, John Slattery, Anthony Mackie, Michael Kelly Main characters: David Norris, Elise Sellas, Richardson, Harry Mitchell, Charlie Traynor Production companies: Universal Pictures, MRC, Gambit Pictures",
+      "title": "The Adjustment Bureau"
+    },
+    "86833": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Comedy", "Romance"],
+        "imdb_id": 1478338,
+        "language": "en",
+        "runtime": 125.0,
+        "tmdb_id": 55721,
+        "year": 2011.0
+      },
+      "queries": [
+        "romantic movies starring Tom Holland",
+        "Tom Holland romantic movies after 2010",
+        "Tom Holland romance films post 2010"
+      ],
+      "resource_id": "86833",
+      "score": 0.5618278,
+      "text": "Title: Bridesmaids genres: Comedy, Romance Overview: Annie's life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian's maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she’ll show Lillian and her bridesmaids just how far you’ll go for someone you love. Tagline: Save the date. keywords: jealousy parent child relationship fight competition materialism bridesmaid female friendship sexual humor wealth fear of commitment wedding party best friend maid of honor drunk wedding dress group of friends missing person casual sex vanity duringcreditsstinger out of control intimate amused awestruck Directors: Paul Feig Writers: Annie Mumolo, Kristen Wiig Composers: Michael Andrews Main cast: Kristen Wiig, Maya Rudolph, Rose Byrne, Chris O'Dowd, Melissa McCarthy Main characters: Annie, Lillian, Helen, Rhodes, Megan Production companies: Apatow Productions, Relativity Media",
+      "title": "Bridesmaids"
+    },
+    "86882": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US", "FR", "ES"],
+        "genres": ["Fantasy", "Comedy", "Romance"],
+        "imdb_id": 1605783,
+        "language": "en",
+        "runtime": 94.0,
+        "tmdb_id": 59436,
+        "year": 2011.0
+      },
+      "queries": [
+        "romantic movies starring Tom Holland",
+        "Tom Holland romantic movies after 2010"
+      ],
+      "resource_id": "86882",
+      "score": 0.5742184,
+      "text": "Title: Midnight in Paris genres: Fantasy, Comedy, Romance Overview: While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight. Tagline: Anything can happen in the city of light. keywords: paris, france based on novel or book detective screenwriter camping diary time travel forbidden love painter midnight nostalgia past versailles sculpture romance magic realism nostalgic art history back in time wine drinking Directors: Woody Allen Writers: Woody Allen Main cast: Owen Wilson, Rachel McAdams, Kathy Bates, Kurt Fuller, Adrien Brody Main characters: Gil, Inez, Gertrude Stein, John, Salvador Dalí Production companies: Mediapro, Versátil Cinema, Pontchartrain Productions, Gravier Productions",
+      "title": "Midnight in Paris"
+    },
+    "88163": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Comedy", "Drama", "Romance"],
+        "imdb_id": 1570728,
+        "language": "en",
+        "runtime": 118.0,
+        "tmdb_id": 50646,
+        "year": 2011.0
+      },
+      "queries": [
+        "romantic movies starring Tom Holland",
+        "Tom Holland romantic movies after 2010",
+        "Tom Holland romance films post 2010"
+      ],
+      "resource_id": "88163",
+      "score": 0.61528105,
+      "text": "Title: Crazy, Stupid, Love. genres: Comedy, Drama, Romance Overview: Cal Weaver is living the American dream. He has a good job, a beautiful house, great children and a beautiful wife, named Emily. Cal's seemingly perfect life unravels, however, when he learns that Emily has been unfaithful and wants a divorce. Over 40 and suddenly single, Cal is adrift in the fickle world of dating. Enter, Jacob Palmer, a self-styled player who takes Cal under his wing and teaches him how to be a hit with the ladies. Tagline: This is crazy. This is stupid. This is love. keywords: friendship soulmates marriage crisis midlife crisis babysitter womanizer law school los angeles, california middle school relationship love affair divorcee teenage love playful Directors: Glenn Ficarra, John Requa Writers: Dan Fogelman Composers: Christophe Beck, Nick Urata Main cast: Steve Carell, Ryan Gosling, Julianne Moore, Emma Stone, Lio Tipton Main characters: Cal, Jacob, Emily, Hannah, Jessica Production companies: Warner Bros. Pictures",
+      "title": "Crazy, Stupid, Love."
+    },
+    "88405": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Romance", "Comedy"],
+        "imdb_id": 1632708,
+        "language": "en",
+        "runtime": 109.0,
+        "tmdb_id": 50544,
+        "year": 2011.0
+      },
+      "queries": [
+        "romantic movies starring Tom Holland",
+        "Tom Holland romantic movies after 2010",
+        "Tom Holland romance films post 2010"
+      ],
+      "resource_id": "88405",
+      "score": 0.60227764,
+      "text": "Title: Friends with Benefits genres: Romance, Comedy Overview: Dylan is done with relationships. Jamie decides to stop buying into the Hollywood clichés of true love. When the two become friends they decide to try something new and take advantage of their mutual attraction - but without any emotional attachment. Tagline: Some friends come with a happy ending. keywords: new york city friendship job interview dementia romcom alzheimer's disease love friends break-up lust beach house headhunter job hunting sex comedy casual sex aftercreditsstinger duringcreditsstinger new job flash mob sexual relationship film within a film sex anti-romance friends with benefits job art director user tags: HOT actress, Justin Timberlake, Mila Kunis, New York City, comedy, funny, happy ending, romance, sex Directors: Will Gluck Writers: Keith Merryman, Will Gluck, David A. Newman Main cast: Justin Timberlake, Mila Kunis, Jenna Elfman, Patricia Clarkson, Woody Harrelson Main characters: Dylan Harper, Jamie Rellis, Annie Harper, Lorna, Tommy Bollinger Production companies: Castle Rock Entertainment, Olive Bridge Entertainment",
+      "title": "Friends with Benefits"
+    },
+    "94959": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Comedy", "Drama", "Romance"],
+        "imdb_id": 1748122,
+        "language": "en",
+        "runtime": 94.0,
+        "tmdb_id": 83666,
+        "year": 2012.0
+      },
+      "queries": [
+        "romantic movies starring Tom Holland",
+        "Tom Holland romantic movies after 2010",
+        "Tom Holland romance films post 2010"
+      ],
+      "resource_id": "94959",
+      "score": 0.57136214,
+      "text": "Title: Moonrise Kingdom genres: Comedy, Drama, Romance Overview: Set on an island off the coast of New England in the summer of 1965, Moonrise Kingdom tells the story of two twelve-year-olds who fall in love, make a secret pact, and run away together into the wilderness. As various authorities try to hunt them down, a violent storm is brewing off-shore – and the peaceful island community is turned upside down in more ways than anyone can handle. Tagline: A story of young love, wild adventures, and a very neat escape. keywords: camping hurricane pen pals coming of age camp orphan new england first love eye patch search party devastation handkerchief child smoking small town sheriff boy scouts sand dancing meet cute boy scouts leader pipe smoking duringcreditsstinger 1960s user tags: quirky Directors: Wes Anderson Writers: Wes Anderson, Roman Coppola Composers: Alexandre Desplat Main cast: Jared Gilman, Kara Hayward, Bruce Willis, Edward Norton, Bill Murray Main characters: Sam Shakusky, Suzy Bishop, Captain Sharp, Scout Master Ward, Mr. Bishop Production companies: Indian Paintbrush, American Empirical Pictures",
+      "title": "Moonrise Kingdom"
+    },
+    "96821": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Drama", "Romance"],
+        "imdb_id": 1659337,
+        "language": "en",
+        "runtime": 103.0,
+        "tmdb_id": 84892,
+        "year": 2012.0
+      },
+      "queries": [
+        "romantic movies starring Tom Holland",
+        "Tom Holland romantic movies after 2010",
+        "Tom Holland romance films post 2010"
+      ],
+      "resource_id": "96821",
+      "score": 0.5852307,
+      "text": "Title: The Perks of Being a Wallflower genres: Drama Overview: Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, always watching life from the sidelines, until two senior students, Sam and her stepbrother Patrick, become his mentors, helping him discover the joys of friendship, music and love. Tagline: We are infinite. keywords: school friend depression high school friendship based on novel or book trauma melancholy coming of age freshman school teenage boy high school student first love aunt nephew relationship lgbt mental health lgbt teen teen drama pittsburgh, pennsylvania 1990s based on young adult novel gay theme boys' love (bl) teenager Directors: Stephen Chbosky Writers: Stephen Chbosky Composers: Michael Brook Main cast: Logan Lerman, Emma Watson, Ezra Miller, Mae Whitman, Kate Walsh Main characters: Charlie, Sam, Patrick, Mary Elizabeth, Mother Production companies: Mr. Mudd",
+      "title": "The Perks of Being a Wallflower"
+    },
+    "97921": {
+      "metadata": {
+        "adult": false,
+        "countries": ["US"],
+        "genres": ["Drama", "Comedy", "Romance"],
+        "imdb_id": 1045658,
+        "language": "en",
+        "runtime": 122.0,
+        "tmdb_id": 82693,
+        "year": 2012.0
+      },
+      "queries": ["Tom Holland romance films post 2010"],
+      "resource_id": "97921",
+      "score": 0.5835916,
+      "text": "Title: Silver Linings Playbook genres: Drama, Comedy, Romance Overview: After losing his job and wife, and spending time in an institution, a former teacher winds up living with his parents. He wants to rebuild his life and reconcile with his wife, but his father would be happy if he shared his obsession with the Philadelphia Eagles. Things get complicated when he meets Tiffany Maxwell who offers to help him reconnect with his wife if he will do something very important for her in exchange. Tagline: Watch for the signs. keywords: depression infidelity dancing friendship philadelphia, pennsylvania based on novel or book italian american widow superstition letter dance competition mental institution obsessed fan therapy mental illness ex-wife institutionalization death of husband sports gambling unfaithful wife obsessed with a woman father son relationship adulterous wife cheerful philadelphia eagles former teacher football fans release from psychiatric institution Directors: David O. Russell Writers: David O. Russell Composers: Danny Elfman Main cast: Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Anupam Kher Main characters: Pat Solatano Jr., Tiffany Maxwell, Pat Solatano Sr., Dolores Solatano, Dr. Cliff Patel Production companies: The Weinstein Company",
+      "title": "Silver Linings Playbook"
+    }
+  },
+  "clarifications": 1,
+  "conversation": [
+    {
+      "question": "Quali generi cinematografici preferisci? (Per favore specifica uno o più generi per la ricerca)",
+      "reply": "anzi no, dei film romantici con Tom Holland prodotti dopo il 2010"
+    }
+  ],
+  "decisions": 2,
+  "events": [
+    {
+      "action": "started",
+      "actor": "workflow",
+      "details": { "domain": "movielens_v2" },
+      "step": 1,
+      "time": "2026-10-22T09:38:37.831501+00:00"
+    },
+    {
+      "action": "updated",
+      "actor": "elicitation",
+      "details": {
+        "clarification_required": true,
+        "filter_keys": ["max_year"],
+        "semantic_query": "movies starring Tom Hanks"
+      },
+      "step": 2,
+      "time": "2026-10-22T09:38:39.378693+00:00"
+    },
+    {
+      "action": "ask_user",
+      "actor": "orchestrator",
+      "details": {
+        "question": "Quali generi cinematografici preferisci? (Per favore specifica uno o più generi per la ricerca)"
+      },
+      "step": 3,
+      "time": "2026-10-22T09:38:39.381748+00:00"
+    },
+    {
+      "action": "clarification_received",
+      "actor": "user",
+      "details": {
+        "reply": "anzi no, dei film romantici con Tom Holland prodotti dopo il 2010"
+      },
+      "step": 4,
+      "time": "2026-10-22T09:38:53.598577+00:00"
+    },
+    {
+      "action": "updated",
+      "actor": "elicitation",
+      "details": {
+        "clarification_required": false,
+        "filter_keys": ["include_genres", "min_year"],
+        "semantic_query": "romantic movies starring Tom Holland"
+      },
+      "step": 5,
+      "time": "2026-10-22T09:38:54.567507+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "retrieval",
+      "details": {
+        "duration_ms": 16985,
+        "new_candidates": 10,
+        "query": "romantic movies starring Tom Holland",
+        "resource_ids": [
+          "88163",
+          "84374",
+          "88405",
+          "96821",
+          "106920",
+          "117176",
+          "84954",
+          "86882",
+          "94959",
+          "86833"
+        ],
+        "returned": 10
+      },
+      "step": 6,
+      "time": "2026-10-22T09:39:11.554835+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_validator",
+        "keys": [
+          "covered",
+          "invalid_resource_ids",
+          "missing",
+          "reason",
+          "status"
+        ],
+        "latency_ms": 2387
+      },
+      "step": 7,
+      "time": "2026-10-22T09:39:13.945849+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "validation",
+      "details": {
+        "covered": [],
+        "invalid_resource_ids": [
+          "88163",
+          "84374",
+          "88405",
+          "96821",
+          "106920",
+          "117176",
+          "84954",
+          "86882",
+          "94959",
+          "86833"
+        ],
+        "missing": [
+          "Nessun film nei candidati vede la partecipazione di Tom Holland (né corrisponde alla richiesta originale di Tom Hanks pre-2010 o ai filtri aggiornati)."
+        ],
+        "status": "INSUFFICIENT"
+      },
+      "step": 8,
+      "time": "2026-10-22T09:39:13.950108+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_orchestrator",
+        "keys": ["action", "question", "reason", "semantic_query"],
+        "latency_ms": 991
+      },
+      "step": 9,
+      "time": "2026-10-22T09:39:14.943085+00:00"
+    },
+    {
+      "action": "decision",
+      "actor": "orchestrator",
+      "details": {
+        "decision": {
+          "action": "RETRIEVE",
+          "question": "",
+          "reason": "I precedenti risultati non contenevano film con Tom Holland ed erano vuoti/invalutati. Riprovo con una query mirata che rifletta i vincoli del profilo (Tom Holland, genere Romance, post-2010).",
+          "semantic_query": "Tom Holland romantic movies after 2010"
+        }
+      },
+      "step": 10,
+      "time": "2026-10-22T09:39:14.945789+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "retrieval",
+      "details": {
+        "duration_ms": 753,
+        "new_candidates": 10,
+        "query": "Tom Holland romantic movies after 2010",
+        "resource_ids": [
+          "88163",
+          "88405",
+          "84374",
+          "117176",
+          "96821",
+          "84954",
+          "94959",
+          "106920",
+          "86882",
+          "86833"
+        ],
+        "returned": 10
+      },
+      "step": 11,
+      "time": "2026-10-22T09:39:15.700396+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_validator",
+        "keys": [
+          "covered",
+          "invalid_resource_ids",
+          "missing",
+          "reason",
+          "status"
+        ],
+        "latency_ms": 1131
+      },
+      "step": 12,
+      "time": "2026-10-22T09:39:16.834704+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "validation",
+      "details": {
+        "covered": [],
+        "invalid_resource_ids": [
+          "88163",
+          "84374",
+          "88405",
+          "96821",
+          "106920",
+          "117176",
+          "84954",
+          "86882",
+          "94959",
+          "86833"
+        ],
+        "missing": [
+          "Nessun film nei candidati vede la partecipazione di Tom Holland."
+        ],
+        "status": "INSUFFICIENT"
+      },
+      "step": 13,
+      "time": "2026-10-22T09:39:16.840855+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_orchestrator",
+        "keys": ["action", "question", "reason", "semantic_query"],
+        "latency_ms": 865
+      },
+      "step": 14,
+      "time": "2026-10-22T09:39:17.707317+00:00"
+    },
+    {
+      "action": "decision",
+      "actor": "orchestrator",
+      "details": {
+        "decision": {
+          "action": "RETRIEVE",
+          "question": "",
+          "reason": "I candidati precedenti non contenevano film con Tom Holland. Effettuo un nuovo tentativo di ricerca con una query mirata rispettando i filtri di genere e anno.",
+          "semantic_query": "Tom Holland romance films post 2010"
+        }
+      },
+      "step": 15,
+      "time": "2026-10-22T09:39:17.711284+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "retrieval",
+      "details": {
+        "duration_ms": 619,
+        "new_candidates": 11,
+        "query": "Tom Holland romance films post 2010",
+        "resource_ids": [
+          "88405",
+          "88163",
+          "84374",
+          "117176",
+          "84954",
+          "96821",
+          "106920",
+          "94959",
+          "97921",
+          "86833"
+        ],
+        "returned": 10
+      },
+      "step": 16,
+      "time": "2026-10-22T09:39:18.332185+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "llm",
+      "details": {
+        "agent": "resource_validator",
+        "keys": [
+          "covered",
+          "invalid_resource_ids",
+          "missing",
+          "reason",
+          "status"
+        ],
+        "latency_ms": 1217
+      },
+      "step": 17,
+      "time": "2026-10-22T09:39:19.551663+00:00"
+    },
+    {
+      "action": "completed",
+      "actor": "validation",
+      "details": {
+        "covered": [],
+        "invalid_resource_ids": [
+          "88163",
+          "84374",
+          "88405",
+          "96821",
+          "106920",
+          "117176",
+          "84954",
+          "86882",
+          "94959",
+          "86833",
+          "97921"
+        ],
+        "missing": ["Film romantici con Tom Holland prodotti dopo il 2010"],
+        "status": "INSUFFICIENT"
+      },
+      "step": 18,
+      "time": "2026-10-22T09:39:19.555850+00:00"
+    },
+    {
+      "action": "all_invalid",
+      "actor": "answer",
+      "details": {},
+      "step": 19,
+      "time": "2026-10-22T09:39:19.558928+00:00"
+    }
+  ],
+  "final_answer": {
+    "answer": "Non risultano risorse sufficientemente conformi ai vincoli verificati.",
+    "resource_ids": []
+  },
+  "llm_calls": 7,
+  "llm_traces": [
+    {
+      "prompt_version": "resource_planner_v1",
+      "provider_trace": {
+        "agent": "resource_planner",
+        "duration_ms": 1540.5945000238717,
+        "model": "gemini-3.5-flash-lite",
+        "profile_id": "gemini_free",
+        "prompt_version": "resource_planner_v1",
+        "provider": "gemini",
+        "request_id": "ntnZaojpJr2ensEPpKqMuQI",
+        "started_at": "2026-10-22T09:38:37.836762Z",
+        "usage": {
+          "input_tokens": "[REDACTED]",
+          "output_tokens": "[REDACTED]",
+          "total_tokens": "[REDACTED]"
+        }
+      },
+      "role": "planner"
+    },
+    {
+      "prompt_version": "resource_planner_v1",
+      "provider_trace": {
+        "agent": "resource_planner",
+        "duration_ms": 939.675375004299,
+        "model": "gemini-3.5-flash-lite",
+        "profile_id": "gemini_free",
+        "prompt_version": "resource_planner_v1",
+        "provider": "gemini",
+        "request_id": "rtnZatQlnuGewQ-4ruepDg",
+        "started_at": "2026-10-22T09:38:53.627399Z",
+        "usage": {
+          "input_tokens": "[REDACTED]",
+          "output_tokens": "[REDACTED]",
+          "total_tokens": "[REDACTED]"
+        }
+      },
+      "role": "planner"
+    },
+    {
+      "agent": "resource_validator",
+      "duration_ms": 2378.94383398816,
+      "latency_ms": 2387,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "wNnZauq4JdOokdUPieaqkA8",
+      "started_at": "2026-10-22T09:39:11.557860Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_orchestrator",
+      "duration_ms": 991.0116249229759,
+      "latency_ms": 991,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "wtnZap26EKK2kdUPvYHSgAw",
+      "started_at": "2026-10-22T09:39:13.951854Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_validator",
+      "duration_ms": 1130.1072919741273,
+      "latency_ms": 1131,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "xNnZaoimCczrnsEPpNCkmQQ",
+      "started_at": "2026-10-22T09:39:15.703075Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_orchestrator",
+      "duration_ms": 864.3673749174923,
+      "latency_ms": 865,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "xdnZar_oCL_U7M8PuZrNWQ",
+      "started_at": "2026-10-22T09:39:16.842760Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    },
+    {
+      "agent": "resource_validator",
+      "duration_ms": 1216.33829199709,
+      "latency_ms": 1217,
+      "model": "gemini-3.5-flash-lite",
+      "profile_id": "gemini_free",
+      "prompt_version": "iterative_orchestration_v1",
+      "provider": "gemini",
+      "request_id": "xtnZarjjLrHRnsEP3J39oA8",
+      "started_at": "2026-10-22T09:39:18.335189Z",
+      "usage": {
+        "input_tokens": "[REDACTED]",
+        "output_tokens": "[REDACTED]",
+        "total_tokens": "[REDACTED]"
+      }
+    }
+  ],
+  "original_request": "Vorrei dei film con Tom Hanks prodotti prima del 2010",
+  "pending_question": null,
+  "profile": {
+    "clarification_question": null,
+    "clarification_required": false,
+    "filters": { "include_genres": ["Romance"], "min_year": 2011 },
+    "rationale": "The user updated their request to romantic movies featuring Tom Holland produced after 2010. The genre 'Romance' is explicitly stated, the minimum year constraint is applied via min_year, and Tom Holland is included in the semantic query.",
+    "semantic_query": "romantic movies starring Tom Holland"
+  },
+  "run_id": "75bb96f340c54be6",
+  "status": "COMPLETE",
+  "termination_reason": "budget_or_retrieval_limit",
+  "token_total": "[REDACTED]",
+  "token_usage_complete": "[REDACTED]",
+  "validations": [
+    {
+      "covered": [],
+      "invalid_resource_ids": [
+        "88163",
+        "84374",
+        "88405",
+        "96821",
+        "106920",
+        "117176",
+        "84954",
+        "86882",
+        "94959",
+        "86833"
+      ],
+      "missing": [
+        "Nessun film nei candidati vede la partecipazione di Tom Holland (né corrisponde alla richiesta originale di Tom Hanks pre-2010 o ai filtri aggiornati)."
+      ],
+      "reason": "I candidati forniti non contengono alcun film con Tom Holland (nonostante la query di ricerca simulata nei metadati). Le risorse non soddisfano i criteri semantici richiesti dal profilo.",
+      "status": "INSUFFICIENT"
+    },
+    {
+      "covered": [],
+      "invalid_resource_ids": [
+        "88163",
+        "84374",
+        "88405",
+        "96821",
+        "106920",
+        "117176",
+        "84954",
+        "86882",
+        "94959",
+        "86833"
+      ],
+      "missing": [
+        "Nessun film nei candidati vede la partecipazione di Tom Holland."
+      ],
+      "reason": "La richiesta richiede film con Tom Holland, ma nessuno dei candidati forniti presenta Tom Holland nel cast principale o nei metadati. I film soddisfano i criteri di anno (>2010) e genere (Romance), ma falliscono sul vincolo dell'attore principale.",
+      "status": "INSUFFICIENT"
+    },
+    {
+      "covered": [],
+      "invalid_resource_ids": [
+        "88163",
+        "84374",
+        "88405",
+        "96821",
+        "106920",
+        "117176",
+        "84954",
+        "86882",
+        "94959",
+        "86833",
+        "97921"
+      ],
+      "missing": ["Film romantici con Tom Holland prodotti dopo il 2010"],
+      "reason": "Nessuno dei candidati forniti vede come protagonista Tom Holland (i cast includono attori come Steve Carell, Ryan Gosling, Natalie Portman, Justin Timberlake, ecc.). I dati non contengono film interpretati da Tom Holland.",
+      "status": "INSUFFICIENT"
+    }
+  ]
+}
