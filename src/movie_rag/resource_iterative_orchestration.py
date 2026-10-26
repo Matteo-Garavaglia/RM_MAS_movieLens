@@ -347,7 +347,6 @@ class ResourceIterativeOrchestrator:
         res = [{"resource_id": c.resource_id, "title": c.title,
                  "text_excerpt": c.text[:1200], "metadata": _event_value(c.metadata, 700),
                  "queries": c.queries} for c in s.candidates.values()]
-        print(res)
         return res
 
     async def _validate(self, s: IterativeState) -> None:
