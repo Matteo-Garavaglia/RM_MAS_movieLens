@@ -70,6 +70,11 @@ def ensure_movielens_v2_document(frame: pd.DataFrame) -> pd.DataFrame:
             fields=MOVIELENS_V2_DOCUMENT_FIELDS,
         )
     if result[MOVIELENS_V2_DOCUMENT_COLUMN].fillna("").astype(str).str.strip().eq("").any():
+        print("Found empty documents in D_full_enriched_v2")
+        print("empty document rows:")
+        for i, row in result.iterrows():
+            if row[MOVIELENS_V2_DOCUMENT_COLUMN] == "":
+                print(f"  - Row {i}: {row.to_dict()}")
         raise ValueError("D_full_enriched_v2 contains empty documents")
     return result
 
