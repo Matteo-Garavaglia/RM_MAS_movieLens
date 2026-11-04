@@ -5,6 +5,7 @@ import re
 from dataclasses import dataclass
 from typing import Any, Protocol, Sequence
 
+from openai import BadRequestError
 from pydantic import BaseModel
 
 from .resource_domain import ResourceDomainProfile
@@ -64,7 +65,7 @@ def _schema_instruction(schema: type[BaseModel]) -> str:
 class ResourcePlannerAgent:
     provider: TextGenerationProvider
     domain: ResourceDomainProfile
-    temperature: float = 0.0
+    temperature: float = None
     max_output_tokens: int = 800
     prompt_version: str = "resource_planner_v1"
     query_rewrite_strategy: str = "none"
@@ -76,14 +77,23 @@ class ResourcePlannerAgent:
             "Return only one JSON object matching the schema below.\n"
             f"{_schema_instruction(ResourceRetrievalPlan)}"
         )
-        result = await self.provider.generate_text(
-            agent="resource_planner",
-            prompt_version=self.prompt_version,
-            system_prompt=system_prompt,
-            user_prompt=user_prompt,
-            temperature=self.temperature,
-            max_output_tokens=self.max_output_tokens,
-        )
+        if (self.temperature == None):
+            result = await self.provider.generate_text(
+                agent="resource_planner",
+                prompt_version=self.prompt_version,
+                system_prompt=system_prompt,
+                user_prompt=user_prompt,
+                temperature=self.temperature,
+                max_output_tokens=self.max_output_tokens,
+            )
+        else:
+            result = await self.provider.generate_text(
+                agent="resource_planner",
+                prompt_version=self.prompt_version,
+                system_prompt=system_prompt,
+                user_prompt=user_prompt,
+                max_output_tokens=self.max_output_tokens,
+            )
         plan = _parse_model(result.text, ResourceRetrievalPlan)
         self.domain.validate_native_filters(plan.filters)
         return plan, LLMCallRecord(
@@ -136,7 +146,7 @@ Rules:
 class ResourceAnswerAgent:
     provider: TextGenerationProvider
     domain: ResourceDomainProfile
-    temperature: float = 0.2
+    temperature: float = None
     max_output_tokens: int = 1200
     prompt_version: str = "resource_answer_v1"
 
@@ -164,14 +174,24 @@ class ResourceAnswerAgent:
             "Return only one JSON object matching the schema below.\n"
             f"{_schema_instruction(GroundedAnswer)}"
         )
-        result = await self.provider.generate_text(
-            agent="resource_answer",
-            prompt_version=self.prompt_version,
-            system_prompt=system_prompt,
-            user_prompt=user_prompt,
-            temperature=self.temperature,
-            max_output_tokens=self.max_output_tokens,
-        )
+        if (self.temperature == None):
+            result = await self.provider.generate_text(
+                agent="resource_answer",
+                prompt_version=self.prompt_version,
+                system_prompt=system_prompt,
+                user_prompt=user_prompt,
+                temperature=self.temperature,
+                max_output_tokens=self.max_output_tokens,
+            )
+        else:
+            result = await self.provider.generate_text(
+                agent="resource_answer",
+                prompt_version=self.prompt_version,
+                system_prompt=system_prompt,
+                user_prompt=user_prompt,
+                max_output_tokens=self.max_output_tokens,
+            )
+        
         answer = _parse_model(result.text, GroundedAnswer)
         return answer, LLMCallRecord(
             role="answer",
