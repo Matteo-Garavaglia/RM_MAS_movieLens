@@ -1,4 +1,10 @@
-# LLM + Resource MCP Integration
+# Architettura Resource LLM/MCP: Planner, Retrieval, Answer (notebook 11)
+
+> **Provenienza:** `LLM_RESOURCE_INTEGRATION_README(1).md` · **Tipo:** documentazione tecnica del progetto.
+> **Collocazione nel percorso:** Riferimento più completo sulla baseline generica resource_* e i profili configurabili.
+> **Nota:** i contenuti tecnici sottostanti sono stati conservati dalla documentazione fornita;
+> non costituiscono una nuova verifica dell’esecuzione del codice nel repository corrente.
+
 ## Architettura, componenti e guida ai file del progetto
 
 ### 1. Obiettivo dell'integrazione

@@ -1,4 +1,9 @@
-# Steps 3–5 integration: GTE → Qdrant → generic resource service → MCP
+# Integrazione GTE → Qdrant → RetrievalService → MCP generico (notebook 10)
+
+> **Provenienza:** `INTEGRATION_README.md` · **Tipo:** documentazione tecnica del progetto.
+> **Collocazione nel percorso:** Introduzione del contratto ResourceDocument e dei tool search_resources/get_resources.
+> **Nota:** i contenuti tecnici sottostanti sono stati conservati dalla documentazione fornita;
+> non costituiscono una nuova verifica dell’esecuzione del codice nel repository corrente.
 
 This is an **additive overlay** for the existing `movie_rag_qdrant` project. Copy the
 `src/movie_rag/*.py`, `notebooks/*.ipynb` and `tests/*.py` files into the corresponding

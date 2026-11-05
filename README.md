@@ -1,290 +1,129 @@
-# Movie RAG — Qdrant, MCP e orchestrazione LLM
+# Movie RAG · Cold-Start Recommendation · Orchestrazione LLM
 
-Questo pacchetto porta in Qdrant la configurazione risultata migliore nel notebook
-`04_retrieval_ablation_50_movies.ipynb` e mantiene due profili separati:
+Documentazione di orientamento del progetto di tesi: un prototipo di **recommendation / retrieval-grounded LLM** sviluppato con **MovieLens + metadati TMDb** come banco di prova, con l’obiettivo di studiare componenti riutilizzabili in un futuro contesto didattico **WhoTeach**.
 
-```text
-dense_v1:        query + filtri → BGE-M3/Qdrant → top-k
-dense_rerank_v1: query + filtri → BGE-M3/Qdrant top-n → reranker → top-k
-```
+> **Come leggere questo README (5 novembre 2026).** È una ricostruzione basata sui dieci README forniti, **non** una verifica del contenuto e della versione effettivamente installata del repository. Descrizioni di test, risultati e stato dell’implementazione restano quelli dichiarati nei documenti di origine. Il codice e gli output di una run nel tuo ambiente sono la fonte di verità per lo stato operativo.
 
-La baseline dense rimane congelata e riproducibile:
+## Da dove partire
 
-- rappresentazione: `D_full_enriched`;
-- retriever: `BAAI/bge-m3` dense;
-- vettori: 1024 dimensioni, normalizzati L2;
-- distanza Qdrant: cosine;
-- metriche medie osservate nel notebook: NDCG@10 `0.806716`,
-  Recall@10 `0.793732`, Precision@10 `0.500000`.
+| Cerco… | Documento |
+| --- | --- |
+| Una mappa di tutti i README, compresi i nomi originali | [Indice dei documenti](docs/INDEX.md) |
+| Il percorso di sviluppo e le decisioni tecniche | [Evoluzione del progetto](docs/PROJECT_EVOLUTION.md) |
+| **La baseline generica più recente documentata** (`resource_*`) | [Architettura LLM + MCP + risorse](docs/architecture/resource-llm-mcp-workflow.md) |
+| La transizione da GTE/Qdrant al MCP generico | [Integrazione GTE / resource MCP](docs/architecture/gte-qdrant-resource-mcp-integration.md) |
+| Il prototipo di orchestrazione con cicli e decisioni | [Orchestrazione iterativa v1](docs/orchestration/iterative-orchestration-v1-installation.md) |
+| Il protocollo cold-start e i benchmark RS | [Esperimenti di recommendation](docs/INDEX.md#3-esperimenti-di-raccomandazione) |
+| Avvertenze su leakage, metriche e confronto tra modelli | [Limiti e criteri sperimentali](docs/RESEARCH_LIMITATIONS.md) |
+| La precedente architettura `search_movies` / BGE-M3 | [README storico MovieLens](docs/history/movielens-bge-m3-legacy-architecture.md) |
 
-Il test successivo non ha mostrato un vantaggio complessivo del reranker: perciò
-`dense_v1` resta il profilo predefinito. Il reranker viene conservato come
-profilo sperimentale, utile per analisi per-query e future ablation.
+## Obiettivo e confini
 
-## Nuova ablation sperimentale su ~2.000 film
+Il lavoro esplora il **cold-start** e la raccomandazione fondata su evidenze recuperate: dai segnali presenti nella richiesta iniziale (o dai pochi rating esplicitamente rivelati) si cerca di recuperare e motivare risorse senza inventarne. L’orientamento della tesi è la **Cold-Case Orchestration**: non soltanto trovare risultati, ma decidere come organizzare il processo di retrieval, verifica e risposta.
 
-La baseline runtime `BASELINE` resta volutamente in **v1** (`canonical_title`) per non
-invalidare collection Qdrant, profili MCP e notebook 05-08 già verificati. La nuova
-rappresentazione con `tmdb_title` è esposta separatamente come `BASELINE_V2` e viene
-usata soltanto dall'esperimento finché non viene selezionata una nuova configurazione.
+Occorre però distinguere tre livelli:
 
-Il notebook `09_retrieval_ablation_2000_multimodel.ipynb` amplia il confronto a:
+- **Implementazione storica MovieLens:** modelli BGE-M3, Qdrant, MCP `search_movies`, workflow LLM iniziale.
+- **Baseline resource-oriented successiva (notebook 10–11):** encoder GTE multilingual, `ResourceDocument`, `RetrievalService`, tool MCP `search_resources` / `get_resources`, agenti `ResourcePlannerAgent` e `ResourceAnswerAgent`, workflow prevalentemente fisso.
+- **Evoluzione iterativa v1:** controller con Elicitation → [Retrieval → Validation → Decision] → Answer, con pause/chiarimenti, retry limitati e budget. La documentazione dichiara test offline/mock, **non** validazione end-to-end live.
 
-- BM25;
-- BGE-M3 dense e learned sparse;
-- fusioni RRF dense+sparse e BM25+dense+sparse;
-- Qwen3-Embedding-0.6B dense;
-- GTE multilingual base dense;
-- fusioni Qwen/GTE dense + BGE-M3 sparse;
-- reranker BGE, Qwen3 e GTE sui soli first-stage finalisti.
+**WhoTeach non è già integrato:** i README descrivono un `whoteach_template` e un’architettura trasferibile, ma servono schema reale delle risorse educative, ingestion/chunking, mapping, collection, filtri, prompt e valutazione sul nuovo corpus. Non basta sostituire il prompt.
 
-La valutazione principale usa query inglesi e conserva un controllo IT/EN appaiato.
-Il pooling è a due stadi: top-10 di tutti i sistemi per lo screening, poi top-30
-dei soli finalisti per candidate recall e reranking @10/@20/@30 verso un top-10 finale. I parametri
-dell'esperimento sono anche in `configs/retrieval_ablation_2000_v1.json`.
-
-La versione 0.4 aggiunge un primo workflow LLM provider-neutral:
+## Architettura di riferimento (baseline resource-oriented)
 
 ```text
-Planner → MCP/Qdrant → Answer
-              ↑
-       Critic opzionale
+Richiesta dell’utente
+       │
+       ▼
+ResourcePlannerAgent ──► piano strutturato (query, filtri, chiarimenti)
+       │
+       ▼
+Resource Workflow (Python: validazioni, stato, trace)
+       │
+       ▼
+MCPResourceToolGateway ──► search_resources / get_resources
+       │
+       ▼
+RetrievalService ──► GTE embeddings ──► Qdrant ──► candidati
+       │                                            │
+       │                               [reranker opzionale, lato server]
+       ▼
+ResourceAnswerAgent ──► risposta grounded nei resource_id recuperati
 ```
 
-Il grafo è governato da Python. Gemini o OpenAI producono esclusivamente output
-strutturati e non possono cambiare profilo di retrieval, collection o vincoli.
+Il **Planner non decide** modello di embedding, collection, dimensioni vettoriali o profilo tecnico: questa configurazione è nel servizio/registry lato server. Il reranker è uno scorer esterno a Qdrant e non un agente LLM. Nel profilo `fast` è disabilitato; in `quality` viene applicato ai candidati, con configurazione dichiarata nel JSON MCP.
 
-## Struttura
+### File di riferimento citati nei README
 
-```text
-notebooks/05_qdrant_dense_integration.ipynb  migrazione e equivalenza dense
-notebooks/06_qdrant_dense_reranking.ipynb    dense vs dense+reranker e top-n
-notebooks/07_mcp_server_validation.ipynb     contratto MCP e round-trip in-process
-notebooks/08_llm_mcp_integration.ipynb       Gemini/OpenAI, agenti e flusso end-to-end
-notebooks/09_retrieval_ablation_2000_multimodel.ipynb  benchmark retrieval/reranking esteso
-src/movie_rag/config.py                      configurazioni versionate
-src/movie_rag/documents.py                   documento D, payload e fingerprint
-src/movie_rag/embeddings.py                  adapter BGE-M3 e cache validata
-src/movie_rag/filters.py                     stessi filtri in Pandas e Qdrant
-src/movie_rag/qdrant_store.py                collection, upsert e dense retriever
-src/movie_rag/reranking.py                   adapter cross-encoder e pipeline completa
-src/movie_rag/mcp_profiles.py                profili tecnici versionati e whitelist
-src/movie_rag/mcp_contract.py                schemi pubblici input/output
-src/movie_rag/mcp_service.py                 logica applicativa indipendente dal trasporto
-src/movie_rag/mcp_server.py                  adapter MCP e tool read-only
-src/movie_rag/llm_contract.py                piani, risposte, stato e trace
-src/movie_rag/llm_config.py                  profili LLM/agenti/workflow
-src/movie_rag/llm_providers.py               adapter Gemini e OpenAI
-src/movie_rag/llm_agents.py                  Planner, Critic e Answer
-src/movie_rag/llm_mcp.py                     gateway tipizzato verso MCP
-src/movie_rag/llm_workflow.py                orchestratore deterministico
-src/movie_rag/validation.py                  equivalenza NumPy ↔ Qdrant
-src/movie_rag/evaluation.py                  NDCG, Recall e Precision
-src/movie_rag/experimental_retrieval.py        adapter e fusioni per la nuova ablation
-configs/baseline_manifest_v1.json            provenienza della baseline dense
-configs/reranker_manifest_v1.json            contratto del reranker sperimentale
-configs/retrieval_ablation_2000_v1.json         manifest del benchmark esteso
-configs/mcp_profiles_v1.json                 dense default e dense+rerank opzionale
-configs/mcp.env.example                      variabili d'ambiente commentate
-configs/mcp_client.example.json              configurazione client stdio di esempio
-docs/mcp_contract_v1.md                      contratto MCP motivato e completo
-docs/llm_orchestration_v1.md                 architettura LLM ed estensioni future
-tests/                                       test senza download dei modelli BGE
-CHANGELOG.md                                 modifiche per versione
-```
+| Livello | Sorgenti citate | Responsabilità |
+| --- | --- | --- |
+| Agenti | `resource_llm_agents.py` | Planner e Answer generici |
+| Stato/schemi | `resource_llm_models.py` | Contratti di input/output e trace |
+| Orchestrazione lineare | `resource_llm_workflow.py` | Ordine degli step e controllo del flusso |
+| Orchestrazione iterativa additiva | `resource_iterative_orchestration.py` | Controller, decisioni, limiti, pause/ripresa |
+| Gateway MCP | `resource_mcp_gateway.py` | Invocazione e validazione degli strumenti |
+| MCP e servizio | `resource_mcp.py`, `resource_service.py` | Tool pubblici e ricerca applicativa |
+| Ricerca vettoriale | `resource_qdrant.py`, `resource_embeddings.py` | Qdrant ed encoder |
+| Reranking | `resource_rerankers.py`, `resource_mcp_profiles.py` | Scorer / costruzione profili tecnici |
+| Domain adapter | `resource_domain.py`, `resource_adapters.py` | Filtri e mapping dal dominio a risorse generiche |
+| Configurazioni | `configs/llm_profiles_v1.json`, `resource_domains_v1.json`, `resource_mcp_profiles_v1.json` | LLM, dominio, profili tecnici |
 
-## Avvio rapido
+*I nomi sono ricavati dai documenti: alcuni file potrebbero non essere ancora presenti o avere varianti nel tuo checkout attuale.* Per i dettagli consulta [la mappa tecnica completa](docs/architecture/resource-llm-mcp-workflow.md).
 
-Dalla cartella radice:
+## Come si è arrivati qui
 
-```bash
-docker compose up -d
-python -m pip install -e ".[bge,mcp,test]"
-python -m pytest -q
-```
+| Fase | Notebook / documenti | Risultato o scopo |
+| --- | --- | --- |
+| Preparazione dati | `01_loading_visualization_ml-latest-small`, `02_tmdb_enrichment` | Esplorazione MovieLens e arricchimento dei metadati TMDb |
+| Valutazione retrieval offline | `03_audit_offline`, `04_retrieval_ablation_50_movies` | Giudizi, metriche e scelta iniziale della baseline dense |
+| Primo backend vettoriale | `05_qdrant_dense_integration` | BGE-M3 dense e verifica della corrispondenza del ranking su Qdrant |
+| Reranking e MCP specializzato | `06_qdrant_dense_reranking`, `07_mcp_server_validation` | Reranker sperimentale e tool `search_movies` |
+| Prima pipeline LLM | `08_llm_mcp_integration` | Planner/Answer per il dominio MovieLens |
+| Confronto retrieval esteso | `09_retrieval_ablation_2000_multimodel` | Modelli dense/sparse/fusioni/reranker su corpus maggiore |
+| Astrazione del dominio | `10_qdrant_gte_resource_mcp` | GTE, `ResourceDocument`, `search_resources` |
+| Workflow generico lineare | `11_resource_llm_mcp_integration_refactored` | Planner → MCP → Answer, stato e trace |
+| Estensione iterativa | `orchestration_iterative_v1` | Controller condizionale additivo, con test offline dichiarati |
+| Valutazione recommendation | `recommendation_01`, `02`, `04`, `05` | Protocollo cold-start, baseline e benchmark LLM/MCP su filone parallelo |
 
-Eseguire poi in ordine:
+I riferimenti ai notebook sono **nomi citati nella documentazione**, non una distinta verificata dei file disponibili. L’evoluzione completa è in [PROJECT_EVOLUTION](docs/PROJECT_EVOLUTION.md).
 
-1. `notebooks/05_qdrant_dense_integration.ipynb`;
-2. `notebooks/06_qdrant_dense_reranking.ipynb`;
-3. `notebooks/07_mcp_server_validation.ipynb`;
-4. `notebooks/08_llm_mcp_integration.ipynb`.
+## Esperimenti: filone indipendente dal numero dei notebook di sviluppo
 
-Il notebook 06 presume che la collection sia già popolata. Non la elimina, non
-ricalcola gli embedding dei documenti e non esegue un nuovo upsert.
+Il protocollo `rs_coldstart_v1` simula diversi livelli di informazioni disponibili all’utente: `k = 0, 1, 3, 5, 10` rating rivelati. I ranking sono valutati con due definizioni della ground truth: **A** (20 rating nascosti fissi) e **B** (tutti i rating non rivelati). La separazione degli input pubblici da `private_evaluation/` è parte del protocollo.
 
-Per il notebook 08 con Gemini:
+- [Recommendation 01: protocollo](docs/experiments/recommendation-01-coldstart-evaluation-protocol.md) — dataset, split, scenari, valutatore.
+- [Recommendation 02: Popularity / MF / GTE](docs/experiments/recommendation-02-popularity-mf-gte-baselines.md) — riferimenti non LLM e selezione degli iperparametri sulla validation.
+- [Recommendation 04: LLM → profilo semantico → GTE](docs/experiments/recommendation-04-llm-semantic-profile-gte.md) — confronto appaiato con GTE diretto.
+- [Recommendation 05: pipeline LLM/MCP lineare](docs/experiments/recommendation-05-linear-llm-mcp-benchmark.md) — le metriche principali sono sui **risultati del retrieval MCP**, non sul testo dell’Answer.
 
-```bash
-python -m pip install -e ".[bge,mcp,llm-gemini,test]"
-```
+**Nota sulla numerazione:** nei README consegnati non compare la documentazione di `recommendation_03`; non viene dedotto né rinominato un notebook mancante.
 
-Creare un `.env` locale non versionato:
+## Esecuzione e controlli prima di procedere
 
-```text
-GEMINI_API_KEY=...
-```
+Questo archivio contiene **solo documentazione**, non aggiunge o sostituisce notebook, sorgenti Python, configurazioni o dati. Evita di applicare alla cieca i comandi del [README legacy](docs/history/movielens-bge-m3-legacy-architecture.md) all’architettura più recente.
 
-Per installare anche OpenAI usare l’extra `llm`; i profili e i modelli sono in
-`configs/llm_profiles_v1.json`. Il package non carica `.env` implicitamente: lo
-fa in modo esplicito il notebook/applicazione.
+Per riprendere il lavoro in un checkout aggiornato:
 
-Qdrant è esposto dal Docker Compose solo su `127.0.0.1` e conserva i dati nel
-volume `qdrant_storage`.
+1. Verifica la presenza dei moduli `resource_*` e delle tre configurazioni JSON citate nella guida al [workflow generico](docs/architecture/resource-llm-mcp-workflow.md).
+2. Controlla `QDRANT_URL`, la collection GTE effettiva e la coerenza tra document representation, encoder e indice.
+3. Riproduci il notebook 10 e quindi il notebook 11, confrontando filtri, ID recuperati, grounding e trace.
+4. Per il reranker `quality`, verifica [la configurazione server-side](docs/retrieval/gte-reranker-mcp-profile-refactor.md) e il relativo blocco `reranker` nel JSON.
+5. Prima di usare la variante iterativa in live, esegui i test e controlla la compatibilità del suo gateway MCP, come riportato nella [guida all’orchestrazione](docs/orchestration/iterative-orchestration-v1-installation.md).
+6. Tratta i notebook `recommendation_*` come un filone sperimentale separato e mantieni validation/test, manifest e cache coerenti.
 
-## Dati salvati in Qdrant
+Non pubblicare `.env`, chiavi API, output che possono contenere richieste personali o cartelle di valutazione privata. I documenti sull’orchestrazione suggeriscono di escludere `outputs/orchestration_runs/` dal versionamento.
 
-Ogni punto usa `movieId` come ID e contiene:
+## Stato e limiti da non confondere
 
-- il named vector `dense`;
-- il documento completo `D_full_enriched`;
-- titoli, sinossi, persone e metadata per la futura risposta grounded;
-- campi normalizzati per filtri esatti su anno, durata, lingua, paese, genere e
-  contenuto adulto;
-- versione della rappresentazione, modello e fingerprint del catalogo.
+- **Non c’è evidenza nei soli README di una run live completa** della nuova orchestrazione iterativa sul tuo repository: sono dichiarati smoke test offline/mocks.
+- I test sintetici di `recommendation_02`, `04` e `05` **non sono metriche sperimentali reali** su MovieLens.
+- I vettori GTE indicizzati potrebbero includere tag e statistiche MovieLens relativi agli utenti di test, con rischio di **information leakage**.
+- Le metriche dei due protocolli A/B non sono direttamente confrontabili in valore assoluto quando cambia l’insieme di target rilevanti.
+- Per confrontare linear vs iterative serve allineare modelli, prompt di Answer, budget e input: nei documenti la loro generazione della risposta non è ancora identica.
+- Il controller iterativo **non** equivale a pianificazione libera di grafi di agenti: usa un ciclo con operazioni delimitate.
 
-Il cross-encoder non genera un vettore riutilizzabile. Il suo score dipende dalla
-coppia query-film e viene calcolato a runtime, quindi non viene salvato in Qdrant.
+Vedi [limiti sperimentali](docs/RESEARCH_LIMITATIONS.md) per i dettagli.
 
-## MCP: contratto stabile e profili interni
+## Nota sul materiale storico
 
-Il tool destinato alla LLM è volutamente piccolo:
-
-```text
-search_movies(query, filters, limit)
-get_movie_details(movie_ids)
-```
-
-Il client non passa modello, collection, flag di reranking, candidate pool o
-soglia. Il processo seleziona un profilo coerente tramite
-`MOVIE_RAG_PROFILE`; il default è `dense_v1`.
-
-Per confronti controllati per singola query è disponibile un terzo tool,
-disabilitato di default:
-
-```bash
-export MOVIE_RAG_ENABLE_EXPERIMENTAL_TOOLS=true
-```
-
-`search_movies_experimental` accetta soltanto un `profile_id` presente nel
-registry e override limitati alla chiamata corrente. Non esiste un tool
-`set_config`, quindi non c'è stato globale modificabile da una sessione MCP.
-
-Avvio locale con trasporto stdio:
-
-```bash
-export QDRANT_URL=http://localhost:6333
-export MOVIE_RAG_PROFILE=dense_v1
-movie-rag-mcp
-```
-
-Il modello viene caricato al primo uso. Profili con la stessa baseline dense
-condividono encoder e retriever nel processo, evitando di caricare BGE-M3 due
-volte durante i confronti.
-
-Il contratto completo, inclusi filtri, output, no-results ed errori, è in
-`docs/mcp_contract_v1.md`. I file `configs/mcp.env.example` e
-`configs/mcp_client.example.json` raccolgono le impostazioni senza incorporare
-segreti.
-
-## LLM: agenti logici e workflow applicativo
-
-Il contratto MCP non cambia con l’introduzione della LLM. Il Planner traduce la
-richiesta in `RetrievalPlan`, il codice chiama i tool MCP e l’Answer agent usa
-soltanto i film restituiti. Un controllo applicativo rifiuta ID inventati e
-titoli alterati.
-
-Il Critic è disponibile ma disabilitato nel workflow iniziale. Se attivato, può
-proporre soltanto una nuova query semantica e non può cambiare filtri; i retry
-sono limitati. Ogni ruolo può essere associato a Gemini, OpenAI o a un endpoint
-OpenAI-compatible tramite profili server-side, senza esporre la scelta nei tool.
-
-La spiegazione completa, le estensioni multi-agente e la matrice di valutazione
-sono in `docs/llm_orchestration_v1.md`.
-
-## Contratto interno del reranking
-
-Il confine applicativo interno usato dal profilo MCP reranked è:
-
-```python
-results = reranked_retriever.search(
-    query="un film malinconico su memoria e identità",
-    filters={"max_runtime": 120},
-    candidate_pool_size=20,
-    top_k=10,
-)
-```
-
-L'output conserva separatamente:
-
-- `rank`: rango finale;
-- `score` e `reranker_score`: score finale del cross-encoder;
-- `dense_rank`: posizione originale tra i candidati Qdrant;
-- `dense_score`: similarità cosine del primo stadio;
-- payload del film, incluso `movieId`, titolo e documento.
-
-I filtri sono applicati prima del dense retrieval. Il reranker può soltanto
-riordinare un sottoinsieme dei candidati già validi.
-
-## Criteri di accettazione
-
-### Notebook 05 — Qdrant dense
-
-Con ricerca `exact=True`, tutte le query devono mostrare:
-
-- `same_order=True`;
-- `overlap@10=1.0`;
-- differenze di score prossime alla precisione numerica.
-
-### Notebook 06 — reranker
-
-Il notebook verifica e salva:
-
-- appartenenza di ogni risultato finale al candidate pool dense;
-- ranghi contigui e tie-break stabile sul rango dense;
-- estensione incrementale del pool di giudizi con gli eventuali nuovi film;
-- candidate Recall@10/20/30;
-- NDCG@10, Recall@10 e Precision@10 dopo reranking;
-- delta NDCG per query rispetto alla baseline;
-- latenza separata di retrieval e reranking.
-
-Per questo confronto viene attivata anche la modalità di valutazione esplicita
-delle run vuote: una query prevista ma senza risultati riceve valori zero e non
-scompare silenziosamente dalla media. Il comportamento legacy resta disponibile
-per riprodurre i numeri già salvati nel notebook di ablation.
-
-I film nuovi introdotti dal candidate pool massimo vengono esportati in
-`artifacts/reranking_v1/reranker_annotation_extension.csv`. Finché resta una
-`relevance` vuota, il notebook non calcola metriche definitive: assegnarle
-implicitamente zero penalizzerebbe proprio il sistema appena aggiunto.
-
-La decisione corrente è mantenere dense senza reranking come comportamento
-normale. `dense_rerank_v1` usa candidate pool 20 per riprodurre l'esperimento;
-pool differenti possono essere provati soltanto con il tool sperimentale.
-
-## Nota sul notebook di ablation
-
-Il notebook originale non viene modificato, così gli output che hanno portato
-alla baseline restano immutati. Durante la review erano emersi due punti:
-
-- `from __future__ import annotations` non era nella posizione corretta per una
-  riesecuzione pulita;
-- la funzione dimostrativa `search_movies` passava al reranker candidati BM25,
-  benché la sezione parlasse di candidati hybrid.
-
-La nuova pipeline non copia quella funzione: passa esplicitamente al reranker i
-candidati dense restituiti da Qdrant, coerentemente con il sistema vincente.
-
-## Riferimenti
-
-- https://qdrant.tech/documentation/quickstart/
-- https://qdrant.tech/documentation/search/filtering/
-- https://huggingface.co/BAAI/bge-m3
-- https://huggingface.co/BAAI/bge-reranker-v2-m3
-- https://github.com/FlagOpen/FlagEmbedding
-- https://modelcontextprotocol.io/docs/develop/build-server
-- https://modelcontextprotocol.io/specification/2026-07-28/server/tools
-- https://ai.google.dev/gemini-api/docs/structured-output
-- https://ai.google.dev/gemini-api/docs/function-calling
-- https://developers.openai.com/api/docs/guides/structured-outputs
-- https://developers.openai.com/api/docs/guides/function-calling
+Il file originariamente chiamato semplicemente **`README.md`** è conservato integralmente, ma rinominato come [architettura storica MovieLens](docs/history/movielens-bge-m3-legacy-architecture.md). Non è stato eliminato: le sue configurazioni BGE-M3, i profili `dense_v1` e il contratto `search_movies` servono per capire e riprodurre le prime fasi del lavoro, ma **non** devono essere presentati come la baseline resource-oriented degli ultimi notebook.

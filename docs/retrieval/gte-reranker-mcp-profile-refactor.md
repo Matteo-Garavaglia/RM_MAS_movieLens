@@ -1,4 +1,9 @@
-# Refactor: reranker caricato dal profilo MCP
+# Configurazione del GTE reranker dal profilo MCP
+
+> **Provenienza:** `RERANKER_CONFIG_REFACTOR(1).md` · **Tipo:** documentazione tecnica del progetto.
+> **Collocazione nel percorso:** Refactor del registry: setup server-side e lazy loading per il profilo quality.
+> **Nota:** i contenuti tecnici sottostanti sono stati conservati dalla documentazione fornita;
+> non costituiscono una nuova verifica dell’esecuzione del codice nel repository corrente.
 
 Obiettivo: usare `movielens_gte_quality_v2` senza costruire o passare manualmente un reranker al registry.
 

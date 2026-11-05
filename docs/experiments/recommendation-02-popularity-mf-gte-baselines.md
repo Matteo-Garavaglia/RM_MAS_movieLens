@@ -1,4 +1,9 @@
-# Recommendation 02 — Popularity / MF / GTE
+# Recommendation 02: benchmark Popularity, MF e GTE diretto
+
+> **Provenienza:** `README_recommendation_02.md` · **Tipo:** documentazione tecnica del progetto.
+> **Collocazione nel percorso:** Baseline statistiche/collaborative/semantiche sul protocollo rs_coldstart_v1.
+> **Nota:** i contenuti tecnici sottostanti sono stati conservati dalla documentazione fornita;
+> non costituiscono una nuova verifica dell’esecuzione del codice nel repository corrente.
 
 ## Cosa contiene
 

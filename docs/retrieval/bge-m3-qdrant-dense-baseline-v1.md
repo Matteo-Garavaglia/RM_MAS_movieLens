@@ -1,4 +1,9 @@
-# Movie RAG — baseline dense e integrazione Qdrant
+# Baseline BGE-M3 dense su Qdrant (notebook 05)
+
+> **Provenienza:** `README_QDRANT.md` · **Tipo:** documentazione tecnica del progetto.
+> **Collocazione nel percorso:** Prima integrazione e verifica di equivalenza tra ranking NumPy e Qdrant.
+> **Nota:** i contenuti tecnici sottostanti sono stati conservati dalla documentazione fornita;
+> non costituiscono una nuova verifica dell’esecuzione del codice nel repository corrente.
 
 Questo pacchetto porta in Qdrant la configurazione risultata migliore nel notebook
 `04_retrieval_ablation_50_movies.ipynb`:

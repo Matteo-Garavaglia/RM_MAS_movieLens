@@ -1,4 +1,9 @@
-# Protocollo benchmark RS — istruzioni di integrazione
+# Recommendation 01: protocollo sperimentale cold-start A/B
+
+> **Provenienza:** `README_recommendation_protocol(1).md` · **Tipo:** documentazione tecnica del progetto.
+> **Collocazione nel percorso:** Split, scenari, rating visibili, ground truth nascosta e formato dei ranking.
+> **Nota:** i contenuti tecnici sottostanti sono stati conservati dalla documentazione fornita;
+> non costituiscono una nuova verifica dell’esecuzione del codice nel repository corrente.
 
 ## File
 `recommendation_01_protocol_10_20.ipynb` — notebook autonomo; non modifica né importa `src/movie_rag`, MCP, LLM o orchestratori.

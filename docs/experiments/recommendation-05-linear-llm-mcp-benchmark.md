@@ -1,4 +1,9 @@
-# Recommendation 05 — Benchmark della pipeline LLM/MCP lineare
+# Recommendation 05: benchmark della pipeline LLM/MCP lineare
+
+> **Provenienza:** `README_recommendation_05_pipeline_lineare_benchmark.md` · **Tipo:** documentazione tecnica del progetto.
+> **Collocazione nel percorso:** Benchmark del ranking restituito dal retrieval MCP; Answer analizzato separatamente.
+> **Nota:** i contenuti tecnici sottostanti sono stati conservati dalla documentazione fornita;
+> non costituiscono una nuova verifica dell’esecuzione del codice nel repository corrente.
 
 ## Contenuti
 

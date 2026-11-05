@@ -1,4 +1,9 @@
-# Orchestrazione iterativa v1 — installazione nel repository UNI MI
+# Orchestrazione iterativa v1: installazione, controlli e limiti
+
+> **Provenienza:** `README_INSTALLAZIONE(1).md` · **Tipo:** documentazione tecnica del progetto.
+> **Collocazione nel percorso:** Estensione additiva della baseline 11; smoke test offline/mocks, integrazione live da verificare.
+> **Nota:** i contenuti tecnici sottostanti sono stati conservati dalla documentazione fornita;
+> non costituiscono una nuova verifica dell’esecuzione del codice nel repository corrente.
 
 ## Ambito del pacchetto
 

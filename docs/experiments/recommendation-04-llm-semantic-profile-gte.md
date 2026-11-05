@@ -1,4 +1,9 @@
-# Fase 2A — `recommendation_04_llm_semantic_profile.ipynb`
+# Recommendation 04: profilo semantico LLM → GTE (fase 2A)
+
+> **Provenienza:** `README_recommendation_04_fase_2A(1).md` · **Tipo:** documentazione tecnica del progetto.
+> **Collocazione nel percorso:** Confronto LLM+GTE vs GTE diretto con rating controllati, cache e metriche appaiate.
+> **Nota:** i contenuti tecnici sottostanti sono stati conservati dalla documentazione fornita;
+> non costituiscono una nuova verifica dell’esecuzione del codice nel repository corrente.
 
 ## Obiettivo scientifico
 Confrontare **GTE diretto** (centroidi dei vettori di film già valutati) con **LLM → profilo semantico → GTE**, a parità dei film e rating rivelati, usando il protocollo `rs_coldstart_v1` (k=0,1,3,5,10), lo stesso catalogo dei notebook 01/02 e lo stesso scoring (α negativo già selezionato sulla validation dal notebook 02). **Nessuna conversazione tra due LLM in questa fase**, nessun reranking, nessun Critic/Answer e nessuna ricerca di nuovi iperparametri.
